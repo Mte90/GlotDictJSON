@@ -23,17 +23,19 @@ english = worksheet.col_values(1)
 english.pop(0)
 english.pop(1)
 english.pop(2)
+english.pop(3)
 #Italian translations
 italian = worksheet.col_values(5)
 italian.pop(0)
 italian.pop(1)
 italian.pop(2)
+italian.pop(3)
 #Italian comment column
 italian_comment = worksheet.col_values(8)
 italian_comment.pop(0)
 italian_comment.pop(1)
 italian_comment.pop(2)
-
+italian_comment.pop(3)
 glotdict = {}
 
 #Convert that columns in json specific for GlotDict
@@ -42,7 +44,7 @@ for engword in english:
     i = i + 1
     if engword == '':
         break
-    glotdict[engword] = { "pos": '', "translation": italian[i], "comment": italian_comment[i] }
+    glotdict[engword] = { "pos": '', "translation": italian[i - 1], "comment": italian_comment[i - 1] }
 #Save that information
 with open('it_IT.json', 'w') as outfile:
     json.dump(glotdict, outfile, indent=4, sort_keys=True)

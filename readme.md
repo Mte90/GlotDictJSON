@@ -12,8 +12,9 @@ pip install gspread
 
 ##Execute
 
-```./convert.py```
-
+```
+./convert.py
+```
 
 ##Generate the OAuth key
 Follow the instructions on [http://gspread.readthedocs.org/en/latest/oauth2.html](http://gspread.readthedocs.org/en/latest/oauth2.html), rename the file in credentials.json and put in the folder.   

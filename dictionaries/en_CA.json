@@ -1,0 +1,85 @@
+{
+    "canceling": {
+        "comment": "",
+        "pos": "",
+        "translation": "cancelling"
+    }
+,
+    "catalog": {
+        "comment": "",
+        "pos": "",
+        "translation": "catalogue"
+    }
+,
+    "center": {
+        "comment": "",
+        "pos": "",
+        "translation": "centre"
+    }
+,
+    "centered": {
+        "comment": "",
+        "pos": "",
+        "translation": "centred"
+    }
+,
+    "color": {
+        "comment": "",
+        "pos": "",
+        "translation": "colour"
+    }
+,
+    "dialog": {
+        "comment": "",
+        "pos": "",
+        "translation": "dialogue"
+    }
+,
+    "favorite": {
+        "comment": "",
+        "pos": "",
+        "translation": "favourite"
+    }
+,
+    "favorited": {
+        "comment": "",
+        "pos": "",
+        "translation": "favourited"
+    }
+,
+    "favorites": {
+        "comment": "",
+        "pos": "",
+        "translation": "favourites"
+    }
+,
+    "gray": {
+        "comment": "",
+        "pos": "",
+        "translation": "grey"
+    }
+,
+    "huh?": {
+        "comment": "For the cheating messages.",
+        "pos": "",
+        "translation": "eh?"
+    }
+,
+    "license": {
+        "comment": "",
+        "pos": "",
+        "translation": "licence"
+    }
+,
+    "neighbor": {
+        "comment": "",
+        "pos": "",
+        "translation": "neighbour"
+    }
+,
+    "traveling": {
+        "comment": "",
+        "pos": "",
+        "translation": "travelling"
+    }
+}

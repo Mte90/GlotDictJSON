@@ -14,6 +14,7 @@ go_download_glotdict('lt_LT', "https://translate.wordpress.org/projects/wp/dev/l
 go_download_glotdict('ja', "https://translate.wordpress.org/projects/wp/dev/ja/default/glossary");
 go_download_glotdict('nl_NL', "https://translate.wordpress.org/projects/wp/dev/nl/default/glossary");
 go_download_glotdict('pt_BR', "https://translate.wordpress.org/projects/wp/dev/pt-br/default/glossary");
+go_download_glotdict('ro_RO', "https://translate.wordpress.org/projects/wp/dev/ro/default/glossary");
 go_download_glotdict('sk_SK', "https://translate.wordpress.org/projects/wp/dev/sk/default/glossary");
 go_download_glotdict('sv_SE', "https://translate.wordpress.org/projects/wp/dev/sv/default/glossary");
 go_download_glotdict('th', "https://translate.wordpress.org/projects/wp/dev/th/default/glossary");

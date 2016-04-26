@@ -48,12 +48,12 @@ function go_download_glotdict($locale, $url) {
             // don't override if there is already a translation.
             if( false === array_key_exists( $values[0], $output ) ) {
                 // construct translation
-                $output[ $values[0] ] = array( "comment" => $values[3], "pos" => $values[2], "translation" => $values[1] );
+                $output[ $values[0] ] = array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] );
             }
         }
 
         // write to locale json file
-        file_put_contents( "./dictionaries/" . $locale . ".json" , json_encode( $output ) );
+        file_put_contents( "./dictionaries/" . $locale . ".json" , json_encode( $output, JSON_PRETTY_PRINT ) );
 
         // log info about locale
         echo count( $lines ) . ' Glossary terms' . "\n";

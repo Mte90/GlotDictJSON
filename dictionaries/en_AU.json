@@ -1,1 +1,642 @@
-{"analyze":{"comment":"","pos":"verb","translation":"analyse"},"analyzed":{"comment":"","pos":"verb","translation":"analysed"},"analyzing":{"comment":"","pos":"verb","translation":"analysing"},"anonymize":{"comment":"","pos":"verb","translation":"anonymise"},"apologize":{"comment":"","pos":"verb","translation":"apologise"},"authorization":{"comment":"","pos":"noun","translation":"authorisation"},"authorize":{"comment":"","pos":"verb","translation":"authorise"},"authorized":{"comment":"","pos":"verb","translation":"authorised"},"back-end":{"comment":"","pos":"noun","translation":"back end"},"backend":{"comment":"","pos":"noun","translation":"back end"},"behavior":{"comment":"","pos":"noun","translation":"behaviour"},"canceled":{"comment":"","pos":"verb","translation":"cancelled"},"canceling":{"comment":"","pos":"verb","translation":"cancelling"},"capitalize":{"comment":"","pos":"verb","translation":"capitalise"},"capitalized":{"comment":"","pos":"verb","translation":"capitalised"},"catalog":{"comment":"","pos":"verb","translation":"catalogue"},"categorize":{"comment":"","pos":"verb","translation":"categorise"},"categorized":{"comment":"","pos":"verb","translation":"categorised"},"center":{"comment":"","pos":"verb","translation":"centre"},"centered":{"comment":"","pos":"verb","translation":"centred"},"centering":{"comment":"","pos":"verb","translation":"centring"},"centimeter":{"comment":"","pos":"noun","translation":"centimetre"},"centimeters":{"comment":"","pos":"noun","translation":"centimetres"},"centralize":{"comment":"","pos":"verb","translation":"centralise"},"centralized":{"comment":"","pos":"verb","translation":"centralised"},"color":{"comment":"","pos":"noun","translation":"colour"},"customizable":{"comment":"","pos":"verb","translation":"customisable"},"customization":{"comment":"","pos":"verb","translation":"customisation"},"customizations":{"comment":"","pos":"verb","translation":"customisations"},"customize":{"comment":"","pos":"verb","translation":"customise"},"customized":{"comment":"","pos":"verb","translation":"customised"},"customizer":{"comment":"","pos":"verb","translation":"customiser"},"customizing":{"comment":"","pos":"verb","translation":"customising"},"dialog":{"comment":"","pos":"verb","translation":"dialogue"},"digitize":{"comment":"","pos":"verb","translation":"digitise"},"digitized":{"comment":"","pos":"verb","translation":"digitised"},"e-mail":{"comment":"","pos":"noun","translation":"email"},"favor":{"comment":"","pos":"verb","translation":"favour"},"favorite":{"comment":"","pos":"verb","translation":"favourite"},"favorited":{"comment":"","pos":"verb","translation":"favourited"},"favorites":{"comment":"","pos":"verb","translation":"favourites"},"finalize":{"comment":"","pos":"verb","translation":"finalise"},"finalized":{"comment":"","pos":"verb","translation":"finalised"},"front-end":{"comment":"","pos":"noun","translation":"front end"},"frontend":{"comment":"","pos":"noun","translation":"front end"},"honor":{"comment":"","pos":"verb","translation":"honour"},"honored":{"comment":"","pos":"verb","translation":"honoured"},"Howdy!":{"comment":"","pos":"noun","translation":"G'day!"},"initialize":{"comment":"","pos":"verb","translation":"initialise"},"initialized":{"comment":"","pos":"verb","translation":"initialised"},"initializing":{"comment":"","pos":"verb","translation":"initialising"},"internationalization":{"comment":"","pos":"verb","translation":"internationalisation"},"internationalize":{"comment":"","pos":"verb","translation":"internationalise"},"internationalized":{"comment":"","pos":"verb","translation":"internationalised"},"itemize":{"comment":"","pos":"verb","translation":"itemise"},"itemized":{"comment":"","pos":"verb","translation":"itemised"},"license":{"comment":"","pos":"noun","translation":"licence"},"localization":{"comment":"","pos":"verb","translation":"localisation"},"localize":{"comment":"","pos":"verb","translation":"localise"},"localized":{"comment":"","pos":"verb","translation":"localised"},"maximize":{"comment":"","pos":"verb","translation":"maximise"},"maximized":{"comment":"","pos":"verb","translation":"maximised"},"meter":{"comment":"unit of measure","pos":"noun","translation":"metre"},"meters":{"comment":"unit of measure","pos":"noun","translation":"metres"},"millimeter":{"comment":"","pos":"noun","translation":"millimetre"},"millimeters":{"comment":"","pos":"noun","translation":"millimetres"},"minimize":{"comment":"","pos":"verb","translation":"minimise"},"minimized":{"comment":"","pos":"verb","translation":"minimised"},"Modernize":{"comment":"","pos":"verb","translation":"Modernise"},"Modernized":{"comment":"","pos":"verb","translation":"Modernised"},"neighbor":{"comment":"","pos":"verb","translation":"neighbour"},"normalize":{"comment":"","pos":"verb","translation":"normalise"},"optimization":{"comment":"","pos":"verb","translation":"optimisation"},"optimize":{"comment":"","pos":"verb","translation":"optimise"},"optimized":{"comment":"","pos":"verb","translation":"optimised"},"optimizing":{"comment":"","pos":"verb","translation":"optimising"},"organization":{"comment":"","pos":"verb","translation":"organisation"},"organize":{"comment":"","pos":"verb","translation":"organise"},"organized":{"comment":"","pos":"verb","translation":"organised"},"organizer":{"comment":"","pos":"verb","translation":"organiser"},"organizers":{"comment":"","pos":"verb","translation":"organisers"},"organizing":{"comment":"","pos":"verb","translation":"organising"},"personalization":{"comment":"","pos":"noun","translation":"personalisation"},"personalize":{"comment":"","pos":"verb","translation":"personalise"},"personalized":{"comment":"","pos":"verb","translation":"personalised"},"prioritization":{"comment":"","pos":"verb","translation":"prioritisation"},"publicize":{"comment":"","pos":"verb","translation":"publicise"},"publicized":{"comment":"","pos":"verb","translation":"publicised"},"publicizing":{"comment":"","pos":"verb","translation":"publicising"},"randomize":{"comment":"","pos":"verb","translation":"randomise"},"randomizing":{"comment":"","pos":"verb","translation":"randomising"},"realize":{"comment":"","pos":"verb","translation":"realise"},"realized":{"comment":"","pos":"verb","translation":"realised"},"recognize":{"comment":"","pos":"verb","translation":"recognise"},"recognized":{"comment":"","pos":"verb","translation":"recognised"},"recognizing":{"comment":"","pos":"verb","translation":"recognising"},"reorganize":{"comment":"","pos":"verb","translation":"reorganise"},"reorganized":{"comment":"","pos":"verb","translation":"reorganised"},"sanitization":{"comment":"","pos":"verb","translation":"sanitisation"},"sanitize":{"comment":"","pos":"verb","translation":"sanitise"},"sanitized":{"comment":"","pos":"verb","translation":"sanitised"},"sanitizing":{"comment":"","pos":"verb","translation":"sanitising"},"serialize":{"comment":"","pos":"verb","translation":"serialise"},"serialized":{"comment":"","pos":"verb","translation":"serialised"},"specialize":{"comment":"","pos":"verb","translation":"specialise"},"specialized":{"comment":"","pos":"verb","translation":"specialised"},"specializes":{"comment":"","pos":"verb","translation":"specialises"},"specializing":{"comment":"","pos":"verb","translation":"specialising"},"standardize":{"comment":"","pos":"verb","translation":"standardise"},"standardized":{"comment":"","pos":"noun","translation":"standardised"},"symbolize":{"comment":"","pos":"verb","translation":"symbolise"},"symbolizes":{"comment":"","pos":"verb","translation":"symbolises"},"synchronization":{"comment":"","pos":"verb","translation":"synchronisation"},"synchronize":{"comment":"","pos":"verb","translation":"synchronise"},"synchronized":{"comment":"","pos":"verb","translation":"synchronised"},"synchronizing":{"comment":"","pos":"conjunction","translation":"synchronising"},"traveling":{"comment":"","pos":"verb","translation":"travelling"},"unauthorized":{"comment":"","pos":"verb","translation":"unauthorised"},"uncategorized":{"comment":"","pos":"verb","translation":"uncategorised"},"unsavory":{"comment":"","pos":"adjective","translation":"unsavoury"},"utilize":{"comment":"","pos":"verb","translation":"utilise"},"utilized":{"comment":"","pos":"verb","translation":"utilised"},"utilizing":{"comment":"","pos":"verb","translation":"utilising"},"visualization":{"comment":"","pos":"noun","translation":"visualisation"},"visualize":{"comment":"","pos":"verb","translation":"visualise"},"visualized":{"comment":"","pos":"verb","translation":"visualised"},"visualizing":{"comment":"","pos":"verb","translation":"visualising"},"widgetized":{"comment":"","pos":"verb","translation":"widgetised"}}
+{
+    "analyze": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "analyse"
+    },
+    "analyzed": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "analysed"
+    },
+    "analyzing": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "analysing"
+    },
+    "anonymize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "anonymise"
+    },
+    "apologize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "apologise"
+    },
+    "authorization": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "authorisation"
+    },
+    "authorize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "authorise"
+    },
+    "authorized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "authorised"
+    },
+    "back-end": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "back end"
+    },
+    "backend": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "back end"
+    },
+    "behavior": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "behaviour"
+    },
+    "canceled": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "cancelled"
+    },
+    "canceling": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "cancelling"
+    },
+    "capitalize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "capitalise"
+    },
+    "capitalized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "capitalised"
+    },
+    "catalog": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "catalogue"
+    },
+    "categorize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "categorise"
+    },
+    "categorized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "categorised"
+    },
+    "center": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "centre"
+    },
+    "centered": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "centred"
+    },
+    "centering": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "centring"
+    },
+    "centimeter": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "centimetre"
+    },
+    "centimeters": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "centimetres"
+    },
+    "centralize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "centralise"
+    },
+    "centralized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "centralised"
+    },
+    "color": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "colour"
+    },
+    "customizable": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "customisable"
+    },
+    "customization": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "customisation"
+    },
+    "customizations": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "customisations"
+    },
+    "customize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "customise"
+    },
+    "customized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "customised"
+    },
+    "customizer": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "customiser"
+    },
+    "customizing": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "customising"
+    },
+    "dialog": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "dialogue"
+    },
+    "digitize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "digitise"
+    },
+    "digitized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "digitised"
+    },
+    "e-mail": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "email"
+    },
+    "favor": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "favour"
+    },
+    "favorite": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "favourite"
+    },
+    "favorited": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "favourited"
+    },
+    "favorites": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "favourites"
+    },
+    "finalize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "finalise"
+    },
+    "finalized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "finalised"
+    },
+    "front-end": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "front end"
+    },
+    "frontend": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "front end"
+    },
+    "honor": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "honour"
+    },
+    "honored": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "honoured"
+    },
+    "Howdy!": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "G'day!"
+    },
+    "initialize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "initialise"
+    },
+    "initialized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "initialised"
+    },
+    "initializing": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "initialising"
+    },
+    "internationalization": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "internationalisation"
+    },
+    "internationalize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "internationalise"
+    },
+    "internationalized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "internationalised"
+    },
+    "itemize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "itemise"
+    },
+    "itemized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "itemised"
+    },
+    "license": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "licence"
+    },
+    "localization": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "localisation"
+    },
+    "localize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "localise"
+    },
+    "localized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "localised"
+    },
+    "maximize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "maximise"
+    },
+    "maximized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "maximised"
+    },
+    "meter": {
+        "comment": "unit of measure",
+        "pos": "noun",
+        "translation": "metre"
+    },
+    "meters": {
+        "comment": "unit of measure",
+        "pos": "noun",
+        "translation": "metres"
+    },
+    "millimeter": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "millimetre"
+    },
+    "millimeters": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "millimetres"
+    },
+    "minimize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "minimise"
+    },
+    "minimized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "minimised"
+    },
+    "Modernize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "Modernise"
+    },
+    "Modernized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "Modernised"
+    },
+    "neighbor": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "neighbour"
+    },
+    "normalize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "normalise"
+    },
+    "optimization": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "optimisation"
+    },
+    "optimize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "optimise"
+    },
+    "optimized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "optimised"
+    },
+    "optimizing": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "optimising"
+    },
+    "organization": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "organisation"
+    },
+    "organize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "organise"
+    },
+    "organized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "organised"
+    },
+    "organizer": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "organiser"
+    },
+    "organizers": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "organisers"
+    },
+    "organizing": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "organising"
+    },
+    "personalization": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "personalisation"
+    },
+    "personalize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "personalise"
+    },
+    "personalized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "personalised"
+    },
+    "prioritization": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "prioritisation"
+    },
+    "publicize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "publicise"
+    },
+    "publicized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "publicised"
+    },
+    "publicizing": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "publicising"
+    },
+    "randomize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "randomise"
+    },
+    "randomizing": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "randomising"
+    },
+    "realize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "realise"
+    },
+    "realized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "realised"
+    },
+    "recognize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "recognise"
+    },
+    "recognized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "recognised"
+    },
+    "recognizing": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "recognising"
+    },
+    "reorganize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "reorganise"
+    },
+    "reorganized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "reorganised"
+    },
+    "sanitization": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "sanitisation"
+    },
+    "sanitize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "sanitise"
+    },
+    "sanitized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "sanitised"
+    },
+    "sanitizing": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "sanitising"
+    },
+    "serialize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "serialise"
+    },
+    "serialized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "serialised"
+    },
+    "specialize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "specialise"
+    },
+    "specialized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "specialised"
+    },
+    "specializes": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "specialises"
+    },
+    "specializing": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "specialising"
+    },
+    "standardize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "standardise"
+    },
+    "standardized": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "standardised"
+    },
+    "symbolize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "symbolise"
+    },
+    "symbolizes": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "symbolises"
+    },
+    "synchronization": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "synchronisation"
+    },
+    "synchronize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "synchronise"
+    },
+    "synchronized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "synchronised"
+    },
+    "synchronizing": {
+        "comment": "",
+        "pos": "conjunction",
+        "translation": "synchronising"
+    },
+    "traveling": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "travelling"
+    },
+    "unauthorized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "unauthorised"
+    },
+    "uncategorized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "uncategorised"
+    },
+    "unsavory": {
+        "comment": "",
+        "pos": "adjective",
+        "translation": "unsavoury"
+    },
+    "utilize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "utilise"
+    },
+    "utilized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "utilised"
+    },
+    "utilizing": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "utilising"
+    },
+    "visualization": {
+        "comment": "",
+        "pos": "noun",
+        "translation": "visualisation"
+    },
+    "visualize": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "visualise"
+    },
+    "visualized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "visualised"
+    },
+    "visualizing": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "visualising"
+    },
+    "widgetized": {
+        "comment": "",
+        "pos": "verb",
+        "translation": "widgetised"
+    }
+}

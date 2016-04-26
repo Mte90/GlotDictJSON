@@ -19,6 +19,7 @@ go_download_glotdict('ro_RO', "https://translate.wordpress.org/projects/wp/dev/r
 //go_download_glotdict('sk_SK', "https://translate.wordpress.org/projects/wp/dev/sk/default/glossary");
 go_download_glotdict('sv_SE', "https://translate.wordpress.org/projects/wp/dev/sv/default/glossary");
 go_download_glotdict('th', "https://translate.wordpress.org/projects/wp/dev/th/default/glossary");
+go_download_glotdict('tr_TR', "https://translate.wordpress.org/projects/wp/dev/tr/default/glossary");
 
 
 function go_download_glotdict($locale, $url) {

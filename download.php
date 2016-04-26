@@ -23,36 +23,41 @@ go_download_glotdict('tr_TR', "https://translate.wordpress.org/projects/wp/dev/t
 
 
 function go_download_glotdict($locale, $url) {
-        $response = array();
-        $lines = '';
-        echo 'Download ' . $locale . "...\n";
-        $doc1 = file_get_contents($url);
-        if ($doc1 !== false) {
-            $doc = new DOMDocument;
-            @$doc->loadHTML($doc1);
-            $doc->preserveWhiteSpace = false;
-            $classname = 'view';
-            $xpath = new DOMXPath($doc);
-            $rows = $xpath->query("//*[@class='" . $classname . "']");
-            if ($rows->length > 2) {
-                $firstrow = true;
-                foreach ($rows as $row) {
-                    if ($firstrow) {
-                        $firstrow = false;
-                    } else {
-                        $lines = $lines . ',';
-                    }
-                    $all_info = $row->getElementsByTagName('td');
-                    $line = array();
-                    $line[$all_info->item(0)->nodeValue] = array('comment' => $all_info->item(3)->nodeValue, 'pos' => '', 'translation' => $all_info->item(2)->nodeValue);
-                    $lines = $lines . substr(json_encode($line, JSON_PRETTY_PRINT),1,-1);
-                }
-                file_put_contents('./dictionaries/' . $locale.'.json' , '{' . $lines . '}');
-                echo $rows->length . ' Glossary terms' . "\n";
-            } else {
-                echo ' No rows found on page ' . $url . "\n";
+    $output = array();
+
+    // be sure that the $url ends with a trailing slash
+    if ( substr( $url, -1 ) != "/" ) {
+        $url .= "/";
+    }
+
+    // add "-export" to $url for CSV export
+    $url .= "-export";
+
+    echo "Processing " . $locale . "...\n";
+    $file = file_get_contents( $url );
+    
+    if ( $file !== false ) {
+        $lines = explode( "\n", trim( $file ) );
+
+        // get rid of first line, because it's information that we don't need
+        array_shift( $lines );
+        
+        // iterating each line
+        foreach ( $lines as $csv ) {
+            $values = str_getcsv( $csv );
+            // don't override if there is already a translation.
+            if( false === array_key_exists( $values[0], $output ) ) {
+                // construct translation
+                $output[ $values[0] ] = array( "comment" => $values[3], "pos" => $values[2], "translation" => $values[1] );
             }
-        } else {
-            echo 'Page ' . $url . ' not responding...' . "\n";
         }
+
+        // write to locale json file
+        file_put_contents( "./dictionaries/" . $locale . ".json" , json_encode( $output ) );
+
+        // log info about locale
+        echo count( $lines ) . ' Glossary terms' . "\n";
+    } else {
+        echo 'Page ' . $url . ' not responding...' . "\n";
+    }
 }

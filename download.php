@@ -2,6 +2,7 @@
 <?php
 echo 'Download it_IT' . "...\n";
 echo shell_exec('./convert-it_IT.py');
+go_download_glotdict('ast', "https://translate.wordpress.org/projects/wp/dev/ast/default/glossary");
 go_download_glotdict('bg_BG', "https://translate.wordpress.org/projects/wp/dev/bg/default/glossary");
 go_download_glotdict('de_DE', "https://translate.wordpress.org/projects/wp/dev/de/default/glossary");
 go_download_glotdict('en_AU', "https://translate.wordpress.org/projects/wp/dev/en-au/default/glossary");

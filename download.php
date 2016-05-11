@@ -50,6 +50,8 @@ function go_download_glotdict($locale, $url) {
             if( false === array_key_exists( $values[0], $output ) ) {
                 // construct translation
                 $output[ $values[0] ] = array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] );
+            } else {
+                $output[ $values[0] ] = array($output[ $values[0] ], array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] ));
             }
         }
 

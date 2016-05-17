@@ -12,8 +12,8 @@ go_download_glotdict('fi', "https://translate.wordpress.org/projects/wp/dev/fi/d
 go_download_glotdict('fr_FR', "https://translate.wordpress.org/projects/wp/dev/fr/default/glossary");
 go_download_glotdict('he_IL', "https://translate.wordpress.org/projects/wp/dev/he/default/glossary");
 go_download_glotdict('hi_IN', "https://translate.wordpress.org/projects/wp/dev/hi/default/glossary");
-go_download_glotdict('lt_LT', "https://translate.wordpress.org/projects/wp/dev/lt/default/glossary");
 go_download_glotdict('ja', "https://translate.wordpress.org/projects/wp/dev/ja/default/glossary");
+go_download_glotdict('lt_LT', "https://translate.wordpress.org/projects/wp/dev/lt/default/glossary");
 go_download_glotdict('nl_NL', "https://translate.wordpress.org/projects/wp/dev/nl/default/glossary");
 go_download_glotdict('pt_BR', "https://translate.wordpress.org/projects/wp/dev/pt-br/default/glossary");
 go_download_glotdict('ro_RO', "https://translate.wordpress.org/projects/wp/dev/ro/default/glossary");
@@ -49,9 +49,9 @@ function go_download_glotdict($locale, $url) {
             // don't override if there is already a translation.
             if( false === array_key_exists( $values[0], $output ) ) {
                 // construct translation
-                $output[ $values[0] ] = array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] );
+                $output[ $values[0] ][0] = array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] );
             } else {
-                $output[ $values[0] ] = array($output[ $values[0] ], array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] ));
+                array_push($output[ $values[0] ], array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] ));
             }
         }
 

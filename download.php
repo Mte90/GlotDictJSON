@@ -47,6 +47,9 @@ function go_download_glotdict($locale, $url) {
         foreach ( $lines as $csv ) {
             $values = str_getcsv( $csv );
             // don't override if there is already a translation.
+            if(empty(@$values[3]) && empty(@$values[2]) && empty(@$values[1])) {
+                continue;
+            }
             if( false === array_key_exists( $values[0], $output ) ) {
                 // construct translation
                 $output[ $values[0] ][0] = array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] );

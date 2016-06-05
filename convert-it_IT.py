@@ -44,6 +44,8 @@ for engword in english:
     i = i + 1
     if engword == '':
         break
+    if italian_comment[i - 1]=='' and italian[i - 1]=='':
+        continue
     glotdict[engword] = { "pos": '', "translation": italian[i - 1], "comment": italian_comment[i - 1] }
 #Save that information
 with open('./dictionaries/it_IT.json', 'w') as outfile:

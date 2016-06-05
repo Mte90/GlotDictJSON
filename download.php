@@ -1,7 +1,6 @@
 #!/usr/bin/php
 <?php
-echo 'Download it_IT' . "...\n";
-echo shell_exec('./convert-it_IT.py');
+
 go_download_glotdict('ast', "https://translate.wordpress.org/projects/wp/dev/ast/default/glossary");
 go_download_glotdict('bg_BG', "https://translate.wordpress.org/projects/wp/dev/bg/default/glossary");
 go_download_glotdict('de_DE', "https://translate.wordpress.org/projects/wp/dev/de/default/glossary");
@@ -12,6 +11,7 @@ go_download_glotdict('fi', "https://translate.wordpress.org/projects/wp/dev/fi/d
 go_download_glotdict('fr_FR', "https://translate.wordpress.org/projects/wp/dev/fr/default/glossary");
 go_download_glotdict('he_IL', "https://translate.wordpress.org/projects/wp/dev/he/default/glossary");
 go_download_glotdict('hi_IN', "https://translate.wordpress.org/projects/wp/dev/hi/default/glossary");
+go_download_glotdict('it_IT', "https://translate.wordpress.org/projects/wp/dev/it/default/glossary");
 go_download_glotdict('ja', "https://translate.wordpress.org/projects/wp/dev/ja/default/glossary");
 go_download_glotdict('lt_LT', "https://translate.wordpress.org/projects/wp/dev/lt/default/glossary");
 go_download_glotdict('nl_NL', "https://translate.wordpress.org/projects/wp/dev/nl/default/glossary");

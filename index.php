@@ -4,7 +4,7 @@
 define('GLOTDICT_GLOSSARY','1.0.0');
 $path = './dictionaries/'. GLOTDICT_GLOSSARY.'/';
 
-echo "Processing " . GLOTDICT_GLOSSARY . "\n";
+echo "Processing " . GLOTDICT_GLOSSARY . "<br>";
 
 if( !file_exists($path) ) {
     mkdir($path, 0700);
@@ -57,9 +57,6 @@ function go_download_glotdict($locale, $url) {
         foreach ( $lines as $csv ) {
             $values = str_getcsv( $csv );
             // don't override if there is already a translation.
-            if(empty(@$values[3]) && empty(@$values[2]) && empty(@$values[1])) {
-                continue;
-            }
             if( false === array_key_exists( $values[0], $output ) ) {
                 // construct translation
                 $output[ $values[0] ][0] = array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] );
@@ -72,8 +69,8 @@ function go_download_glotdict($locale, $url) {
         file_put_contents( $path . $locale . ".json" , json_encode( $output, JSON_PRETTY_PRINT ) );
 
         // log info about locale
-        echo count( $lines ) . ' Glossary terms' . "\n";
+        echo count( $lines ) . ' Glossary terms<br>';
     } else {
-        echo 'Page ' . $url . ' not responding...' . "\n";
+        echo 'Page ' . $url . ' not responding...<br>';
     }
 }

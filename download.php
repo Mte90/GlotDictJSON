@@ -1,6 +1,15 @@
 #!/usr/bin/php
 <?php
 
+define('GLOTDICT_GLOSSARY','1.0.0');
+$path = './dictionaries/'. GLOTDICT_GLOSSARY.'/';
+
+echo "Processing " . GLOTDICT_GLOSSARY . "\n";
+
+if( !file_exists($path) ) {
+    mkdir($path, 0700);
+}
+
 go_download_glotdict('ast', "https://translate.wordpress.org/projects/wp/dev/ast/default/glossary");
 go_download_glotdict('bg_BG', "https://translate.wordpress.org/projects/wp/dev/bg/default/glossary");
 go_download_glotdict('de_DE', "https://translate.wordpress.org/projects/wp/dev/de/default/glossary");
@@ -24,6 +33,7 @@ go_download_glotdict('tr_TR', "https://translate.wordpress.org/projects/wp/dev/t
 
 
 function go_download_glotdict($locale, $url) {
+    global $path;
     $output = array();
 
     // be sure that the $url ends with a trailing slash
@@ -59,7 +69,7 @@ function go_download_glotdict($locale, $url) {
         }
 
         // write to locale json file
-        file_put_contents( "./dictionaries/" . $locale . ".json" , json_encode( $output, JSON_PRETTY_PRINT ) );
+        file_put_contents( $path . $locale . ".json" , json_encode( $output, JSON_PRETTY_PRINT ) );
 
         // log info about locale
         echo count( $lines ) . ' Glossary terms' . "\n";

@@ -81,7 +81,7 @@ function go_download_glotdict($locale, $url) {
         if($old_json !== $output) {
             // write to locale json file
             file_put_contents( $path . $locale . ".json" , json_encode( $output, JSON_PRETTY_PRINT ) );
-            $time = time();
+            $time = @date('d/m/Y');
         }
 
         // log info about locale

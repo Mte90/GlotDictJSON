@@ -38,7 +38,7 @@ $glossaries['tr_TR'] = go_download_glotdict('tr_TR', "https://translate.wordpres
 file_put_contents( $glossary_file_list , json_encode( $glossaries, JSON_PRETTY_PRINT ) );
 
 function go_download_glotdict($locale, $url) {
-    global $path, $glossary_file_list, $glossary_list;
+    global $path, $glossary_list;
     $output = array();
 
     // be sure that the $url ends with a trailing slash

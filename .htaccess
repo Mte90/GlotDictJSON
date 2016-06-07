@@ -1,0 +1,4 @@
+Header set Content-Security-Policy: "default-src *"
+Header set X-Content-Security-Policy: "default-src *"
+Header set X-WebKit-CSP: "default-src *"
+Header set Access-Control-Allow-Origin "*"

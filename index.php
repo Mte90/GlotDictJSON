@@ -16,6 +16,7 @@ $glossary_list = json_decode(trim(file_get_contents($glossary_file_list)), true)
 $glossaries = array();
 $glossaries['ast'] = go_download_glotdict('ast', "https://translate.wordpress.org/projects/wp/dev/ast/default/glossary");
 $glossaries['bg_BG'] = go_download_glotdict('bg_BG', "https://translate.wordpress.org/projects/wp/dev/bg/default/glossary");
+$glossaries['da_DK'] = go_download_glotdict('es_ES', "https://translate.wordpress.org/projects/wp/dev/da/default/glossary");
 $glossaries['de_DE'] = go_download_glotdict('de_DE', "https://translate.wordpress.org/projects/wp/dev/de/default/glossary");
 $glossaries['en_AU'] = go_download_glotdict('en_AU', "https://translate.wordpress.org/projects/wp/dev/en-au/default/glossary");
 $glossaries['en_CA'] = go_download_glotdict('en_CA', "https://translate.wordpress.org/projects/wp/dev/en-ca/default/glossary");

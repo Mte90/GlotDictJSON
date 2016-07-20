@@ -785,6 +785,13 @@
             "translation": "personalised"
         }
     ],
+    "plug-in": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "plugin"
+        }
+    ],
     "prioritization": [
         {
             "comment": "",

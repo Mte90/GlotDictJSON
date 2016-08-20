@@ -512,6 +512,13 @@
             "translation": "flux"
         }
     ],
+    "Feedback": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Retour"
+        }
+    ],
     "filter": [
         {
             "comment": "",
@@ -547,6 +554,13 @@
             "translation": "abonn\u00e9"
         }
     ],
+    "footer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pied de page"
+        }
+    ],
     "form": [
         {
             "comment": "",
@@ -578,6 +592,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "galerie"
+        }
+    ],
+    "Github": [
+        {
+            "comment": "C\u2019est une marque",
+            "pos": "noun",
+            "translation": "GitHub"
         }
     ],
     "Happiness Engineer": [
@@ -617,7 +638,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "point d'accroche"
+            "translation": "point d\u2019accroche"
         }
     ],
     "hosting provider": [
@@ -840,6 +861,13 @@
             "translation": "facultatif"
         }
     ],
+    "order": [
+        {
+            "comment": "Pour le e-commerce",
+            "pos": "noun",
+            "translation": "commande"
+        }
+    ],
     "page": [
         {
             "comment": "",
@@ -877,7 +905,7 @@
     ],
     "permissions": [
         {
-            "comment": "Droits d'acc\u00e8s, droits en \u00e9criture \/ de modification \/ de suppression",
+            "comment": "Droits d\u2019acc\u00e8s, droits en \u00e9criture \/ de modification \/ de suppression",
             "pos": "noun",
             "translation": "droits"
         }
@@ -901,6 +929,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "ping"
+        }
+    ],
+    "Placeholder": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Texte indicatif"
         }
     ],
     "Please": [
@@ -1203,6 +1238,13 @@
             "translation": "article unique"
         }
     ],
+    "slide": [
+        {
+            "comment": "diapo si besoin",
+            "pos": "noun",
+            "translation": "diapositive"
+        }
+    ],
     "Slider": [
         {
             "comment": "",
@@ -1294,6 +1336,13 @@
             "translation": "bien"
         }
     ],
+    "support": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "support"
+        }
+    ],
     "survey": [
         {
             "comment": "",
@@ -1350,6 +1399,13 @@
             "translation": "th\u00e8me"
         }
     ],
+    "thumbnail": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "miniature"
+        }
+    ],
     "toggle": [
         {
             "comment": "",
@@ -1362,6 +1418,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "barre d\u2019outils"
+        }
+    ],
+    "Topic": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Sujet"
         }
     ],
     "trackback": [

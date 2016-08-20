@@ -219,6 +219,13 @@
             "translation": "Zeichensatz"
         }
     ],
+    "Cheatin&#8217; uh?": [
+        {
+            "comment": "colloquial",
+            "pos": "expression",
+            "translation": "Schummeln, was?"
+        }
+    ],
     "color scheme": [
         {
             "comment": "",
@@ -418,6 +425,13 @@
             "translation": "E-Mail-Adresse"
         }
     ],
+    "English": [
+        {
+            "comment": "As abbreviation please use \u201eengl.\u201c.",
+            "pos": "adjective",
+            "translation": "englisch"
+        }
+    ],
     "error": [
         {
             "comment": "",
@@ -591,6 +605,13 @@
             "translation": "Hosts"
         }
     ],
+    "hover": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "bei Mauszeigerkontakt"
+        }
+    ],
     "invalid": [
         {
             "comment": "",
@@ -629,15 +650,15 @@
     "log in": [
         {
             "comment": "",
-            "pos": "noun",
-            "translation": "Anmelden"
+            "pos": "verb",
+            "translation": "anmelden"
         }
     ],
     "log out": [
         {
             "comment": "",
-            "pos": "noun",
-            "translation": "Abmelden"
+            "pos": "verb",
+            "translation": "abmelden"
         }
     ],
     "logged in": [
@@ -657,15 +678,15 @@
     "login": [
         {
             "comment": "",
-            "pos": "verb",
-            "translation": "anmelden"
+            "pos": "noun",
+            "translation": "Anmelden"
         }
     ],
     "logout": [
         {
             "comment": "",
-            "pos": "verb",
-            "translation": "abmelden"
+            "pos": "noun",
+            "translation": "Abmelden"
         }
     ],
     "media library": [
@@ -904,6 +925,13 @@
             "translation": "erforderlich"
         }
     ],
+    "Resource Hints": [
+        {
+            "comment": "technical term, see https:\/\/www.w3.org\/TR\/resource-hints\/",
+            "pos": "noun",
+            "translation": "Resource Hints"
+        }
+    ],
     "responsive": [
         {
             "comment": "see http:\/\/teamwpde.wordpress.com\/2014\/07\/01\/keine-ahnung-ob-das-auf\/",
@@ -1016,6 +1044,20 @@
             "translation": "Website"
         }
     ],
+    "slide": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Slide"
+        }
+    ],
+    "Slider": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Slider"
+        }
+    ],
     "slug": [
         {
             "comment": "",
@@ -1079,6 +1121,13 @@
             "translation": "Subversion"
         }
     ],
+    "super admin": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Super-Administrator"
+        }
+    ],
     "survey": [
         {
             "comment": "",
@@ -1112,6 +1161,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "Untertitel"
+        }
+    ],
+    "tags": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Schlagw\u00f6rter"
         }
     ],
     "taxonomies": [

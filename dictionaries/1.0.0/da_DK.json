@@ -1,0 +1,44 @@
+{
+    "Browse": [
+        {
+            "comment": "N\u00e5r noget skal kikkes igennem eller findes frem.",
+            "pos": "verb",
+            "translation": "Gennemse"
+        }
+    ],
+    "Log in": [
+        {
+            "comment": "Et fors\u00f8g p\u00e5 at undg\u00e5 at bruge log p\u00e5 for konsistens.",
+            "pos": "verb",
+            "translation": "Log ind"
+        }
+    ],
+    "Password": [
+        {
+            "comment": "Tidligere er der brugt kodeord.",
+            "pos": "noun",
+            "translation": "Adgangskode"
+        }
+    ],
+    "Post Type": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Indholdstype"
+        }
+    ],
+    "Site": [
+        {
+            "comment": "Et fors\u00f8g p\u00e5 at undg\u00e5 at bruge side eller hjemmeside, da begge dele ikke er s\u00e6rligt d\u00e6kkende.",
+            "pos": "noun",
+            "translation": "Websted"
+        }
+    ],
+    "successfully": [
+        {
+            "comment": "\"Succesfuldt\" eller \"med succes\" bruges ikke p\u00e5 dansk.",
+            "pos": "adjective",
+            "translation": "uden problemer"
+        }
+    ]
+}

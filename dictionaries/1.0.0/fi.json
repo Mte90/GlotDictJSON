@@ -1835,6 +1835,13 @@
             "translation": "julkaise, kirjoita viesti, \u201dpostaa\u201d"
         }
     ],
+    "post type": [
+        {
+            "comment": "Joskus my\u00f6s \"mukautettu sis\u00e4lt\u00f6tyyppi\" (custom post type)",
+            "pos": "noun",
+            "translation": "sis\u00e4lt\u00f6tyyppi"
+        }
+    ],
     "post via e-mail": [
         {
             "comment": "",
@@ -2613,6 +2620,13 @@
             "comment": "",
             "pos": "substantiivi",
             "translation": "ty\u00f6kalupalkki"
+        }
+    ],
+    "tooltip": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "vihjeteksti"
         }
     ],
     "trackback": [

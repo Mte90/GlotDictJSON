@@ -55,6 +55,13 @@
             "translation": "I\u0161karpin\u0117"
         }
     ],
+    "Core": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Branduolys"
+        }
+    ],
     "Customize": [
         {
             "comment": "",
@@ -123,6 +130,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "Pora\u0161t\u0117"
+        }
+    ],
+    "header": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "antra\u0161t\u0117"
         }
     ],
     "Install": [
@@ -195,11 +209,25 @@
             "translation": "Tinklalapis"
         }
     ],
+    "Sorry, you are not allowed": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "Deja, J\u016bs negalite"
+        }
+    ],
     "Tag": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u017dyma"
+        }
+    ],
+    "Term": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Terminas"
         }
     ],
     "Thumbnail": [
@@ -247,6 +275,13 @@
             "comment": "",
             "pos": "verb",
             "translation": "Per\u017ei\u016br\u0117ti"
+        }
+    ],
+    "Website": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Tinklalapis"
         }
     ],
     "Widget": [

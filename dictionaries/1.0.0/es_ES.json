@@ -55,6 +55,13 @@
             "translation": "Administrador"
         }
     ],
+    "admin": [
+        {
+            "comment": "Se refiere al rol dentro del sistema",
+            "pos": "noun",
+            "translation": "administrador"
+        }
+    ],
     "After the Deadline": [
         {
             "comment": "Nombre de un producto de software http:\/\/afterthedeadline.com",
@@ -104,11 +111,32 @@
             "translation": "Autoguardado"
         }
     ],
+    "backup": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Copia de seguridad"
+        }
+    ],
+    "badge": [
+        {
+            "comment": "Plural \"badges\" - Se traduce como \"acreditaciones\"",
+            "pos": "noun",
+            "translation": "acreditaci\u00f3n"
+        }
+    ],
     "Bitrate": [
         {
             "comment": "No se traduce",
             "pos": "noun",
             "translation": "Bitrate"
+        }
+    ],
+    "Blockquote": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Cita"
         }
     ],
     "Blog": [
@@ -350,6 +378,20 @@
             "translation": "Pie de p\u00e1gina"
         }
     ],
+    "Front Page": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "P\u00e1gina de inicio"
+        }
+    ],
+    "front page": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "P\u00e1gina de inicio"
+        }
+    ],
     "Front page": [
         {
             "comment": "",
@@ -362,6 +404,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "Galer\u00eda"
+        }
+    ],
+    "Grid": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Cuadr\u00edcula"
         }
     ],
     "Header": [
@@ -392,6 +441,13 @@
             "translation": null
         }
     ],
+    "Hosting": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Alojamiento"
+        }
+    ],
     "Howdy": [
         {
             "comment": "",
@@ -410,7 +466,7 @@
         {
             "comment": "No utilizar: Inv\u00e1lido (Incorrecto).",
             "pos": "noun",
-            "translation": "No v\u00e1lido"
+            "translation": "No v\u00e1lido\/a"
         }
     ],
     "issue\/s": [
@@ -455,6 +511,13 @@
             "translation": "Grande"
         }
     ],
+    "Layout": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Dise\u00f1o"
+        }
+    ],
     "legacy": [
         {
             "comment": "",
@@ -467,6 +530,20 @@
             "comment": "No usar librer\u00eda, que solo se refiere a libros",
             "pos": "noun",
             "translation": "Biblioteca"
+        }
+    ],
+    "Logged in": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Conectado"
+        }
+    ],
+    "Logged out": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Desconectado"
         }
     ],
     "Login": [
@@ -588,6 +665,13 @@
             "translation": "Opciones"
         }
     ],
+    "page": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "P\u00e1gina"
+        }
+    ],
     "Page": [
         {
             "comment": "",
@@ -691,6 +775,20 @@
             "comment": "",
             "pos": "noun",
             "translation": "adaptable"
+        }
+    ],
+    "retrieve": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "recuperar"
+        }
+    ],
+    "Role": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Rol"
         }
     ],
     "RSS Feed": [
@@ -798,6 +896,13 @@
             "translation": null
         }
     ],
+    "static front page": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "p\u00e1gina de inicio est\u00e1tica"
+        }
+    ],
     "Sticky": [
         {
             "comment": "",
@@ -817,6 +922,20 @@
             "comment": "",
             "pos": "noun",
             "translation": "Hoja de estilos"
+        }
+    ],
+    "Subscriber": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Suscriptor"
+        }
+    ],
+    "successfully ": [
+        {
+            "comment": "",
+            "pos": "adverb",
+            "translation": "con \u00e9xito"
         }
     ],
     "Template": [

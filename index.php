@@ -16,9 +16,11 @@ $glossary_list = json_decode(trim(file_get_contents($glossary_file_list)), true)
 $glossaries = array();
 $glossaries['ast'] = go_download_glotdict('ast', "https://translate.wordpress.org/projects/wp/dev/ast/default/glossary");
 $glossaries['bg_BG'] = go_download_glotdict('bg_BG', "https://translate.wordpress.org/projects/wp/dev/bg/default/glossary");
+$glossaries['cy'] = go_download_glotdict('cy', "https://translate.wordpress.org/projects/wp/dev/tr/default/glossary");
 $glossaries['da_DK'] = go_download_glotdict('da_DK', "https://translate.wordpress.org/projects/wp/dev/da/default/glossary");
 $glossaries['de_DE'] = go_download_glotdict('de_DE', "https://translate.wordpress.org/projects/wp/dev/de/default/glossary");
 $glossaries['en_AU'] = go_download_glotdict('en_AU', "https://translate.wordpress.org/projects/wp/dev/en-au/default/glossary");
+$glossaries['en_GB'] = go_download_glotdict('en_GB', "https://translate.wordpress.org/projects/wp/dev/en-ca/default/glossary");
 $glossaries['en_CA'] = go_download_glotdict('en_CA', "https://translate.wordpress.org/projects/wp/dev/en-ca/default/glossary");
 $glossaries['es_ES'] = go_download_glotdict('es_ES', "https://translate.wordpress.org/projects/wp/dev/es/default/glossary");
 $glossaries['fi'] = go_download_glotdict('fi', "https://translate.wordpress.org/projects/wp/dev/fi/default/glossary");
@@ -36,6 +38,7 @@ $glossaries['ro_RO'] = go_download_glotdict('ro_RO', "https://translate.wordpres
 $glossaries['sv_SE'] = go_download_glotdict('sv_SE', "https://translate.wordpress.org/projects/wp/dev/sv/default/glossary");
 $glossaries['th'] = go_download_glotdict('th', "https://translate.wordpress.org/projects/wp/dev/th/default/glossary");
 $glossaries['tr_TR'] = go_download_glotdict('tr_TR', "https://translate.wordpress.org/projects/wp/dev/tr/default/glossary");
+$glossaries['uk'] = go_download_glotdict('uk', "https://translate.wordpress.org/projects/wp/dev/uk/default/glossary");
 
 file_put_contents( $glossary_file_list , json_encode( $glossaries, JSON_PRETTY_PRINT ) );
 

@@ -40,7 +40,7 @@ $glossaries['th'] = go_download_glotdict('th', "https://translate.wordpress.org/
 $glossaries['tr_TR'] = go_download_glotdict('tr_TR', "https://translate.wordpress.org/projects/wp/dev/tr/default/glossary");
 $glossaries['uk'] = go_download_glotdict('uk', "https://translate.wordpress.org/projects/wp/dev/uk/default/glossary");
 
-file_put_contents( $glossary_file_list , json_encode( $glossaries, JSON_PRETTY_PRINT ) );
+file_put_contents( $glossary_file_list , str_replace('\/','/',json_encode( $glossaries, JSON_PRETTY_PRINT )) );
 
 function go_download_glotdict($locale, $url) {
     global $path, $glossary_list;
@@ -71,16 +71,21 @@ function go_download_glotdict($locale, $url) {
                 // construct translation
                 $output[ $values[0] ][0] = array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] );
             } else {
-                array_push($output[ $values[0] ], array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] ));
+                if($values[3] !== '' && $values[2] !== '' && $values[1] !== '') {
+                    array_push($output[ $values[0] ], array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] ));
+                }
             }
         }
         
         if(file_exists($path . $locale . ".json")) {
             $old_json = json_decode(trim(file_get_contents($path . $locale . ".json")), true);
             $time = $glossary_list[$locale]['time'];
+            if(empty($time)) {
+                $time = @date('d/m/Y');
+            }
         } else {
             $old_json = '';
-            $time = '';
+            $time = @date('d/m/Y');
         }
         
         if($old_json !== $output) {
@@ -94,5 +99,6 @@ function go_download_glotdict($locale, $url) {
     } else {
         echo 'Page ' . $url . ' not responding...<br>';
     }
+    
     return array('time'=>$time);
 }

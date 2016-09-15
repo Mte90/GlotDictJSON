@@ -1,4 +1,5 @@
 ##What
+[![License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg)   
 That simple script convert the glossaries on glotpress automatically for GlotDict. Enjoy!
 
 ##Execute

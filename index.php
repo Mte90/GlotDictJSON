@@ -20,8 +20,8 @@ $glossaries['cy'] = go_download_glotdict('cy', "https://translate.wordpress.org/
 $glossaries['da_DK'] = go_download_glotdict('da_DK', "https://translate.wordpress.org/projects/wp/dev/da/default/glossary");
 $glossaries['de_DE'] = go_download_glotdict('de_DE', "https://translate.wordpress.org/projects/wp/dev/de/default/glossary");
 $glossaries['en_AU'] = go_download_glotdict('en_AU', "https://translate.wordpress.org/projects/wp/dev/en-au/default/glossary");
-$glossaries['en_GB'] = go_download_glotdict('en_GB', "https://translate.wordpress.org/projects/wp/dev/en-ca/default/glossary");
 $glossaries['en_CA'] = go_download_glotdict('en_CA', "https://translate.wordpress.org/projects/wp/dev/en-ca/default/glossary");
+$glossaries['en_GB'] = go_download_glotdict('en_GB', "https://translate.wordpress.org/projects/wp/dev/en-ca/default/glossary");
 $glossaries['es_ES'] = go_download_glotdict('es_ES', "https://translate.wordpress.org/projects/wp/dev/es/default/glossary");
 $glossaries['fi'] = go_download_glotdict('fi', "https://translate.wordpress.org/projects/wp/dev/fi/default/glossary");
 $glossaries['fr_FR'] = go_download_glotdict('fr_FR', "https://translate.wordpress.org/projects/wp/dev/fr/default/glossary");
@@ -31,8 +31,8 @@ $glossaries['hr_HR'] = go_download_glotdict('hr_HR', "https://translate.wordpres
 $glossaries['it_IT'] = go_download_glotdict('it_IT', "https://translate.wordpress.org/projects/wp/dev/it/default/glossary");
 $glossaries['ja'] = go_download_glotdict('ja', "https://translate.wordpress.org/projects/wp/dev/ja/default/glossary");
 $glossaries['lt_LT'] = go_download_glotdict('lt_LT', "https://translate.wordpress.org/projects/wp/dev/lt/default/glossary");
-$glossaries['nl_NL'] = go_download_glotdict('nl_NL', "https://translate.wordpress.org/projects/wp/dev/nl/default/glossary");
 $glossaries['nl_BE'] = go_download_glotdict('nl_BE', "https://translate.wordpress.org/projects/wp/dev/nl-be/default/glossary");
+$glossaries['nl_NL'] = go_download_glotdict('nl_NL', "https://translate.wordpress.org/projects/wp/dev/nl/default/glossary");
 $glossaries['pt_BR'] = go_download_glotdict('pt_BR', "https://translate.wordpress.org/projects/wp/dev/pt-br/default/glossary");
 $glossaries['ro_RO'] = go_download_glotdict('ro_RO', "https://translate.wordpress.org/projects/wp/dev/ro/default/glossary");
 //go_download_glotdict('sk_SK', "https://translate.wordpress.org/projects/wp/dev/sk/default/glossary");
@@ -67,13 +67,17 @@ function go_download_glotdict($locale, $url) {
         // iterating each line
         foreach ( $lines as $csv ) {
             $values = str_getcsv( $csv );
+            $values[0] = strtolower( $values[0] );
             // don't override if there is already a translation.
-            if( false === array_key_exists( $values[0], $output ) && false === array_key_exists( strtolower( $values[0] ), $output ) ) {
+            if( 
+            false === array_key_exists( $values[0], $output ) ||
+            $output[ $values[0] ][0]['pos'] === @$values[2] && $output[ $values[0] ][0]['translation'] === @$values[1] && empty($output[ $values[0] ][0]['comment'])
+            ) {
                 // construct translation
                 $output[ $values[0] ][0] = array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] );
             } else {
-                if($values[3] !== '' && $values[2] !== '' && $values[1] !== '') {
-                    array_push($output[ strtolower( $values[0] ) ], array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] ));
+                if( !empty( $values[3] ) && !empty( $values[2] ) && !empty( $values[1] )) {
+                    array_push($output[ $values[0] ], array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] ));
                 }
             }
         }

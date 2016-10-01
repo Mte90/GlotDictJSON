@@ -68,12 +68,12 @@ function go_download_glotdict($locale, $url) {
         foreach ( $lines as $csv ) {
             $values = str_getcsv( $csv );
             // don't override if there is already a translation.
-            if( false === array_key_exists( $values[0], $output ) ) {
+            if( false === array_key_exists( $values[0], $output ) && false === array_key_exists( strtolower( $values[0] ), $output ) ) {
                 // construct translation
                 $output[ $values[0] ][0] = array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] );
             } else {
                 if($values[3] !== '' && $values[2] !== '' && $values[1] !== '') {
-                    array_push($output[ $values[0] ], array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] ));
+                    array_push($output[ strtolower( $values[0] ) ], array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] ));
                 }
             }
         }

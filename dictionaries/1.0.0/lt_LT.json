@@ -1,131 +1,138 @@
 {
-    "Account": [
+    "account": [
         {
             "comment": "Nes s\u0105skaitos tik banke",
             "pos": "noun",
             "translation": "Paskyra"
         }
     ],
-    "Area": [
+    "area": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "zona"
         }
     ],
-    "Aside": [
+    "aside": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "U\u017era\u0161as"
         }
     ],
-    "Attach": [
+    "attach": [
         {
             "comment": "Ir visos susijusios formos, pvz. unattached - neprisegtas ir pan.",
             "pos": "verb",
             "translation": "Prisegti"
         }
     ],
-    "Blog": [
+    "blog": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Tinklara\u0161tis"
         }
     ],
-    "Browser": [
+    "browser": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Nar\u0161ykl\u0117"
         }
     ],
-    "Child theme": [
+    "cheatin&#8217; huh?": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "Neleistinas veiksmas"
+        }
+    ],
+    "child theme": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Potem\u0117"
         }
     ],
-    "Clipboard": [
+    "clipboard": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "I\u0161karpin\u0117"
         }
     ],
-    "Core": [
+    "core": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Branduolys"
         }
     ],
-    "Customize": [
+    "customize": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "Pritaikyti, keisti"
         }
     ],
-    "Customizer": [
+    "customizer": [
         {
             "comment": "Turima omenyje temos ar valdikli\u0173 nustatym\u0173 keitimas \"live\"",
             "pos": "noun",
             "translation": "Vaizdusis re\u017eimas"
         }
     ],
-    "Delete": [
+    "delete": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "I\u0161trinti"
         }
     ],
-    "Distraction-free (writing) mode": [
+    "distraction-free (writing) mode": [
         {
             "comment": "Nieko padoresnio nesugalvota. Open to suggestions.",
             "pos": "expression",
             "translation": "D\u0117mesio nebla\u0161kantis (ra\u0161ymo) re\u017eimas"
         }
     ],
-    "Edit": [
+    "edit": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "Redaguoti"
         }
     ],
-    "Editor": [
+    "editor": [
         {
             "comment": "Ra\u0161ykl\u0117 - teksto kontekste. Tik d\u0117l to, kad i\u0161vengtume \"teksto redagavimo vieta\". Geriau trumpas ir kvailas \u017eodis, nei 3 atskiri \u017eod\u017eiai vienam daiktui...",
             "pos": "noun",
             "translation": "Ra\u0161ykl\u0117 \/ Redaktorius"
         }
     ],
-    "Redaktorius - tem\u0173": [
+    "redaktorius - tem\u0173": [
         {
             "comment": null,
             "pos": null,
             "translation": " \u012fskiepi\u0173 ir pan. kontekste\""
         }
     ],
-    "Enable": [
+    "enable": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "\u012egalinti"
         }
     ],
-    "File": [
+    "file": [
         {
             "comment": "Nes bylos tik prokurat\u016broje",
             "pos": "noun",
             "translation": "Failas"
         }
     ],
-    "Footer": [
+    "footer": [
         {
             "comment": "",
             "pos": "noun",
@@ -139,159 +146,154 @@
             "translation": "antra\u0161t\u0117"
         }
     ],
-    "Install": [
+    "install": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "\u012ediegti"
         }
     ],
-    "Library": [
+    "library": [
         {
             "comment": "Kaip Media Library, Files Library -> fail\u0173 saugykla",
             "pos": "noun",
             "translation": "Saugykla"
         }
     ],
-    "Log, logs": [
+    "log, logs": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u017durnalas"
         }
     ],
-    "Manage": [
+    "manage": [
         {
             "comment": "Tvarkyti temas, \u012fskiepius ir pan.",
             "pos": "verb",
             "translation": "Tvarkyti"
         }
     ],
-    "Multisite": [
+    "multisite": [
         {
             "comment": "Visi\u0161kai pa\u017eod\u017eiui, bet jokio man \u017einomo pana\u0161aus termino kaip ir n\u0117ra",
             "pos": "noun",
             "translation": "Multitinklalapis"
         }
     ],
-    "Parent theme": [
+    "parent theme": [
         {
             "comment": "Motinin\u0117 skamba tikrai blogiau",
             "pos": "noun",
             "translation": "T\u0117vin\u0117 tema"
         }
     ],
-    "Pingback": [
+    "pingback": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "(Atgalinis) prane\u0161imas"
         }
     ],
-    "Required": [
+    "required": [
         {
             "comment": "",
             "pos": "adjective",
             "translation": "B\u016btinas"
         }
     ],
-    "Shortcut": [
+    "shortcut": [
         {
             "comment": "Nieko geresnio (kol kas) nesugalvota",
             "pos": "noun",
             "translation": "(Klaviat\u016bros) \u0161aukiniai"
         }
     ],
-    "Site": [
+    "site": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Tinklalapis"
         }
     ],
-    "Sorry, you are not allowed": [
+    "sorry, you are not allowed": [
         {
             "comment": "",
             "pos": "expression",
             "translation": "Deja, J\u016bs negalite"
         }
     ],
-    "Tag": [
+    "tag": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u017dyma"
         }
     ],
-    "Term": [
+    "term": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Terminas"
         }
     ],
-    "Thumbnail": [
+    "thumbnail": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Miniati\u016bra"
         }
     ],
-    "Trackback": [
+    "trackback": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "(Atgalin\u0117) citata"
         }
     ],
-    "Trash": [
+    "trash": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0160iuk\u0161lin\u0117"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "Perkelti \u012f \u0161iuk\u0161lin\u0119"
         }
     ],
-    "Troubleshooting": [
+    "troubleshooting": [
         {
             "comment": "Google'as taip naudoja, naudosim ir mes.",
             "pos": "noun",
             "translation": "Trik\u010di\u0173 \u0161alinimas"
         }
     ],
-    "Username": [
+    "username": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Vartotojo vardas"
         }
     ],
-    "View": [
+    "view": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "Per\u017ei\u016br\u0117ti"
         }
     ],
-    "Website": [
+    "website": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Tinklalapis"
         }
     ],
-    "Widget": [
+    "widget": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Valdiklis"
         }
     ],
-    "You": [
+    "you": [
         {
             "comment": "Naudojame formal\u0173 kalbos ton\u0105",
             "pos": "noun",

@@ -41,7 +41,7 @@
             "translation": "alle"
         }
     ],
-    "Allow": [
+    "allow": [
         {
             "comment": "",
             "pos": "noun",
@@ -104,7 +104,7 @@
             "translation": "bijlage"
         }
     ],
-    "Audio player": [
+    "audio player": [
         {
             "comment": "",
             "pos": "noun",
@@ -116,6 +116,34 @@
             "comment": "Wanneer er nieuwe plugins, thema's zijn, is de context: \"Er is een nieuwe versie van x beschikbaar\".",
             "pos": "noun",
             "translation": "beschikbaar"
+        }
+    ],
+    "box": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "vak"
+        }
+    ],
+    "boxen": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "vakken"
+        }
+    ],
+    "breadcrumbs": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kruimelpad"
+        }
+    ],
+    "browsing": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "bladeren"
         }
     ],
     "cancel": [
@@ -132,6 +160,13 @@
             "translation": "selectievakjes"
         }
     ],
+    "child": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "sub"
+        }
+    ],
     "close": [
         {
             "comment": "",
@@ -146,7 +181,14 @@
             "translation": "reactie"
         }
     ],
-    "Content": [
+    "conjunction": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "conjunctie"
+        }
+    ],
+    "content": [
         {
             "comment": "Binnen WordPress verwijst 'Content' meestal naar de inhoud van een bericht. Daarom wordt dit altijd vertaald naar 'inhoud'.",
             "pos": "noun",
@@ -160,25 +202,74 @@
             "translation": "bijsnijden"
         }
     ],
-    "Current": [
+    "current": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Momenteel"
         }
     ],
-    "Currently": [
+    "currently": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Momenteel"
         }
     ],
-    "database server": [
+    "custom color": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "database server"
+            "translation": "aangepaste kleur"
+        }
+    ],
+    "custom link": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "aangepaste link"
+        }
+    ],
+    "custom links": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "aangepaste links"
+        }
+    ],
+    "customizer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "customizer"
+        }
+    ],
+    "customizing": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Personaliseren"
+        }
+    ],
+    "dashboard": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "dashboard"
+        }
+    ],
+    "database": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "database"
+        }
+    ],
+    "default": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "standaard"
         }
     ],
     "delete": [
@@ -195,11 +286,25 @@
             "translation": "uitgeschakeld"
         }
     ],
-    "Dismiss": [
+    "dismiss": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Negeren"
+        }
+    ],
+    "drag and drop": [
+        {
+            "comment": "",
+            "pos": "interjection",
+            "translation": "slepen en plaatsen"
+        }
+    ],
+    "dropdown": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "dropdown"
         }
     ],
     "edit": [
@@ -230,6 +335,13 @@
             "translation": "insluiten"
         }
     ],
+    "error": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "fout"
+        }
+    ],
     "etc.": [
         {
             "comment": "",
@@ -258,11 +370,39 @@
             "translation": "mislukt"
         }
     ],
+    "filter by": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "filteren"
+        }
+    ],
+    "fixed layout": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Vaste Layout"
+        }
+    ],
+    "fluid layout": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Vloeiende Layout"
+        }
+    ],
     "font": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "lettertype"
+        }
+    ],
+    "footer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "footer"
         }
     ],
     "forums": [
@@ -286,6 +426,20 @@
             "translation": "galerij"
         }
     ],
+    "header": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "header"
+        }
+    ],
+    "header image": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kopafbeelding"
+        }
+    ],
     "hide": [
         {
             "comment": "",
@@ -300,6 +454,13 @@
             "translation": "homepagina"
         }
     ],
+    "hoveren": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "hoveren"
+        }
+    ],
     "image": [
         {
             "comment": "",
@@ -312,6 +473,27 @@
             "comment": "",
             "pos": "noun",
             "translation": "afbeeldingen"
+        }
+    ],
+    "importer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "importeerfunctie"
+        }
+    ],
+    "interjection": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "tussenvoegsel"
+        }
+    ],
+    "keys": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "toetsen"
         }
     ],
     "keyword": [
@@ -335,14 +517,28 @@
             "translation": "locatie"
         }
     ],
-    "Media file": [
+    "media file": [
         {
             "comment": "In de Nederlandse taal is dit \u00e9\u00e9n woord. We schrijven dit niet los.",
             "pos": "noun",
             "translation": "Mediabestand"
         }
     ],
-    "Multiline textarea": [
+    "menu": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "menu"
+        }
+    ],
+    "menus": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "menu's"
+        }
+    ],
+    "multiline textarea": [
         {
             "comment": "",
             "pos": "noun",
@@ -377,7 +573,7 @@
             "translation": "hoofd"
         }
     ],
-    "Pending": [
+    "pending": [
         {
             "comment": "",
             "pos": "noun",
@@ -419,14 +615,28 @@
             "translation": "voornaamwoord"
         }
     ],
-    "Remove": [
+    "remove": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Verwijderen"
         }
     ],
-    "Screen Options": [
+    "responsive layout": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Responsieve Layout"
+        }
+    ],
+    "rich text area": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Verrijkt tekstvak"
+        }
+    ],
+    "screen options": [
         {
             "comment": "",
             "pos": "noun",
@@ -475,6 +685,13 @@
             "translation": "tonen"
         }
     ],
+    "slider": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "schuifbalk"
+        }
+    ],
     "tag\/tagged": [
         {
             "comment": "",
@@ -507,7 +724,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "weigeren"
+            "translation": "weiger"
         }
     ],
     "unapproved": [
@@ -524,7 +741,7 @@
             "translation": "werkwoord"
         }
     ],
-    "Video Player": [
+    "video player": [
         {
             "comment": "",
             "pos": "noun",

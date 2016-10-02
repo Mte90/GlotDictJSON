@@ -46,11 +46,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "authorisation"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "authorisation"
         }
     ],
     "authorize": [
@@ -212,11 +207,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "colour"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "colour"
         }
     ],
     "colorful": [
@@ -357,11 +347,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "email"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "email"
         }
     ],
     "endeavor": [
@@ -382,11 +367,6 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "favour"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
             "translation": "favour"
         }
     ],
@@ -481,7 +461,7 @@
             "translation": "bonnet"
         }
     ],
-    "Howdy!": [
+    "howdy!": [
         {
             "comment": "",
             "pos": "noun",
@@ -556,11 +536,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "license"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "licence"
         }
     ],
     "localization": [
@@ -1161,7 +1136,7 @@
             "translation": "unsavoury"
         }
     ],
-    "URL's": [
+    "url's": [
         {
             "comment": "",
             "pos": "noun",
@@ -1287,7 +1262,7 @@
             "translation": "widgetised"
         }
     ],
-    "ZIP code": [
+    "zip code": [
         {
             "comment": "Don't translate this, it's problematic because we cannot know the context of a plugin's visitor base; Americans don\u2019t know what a Postal Code is, Brits got confused with a ZIP code, etc.",
             "pos": "noun",

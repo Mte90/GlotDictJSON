@@ -18,11 +18,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "attivare"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "attivare"
         }
     ],
     "activated": [
@@ -37,11 +32,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "indirizzare"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "indirizzo"
         }
     ],
     "administrator": [
@@ -51,7 +41,7 @@
             "translation": "amministratore"
         }
     ],
-    "AJAX": [
+    "ajax": [
         {
             "comment": "Lasciare invariato",
             "pos": "noun",
@@ -65,7 +55,7 @@
             "translation": "tutto-in-uno"
         }
     ],
-    "Appearance": [
+    "appearance": [
         {
             "comment": "Per l'utilizzo di maiuscola o minuscola vedere Guida di Stile",
             "pos": "noun",
@@ -77,11 +67,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "archivio"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "archiviare"
         }
     ],
     "are you sure you want": [
@@ -155,51 +140,6 @@
         }
     ],
     "\u0000": [
-        {
-            "comment": null,
-            "pos": null,
-            "translation": null
-        },
-        {
-            "comment": null,
-            "pos": null,
-            "translation": null
-        },
-        {
-            "comment": null,
-            "pos": null,
-            "translation": null
-        },
-        {
-            "comment": null,
-            "pos": null,
-            "translation": null
-        },
-        {
-            "comment": null,
-            "pos": null,
-            "translation": null
-        },
-        {
-            "comment": null,
-            "pos": null,
-            "translation": null
-        },
-        {
-            "comment": null,
-            "pos": null,
-            "translation": null
-        },
-        {
-            "comment": null,
-            "pos": null,
-            "translation": null
-        },
-        {
-            "comment": null,
-            "pos": null,
-            "translation": null
-        },
         {
             "comment": null,
             "pos": null,
@@ -286,11 +226,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "commento"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "commentare"
         }
     ],
     "constant": [
@@ -300,7 +235,7 @@
             "translation": "costante"
         }
     ],
-    "Cookie": [
+    "cookie": [
         {
             "comment": "Lasciare invariato. Mascile",
             "pos": "noun",
@@ -314,14 +249,14 @@
             "translation": "personalizzato"
         }
     ],
-    "Customizer": [
+    "customizer": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Personalizza"
         }
     ],
-    "Dashboard": [
+    "dashboard": [
         {
             "comment": "",
             "pos": "noun",
@@ -389,9 +324,7 @@
             "comment": "Lasciare invariato - Nel senso di strumento: \u201ceditor di testo\u201d. Maschile",
             "pos": "noun",
             "translation": "editor"
-        }
-    ],
-    "Editor": [
+        },
         {
             "comment": "Nel senso di ruolo in un sito. Mascile",
             "pos": "noun",
@@ -426,7 +359,7 @@
             "translation": "emoticon"
         }
     ],
-    "Enter (tasto)": [
+    "enter (tasto)": [
         {
             "comment": "",
             "pos": "noun",
@@ -487,11 +420,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "correzione"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "correggere"
         }
     ],
     "folder": [
@@ -522,7 +450,7 @@
             "translation": "modulo"
         }
     ],
-    "Forum": [
+    "forum": [
         {
             "comment": "Lasciare invariato. Maschile",
             "pos": "noun",
@@ -557,7 +485,7 @@
             "translation": "variabili globali"
         }
     ],
-    "Header": [
+    "header": [
         {
             "comment": "Lasciare invariato. Maschile",
             "pos": "noun",
@@ -571,7 +499,7 @@
             "translation": "header"
         }
     ],
-    "Header image": [
+    "header image": [
         {
             "comment": "",
             "pos": "noun",
@@ -590,11 +518,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "host"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "ospitare"
         }
     ],
     "howdy": [
@@ -618,7 +541,7 @@
             "translation": "icona"
         }
     ],
-    "ID": [
+    "id": [
         {
             "comment": "Lasciare invariato, sempre tutto maiuscolo. Maschile",
             "pos": "noun",
@@ -646,7 +569,7 @@
             "translation": "non valido"
         }
     ],
-    "IP adress": [
+    "ip adress": [
         {
             "comment": "",
             "pos": "noun",
@@ -693,11 +616,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "disconnessione"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "uscire"
         }
     ],
     "logged in": [
@@ -770,7 +688,7 @@
             "translation": "nonce"
         }
     ],
-    "Notifications": [
+    "notifications": [
         {
             "comment": "",
             "pos": "noun",
@@ -847,7 +765,7 @@
             "translation": "pingback"
         }
     ],
-    "Please...": [
+    "please": [
         {
             "comment": "Nelle frasi che iniziano con Please come ad esempio \"Please try again later\" nella traduzione in italiano NON ha senso riportare il \"Per favore\" non essendo di uso comune nei messaggi inviati da un computer. Eliminarlo e tradurre la frase senza il \"Per favore\".",
             "pos": "noun",
@@ -866,11 +784,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "pubblicare"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "articolo"
         }
     ],
     "post thumbnail": [
@@ -885,11 +798,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "visualizzare"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "anteprima"
         }
     ],
     "previous post": [
@@ -906,7 +814,7 @@
             "translation": "profilo"
         }
     ],
-    "Proudly powered by WordPress": [
+    "proudly powered by wordpress": [
         {
             "comment": "Lasciare invariato",
             "pos": "expression",
@@ -925,11 +833,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "aggiornare"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "ricaricare"
         }
     ],
     "release": [
@@ -972,18 +875,11 @@
             "translation": "ruolo"
         }
     ],
-    "RSS Feed": [
+    "rss feed": [
         {
             "comment": "",
             "pos": "expression",
             "translation": "Feed RSS"
-        }
-    ],
-    "RSS feed": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "feed RSS"
         }
     ],
     "save": [
@@ -1028,7 +924,7 @@
             "translation": "server"
         }
     ],
-    "Settings": [
+    "settings": [
         {
             "comment": "",
             "pos": "noun",
@@ -1166,11 +1062,6 @@
             "comment": "",
             "pos": "expression",
             "translation": "editor di testo"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "editor di testo"
         }
     ],
     "theme": [
@@ -1194,7 +1085,7 @@
             "translation": "timeline"
         }
     ],
-    "Toolbar": [
+    "toolbar": [
         {
             "comment": "",
             "pos": "noun",
@@ -1218,11 +1109,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "cestino"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "eliminare"
         }
     ],
     "two-factor authentication": [
@@ -1244,11 +1130,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "aggiornare"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "aggiornamento"
         }
     ],
     "upload": [
@@ -1265,7 +1146,7 @@
             "translation": "uploader"
         }
     ],
-    "URL": [
+    "url": [
         {
             "comment": "Si usa la maschile",
             "pos": "noun",
@@ -1287,11 +1168,6 @@
         }
     ],
     "valid": [
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "valido"
-        },
         {
             "comment": "",
             "pos": "adjective",
@@ -1326,7 +1202,7 @@
             "translation": "widget"
         }
     ],
-    "XML-RPC": [
+    "xml-rpc": [
         {
             "comment": "More info: http:\/\/codex.wordpress.org\/XML-RPC_Support",
             "pos": "noun",

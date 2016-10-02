@@ -104,14 +104,14 @@
             "translation": "y\u00f6netici"
         }
     ],
-    "After the Deadline": [
+    "after the deadline": [
         {
             "comment": "Dil kontrol\u00f6r\u00fc (Web servisi ad\u0131). Servisin ad\u0131 oldu\u011fu i\u00e7in \u00e7evirmeyin. http:\/\/afterthedeadline.com\/",
             "pos": "noun",
             "translation": "After the Deadline"
         }
     ],
-    "Appearance": [
+    "appearance": [
         {
             "comment": "Mevcut temalar\u0131n\u0131z\u0131 y\u00f6netebilir, onlar\u0131 \u00f6zelle\u015ftirebilir ve yeni temalar y\u00fckleyebilirsiniz.",
             "pos": "noun",
@@ -144,11 +144,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "ar\u015fiv"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "ar\u015fivle"
         }
     ],
     "archives": [
@@ -193,7 +188,7 @@
             "translation": "ayr\u0131"
         }
     ],
-    "Aspect ratio": [
+    "aspect ratio": [
         {
             "comment": "",
             "pos": "noun",
@@ -235,7 +230,7 @@
             "translation": "denetlemek"
         }
     ],
-    "Authenticator app": [
+    "authenticator app": [
         {
             "comment": "",
             "pos": "noun",
@@ -317,7 +312,7 @@
             "translation": "temel"
         }
     ],
-    "Basic": [
+    "basic": [
         {
             "comment": "",
             "pos": "noun",
@@ -408,7 +403,7 @@
             "translation": "taray\u0131c\u0131"
         }
     ],
-    "BuddyPress": [
+    "buddypress": [
         {
             "comment": "WordPress.org eklentisi - http:\/\/buddypress.org\/",
             "pos": "noun",
@@ -429,7 +424,7 @@
             "translation": "plan"
         }
     ],
-    "Button": [
+    "button": [
         {
             "comment": "Yerine g\u00f6re \"D\u00fc\u011fme\" de kullan\u0131labilir.",
             "pos": "noun",
@@ -443,7 +438,7 @@
             "translation": "yetkinlikler"
         }
     ],
-    "Carousel": [
+    "carousel": [
         {
             "comment": "",
             "pos": "noun",
@@ -499,7 +494,7 @@
             "translation": "t\u0131kla"
         }
     ],
-    "CNAME record": [
+    "cname record": [
         {
             "comment": "",
             "pos": "noun",
@@ -518,11 +513,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "yorum"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "yorum yap"
         }
     ],
     "compat": [
@@ -574,14 +564,14 @@
             "translation": "ileti\u015fim formu"
         }
     ],
-    "Content": [
+    "content": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0130\u00e7erik"
         }
     ],
-    "Content Area": [
+    "content area": [
         {
             "comment": "Site\/Blog i\u00e7erik alan\u0131 ",
             "pos": "noun",
@@ -602,7 +592,7 @@
             "translation": "d\u00f6n\u00fc\u015ft\u00fcr\u00fcc\u00fc"
         }
     ],
-    "Cookie": [
+    "cookie": [
         {
             "comment": "Taray\u0131c\u0131 \u00e7erezi",
             "pos": "noun",
@@ -616,7 +606,7 @@
             "translation": "olu\u015fturmak"
         }
     ],
-    "Creative Commons": [
+    "creative commons": [
         {
             "comment": "Yarat\u0131c\u0131 \u00e7al\u0131\u015fmalar i\u00e7in \u00fccretsiz telif hakk\u0131 sa\u011flayan bir kurulu\u015ftur detayl\u0131 bilgi: http:\/\/creativecommons.org\/about",
             "pos": "noun",
@@ -630,28 +620,28 @@
             "translation": "k\u0131rpmak"
         }
     ],
-    "Custom Colors": [
+    "custom colors": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u00d6zel Renkler"
         }
     ],
-    "Custom CSS": [
+    "custom css": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u00d6zel CSS"
         }
     ],
-    "Custom Fonts": [
+    "custom fonts": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u00d6zel Yaz\u0131 Tipleri"
         }
     ],
-    "Custom Post Type": [
+    "custom post type": [
         {
             "comment": "",
             "pos": "noun",
@@ -665,14 +655,14 @@
             "translation": "\u00f6zelle\u015ftir"
         }
     ],
-    "Customizer": [
+    "customizer": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u00d6zelle\u015ftirici"
         }
     ],
-    "Dashboard": [
+    "dashboard": [
         {
             "comment": "",
             "pos": "noun",
@@ -714,7 +704,7 @@
             "translation": "geli\u015ftirici"
         }
     ],
-    "Digital Millennium Copyright Act": [
+    "digital millennium copyright act": [
         {
             "comment": "",
             "pos": "noun",
@@ -742,7 +732,7 @@
             "translation": "etkisizle\u015ftir"
         }
     ],
-    "Distraction Free Writing": [
+    "distraction free writing": [
         {
             "comment": "Dikkat da\u011f\u0131tmay\u0131 \u00f6nleyici tam ekran yazma modu",
             "pos": "noun",
@@ -763,7 +753,7 @@
             "translation": "taslak"
         }
     ],
-    "E-mail": [
+    "e-mail": [
         {
             "comment": "",
             "pos": "noun",
@@ -782,7 +772,7 @@
             "translation": "edit\u00f6r"
         }
     ],
-    "Email": [
+    "email": [
         {
             "comment": "",
             "pos": "noun",
@@ -801,11 +791,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "g\u00f6m"
-        },
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "g\u00f6m\u00fcl\u00fc"
         }
     ],
     "emoji": [
@@ -829,7 +814,7 @@
             "translation": "etkinle\u015ftirmek"
         }
     ],
-    "Entry title": [
+    "entry title": [
         {
             "comment": "Bir giri\u015fin ba\u015fl\u0131\u011f\u0131 (yaz\u0131 veya sayfa)",
             "pos": "noun",
@@ -857,14 +842,14 @@
             "translation": "ilave"
         }
     ],
-    "Extra Storage": [
+    "extra storage": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Ekstra Depolama Alan\u0131"
         }
     ],
-    "Facebook": [
+    "facebook": [
         {
             "comment": "",
             "pos": "noun",
@@ -897,7 +882,7 @@
             "translation": "\u00f6zellik"
         }
     ],
-    "Featured Image": [
+    "featured image": [
         {
             "comment": "",
             "pos": "noun",
@@ -923,11 +908,6 @@
             "comment": "S\u00fczge\u00e7. G\u00f6r\u00fcnt\u00fclenmesi istenenlerin belirtildi\u011fi durum\/aral\u0131k.",
             "pos": "noun",
             "translation": "s\u00fczge\u00e7\/filtre"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "filtrele"
         }
     ],
     "filter hook": [
@@ -937,7 +917,7 @@
             "translation": "filtre kancas\u0131"
         }
     ],
-    "Firehose": [
+    "firehose": [
         {
             "comment": "",
             "pos": "noun",
@@ -949,11 +929,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "d\u00fczeltme"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "d\u00fczeltmek"
         }
     ],
     "folder": [
@@ -963,21 +938,21 @@
             "translation": "klas\u00f6r"
         }
     ],
-    "Follow": [
+    "follow": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "Takip Et"
         }
     ],
-    "Follower": [
+    "follower": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Takip\u00e7i"
         }
     ],
-    "Following": [
+    "following": [
         {
             "comment": "",
             "pos": "verb",
@@ -991,14 +966,14 @@
             "translation": "alt k\u0131s\u0131m"
         }
     ],
-    "Format": [
+    "format": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Bi\u00e7im"
         }
     ],
-    "Forum": [
+    "forum": [
         {
             "comment": "",
             "pos": "noun",
@@ -1012,7 +987,7 @@
             "translation": "\u00dccretsiz deneme"
         }
     ],
-    "Freshly Pressed": [
+    "freshly pressed": [
         {
             "comment": "",
             "pos": "noun",
@@ -1040,49 +1015,49 @@
             "translation": "gravatar"
         }
     ],
-    "Gravatar Profile": [
+    "gravatar profile": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Gravatar Profili"
         }
     ],
-    "Guided Transfer": [
+    "guided transfer": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "K\u0131lavuzlu Aktar\u0131m"
         }
     ],
-    "Ham": [
+    "ham": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0130stenmeyen De\u011fil"
         }
     ],
-    "Hammiest": [
+    "hammiest": [
         {
             "comment": "",
             "pos": "adjective",
             "translation": "En az istenmeyen i\u00e7eren"
         }
     ],
-    "Happiness Engineer": [
+    "happiness engineer": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Mutluluk M\u00fchendisi"
         }
     ],
-    "Headers": [
+    "headers": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u00dcst Bilgiler"
         }
     ],
-    "Help Center": [
+    "help center": [
         {
             "comment": "",
             "pos": "noun",
@@ -1101,11 +1076,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "bar\u0131nd\u0131r"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "sunucu"
         }
     ],
     "hosting provider": [
@@ -1155,7 +1125,7 @@
             "translation": "no"
         }
     ],
-    "Image": [
+    "image": [
         {
             "comment": "",
             "pos": "noun",
@@ -1190,7 +1160,7 @@
             "translation": "indis"
         }
     ],
-    "Insights": [
+    "insights": [
         {
             "comment": "",
             "pos": "noun",
@@ -1225,7 +1195,7 @@
             "translation": "internet"
         }
     ],
-    "Internet Corporation for Assigned Names and Numbers (ICANN)": [
+    "internet corporation for assigned names and numbers (icann)": [
         {
             "comment": "",
             "pos": "noun",
@@ -1239,7 +1209,7 @@
             "translation": "ge\u00e7ersiz"
         }
     ],
-    "IP address": [
+    "ip address": [
         {
             "comment": "",
             "pos": "noun",
@@ -1253,21 +1223,21 @@
             "translation": "sorun"
         }
     ],
-    "Jetpack": [
+    "jetpack": [
         {
             "comment": "WordPress eklentisi -> http:\/\/jetpack.me\/",
             "pos": "noun",
             "translation": "Jetpack"
         }
     ],
-    "Jetpack Monitor": [
+    "jetpack monitor": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Jetpack \u0130zleyici"
         }
     ],
-    "Keyboard": [
+    "keyboard": [
         {
             "comment": "",
             "pos": "noun",
@@ -1281,42 +1251,35 @@
             "translation": "anahtar s\u00f6zc\u00fck"
         }
     ],
-    "Late Renewal Fee": [
+    "late renewal fee": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Gecikmi\u015f Yenileme Bedeli"
         }
     ],
-    "Like": [
+    "like": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Be\u011feni"
         }
     ],
-    "like": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "be\u011fen"
-        }
-    ],
-    "Likes": [
+    "likes": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Be\u011feniler"
         }
     ],
-    "Link": [
+    "link": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Ba\u011flant\u0131"
         }
     ],
-    "Link Hover": [
+    "link hover": [
         {
             "comment": "",
             "pos": "noun",
@@ -1386,7 +1349,7 @@
             "translation": "y\u00f6nlendirilmi\u015f alan ad\u0131"
         }
     ],
-    "Media": [
+    "media": [
         {
             "comment": "",
             "pos": "noun",
@@ -1407,7 +1370,7 @@
             "translation": "ortam \u00f6gesi"
         }
     ],
-    "Media Uploader": [
+    "media uploader": [
         {
             "comment": "",
             "pos": "noun",
@@ -1540,7 +1503,7 @@
             "translation": "se\u00e7enek"
         }
     ],
-    "Page": [
+    "page": [
         {
             "comment": "",
             "pos": "noun",
@@ -1631,14 +1594,14 @@
             "translation": "anket"
         }
     ],
-    "Polldaddy": [
+    "polldaddy": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Polldaddy"
         }
     ],
-    "Portfolio Page": [
+    "portfolio page": [
         {
             "comment": "",
             "pos": "noun",
@@ -1652,21 +1615,14 @@
             "translation": "portf\u00f6y temas\u0131"
         }
     ],
-    "Post": [
+    "post": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Yaz\u0131"
         }
     ],
-    "post": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "yay\u0131mla"
-        }
-    ],
-    "Post Carousel": [
+    "post carousel": [
         {
             "comment": "",
             "pos": "noun",
@@ -1680,14 +1636,14 @@
             "translation": "yaz\u0131 bi\u00e7imi"
         }
     ],
-    "Post List": [
+    "post list": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Yaz\u0131 Listesi"
         }
     ],
-    "Post Meta": [
+    "post meta": [
         {
             "comment": "",
             "pos": "noun",
@@ -1736,7 +1692,7 @@
             "translation": "premium y\u00fckseltme"
         }
     ],
-    "Press This": [
+    "press this": [
         {
             "comment": "",
             "pos": "noun",
@@ -1748,11 +1704,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "\u00f6n izle"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "\u00f6n izleme"
         }
     ],
     "previous post": [
@@ -1769,28 +1720,28 @@
             "translation": "birincil alan ad\u0131"
         }
     ],
-    "Privacy Protection": [
+    "privacy protection": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Privacy Protection"
         }
     ],
-    "Privacy Upgrade": [
+    "privacy upgrade": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Privacy Upgrade"
         }
     ],
-    "Private Registration": [
+    "private registration": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Private Registration"
         }
     ],
-    "Private Whois upgrade": [
+    "private whois upgrade": [
         {
             "comment": "",
             "pos": "noun",
@@ -1811,7 +1762,7 @@
             "translation": "profil"
         }
     ],
-    "Publicize": [
+    "publicize": [
         {
             "comment": "Ara\u00e7 ad\u0131",
             "pos": "noun",
@@ -1839,7 +1790,7 @@
             "translation": "sorgu"
         }
     ],
-    "Quick Post": [
+    "quick post": [
         {
             "comment": "",
             "pos": "noun",
@@ -1853,19 +1804,14 @@
             "translation": "okuyucu"
         }
     ],
-    "Reblog": [
+    "reblog": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "Reblogla"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "Reblog"
         }
     ],
-    "Redirect": [
+    "redirect": [
         {
             "comment": "",
             "pos": "noun",
@@ -1919,11 +1865,6 @@
             "comment": "reply to topic, konuyu yan\u0131tla",
             "pos": "verb",
             "translation": "yan\u0131tla"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "yan\u0131t"
         }
     ],
     "required": [
@@ -1975,7 +1916,7 @@
             "translation": "k\u00f6k"
         }
     ],
-    "RSS": [
+    "rss": [
         {
             "comment": "",
             "pos": "noun",
@@ -2036,11 +1977,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "payla\u015f\u0131m"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "payla\u015f"
         }
     ],
     "sharing": [
@@ -2071,7 +2007,7 @@
             "translation": "k\u0131sa kod"
         }
     ],
-    "Showcase": [
+    "showcase": [
         {
             "comment": "",
             "pos": "noun",
@@ -2092,7 +2028,7 @@
             "translation": "giri\u015f yap"
         }
     ],
-    "Simplenote": [
+    "simplenote": [
         {
             "comment": "",
             "pos": "noun",
@@ -2106,7 +2042,7 @@
             "translation": "tekil yaz\u0131"
         }
     ],
-    "Single Sign-On": [
+    "single sign-on": [
         {
             "comment": "",
             "pos": "noun",
@@ -2120,14 +2056,14 @@
             "translation": "site"
         }
     ],
-    "Site Redirect": [
+    "site redirect": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Site Y\u00f6nlendirme"
         }
     ],
-    "Slider": [
+    "slider": [
         {
             "comment": "",
             "pos": "noun",
@@ -2148,14 +2084,14 @@
             "translation": "k\u0131sa isim"
         }
     ],
-    "Social Media": [
+    "social media": [
         {
             "comment": "Twitter, Facebook, Pinterest ve di\u011ferleri gibi sosyal a\u011f siteleri",
             "pos": "noun",
             "translation": "Sosyal Medya"
         }
     ],
-    "Space Upgrade": [
+    "space upgrade": [
         {
             "comment": "",
             "pos": "noun",
@@ -2169,14 +2105,14 @@
             "translation": "istenmeyen"
         }
     ],
-    "Spammiest": [
+    "spammiest": [
         {
             "comment": "Bir zaman diliminde en \u00e7ok spam al\u0131nmas\u0131",
             "pos": "adjective",
             "translation": "En \u00e7ok istenmeyen i\u00e7eren"
         }
     ],
-    "SRV record": [
+    "srv record": [
         {
             "comment": "\u00d6zel bir\u00a0SRV kayd\u0131 tipi",
             "pos": "noun",
@@ -2202,11 +2138,6 @@
             "comment": "stick forum, forumu yap\u0131\u015ft\u0131r",
             "pos": "verb",
             "translation": "yap\u0131\u015ft\u0131rmak"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "\u00e7ubuk"
         }
     ],
     "sticky": [
@@ -2216,7 +2147,7 @@
             "translation": "yap\u0131\u015fkan"
         }
     ],
-    "Sticky Post": [
+    "sticky post": [
         {
             "comment": "",
             "pos": "noun",
@@ -2272,7 +2203,7 @@
             "translation": "abonelik panosu"
         }
     ],
-    "Subversion": [
+    "subversion": [
         {
             "comment": "",
             "pos": "noun",
@@ -2405,7 +2336,7 @@
             "translation": "tema"
         }
     ],
-    "Theme Showcase": [
+    "theme showcase": [
         {
             "comment": "",
             "pos": "noun",
@@ -2433,7 +2364,7 @@
             "translation": "ara\u00e7"
         }
     ],
-    "Toolbar": [
+    "toolbar": [
         {
             "comment": "",
             "pos": "noun",
@@ -2461,14 +2392,14 @@
             "translation": "trafik"
         }
     ],
-    "Transfer Code": [
+    "transfer code": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Aktar\u0131m Kodu"
         }
     ],
-    "Transient": [
+    "transient": [
         {
             "comment": "",
             "pos": "noun",
@@ -2510,7 +2441,7 @@
             "translation": "sorun giderme"
         }
     ],
-    "Twitter": [
+    "twitter": [
         {
             "comment": "Sosyal Medya Servisi - http:\/\/twitter.com\/",
             "pos": "noun",
@@ -2531,21 +2462,21 @@
             "translation": "reddetmek"
         }
     ],
-    "Unfollow": [
+    "unfollow": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "Takip Etmeyi B\u0131rak"
         }
     ],
-    "Unlimited Storage": [
+    "unlimited storage": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "S\u0131n\u0131rs\u0131z Depolama Alan\u0131"
         }
     ],
-    "Unlimited Themes": [
+    "unlimited themes": [
         {
             "comment": "",
             "pos": "noun",
@@ -2578,14 +2509,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "y\u00fckseltme"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "y\u00fckselt"
         }
     ],
-    "Upgrades page": [
+    "upgrades page": [
         {
             "comment": "",
             "pos": "noun",
@@ -2606,7 +2532,7 @@
             "translation": "y\u00fckleyici"
         }
     ],
-    "URI": [
+    "uri": [
         {
             "comment": "",
             "pos": "noun",
@@ -2655,7 +2581,7 @@
             "translation": "g\u00f6r"
         }
     ],
-    "Visual Editor": [
+    "visual editor": [
         {
             "comment": "",
             "pos": "noun",
@@ -2683,35 +2609,35 @@
             "translation": "bile\u015fen"
         }
     ],
-    "WordCamp": [
+    "wordcamp": [
         {
             "comment": "WordPress toplulu\u011fu - http:\/\/wordcamp.org\/",
             "pos": "noun",
             "translation": "WordCamp"
         }
     ],
-    "WordPress": [
+    "wordpress": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "WordPress"
         }
     ],
-    "WordPress Dashboard": [
+    "wordpress dashboard": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "WordPress Panosu"
         }
     ],
-    "XML-RPC": [
+    "xml-rpc": [
         {
             "comment": "Detayl\u0131 bilgi i\u00e7in: http:\/\/codex.wordpress.org\/XML-RPC_Support",
             "pos": "noun",
             "translation": "XML-RPC"
         }
     ],
-    "Yummy Pie": [
+    "yummy pie": [
         {
             "comment": "",
             "pos": "noun",

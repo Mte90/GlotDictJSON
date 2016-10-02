@@ -55,7 +55,7 @@
             "translation": "\u043f\u0440\u0438\u043c\u0456\u0442\u043a\u0430"
         }
     ],
-    "At a Glance": [
+    "at a glance": [
         {
             "comment": "",
             "pos": "noun",
@@ -244,7 +244,7 @@
             "translation": "\u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0446\u044c\u043a\u0438\u0439"
         }
     ],
-    "Customizer": [
+    "customizer": [
         {
             "comment": "",
             "pos": "noun",
@@ -305,11 +305,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "\u0435\u043a\u0440\u0430\u043d"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "\u0432\u0456\u0434\u043e\u0431\u0440\u0430\u0436\u0430\u0442\u0438"
         }
     ],
     "distraction-free writing": [
@@ -389,7 +384,7 @@
             "translation": "\u0432\u0438\u0431\u0440\u0430\u043d\u0438\u0439"
         }
     ],
-    "Featured Image": [
+    "featured image": [
         {
             "comment": "",
             "pos": "noun",
@@ -459,7 +454,7 @@
             "translation": "\u0434\u043e\u0432\u0456\u0434\u043d\u0438\u043a"
         }
     ],
-    "Happiness Engineer": [
+    "happiness engineer": [
         {
             "comment": "",
             "pos": "noun",
@@ -501,7 +496,7 @@
             "translation": "\u043d\u0430\u0432\u0435\u0434\u0435\u043d\u043d\u044f"
         }
     ],
-    "ID": [
+    "id": [
         {
             "comment": "",
             "pos": "noun",
@@ -555,11 +550,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "\u0432\u043f\u043e\u0434\u043e\u0431\u0430\u043d\u043d\u044f"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "\u043f\u043e\u0434\u043e\u0431\u0430\u0454\u0442\u044c\u0441\u044f"
         }
     ],
     "live preview": [
@@ -611,7 +601,7 @@
             "translation": "\u043f\u043e\u0437\u043d\u0430\u0447\u0438\u0442\u0438"
         }
     ],
-    "Media Uploader": [
+    "media uploader": [
         {
             "comment": "",
             "pos": "noun",
@@ -639,7 +629,7 @@
             "translation": "\u0440\u0435\u0436\u0438\u043c"
         }
     ],
-    "Network Admin": [
+    "network admin": [
         {
             "comment": "\u041f\u0443\u043d\u043a\u0442 \u0433\u043e\u043b\u043e\u0432\u043d\u043e\u0433\u043e \u043c\u0435\u043d\u044e \u041c\u0430\u0439\u0441\u0442\u0435\u0440\u043d\u0456",
             "pos": "noun",
@@ -707,11 +697,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "\u043f\u0440\u0435\u0434\u043e\u043a"
-        },
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "\u0431\u0430\u0442\u044c\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439"
         }
     ],
     "password": [
@@ -796,11 +781,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "\u043e\u043f\u0440\u0438\u043b\u044e\u0434\u043d\u0438\u0442\u0438"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "\u0437\u0430\u043f\u0438\u0441"
         }
     ],
     "press this": [
@@ -843,11 +823,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "\u043a\u043e\u043f\u0456\u044f"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "\u043f\u043e\u0434\u0456\u043b\u0438\u0442\u0438\u0441\u044f"
         }
     ],
     "receipt": [
@@ -1095,7 +1070,7 @@
             "translation": "\u043f\u0430\u043d\u0435\u043b\u044c \u0456\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0456\u0432"
         }
     ],
-    "Top Posts": [
+    "top posts": [
         {
             "comment": "",
             "pos": "noun",
@@ -1130,7 +1105,7 @@
             "translation": "\u0434\u0432\u043e\u043a\u0440\u043e\u043a\u043e\u0432\u0430 \u0430\u0432\u0442\u0435\u043d\u0442\u0438\u0444\u0456\u043a\u0430\u0446\u0456\u044f"
         }
     ],
-    "Two Step Authentication": [
+    "two step authentication": [
         {
             "comment": "",
             "pos": "noun",
@@ -1163,11 +1138,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "\u043f\u043b\u0430\u0442\u043d\u0435 \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u043d\u044f, \u043f\u043e\u043a\u0443\u043f\u043a\u0430"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "\u043f\u0440\u0438\u0434\u0431\u0430\u0442\u0438 \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u043d\u044f"
         }
     ],
     "username": [
@@ -1182,11 +1152,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "\u043f\u0435\u0440\u0435\u0433\u043b\u044f\u0434"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "\u043f\u0435\u0440\u0435\u0433\u043b\u044f\u043d\u0443\u0442\u0438"
         }
     ],
     "visual editor": [

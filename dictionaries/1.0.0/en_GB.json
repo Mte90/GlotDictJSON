@@ -167,7 +167,7 @@
             "translation": "honoured"
         }
     ],
-    "Howdy!": [
+    "howdy!": [
         {
             "comment": "",
             "pos": "noun",
@@ -228,11 +228,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "neighbour"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "neighbour"
         }
     ],
     "prefill": [
@@ -242,7 +237,7 @@
             "translation": "pre-fill"
         }
     ],
-    "State": [
+    "state": [
         {
             "comment": "",
             "pos": "noun",
@@ -253,11 +248,6 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "travelling"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
             "translation": "travelling"
         }
     ],
@@ -275,7 +265,7 @@
             "translation": "vapour"
         }
     ],
-    "ZIP code": [
+    "zip code": [
         {
             "comment": "",
             "pos": "noun",

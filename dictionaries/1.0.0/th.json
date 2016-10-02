@@ -48,14 +48,14 @@
             "translation": "\u0e1c\u0e39\u0e49\u0e04\u0e27\u0e1a\u0e04\u0e38\u0e21"
         }
     ],
-    "After the Deadline": [
+    "after the deadline": [
         {
             "comment": "www.afterthedeadline.com",
             "pos": "noun",
             "translation": "After the Deadline"
         }
     ],
-    "Appearance": [
+    "appearance": [
         {
             "comment": "",
             "pos": "noun",
@@ -67,11 +67,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "\u0e04\u0e25\u0e31\u0e07\u0e40\u0e01\u0e47\u0e1a"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "\u0e40\u0e01\u0e47\u0e1a\u0e40\u0e02\u0e49\u0e32\u0e04\u0e25\u0e31\u0e07"
         }
     ],
     "argument": [
@@ -151,7 +146,7 @@
             "translation": "\u0e40\u0e1a\u0e23\u0e32\u0e27\u0e4c\u0e40\u0e0b\u0e2d\u0e23\u0e4c"
         }
     ],
-    "BuddyPress": [
+    "buddypress": [
         {
             "comment": "",
             "pos": "noun",
@@ -226,11 +221,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "\u0e41\u0e2a\u0e14\u0e07\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2b\u0e47\u0e19"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2b\u0e47\u0e19"
         }
     ],
     "computer": [
@@ -254,56 +244,56 @@
             "translation": ""
         }
     ],
-    "Contributors": [
+    "contributors": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e1c\u0e39\u0e49\u0e2d\u0e38\u0e17\u0e34\u0e28"
         }
     ],
-    "Cookie": [
+    "cookie": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Cookie"
         }
     ],
-    "Custom Colors": [
+    "custom colors": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e1b\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e48\u0e07\u0e2a\u0e35"
         }
     ],
-    "Custom CSS": [
+    "custom css": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e1b\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e48\u0e07 CSS"
         }
     ],
-    "Custom Design": [
+    "custom design": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e1b\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e48\u0e07\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e32"
         }
     ],
-    "Custom Fonts": [
+    "custom fonts": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e1b\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e48\u0e07\u0e15\u0e31\u0e27\u0e2d\u0e31\u0e01\u0e29\u0e23"
         }
     ],
-    "Custom Menu": [
+    "custom menu": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e40\u0e21\u0e19\u0e39\u0e1b\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e48\u0e07"
         }
     ],
-    "Custom Post Type": [
+    "custom post type": [
         {
             "comment": "",
             "pos": "noun",
@@ -317,7 +307,7 @@
             "translation": "\u0e1b\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e48\u0e07"
         }
     ],
-    "Dashboard": [
+    "dashboard": [
         {
             "comment": "",
             "pos": "noun",
@@ -419,17 +409,17 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e22\u0e48\u0e2d"
+            "translation": "\u0e40\u0e01\u0e23\u0e34\u0e48\u0e19\u0e19\u0e33"
         }
     ],
-    "Facebook": [
+    "facebook": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e40\u0e1f\u0e0b\u0e1a\u0e38\u0e4a\u0e04"
         }
     ],
-    "Featured": [
+    "featured": [
         {
             "comment": "",
             "pos": "noun",
@@ -478,7 +468,7 @@
             "translation": "\u0e42\u0e1f\u0e25\u0e40\u0e14\u0e2d\u0e23\u0e4c"
         }
     ],
-    "Follower": [
+    "follower": [
         {
             "comment": "",
             "pos": "noun",
@@ -492,7 +482,7 @@
             "translation": "\u0e15\u0e49\u0e2d\u0e07\u0e2b\u0e49\u0e32\u0e21"
         }
     ],
-    "Freshly Pressed": [
+    "freshly pressed": [
         {
             "comment": "",
             "pos": "noun",
@@ -504,11 +494,6 @@
             "comment": "",
             "pos": "adjective",
             "translation": ""
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": ""
         }
     ],
     "gallery": [
@@ -518,42 +503,42 @@
             "translation": ""
         }
     ],
-    "Happiness Engineer": [
+    "happiness engineer": [
         {
             "comment": "",
             "pos": "noun",
             "translation": ""
         }
     ],
-    "Happiness Engineers": [
+    "happiness engineers": [
         {
             "comment": "",
             "pos": "noun",
             "translation": ""
         }
     ],
-    "Header": [
+    "header": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e2a\u0e48\u0e27\u0e19\u0e2b\u0e31\u0e27"
         }
     ],
-    "Header Image": [
+    "header image": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e23\u0e39\u0e1b\u0e2a\u0e48\u0e27\u0e19\u0e2b\u0e31\u0e27"
         }
     ],
-    "Header Text": [
+    "header text": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e02\u0e49\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e48\u0e27\u0e19\u0e2b\u0e31\u0e27"
         }
     ],
-    "Header Text Color": [
+    "header text color": [
         {
             "comment": "",
             "pos": "noun",
@@ -579,35 +564,30 @@
             "comment": "",
             "pos": "adjective",
             "translation": ""
-        },
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "\u0e44\u0e21\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07"
         }
     ],
-    "IP address": [
+    "ip address": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e2d\u0e1e\u0e35"
         }
     ],
-    "Jetpack": [
+    "jetpack": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Jetpack"
         }
     ],
-    "Like": [
+    "like": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e0a\u0e37\u0e48\u0e19\u0e0a\u0e2d\u0e1a"
         }
     ],
-    "Likes": [
+    "likes": [
         {
             "comment": "",
             "pos": "noun",
@@ -677,7 +657,7 @@
             "translation": "\u0e04\u0e25\u0e31\u0e07\u0e44\u0e1f\u0e25\u0e4c\u0e2a\u0e37\u0e48\u0e2d"
         }
     ],
-    "Media Uploader": [
+    "media uploader": [
         {
             "comment": "",
             "pos": "noun",
@@ -824,7 +804,7 @@
             "translation": "\u0e42\u0e1e\u0e25\u0e25\u0e4c"
         }
     ],
-    "Polldaddy": [
+    "polldaddy": [
         {
             "comment": "",
             "pos": "noun",
@@ -836,11 +816,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "\u0e2a\u0e48\u0e07"
         }
     ],
     "post format": [
@@ -871,7 +846,7 @@
             "translation": "\u0e1b\u0e23\u0e30\u0e40\u0e20\u0e17\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07"
         }
     ],
-    "Press This": [
+    "press this": [
         {
             "comment": "",
             "pos": "noun",
@@ -906,14 +881,14 @@
             "translation": ""
         }
     ],
-    "Quick Post": [
+    "quick post": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e40\u0e02\u0e35\u0e22\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e23\u0e47\u0e27"
         }
     ],
-    "Reader": [
+    "reader": [
         {
             "comment": "",
             "pos": "noun",
@@ -955,21 +930,21 @@
             "translation": "\u0e1a\u0e17\u0e1a\u0e32\u0e17"
         }
     ],
-    "RSS": [
+    "rss": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "RSS"
         }
     ],
-    "RTL": [
+    "rtl": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e40\u0e02\u0e35\u0e22\u0e19\u0e08\u0e32\u0e01\u0e02\u0e27\u0e32\u0e44\u0e1b\u0e0b\u0e49\u0e32\u0e22"
         }
     ],
-    "Search results": [
+    "search results": [
         {
             "comment": "",
             "pos": "noun",
@@ -1074,7 +1049,7 @@
             "translation": ""
         }
     ],
-    "Subversion": [
+    "subversion": [
         {
             "comment": "",
             "pos": "noun",
@@ -1151,7 +1126,7 @@
             "translation": "\u0e23\u0e39\u0e1b\u0e22\u0e48\u0e2d"
         }
     ],
-    "Toolbar": [
+    "toolbar": [
         {
             "comment": "",
             "pos": "noun",
@@ -1165,7 +1140,7 @@
             "translation": ""
         }
     ],
-    "Transient": [
+    "transient": [
         {
             "comment": "",
             "pos": "noun",
@@ -1179,7 +1154,7 @@
             "translation": ""
         }
     ],
-    "Twitter": [
+    "twitter": [
         {
             "comment": "",
             "pos": "noun",
@@ -1214,7 +1189,7 @@
             "translation": "\u0e15\u0e31\u0e27\u0e2d\u0e31\u0e1b\u0e42\u0e2b\u0e25\u0e14"
         }
     ],
-    "URL": [
+    "url": [
         {
             "comment": "",
             "pos": "noun",
@@ -1242,7 +1217,7 @@
             "translation": "\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e44\u0e14\u0e49"
         }
     ],
-    "VaultPress": [
+    "vaultpress": [
         {
             "comment": "",
             "pos": "noun",
@@ -1256,7 +1231,7 @@
             "translation": "\u0e27\u0e35\u0e14\u0e35\u0e42\u0e2d"
         }
     ],
-    "VideoPress": [
+    "videopress": [
         {
             "comment": "",
             "pos": "noun",
@@ -1268,11 +1243,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "\u0e14\u0e39"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "\u0e01\u0e32\u0e23\u0e14\u0e39"
         }
     ],
     "web server": [
@@ -1282,56 +1252,56 @@
             "translation": "\u0e40\u0e27\u0e47\u0e1a\u0e40\u0e0b\u0e34\u0e23\u0e4c\u0e1f\u0e40\u0e27\u0e2d\u0e23\u0e4c"
         }
     ],
-    "WordCamp": [
+    "wordcamp": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "WordCamp"
         }
     ],
-    "WordPress": [
+    "wordpress": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e14\u0e40\u0e1e\u0e23\u0e2a"
         }
     ],
-    "WordPress Dashboard": [
+    "wordpress dashboard": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0e2b\u0e19\u0e49\u0e32\u0e04\u0e27\u0e1a\u0e04\u0e38\u0e21\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e14\u0e40\u0e1e\u0e23\u0e2a"
         }
     ],
-    "WordPress.com": [
+    "wordpress.com": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "WordPress.com"
         }
     ],
-    "WordPress.com Business": [
+    "wordpress.com business": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "WordPress.com Business"
         }
     ],
-    "WordPress.com Enterprise": [
+    "wordpress.com enterprise": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "WordPress.com Enterprise"
         }
     ],
-    "WordPress.com Premium": [
+    "wordpress.com premium": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "WordPress.com Premium"
         }
     ],
-    "XML-RPC": [
+    "xml-rpc": [
         {
             "comment": "",
             "pos": "noun",

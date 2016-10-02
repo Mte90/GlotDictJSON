@@ -18,11 +18,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "\u0924\u094d\u0930\u0941\u091f\u093f"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "\u0924\u094d\u0930\u0941\u091f\u093f"
         }
     ],
     "bug report": [
@@ -58,7 +53,7 @@
             "translation": "\u0938\u0902\u092a\u093e\u0926\u0915"
         }
     ],
-    "Gallery": [
+    "gallery": [
         {
             "comment": "",
             "pos": "noun",
@@ -79,7 +74,7 @@
             "translation": "\u092a\u093e\u0938\u0935\u0930\u094d\u0921"
         }
     ],
-    "Plugin": [
+    "plugin": [
         {
             "comment": "",
             "pos": "noun",
@@ -107,7 +102,7 @@
             "translation": "\u0925\u0940\u092e"
         }
     ],
-    "URL": [
+    "url": [
         {
             "comment": "",
             "pos": "noun",
@@ -121,7 +116,7 @@
             "translation": "\u092f\u0942\u095b\u0930\u0928\u0947\u092e"
         }
     ],
-    "WordPress": [
+    "wordpress": [
         {
             "comment": "",
             "pos": "noun",

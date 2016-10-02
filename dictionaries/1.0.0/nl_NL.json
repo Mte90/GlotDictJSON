@@ -1,5 +1,5 @@
 {
-    " Hoofdletter gebruik en titels": [
+    " hoofdletter gebruik en titels": [
         {
             "comment": "Bij titels gebruiken we alleen bij het eerste woord een hoofdletter.",
             "pos": "noun",
@@ -55,7 +55,7 @@
             "translation": "alle"
         }
     ],
-    "Allow": [
+    "allow": [
         {
             "comment": "Bij vertaling van 'Allow x op deze pagina', is 'X toestaan op deze pagina' de beste vertaling.",
             "pos": "noun",
@@ -223,7 +223,7 @@
             "translation": "conjunctie"
         }
     ],
-    "Content": [
+    "content": [
         {
             "comment": "Binnen WordPress verwijst 'Content' meestal naar de inhoud van een bericht. Daarom wordt dit altijd vertaald naar 'inhoud'. ",
             "pos": "noun",
@@ -251,11 +251,25 @@
             "translation": "verwijderen"
         }
     ],
-    "Dismiss": [
+    "dismiss": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Negeren"
+        }
+    ],
+    "displays [location]": [
+        {
+            "comment": "Voorbeeld 1: Displays below the content area. > Wordt onder de inhoud getoond.\r",
+            "pos": "expression",
+            "translation": "Wordt [op locatie] getoond. "
+        }
+    ],
+    "voorbeeld 2: displays to the right of the logo. > wordt rechts van het logo getoond.\"": [
+        {
+            "comment": null,
+            "pos": null,
+            "translation": null
         }
     ],
     "drag and drop": [
@@ -267,7 +281,7 @@
     ],
     "dropdown": [
         {
-            "comment": ";",
+            "comment": "en dropdown-menu.",
             "pos": "noun",
             "translation": "dropdown"
         }
@@ -277,6 +291,27 @@
             "comment": ";",
             "pos": "verb",
             "translation": "Bewerken"
+        }
+    ],
+    "editor": [
+        {
+            "comment": "De text editor blijft de editor.",
+            "pos": "noun",
+            "translation": "editor, redacteur"
+        }
+    ],
+    "een desktop text editor wordt tekstbewerker.": [
+        {
+            "comment": null,
+            "pos": null,
+            "translation": null
+        }
+    ],
+    "de rol editor wordt redacteur.\"": [
+        {
+            "comment": null,
+            "pos": null,
+            "translation": null
         }
     ],
     "email": [
@@ -328,11 +363,18 @@
             "translation": "uitdrukking"
         }
     ],
-    "Filter by": [
+    "filter by": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "Filteren"
+        }
+    ],
+    "flip": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "spiegelen"
         }
     ],
     "font": [
@@ -426,7 +468,7 @@
             "translation": "importeerfunctie"
         }
     ],
-    "Interjection": [
+    "interjection": [
         {
             "comment": ";",
             "pos": "noun",
@@ -440,7 +482,7 @@
             "translation": "trefwoord"
         }
     ],
-    "License key": [
+    "license key": [
         {
             "comment": "",
             "pos": "noun",
@@ -461,7 +503,7 @@
             "translation": "locatie"
         }
     ],
-    "Media file": [
+    "media file": [
         {
             "comment": "In de Nederlandse taal is dit \u00e9\u00e9n woord. We schrijven dit niet los.",
             "pos": "noun",
@@ -482,7 +524,7 @@
             "translation": "menu&#39;s"
         }
     ],
-    "Multiline textarea": [
+    "multiline textarea": [
         {
             "comment": "",
             "pos": "noun",
@@ -580,11 +622,18 @@
             "translation": "opnieuw activeren"
         }
     ],
-    "Remove": [
+    "remove": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Verwijderen"
+        }
+    ],
+    "rotate": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "roteren"
         }
     ],
     "run": [
@@ -594,7 +643,7 @@
             "translation": "uitvoeren"
         }
     ],
-    "Screen Options": [
+    "screen options": [
         {
             "comment": "",
             "pos": "noun",

@@ -53,11 +53,6 @@
             "comment": " Masculino",
             "pos": "noun",
             "translation": "backup"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "fazer backup"
         }
     ],
     "banner": [
@@ -72,11 +67,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "lote"
-        },
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "em lote"
         }
     ],
     "bitrate": [
@@ -114,14 +104,14 @@
             "translation": "por padr\u00e3o"
         }
     ],
-    "Can\u2019t": [
+    "can\u2019t": [
         {
             "comment": "",
             "pos": "expression",
             "translation": "n\u00e3o \u00e9 poss\u00edvel"
         }
     ],
-    "captioning ID": [
+    "captioning id": [
         {
             "comment": "Masculino",
             "pos": "expression",
@@ -157,11 +147,6 @@
         }
     ],
     "child theme": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "tema filho"
-        },
         {
             "comment": "",
             "pos": "expression",
@@ -217,14 +202,14 @@
             "translation": "arquivos b\u00e1sicos"
         }
     ],
-    "Costumizer": [
+    "costumizer": [
         {
             "comment": "Nome da ferramenta, usar inicial mai\u00fascula.",
             "pos": "noun",
             "translation": "Personalizar"
         }
     ],
-    "Couldn\u2019t": [
+    "couldn\u2019t": [
         {
             "comment": "",
             "pos": "expression",
@@ -339,11 +324,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "exibir"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "exibi\u00e7\u00e3o"
         }
     ],
     "distraction free": [
@@ -379,11 +359,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "download"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "fazer download"
         }
     ],
     "draft": [
@@ -540,7 +515,7 @@
             "translation": "ajuda sobre"
         }
     ],
-    "hidden Gui": [
+    "hidden gui": [
         {
             "comment": "",
             "pos": "expression",
@@ -575,14 +550,14 @@
             "translation": "teclas de acesso"
         }
     ],
-    "ID": [
+    "id": [
         {
             "comment": "feminino",
             "pos": "noun",
             "translation": "ID"
         }
     ],
-    "invoke URLs": [
+    "invoke urls": [
         {
             "comment": "",
             "pos": "expression",
@@ -685,11 +660,6 @@
             "comment": " masculino",
             "pos": "noun",
             "translation": "loop"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "fazer loop"
         }
     ],
     "malware": [
@@ -711,11 +681,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "mapeamento"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "mapeando"
         }
     ],
     "matching x": [
@@ -788,7 +753,7 @@
             "translation": "online"
         }
     ],
-    "Oops": [
+    "oops": [
         {
             "comment": "",
             "pos": "expression",
@@ -849,11 +814,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "post"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "publicar"
         }
     ],
     "prefetch": [
@@ -868,11 +828,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "visualizar"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "visualiza\u00e7\u00e3o"
         }
     ],
     "query": [
@@ -931,7 +886,7 @@
             "translation": "responder a"
         }
     ],
-    "Rich Editor": [
+    "rich editor": [
         {
             "comment": "",
             "pos": "noun",
@@ -945,7 +900,7 @@
             "translation": "fun\u00e7\u00e3o"
         }
     ],
-    "RSS feed": [
+    "rss feed": [
         {
             "comment": "",
             "pos": "noun",
@@ -971,11 +926,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "agenda"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "agendar"
         }
     ],
     "scheduled": [
@@ -990,11 +940,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "pesquisa"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "pesquisar"
         }
     ],
     "search engine": [
@@ -1254,14 +1199,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "upload"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "fazer upload"
         }
     ],
-    "URL": [
+    "url": [
         {
             "comment": "masculino",
             "pos": "noun",
@@ -1280,11 +1220,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "visualiza\u00e7\u00e3o"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "ver"
         }
     ],
     "warning": [

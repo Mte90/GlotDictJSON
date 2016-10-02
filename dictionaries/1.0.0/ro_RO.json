@@ -9,11 +9,6 @@
             "comment": "supliment?",
             "pos": "noun",
             "translation": "adi\u021bional"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "ad\u0103ugabil"
         }
     ],
     "are you sure ...?": [
@@ -50,19 +45,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "partea administrativ\u0103 a sitului"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "partea administrativ\u0103 a sitului"
         }
     ],
     "bandwith": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "l\u0103\u021bime de band\u0103"
-        },
         {
             "comment": "",
             "pos": "expression",
@@ -74,11 +59,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "bloger"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "bloger"
         }
     ],
     "bookmark": [
@@ -86,19 +66,9 @@
             "comment": "",
             "pos": "verb",
             "translation": "pune un semn de carte"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "pune un semn de carte"
         }
     ],
     "bookmarklet": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "marcator"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -122,19 +92,9 @@
             "comment": "",
             "pos": "expression",
             "translation": "rata de revenire"
-        },
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "rata de revenire"
         }
     ],
     "box": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "caset\u0103"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -158,19 +118,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "firimituri"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "firimituri"
         }
     ],
     "browse": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "r\u0103sfoi"
-        },
         {
             "comment": "",
             "pos": "verb",
@@ -182,19 +132,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "navigator"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "navigator"
         }
     ],
     "bug": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "eroare"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -295,19 +235,9 @@
             "comment": "",
             "pos": "expression",
             "translation": "list\u0103 modific\u0103ri"
-        },
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "list\u0103 modific\u0103ri"
         }
     ],
     "chart": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "diagram\u0103"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -379,19 +309,9 @@
             "comment": "",
             "pos": "expression",
             "translation": "drepturi de autor"
-        },
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "drepturi de autor"
         }
     ],
     "core": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "nucleu"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -411,11 +331,6 @@
         }
     ],
     "credits": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "recuno\u0219tin\u021be"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -511,11 +426,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "retrograda"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "retrograda"
         }
     ],
     "download": [
@@ -531,11 +441,6 @@
         }
     ],
     "draft": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "ciorn\u0103"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -559,19 +464,9 @@
             "comment": "",
             "pos": "expression",
             "translation": "meniu derulant"
-        },
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "meniu derulant"
         }
     ],
     "e-mail": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "email"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -615,11 +510,6 @@
         },
         {
             "comment": "\u00eenglobat",
-            "pos": "verb",
-            "translation": "\u00eengloba"
-        },
-        {
-            "comment": "",
             "pos": "verb",
             "translation": "\u00eengloba"
         }
@@ -670,11 +560,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "rezumat"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "rezumat"
         }
     ],
     "fade in \/ fade out": [
@@ -694,14 +579,9 @@
             "comment": "",
             "pos": "verb",
             "translation": "e\u0219ua"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "e\u0219ua"
         }
     ],
-    "FAQ": [
+    "faq": [
         {
             "comment": "\u00centreb\u0103ri frecvente (puse frecvent)",
             "pos": "expression",
@@ -725,22 +605,12 @@
             "translation": "func\u021bionalitate"
         },
         {
-            "comment": "",
-            "pos": "verb",
-            "translation": "eviden\u021bia"
-        },
-        {
             "comment": "facilitate",
             "pos": "noun",
             "translation": "func\u021bionalitate"
         }
     ],
     "feature image": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "imagine reprezentativ\u0103"
-        },
         {
             "comment": "",
             "pos": "expression",
@@ -752,11 +622,6 @@
             "comment": "",
             "pos": "adjective",
             "translation": "reprezentativ"
-        },
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "reprezentativ"
         }
     ],
     "feed": [
@@ -764,19 +629,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "flux"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "flux"
         }
     ],
     "feedback": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "impresii"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -819,11 +674,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "urm\u0103ritor"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "urm\u0103ritor"
         }
     ],
     "font": [
@@ -843,19 +693,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "subsol"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "subsol"
         }
     ],
     "front page": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "pagina din fa\u021b\u0103"
-        },
         {
             "comment": "",
             "pos": "expression",
@@ -872,19 +712,9 @@
             "comment": "fa\u021bad\u0103?!",
             "pos": "expression",
             "translation": "partea din fa\u021b\u0103 a sitului"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "partea din fa\u021b\u0103 a sitului"
         }
     ],
     "geotagging": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "geo-etichetare"
-        },
         {
             "comment": "",
             "pos": "verb",
@@ -896,16 +726,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "gril\u0103"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "gril\u0103"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "grid"
         }
     ],
     "hastag": [
@@ -921,11 +741,6 @@
         }
     ],
     "header": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "antet"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -1050,12 +865,7 @@
             "translation": "indentare"
         }
     ],
-    "Initial release": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "Lansare ini\u021bial\u0103"
-        },
+    "initial release": [
         {
             "comment": "",
             "pos": "expression",
@@ -1063,11 +873,6 @@
         }
     ],
     "inline": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "\u00een-linie"
-        },
         {
             "comment": "",
             "pos": "expression",
@@ -1091,19 +896,9 @@
             "comment": "",
             "pos": "expression",
             "translation": "conexiuni \u00eenl\u0103n\u021buite"
-        },
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "conexiuni \u00eenl\u0103n\u021buite"
         }
     ],
     "language pack": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "pachet lingvistic"
-        },
         {
             "comment": "",
             "pos": "expression",
@@ -1127,19 +922,9 @@
             "comment": "",
             "pos": "expression",
             "translation": "simplu \u0219i semnificativ"
-        },
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "simplu \u0219i semnificativ"
         }
     ],
     "library": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "bibliotec\u0103"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -1151,19 +936,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "apreciere"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "apreciere"
         }
     ],
     "link": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "leg\u0103tur\u0103"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -1175,11 +950,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "local\u0103"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "local\u0103"
         }
     ],
     "logged in": [
@@ -1187,19 +957,9 @@
             "comment": "",
             "pos": "adjective",
             "translation": "autentificat"
-        },
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "autentificat"
         }
     ],
     "logged out": [
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "deautentificat"
-        },
         {
             "comment": "",
             "pos": "adjective",
@@ -1295,11 +1055,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "metadate"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "metadate"
         }
     ],
     "minify": [
@@ -1319,19 +1074,9 @@
             "comment": "",
             "pos": "adjective",
             "translation": "diverse"
-        },
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "diverse"
         }
     ],
     "mobile-first": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "\u00eent\u00e2i-mobil"
-        },
         {
             "comment": "",
             "pos": "expression",
@@ -1355,11 +1100,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "maus"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "maus"
         }
     ],
     "namespace": [
@@ -1379,16 +1119,6 @@
             "comment": "",
             "pos": "adjective",
             "translation": "imbricat"
-        },
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "imbricat"
-        },
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "imbricate"
         }
     ],
     "nonce": [
@@ -1404,11 +1134,6 @@
         }
     ],
     "obfuscated code": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "cod obscurizat"
-        },
         {
             "comment": "",
             "pos": "expression",
@@ -1444,11 +1169,6 @@
             "comment": "",
             "pos": "expression",
             "translation": "din mers"
-        },
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "din mers"
         }
     ],
     "override": [
@@ -1468,19 +1188,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "distan\u021bare"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "distan\u021bare"
         }
     ],
     "parallax": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "paralax\u0103"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -1528,11 +1238,6 @@
             "comment": "",
             "pos": "expression",
             "translation": "diagram\u0103 (sectorial) circular\u0103"
-        },
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "diagram\u0103 (sectorial) circular\u0103"
         }
     ],
     "placeholder": [
@@ -1576,11 +1281,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "rul\u0103ri"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "rul\u0103ri"
         }
     ],
     "please": [
@@ -1605,11 +1305,6 @@
             "comment": "vezi \u0219i \"module\" -> extensie",
             "pos": "noun",
             "translation": "modul"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "modul"
         }
     ],
     "post": [
@@ -1619,19 +1314,9 @@
             "translation": "publica"
         },
         {
-            "comment": "",
-            "pos": "noun",
-            "translation": "articol"
-        },
-        {
             "comment": "... uneori a trimite",
             "pos": "verb",
             "translation": "publica"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "articol"
         }
     ],
     "privacy": [
@@ -1639,19 +1324,9 @@
             "comment": "",
             "pos": "adjective",
             "translation": "confiden\u021bialitate"
-        },
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "confiden\u021bialitate"
         }
     ],
     "proofread": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "corectur\u0103"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -1687,11 +1362,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "referire"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "referire"
         }
     ],
     "referrer": [
@@ -1711,24 +1381,9 @@
             "comment": "",
             "pos": "adjective",
             "translation": "similar"
-        },
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "similar"
         }
     ],
     "remove": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "\u00eenl\u0103tura"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "\u00eenl\u0103tur\u0103"
-        },
         {
             "comment": "",
             "pos": "verb",
@@ -1740,19 +1395,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "depozitar"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "depozitar"
         }
     ],
     "responsive": [
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "responsiv"
-        },
         {
             "comment": "",
             "pos": "adjective",
@@ -1776,19 +1421,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "recenzie"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "recenzie"
         }
     ],
     "reviewer": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "recenzent"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -1831,11 +1466,6 @@
             "translation": "ecran"
         },
         {
-            "comment": "",
-            "pos": "noun",
-            "translation": "ecran"
-        },
-        {
             "comment": "\"administrative screen\" -> ecran de administrare",
             "pos": "noun",
             "translation": "ecran"
@@ -1846,19 +1476,9 @@
             "comment": "",
             "pos": "verb",
             "translation": "derula"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "derula"
         }
     ],
-    "send to Trash": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "arunca la gunoi"
-        },
+    "send to trash": [
         {
             "comment": "",
             "pos": "expression",
@@ -1894,11 +1514,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "scurtcod"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "scurtcod"
         }
     ],
     "shortcut": [
@@ -1906,19 +1521,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "scurt\u0103tur\u0103"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "scurt\u0103tur\u0103"
         }
     ],
     "shortlink": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "leg\u0103tur\u0103 scurt\u0103"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -1976,11 +1581,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "carusel"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "carusel"
         }
     ],
     "slides": [
@@ -1988,19 +1588,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "diapozitive"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "diapozitive"
         }
     ],
     "slug": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "descriptor"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -2060,11 +1650,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "\u0219ir"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "\u0219ir"
         }
     ],
     "styler": [
@@ -2084,11 +1669,6 @@
             "comment": "",
             "pos": "expression",
             "translation": "foaie de stiluri"
-        },
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "foaie de stiluri"
         }
     ],
     "submenu": [
@@ -2096,19 +1676,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "sub-meniu"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "sub-meniu"
         }
     ],
     "submit": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "trimite"
-        },
         {
             "comment": "",
             "pos": "verb",
@@ -2204,11 +1774,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "\u0219ablon"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "\u0219ablon"
         }
     ],
     "testimonial": [
@@ -2240,19 +1805,9 @@
             "comment": "",
             "pos": "expression",
             "translation": "domeniu-text"
-        },
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "domeniu-text"
         }
     ],
     "theme": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "tem\u0103"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -2264,11 +1819,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "miniatur\u0103"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "miniatur\u0103"
         }
     ],
     "tiled": [
@@ -2276,19 +1826,9 @@
             "comment": "",
             "pos": "adjective",
             "translation": "placat"
-        },
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "placat"
         }
     ],
     "tips": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "sfaturi"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -2324,19 +1864,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "bar\u0103 de unelte"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "bar\u0103 de unelte"
         }
     ],
     "trigger": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "declan\u0219ator"
-        },
         {
             "comment": "",
             "pos": "noun",
@@ -2478,11 +2008,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "filigran"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "filigran"
         }
     ],
     "widget": [
@@ -2498,11 +2023,6 @@
         }
     ],
     "widgetized area": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "zon\u0103 asamblabil\u0103"
-        },
         {
             "comment": "",
             "pos": "expression",
@@ -2534,11 +2054,6 @@
         }
     ],
     "you are not allowed to": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "nu ai voie s\u0103"
-        },
         {
             "comment": "",
             "pos": "expression",

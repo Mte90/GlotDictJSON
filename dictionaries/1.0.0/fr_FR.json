@@ -41,21 +41,21 @@
             "translation": "administrateur"
         }
     ],
-    "After the Deadline": [
+    "after the deadline": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "After the Deadline"
         }
     ],
-    "Akismet": [
+    "akismet": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Akismet"
         }
     ],
-    "Appearance": [
+    "appearance": [
         {
             "comment": "UI Menu",
             "pos": "noun",
@@ -67,14 +67,9 @@
             "comment": "",
             "pos": "noun",
             "translation": "archive"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "archiver"
         }
     ],
-    "Are you": [
+    "are you": [
         {
             "comment": "",
             "pos": "noun",
@@ -163,7 +158,7 @@
             "translation": "navigateur"
         }
     ],
-    "BuddyPress": [
+    "buddypress": [
         {
             "comment": "",
             "pos": "noun",
@@ -184,7 +179,7 @@
             "translation": "cat\u00e9gorie"
         }
     ],
-    "Changes": [
+    "changes": [
         {
             "comment": "",
             "pos": "noun",
@@ -212,7 +207,7 @@
             "translation": "jeu de caract\u00e8res"
         }
     ],
-    "Cheatin\u2019 uh?": [
+    "cheatin\u2019 uh?": [
         {
             "comment": "",
             "pos": "noun",
@@ -238,11 +233,6 @@
             "comment": "",
             "pos": "expression",
             "translation": "jeu de couleurs"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "jeu de couleurs"
         }
     ],
     "comment": [
@@ -250,11 +240,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "commenter"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "commentaire"
         }
     ],
     "computer": [
@@ -278,7 +263,7 @@
             "translation": "constante"
         }
     ],
-    "Cookie": [
+    "cookie": [
         {
             "comment": "Browser cookie",
             "pos": "noun",
@@ -292,21 +277,21 @@
             "translation": "recadrer"
         }
     ],
-    "Custom Design": [
+    "custom design": [
         {
             "comment": "WordPress.com paid upgrade product name",
             "pos": "noun",
             "translation": "Design sur mesure"
         }
     ],
-    "Custom Header Image": [
+    "custom header image": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Image d\u2019en-t\u00eate personnalis\u00e9e"
         }
     ],
-    "Custom Post Type": [
+    "custom post type": [
         {
             "comment": "",
             "pos": "noun",
@@ -320,7 +305,7 @@
             "translation": "personnaliser"
         }
     ],
-    "Dashboard": [
+    "dashboard": [
         {
             "comment": "Tableau prend une majuscule.",
             "pos": "noun",
@@ -353,11 +338,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "d\u00e9bogage"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "d\u00e9boguer"
         }
     ],
     "default": [
@@ -442,7 +422,7 @@
             "translation": "adresse de messagerie"
         }
     ],
-    "Enter": [
+    "enter": [
         {
             "comment": "",
             "pos": "verb",
@@ -470,14 +450,14 @@
             "translation": "extrait"
         }
     ],
-    "Extra Storage": [
+    "extra storage": [
         {
             "comment": "Upgrade that adds more storage space to the user's blog. More info: http:\/\/en.support.wordpress.com\/space-upgrade\/",
             "pos": "noun",
             "translation": "Stockage suppl\u00e9mentaire"
         }
     ],
-    "Facebook": [
+    "facebook": [
         {
             "comment": "",
             "pos": "noun",
@@ -512,7 +492,7 @@
             "translation": "flux"
         }
     ],
-    "Feedback": [
+    "feedback": [
         {
             "comment": "",
             "pos": "noun",
@@ -568,7 +548,7 @@
             "translation": "formulaire"
         }
     ],
-    "Freshly Pressed": [
+    "freshly pressed": [
         {
             "comment": "",
             "pos": "noun",
@@ -580,11 +560,6 @@
             "comment": "",
             "pos": "adjective",
             "translation": "public"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "interface publique"
         }
     ],
     "gallery": [
@@ -594,21 +569,21 @@
             "translation": "galerie"
         }
     ],
-    "Github": [
+    "github": [
         {
             "comment": "C\u2019est une marque",
             "pos": "noun",
             "translation": "GitHub"
         }
     ],
-    "Happiness Engineer": [
+    "happiness engineer": [
         {
             "comment": "Ne pas traduire",
             "pos": "noun",
             "translation": "Happiness Engineer"
         }
     ],
-    "Happiness Engineers": [
+    "happiness engineers": [
         {
             "comment": "Ne pas traduire",
             "pos": "noun",
@@ -617,7 +592,7 @@
     ],
     "header": [
         {
-            "comment": "",
+            "comment": "Nom masculin",
             "pos": "noun",
             "translation": "en-t\u00eate"
         }
@@ -634,11 +609,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "crochet"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "point d\u2019accroche"
         }
     ],
     "hosting provider": [
@@ -662,6 +632,13 @@
             "translation": "survol"
         }
     ],
+    "icon": [
+        {
+            "comment": "Nom f\u00e9minin ",
+            "pos": "noun",
+            "translation": "Ic\u00f4ne"
+        }
+    ],
     "invalid": [
         {
             "comment": "",
@@ -669,14 +646,14 @@
             "translation": "non valide"
         }
     ],
-    "IP address": [
+    "ip address": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "adresse\u00a0IP"
         }
     ],
-    "Jetpack": [
+    "jetpack": [
         {
             "comment": "",
             "pos": "noun",
@@ -697,21 +674,21 @@
             "translation": "pack de langue"
         }
     ],
-    "Like": [
+    "like": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "J\u2019aime"
         }
     ],
-    "Likes": [
+    "likes": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "J\u2019aime"
         }
     ],
-    "Link": [
+    "link": [
         {
             "comment": "",
             "pos": "noun",
@@ -723,11 +700,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "se connecter"
-        },
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "connexion"
         }
     ],
     "log out": [
@@ -735,11 +707,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "se d\u00e9connecter"
-        },
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "d\u00e9connexion"
         }
     ],
     "logged in": [
@@ -777,7 +744,7 @@
             "translation": "fichier m\u00e9dia joint"
         }
     ],
-    "Media Uploader": [
+    "media uploader": [
         {
             "comment": "",
             "pos": "noun",
@@ -812,7 +779,7 @@
             "translation": "article suivant"
         }
     ],
-    "No": [
+    "no": [
         {
             "comment": "P.ex. No %s found = Aucun %s trouv\u00e9",
             "pos": "noun",
@@ -833,7 +800,7 @@
             "translation": "non \u00e9pingl\u00e9"
         }
     ],
-    "Note:": [
+    "note:": [
         {
             "comment": "",
             "pos": "noun",
@@ -931,14 +898,14 @@
             "translation": "ping"
         }
     ],
-    "Placeholder": [
+    "placeholder": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Texte indicatif"
         }
     ],
-    "Please": [
+    "please": [
         {
             "comment": "",
             "pos": "noun",
@@ -959,7 +926,7 @@
             "translation": "sondage"
         }
     ],
-    "Polldaddy": [
+    "polldaddy": [
         {
             "comment": "",
             "pos": "noun",
@@ -971,11 +938,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "article"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "publier"
         }
     ],
     "post format": [
@@ -1013,7 +975,7 @@
             "translation": "th\u00e8me premium"
         }
     ],
-    "Press This": [
+    "press this": [
         {
             "comment": "",
             "pos": "noun",
@@ -1027,7 +989,7 @@
             "translation": "article pr\u00e9c\u00e9dent"
         }
     ],
-    "Publicize": [
+    "publicize": [
         {
             "comment": "",
             "pos": "noun",
@@ -1041,7 +1003,7 @@
             "translation": "requ\u00eate"
         }
     ],
-    "Quick Post": [
+    "quick post": [
         {
             "comment": "",
             "pos": "noun",
@@ -1060,26 +1022,16 @@
             "comment": "",
             "pos": "verb",
             "translation": "\u00e9valuer"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "taux"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "\u00e9valuation"
         }
     ],
-    "Reader": [
+    "reader": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Lecteur"
         }
     ],
-    "Reblog": [
+    "reblog": [
         {
             "comment": "",
             "pos": "verb",
@@ -1093,28 +1045,28 @@
             "translation": "reCAPTCHA"
         }
     ],
-    "Related Posts": [
+    "related posts": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Articles similaires"
         }
     ],
-    "Remove": [
+    "remove": [
         {
             "comment": "Exception : Supprimer pour les utilisateurs, extensions et th\u00e8mes.",
             "pos": "verb",
             "translation": "Retirer"
         }
     ],
-    "Remove permanently": [
+    "remove permanently": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "Supprimer d\u00e9finitivement"
         }
     ],
-    "Repository": [
+    "repository": [
         {
             "comment": "",
             "pos": "noun",
@@ -1149,21 +1101,21 @@
             "translation": "r\u00f4le"
         }
     ],
-    "RSS": [
+    "rss": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "RSS"
         }
     ],
-    "Save": [
+    "save": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "Enregistrer"
         }
     ],
-    "Scale": [
+    "scale": [
         {
             "comment": "",
             "pos": "verb",
@@ -1175,11 +1127,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "d\u00e9filement"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "d\u00e9filer\/faire d\u00e9filer"
         }
     ],
     "search": [
@@ -1203,7 +1150,7 @@
             "translation": "serveur"
         }
     ],
-    "Settings": [
+    "settings": [
         {
             "comment": "",
             "pos": "noun",
@@ -1245,7 +1192,7 @@
             "translation": "diapositive"
         }
     ],
-    "Slider": [
+    "slider": [
         {
             "comment": "",
             "pos": "noun",
@@ -1322,7 +1269,7 @@
             "translation": "abonnement"
         }
     ],
-    "Subversion": [
+    "subversion": [
         {
             "comment": "",
             "pos": "noun",
@@ -1420,7 +1367,14 @@
             "translation": "barre d\u2019outils"
         }
     ],
-    "Topic": [
+    "tooltip": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "infobulle"
+        }
+    ],
+    "topic": [
         {
             "comment": "",
             "pos": "noun",
@@ -1434,7 +1388,7 @@
             "translation": "r\u00e9trolien"
         }
     ],
-    "Transient": [
+    "transient": [
         {
             "comment": "",
             "pos": "noun",
@@ -1455,7 +1409,7 @@
             "translation": "d\u00e9pannage"
         }
     ],
-    "Twitter": [
+    "twitter": [
         {
             "comment": "",
             "pos": "noun",
@@ -1492,13 +1446,6 @@
     ],
     "url": [
         {
-            "comment": "",
-            "pos": "noun",
-            "translation": "URL"
-        }
-    ],
-    "URL": [
-        {
             "comment": "URL au pluriel ou adresses web",
             "pos": "noun",
             "translation": "URL"
@@ -1525,7 +1472,7 @@
             "translation": "valide"
         }
     ],
-    "VaultPress": [
+    "vaultpress": [
         {
             "comment": "",
             "pos": "noun",
@@ -1539,7 +1486,7 @@
             "translation": "vid\u00e9o"
         }
     ],
-    "VideoPress": [
+    "videopress": [
         {
             "comment": "",
             "pos": "noun",
@@ -1567,63 +1514,70 @@
             "translation": "serveur Web"
         }
     ],
-    "WordCamp": [
+    "widget": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "widget"
+        }
+    ],
+    "wordcamp": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "WordCamp"
         }
     ],
-    "WordPress": [
+    "wordpress": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "WordPress"
         }
     ],
-    "WordPress Dashboard": [
+    "wordpress dashboard": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Tableau de bord WordPress"
         }
     ],
-    "WordPress.com": [
+    "wordpress.com": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "WordPress.com"
         }
     ],
-    "WordPress.com Business": [
+    "wordpress.com business": [
         {
             "comment": "WordPress.com paid upgrade product name",
             "pos": "noun",
             "translation": "WordPress.com Business"
         }
     ],
-    "WordPress.com Enterprise": [
+    "wordpress.com enterprise": [
         {
             "comment": "WordPress.com paid upgrade product name",
             "pos": "noun",
             "translation": "WordPress.com Enterprise"
         }
     ],
-    "WordPress.com Premium": [
+    "wordpress.com premium": [
         {
             "comment": "WordPress.com paid upgrade product name",
             "pos": "noun",
             "translation": "WordPress.com Premium"
         }
     ],
-    "XML-RPC": [
+    "xml-rpc": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "XML-RPC"
         }
     ],
-    "Youtube": [
+    "youtube": [
         {
             "comment": "",
             "pos": "noun",

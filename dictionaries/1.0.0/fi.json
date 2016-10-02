@@ -83,7 +83,7 @@
             "translation": "roskapostin esto"
         }
     ],
-    "API": [
+    "api": [
         {
             "comment": "",
             "pos": "substantiivi",
@@ -321,7 +321,7 @@
             "translation": "peru. peruuta, kumoa"
         }
     ],
-    "canonical URL": [
+    "canonical url": [
         {
             "comment": "Enable canonical URL\u2019s => Ota k\u00e4ytt\u00f6\u00f6n alkuper\u00e4n ilmaisevat verkko-osoitteet (canonical URL)",
             "pos": "substantiivi",
@@ -363,14 +363,12 @@
             "translation": "tuoteluettelo"
         }
     ],
-    "Category": [
+    "category": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "kategoria"
-        }
-    ],
-    "category": [
+        },
         {
             "comment": "Default Post Category => Artikkeleiden oletuskategoria; Product Category => Osasto; Parent Product Category => Ylemm\u00e4n tason osasto",
             "pos": "substantiivi",
@@ -559,14 +557,14 @@
             "translation": "rajaa"
         }
     ],
-    "CSS": [
+    "css": [
         {
             "comment": "(Cascading Style Sheet)",
             "pos": "substantiivi",
             "translation": "CSS-tyylitiedosto, CSS-muotoilu"
         }
     ],
-    "CSV": [
+    "csv": [
         {
             "comment": "(Comma Separated Values)",
             "pos": "substantiivi",
@@ -580,28 +578,19 @@
             "translation": "mukautettu, muokattu"
         }
     ],
-    "Customize": [
+    "customize": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "mukauta"
         }
     ],
-    "customize": [
-        {
-            "comment": "",
-            "pos": "verbi",
-            "translation": "mukauta"
-        }
-    ],
-    "Customizer": [
+    "customizer": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "mukautin"
-        }
-    ],
-    "customizer": [
+        },
         {
             "comment": "Menus in the Customizer => Valikot mukauttimessa",
             "pos": "substantiivi",
@@ -634,11 +623,6 @@
             "comment": "",
             "pos": "substantiivi",
             "translation": "testaustila"
-        },
-        {
-            "comment": "",
-            "pos": "verbi",
-            "translation": "testaa"
         }
     ],
     "default": [
@@ -683,18 +667,11 @@
             "translation": "tiedot, lis\u00e4tiedot"
         }
     ],
-    "Developer reference": [
+    "developer reference": [
         {
             "comment": "Tai kehitt\u00e4j\u00e4n tekninen dokumentaatio",
             "pos": "noun",
             "translation": "Tekninen dokumentaatio"
-        }
-    ],
-    "developer reference": [
-        {
-            "comment": "",
-            "pos": "substantiivi",
-            "translation": "tekninen dokumentaatio"
         }
     ],
     "disable": [
@@ -711,18 +688,11 @@
             "translation": "n\u00e4yt\u00e4"
         }
     ],
-    "Distraction-free writing mode": [
+    "distraction-free writing mode": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "H\u00e4iri\u00f6t\u00f6n kirjoitustila"
-        }
-    ],
-    "distraction-free writing mode": [
-        {
-            "comment": "",
-            "pos": "substantiivi",
-            "translation": "h\u00e4iri\u00f6t\u00f6n kirjoitustila"
         }
     ],
     "documentation": [
@@ -858,14 +828,14 @@
             "translation": "laajennus, lisuke, lis\u00e4osa"
         }
     ],
-    "F j, Y": [
+    "f j, y": [
         {
             "comment": "Suomessa p\u00e4iv\u00e4yksen muoto on j.n.Y tai Y-m-d",
             "pos": "\u00a0",
             "translation": "j.n.Y"
         }
     ],
-    "FAQ": [
+    "faq": [
         {
             "comment": "(Frequently Asked Questions) usein kysytyt kysymykset\u00a0",
             "pos": "ilmaisu",
@@ -1080,7 +1050,7 @@
             "translation": "ruudukko"
         }
     ],
-    "GTE": [
+    "gte": [
         {
             "comment": "(General Translation Editor) Jakaa projektik\u00e4\u00e4nt\u00e4j\u00e4 oikeuksia ja voi muokata mit\u00e4 tahansa k\u00e4\u00e4nn\u00f6st\u00e4.",
             "pos": "substantiivi",
@@ -1150,7 +1120,7 @@
             "translation": "osoitettaessa, kun kohdistimen alla"
         }
     ],
-    "HTML": [
+    "html": [
         {
             "comment": "(Hyper Text Markup Language)",
             "pos": "substantiivi",
@@ -1185,7 +1155,7 @@
             "translation": "kuvake"
         }
     ],
-    "ID": [
+    "id": [
         {
             "comment": "(Identification) No comment with this ID => Kommenttia ei l\u00f6ydy t\u00e4ll\u00e4 tunnuksella; Transaction ID => Tapahtuman tunnus\/ID;",
             "pos": "substantiivi",
@@ -1274,14 +1244,14 @@
             "translation": "kohde, nimike, tuote, kohta, merkint\u00e4, jne"
         }
     ],
-    "j M Y": [
+    "j m y": [
         {
             "comment": "Suomessa p\u00e4iv\u00e4yksen muoto on j.n.Y tai Y-m-d",
             "pos": "\u00a0",
             "translation": "j.n.Y"
         }
     ],
-    "jS F Y": [
+    "js f y": [
         {
             "comment": "Suomessa p\u00e4iv\u00e4yksen muoto on j.n.Y tai Y-m-d",
             "pos": "\u00a0",
@@ -1428,14 +1398,14 @@
             "translation": "vasemmalta oikealle"
         }
     ],
-    "M j, Y": [
+    "m j, y": [
         {
             "comment": "Suomessa p\u00e4iv\u00e4yksen muoto on j.n.Y tai Y-m-d",
             "pos": "\u00a0",
             "translation": "j.n.Y"
         }
     ],
-    "M jS": [
+    "m js": [
         {
             "comment": "Suomessa p\u00e4iv\u00e4yksen muoto on j.n.Y tai Y-m-d",
             "pos": "\u00a0",
@@ -1790,7 +1760,7 @@
             "translation": "lis\u00e4osa"
         }
     ],
-    "PM": [
+    "pm": [
         {
             "comment": "(Private Message)",
             "pos": "substantiivi",
@@ -1811,7 +1781,7 @@
             "translation": "ty\u00f6n\u00e4ytteet, portfolio"
         }
     ],
-    "Post": [
+    "post": [
         {
             "comment": "",
             "pos": "noun",
@@ -1821,18 +1791,6 @@
             "comment": "tai l\u00e4het\u00e4, riippuen kontekstista",
             "pos": "verb",
             "translation": "julkaise"
-        }
-    ],
-    "post": [
-        {
-            "comment": "",
-            "pos": "substantiivi",
-            "translation": "artikkeli"
-        },
-        {
-            "comment": "",
-            "pos": "verbi",
-            "translation": "julkaise, kirjoita viesti, \u201dpostaa\u201d"
         }
     ],
     "post type": [
@@ -1863,7 +1821,7 @@
             "translation": "korkealuokkainen;\u00a0erinomainen; maksullinen"
         }
     ],
-    "Press This": [
+    "press this": [
         {
             "comment": "Kyseess\u00e4 on ns. tuotenimi, ei k\u00e4\u00e4nnet\u00e4.",
             "pos": "noun",
@@ -1912,28 +1870,21 @@
             "translation": "oikoluku"
         }
     ],
-    "PTE": [
+    "pte": [
         {
             "comment": "(Project Translation Editor) Voi hyv\u00e4ksy\u00e4 k\u00e4\u00e4nt\u00e4jien ehdotuksia, mutta vain niiss\u00e4 projekteissa joihin saanut oikeudet.",
             "pos": "substantiivi",
             "translation": "projektik\u00e4\u00e4nt\u00e4j\u00e4"
         }
     ],
-    "Publish": [
+    "publish": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "julkaise"
         }
     ],
-    "publish": [
-        {
-            "comment": "",
-            "pos": "verbi",
-            "translation": "julkaise"
-        }
-    ],
-    "QR Code": [
+    "qr code": [
         {
             "comment": "",
             "pos": "substantiivi",
@@ -1973,11 +1924,6 @@
             "comment": "Flat Rate => Kiinte\u00e4 hinta (tai -prosentti)",
             "pos": "substantiivi",
             "translation": "m\u00e4\u00e4r\u00e4, nopeus, vero, veroprosentti, hinta"
-        },
-        {
-            "comment": "",
-            "pos": "verbi",
-            "translation": "arvostella, arvioida, asettaa luokka\/-taso"
         }
     ],
     "rating": [
@@ -2202,7 +2148,7 @@
             "translation": "siirr\u00e4 roskakoriin"
         }
     ],
-    "SEO": [
+    "seo": [
         {
             "comment": "(Search Engine Optimization)",
             "pos": "substantiivi",
@@ -2461,14 +2407,12 @@
             "translation": "taulu, taulukko"
         }
     ],
-    "Tag": [
+    "tag": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "avainsana"
-        }
-    ],
-    "tag": [
+        },
         {
             "comment": "Tags deleted => Avainsanat poistettiin; Popular Tags => Suositut avainsanat",
             "pos": "substantiivi",
@@ -2496,21 +2440,19 @@
             "translation": "kohde"
         }
     ],
-    "Taxonomy": [
+    "taxonomy": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "taksonomia"
-        }
-    ],
-    "taxonomy": [
+        },
         {
             "comment": "A list of taxonomy terms\u2026 => Luettelo luokittelujen arvoista\u2026",
             "pos": "substantiivi",
             "translation": "luokittelu, taksonomia"
         }
     ],
-    "TC": [
+    "tc": [
         {
             "comment": "(Translation Contributor) Voi k\u00e4\u00e4t\u00e4\u00e4 ja ehdottaa parannuksia k\u00e4\u00e4nn\u00f6ksiin tavallisilla WordPress.org-tunnuksilla.",
             "pos": "substantiivi",
@@ -2524,14 +2466,12 @@
             "translation": "malline, pohja, sivupohja,\u00a0malli"
         }
     ],
-    "Term": [
+    "term": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "termi"
-        }
-    ],
-    "term": [
+        },
         {
             "comment": "Shared term splitting => Jaettujen termien pilkkominen; Attribute terms can be assigned to => Ominaisuuden arvot voidaan kohdistaa",
             "pos": "substantiivi",
@@ -2552,7 +2492,7 @@
             "translation": "tekstin v\u00e4ri"
         }
     ],
-    "Text editor": [
+    "text editor": [
         {
             "comment": "",
             "pos": "noun",
@@ -2706,7 +2646,7 @@
             "translation": "siirr\u00e4"
         }
     ],
-    "URL": [
+    "url": [
         {
             "comment": "(Uniform Resource Locator) File URL => Tiedoston verkko-osoite (URL)",
             "pos": "substantiivi",
@@ -2727,7 +2667,7 @@
             "translation": "k\u00e4ytt\u00e4j\u00e4tunnus"
         }
     ],
-    "UTC": [
+    "utc": [
         {
             "comment": "(Coordinated Universal Time)",
             "pos": "ilmaisu",
@@ -2793,13 +2733,6 @@
             "comment": "",
             "pos": "substantiivi",
             "translation": "graafinen muokkain"
-        }
-    ],
-    "Visual editor": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "Graafinen muokkain"
         }
     ],
     "webhook": [

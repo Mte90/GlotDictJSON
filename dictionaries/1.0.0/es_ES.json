@@ -1,40 +1,40 @@
 {
-    "About": [
+    "about": [
         {
             "comment": "Preferimos \"Acerca de\" antes que \"Sobre\", pero depender\u00e1 del contexto. \r",
             "pos": "adverb",
             "translation": "Acerca de"
         }
     ],
-    "Acerca del tema Baskerville\"\"": [
+    "acerca del tema baskerville\"\"": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "Sobre el autor\"\"\"": [
+    "sobre el autor\"\"\"": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "Account": [
+    "account": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Cuenta"
         }
     ],
-    "Activate": [
+    "activate": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "Activar"
         }
     ],
-    "Activated": [
+    "activated": [
         {
             "comment": "",
             "pos": "adjective",
@@ -48,63 +48,61 @@
             "translation": "soluciona\/ba"
         }
     ],
-    "Admin": [
+    "admin": [
         {
             "comment": "Se refiere al rol dentro del sistema",
             "pos": "noun",
             "translation": "Administrador"
-        }
-    ],
-    "admin": [
+        },
         {
             "comment": "Se refiere al rol dentro del sistema",
             "pos": "noun",
             "translation": "administrador"
         }
     ],
-    "After the Deadline": [
+    "after the deadline": [
         {
             "comment": "Nombre de un producto de software http:\/\/afterthedeadline.com",
             "pos": "noun",
             "translation": "After the Deadline"
         }
     ],
-    "Ajax": [
+    "ajax": [
         {
             "comment": "No se traduce",
             "pos": "noun",
             "translation": "Ajax"
         }
     ],
-    "Array": [
+    "array": [
         {
             "comment": "No se traduce",
             "pos": "noun",
             "translation": "Array"
         }
     ],
-    "Aside": [
+    "aside": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Minientrada"
         }
     ],
-    "Attachment": [
+    "attachment": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Adjunto"
         }
     ],
-    "Author": [
+    "author": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Autor"
         }
     ],
-    "Autosave": [
+    "autosave": [
         {
             "comment": "",
             "pos": "noun",
@@ -125,56 +123,56 @@
             "translation": "acreditaci\u00f3n"
         }
     ],
-    "Bitrate": [
+    "bitrate": [
         {
             "comment": "No se traduce",
             "pos": "noun",
             "translation": "Bitrate"
         }
     ],
-    "Blockquote": [
+    "blockquote": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Cita"
         }
     ],
-    "Blog": [
+    "blog": [
         {
             "comment": "(No se traduce)",
             "pos": "noun",
             "translation": "Blog"
         }
     ],
-    "Bookmarklet": [
+    "bookmarklet": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Marcador"
         }
     ],
-    "Browser": [
+    "browser": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Navegador"
         }
     ],
-    "BuddyPress": [
+    "buddypress": [
         {
             "comment": "No se traduce",
             "pos": "noun",
             "translation": "BuddyPress"
         }
     ],
-    "Category": [
+    "category": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Categor\u00eda"
         }
     ],
-    "Click": [
+    "click": [
         {
             "comment": "Se pone \"clic\" sin K ",
             "pos": "verb",
@@ -188,16 +186,11 @@
             "translation": null
         }
     ],
-    "Comment": [
+    "comment": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Comentario"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "Comentar"
         }
     ],
     "contact with your host": [
@@ -207,7 +200,7 @@
             "translation": "contactar con tu proveedor de alojamiento web"
         }
     ],
-    "Content": [
+    "content": [
         {
             "comment": "",
             "pos": "noun",
@@ -221,84 +214,84 @@
             "translation": "colaborador"
         }
     ],
-    "Cookie": [
+    "cookie": [
         {
             "comment": "Plural \"Cookies\". No se traduce.",
             "pos": "noun",
             "translation": "Cookie"
         }
     ],
-    "Customize": [
+    "customize": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "Personalizar"
         }
     ],
-    "Customizer": [
+    "customizer": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Personalizador"
         }
     ],
-    "Dashboard": [
+    "dashboard": [
         {
             "comment": "No utilizar \"Tablero\"",
             "pos": "noun",
             "translation": "Escritorio"
         }
     ],
-    "Deprecated": [
+    "deprecated": [
         {
             "comment": "",
             "pos": "adjective",
             "translation": "Obsoleto \/ Obsoleta"
         }
     ],
-    "Draft": [
+    "draft": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Borrador"
         }
     ],
-    "Drop-in\/s": [
+    "drop-in\/s": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Dependiente\/s"
         }
     ],
-    "Email": [
+    "email": [
         {
             "comment": "No utiilzar: ",
             "pos": "noun",
             "translation": "Correo electr\u00f3nico"
         }
     ],
-    "email (Incorrecto).": [
+    "email (incorrecto).": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "correo e (Incorrecto).": [
+    "correo e (incorrecto).": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "e-mail (Incorrecto).": [
+    "e-mail (incorrecto).": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "Correo Electr\u00f3nico (con E may\u00fascula) (Incorrecto)": [
+    "correo electr\u00f3nico (con e may\u00fascula) (incorrecto)": [
         {
             "comment": null,
             "pos": null,
@@ -310,47 +303,37 @@
             "comment": null,
             "pos": null,
             "translation": null
-        },
-        {
-            "comment": null,
-            "pos": null,
-            "translation": null
-        },
+        }
+    ],
+    "email adress = direcci\u00f3n de correo electr\u00f3nico (correcto)\"": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "email adress = direcci\u00f3n de correo electr\u00f3nico (Correcto)\"": [
-        {
-            "comment": null,
-            "pos": null,
-            "translation": null
-        }
-    ],
-    "Embed": [
+    "embed": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "Incrustar"
         }
     ],
-    "Embeded": [
+    "embeded": [
         {
             "comment": "",
             "pos": "adjective",
             "translation": "Incrustado"
         }
     ],
-    "Excerpt": [
+    "excerpt": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Extracto"
         }
     ],
-    "FAQ": [
+    "faq": [
         {
             "comment": "No se traduce.",
             "pos": "noun",
@@ -361,7 +344,7 @@
         {
             "comment": "WooCommerce",
             "pos": "noun",
-            "translation": "couta"
+            "translation": "cuota"
         }
     ],
     "feed": [
@@ -371,18 +354,11 @@
             "translation": "feed"
         }
     ],
-    "Footer": [
+    "footer": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Pie de p\u00e1gina"
-        }
-    ],
-    "Front Page": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "P\u00e1gina de inicio"
         }
     ],
     "front page": [
@@ -392,35 +368,28 @@
             "translation": "P\u00e1gina de inicio"
         }
     ],
-    "Front page": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "P\u00e1gina de inicio"
-        }
-    ],
-    "Gallery": [
+    "gallery": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Galer\u00eda"
         }
     ],
-    "Grid": [
+    "grid": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Cuadr\u00edcula"
         }
     ],
-    "Header": [
+    "header": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Cabecera"
         }
     ],
-    "Home": [
+    "home": [
         {
             "comment": "(Hay que definir los contextos en los que una u otra son v\u00e1lidas)",
             "pos": "noun",
@@ -434,21 +403,21 @@
             "translation": "gancho"
         }
     ],
-    "Filter hook -> gancho de filtro\"": [
+    "filter hook -> gancho de filtro\"": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "Hosting": [
+    "hosting": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Alojamiento"
         }
     ],
-    "Howdy": [
+    "howdy": [
         {
             "comment": "",
             "pos": "noun",
@@ -462,7 +431,7 @@
             "translation": "Integrado\/a"
         }
     ],
-    "Invalid": [
+    "invalid": [
         {
             "comment": "No utilizar: Inv\u00e1lido (Incorrecto).",
             "pos": "noun",
@@ -476,42 +445,42 @@
             "translation": "problema\/s conflicto\/s"
         }
     ],
-    "Item\/s": [
+    "item\/s": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Elemento\/s"
         }
     ],
-    "Javascript": [
+    "javascript": [
         {
             "comment": "No se traduce",
             "pos": "noun",
             "translation": "Javascript"
         }
     ],
-    "JetPack": [
+    "jetpack": [
         {
             "comment": "No se traduce",
             "pos": "noun",
             "translation": "JetPack"
         }
     ],
-    "Se refiere al plugin JetPack. Puedes encontrar m\u00e1s informaci\u00f3n en jetpack.me\"": [
+    "se refiere al plugin jetpack. puedes encontrar m\u00e1s informaci\u00f3n en jetpack.me\"": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "Large": [
+    "large": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Grande"
         }
     ],
-    "Layout": [
+    "layout": [
         {
             "comment": "",
             "pos": "noun",
@@ -525,35 +494,35 @@
             "translation": "heredado"
         }
     ],
-    "Library": [
+    "library": [
         {
             "comment": "No usar librer\u00eda, que solo se refiere a libros",
             "pos": "noun",
             "translation": "Biblioteca"
         }
     ],
-    "Logged in": [
+    "logged in": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Conectado"
         }
     ],
-    "Logged out": [
+    "logged out": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Desconectado"
         }
     ],
-    "Login": [
+    "login": [
         {
             "comment": "Usar \"Acceso\" cuando sea un enlace a una p\u00e1gina de acceso.\r",
             "pos": "verb",
             "translation": "Acceder "
         }
     ],
-    "Usar \"\"Acceder\"\" cuando sea ": [
+    "usar \"\"acceder\"\" cuando sea ": [
         {
             "comment": null,
             "pos": null,
@@ -574,77 +543,77 @@
             "translation": null
         }
     ],
-    "No utilizar:": [
+    "no utilizar:": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "Iniciar Sesi\u00f3n (Incorrecto).": [
+    "iniciar sesi\u00f3n (incorrecto).": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "Entrar (Incorrecto).": [
+    "entrar (incorrecto).": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "Identificarse (Incorrecto)\"": [
+    "identificarse (incorrecto)\"": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "Manage": [
+    "manage": [
         {
             "comment": "No utilizar: Administrar (Incorrecto)",
             "pos": "verb",
             "translation": "Gestionar"
         }
     ],
-    "Management": [
+    "management": [
         {
             "comment": "No utilzar: Administraci\u00f3n (Incorrecto)",
             "pos": "noun",
             "translation": "Gesti\u00f3n"
         }
     ],
-    "Media": [
+    "media": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Multimedia"
         }
     ],
-    "Next": [
+    "next": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Siguiente"
         }
     ],
-    "Nickname": [
+    "nickname": [
         {
             "comment": "No utilizar: ",
             "pos": "noun",
             "translation": "Alias"
         }
     ],
-    "Apodo (Incorrecto) ": [
+    "apodo (incorrecto) ": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "Nickname (Incorrecto)\"": [
+    "nickname (incorrecto)\"": [
         {
             "comment": null,
             "pos": null,
@@ -658,7 +627,7 @@
             "translation": "nonce"
         }
     ],
-    "Options": [
+    "options": [
         {
             "comment": "No utilizar: Ajustes (Incorrecto)",
             "pos": "noun",
@@ -672,21 +641,14 @@
             "translation": "P\u00e1gina"
         }
     ],
-    "Page": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "P\u00e1gina"
-        }
-    ],
-    "Permalink": [
+    "permalink": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Enlace permanente"
         }
     ],
-    "Permalinks": [
+    "permalinks": [
         {
             "comment": "",
             "pos": "noun",
@@ -714,35 +676,35 @@
             "translation": "plugin\/s"
         }
     ],
-    "Post": [
+    "post": [
         {
             "comment": "Usar entrada o publicaci\u00f3n seg\u00fan el contexto",
             "pos": "noun",
             "translation": "Entrada \/ Publicaci\u00f3n"
         }
     ],
-    "Post type": [
+    "post type": [
         {
             "comment": "Hay varios tipos de publicaci\u00f3n (entradas, p\u00e1ginas, etc)",
             "pos": "noun",
             "translation": "Tipo de publicaci\u00f3n"
         }
     ],
-    "Posts": [
+    "posts": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Entradas"
         }
     ],
-    "Powered by WordPress": [
+    "powered by wordpress": [
         {
             "comment": "Traducci\u00f3n actual. ",
             "pos": "expression",
             "translation": "Funciona gracias a WordPress"
         }
     ],
-    "Previous": [
+    "previous": [
         {
             "comment": "",
             "pos": "noun",
@@ -756,14 +718,14 @@
             "translation": "consulta"
         }
     ],
-    "QuickPress": [
+    "quickpress": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Publicaci\u00f3n r\u00e1pida"
         }
     ],
-    "Release": [
+    "release": [
         {
             "comment": "No confudir con Released --> Lanzamiento",
             "pos": "noun",
@@ -784,14 +746,14 @@
             "translation": "recuperar"
         }
     ],
-    "Role": [
+    "role": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Rol"
         }
     ],
-    "RSS Feed": [
+    "rss feed": [
         {
             "comment": "",
             "pos": "noun",
@@ -805,21 +767,21 @@
             "translation": "extensi\u00f3n"
         }
     ],
-    "Screen": [
+    "screen": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Pantalla"
         }
     ],
-    "Set": [
+    "set": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "Establecer"
         }
     ],
-    "Settings": [
+    "settings": [
         {
             "comment": "No utilizar: Opciones (Incorrecto)",
             "pos": "noun",
@@ -833,21 +795,21 @@
             "translation": "shortcode"
         }
     ],
-    "Shortcut": [
+    "shortcut": [
         {
             "comment": "Plural: Shortcuts --> Atajos",
             "pos": "noun",
             "translation": "Atajo"
         }
     ],
-    "Shortcuts": [
+    "shortcuts": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Atajos"
         }
     ],
-    "Sidebar": [
+    "sidebar": [
         {
             "comment": "",
             "pos": "noun",
@@ -861,7 +823,7 @@
             "translation": "sitio"
         }
     ],
-    "Site Identity": [
+    "site identity": [
         {
             "comment": "Secci\u00f3n del Personalizador",
             "pos": "noun",
@@ -875,21 +837,21 @@
             "translation": "slug"
         }
     ],
-    "Sorry": [
+    "sorry": [
         {
             "comment": "No utilizar:",
             "pos": "noun",
             "translation": "Lo siento"
         }
     ],
-    "Lo sentimos (Incorrecto)": [
+    "lo sentimos (incorrecto)": [
         {
             "comment": null,
             "pos": null,
             "translation": null
         }
     ],
-    "Perdona (Incorrecto)\"": [
+    "perdona (incorrecto)\"": [
         {
             "comment": null,
             "pos": null,
@@ -903,28 +865,28 @@
             "translation": "p\u00e1gina de inicio est\u00e1tica"
         }
     ],
-    "Sticky": [
+    "sticky": [
         {
             "comment": "",
             "pos": "adjective",
             "translation": "Fija"
         }
     ],
-    "String": [
+    "string": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Cadena"
         }
     ],
-    "Stylesheet": [
+    "stylesheet": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Hoja de estilos"
         }
     ],
-    "Subscriber": [
+    "subscriber": [
         {
             "comment": "",
             "pos": "noun",
@@ -938,54 +900,49 @@
             "translation": "con \u00e9xito"
         }
     ],
-    "Template": [
+    "template": [
         {
             "comment": "No utilizar: Tema (Incorrecto)",
             "pos": "noun",
             "translation": "Plantilla"
         }
     ],
-    "Theme": [
+    "theme": [
         {
             "comment": "No utilizar: Plantilla (Incorrecto)",
             "pos": "noun",
             "translation": "Tema"
         }
     ],
-    "Tools": [
+    "tools": [
         {
             "comment": "Nombre de men\u00fa principal de WordPress",
             "pos": "noun",
             "translation": "Herramientas"
         }
     ],
-    "Unable": [
+    "unable": [
         {
             "comment": "",
             "pos": "expression",
             "translation": "No ha sido posible"
         }
     ],
-    "Update": [
+    "update": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Actualizaci\u00f3n"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "Actualizar"
         }
     ],
-    "Updated": [
+    "updated": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Actualizado"
         }
     ],
-    "Upload": [
+    "upload": [
         {
             "comment": "No utilizar: Carga (incorrecta)",
             "pos": "noun",
@@ -997,42 +954,42 @@
             "translation": "Subir"
         }
     ],
-    "Uploaded": [
+    "uploaded": [
         {
             "comment": "",
             "pos": "adverb",
             "translation": "Subido"
         }
     ],
-    "Username": [
+    "username": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Nombre de usuario"
         }
     ],
-    "Walker": [
+    "walker": [
         {
             "comment": "No se traduce",
             "pos": "noun",
             "translation": "Walker"
         }
     ],
-    "Warning": [
+    "warning": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Atenci\u00f3n"
         }
     ],
-    "XML-RPC": [
+    "xml-rpc": [
         {
             "comment": "No se traduce",
             "pos": "noun",
             "translation": "XML-RPC"
         }
     ],
-    "You are not allowed ": [
+    "you are not allowed ": [
         {
             "comment": "",
             "pos": "noun",

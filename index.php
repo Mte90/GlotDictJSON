@@ -79,7 +79,7 @@ function go_download_glotdict($locale, $url) {
                 // construct translation
                 $output[ $values[0] ][0] = array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] );
             } else {
-                if( !empty( $values[3] ) && !empty( $values[2] ) && !empty( $values[1] )) {
+                if( !empty( $values[2] ) && !empty( $values[1] )) {
                     array_push($output[ $values[0] ], array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] ));
                 }
             }

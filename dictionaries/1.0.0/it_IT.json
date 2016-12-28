@@ -25,6 +25,11 @@
             "comment": "",
             "pos": "noun",
             "translation": "attivare"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "attivare"
         }
     ],
     "activated": [
@@ -39,6 +44,11 @@
             "comment": "",
             "pos": "verb",
             "translation": "indirizzare"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "indirizzo"
         }
     ],
     "administrator": [
@@ -74,6 +84,11 @@
             "comment": "",
             "pos": "noun",
             "translation": "archivio"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "archiviare"
         }
     ],
     "are you sure you want": [
@@ -296,6 +311,11 @@
             "comment": "",
             "pos": "noun",
             "translation": "commento"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "commentare"
         }
     ],
     "constant": [
@@ -539,6 +559,11 @@
             "comment": "",
             "pos": "noun",
             "translation": "correzione"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "correggere"
         }
     ],
     "folder": [
@@ -665,6 +690,11 @@
             "comment": "",
             "pos": "noun",
             "translation": "host"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "ospitare"
         }
     ],
     "howdy": [
@@ -777,6 +807,11 @@
             "comment": "",
             "pos": "noun",
             "translation": "disconnessione"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "uscire"
         }
     ],
     "logged in": [
@@ -959,6 +994,11 @@
             "comment": "",
             "pos": "verb",
             "translation": "pubblicare"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "articolo"
         }
     ],
     "post thumbnail": [
@@ -994,6 +1034,11 @@
             "comment": "",
             "pos": "verb",
             "translation": "visualizzare"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "anteprima"
         }
     ],
     "previous post": [
@@ -1050,6 +1095,11 @@
             "comment": "",
             "pos": "verb",
             "translation": "aggiornare"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "ricaricare"
         }
     ],
     "release": [
@@ -1097,6 +1147,11 @@
             "comment": "",
             "pos": "expression",
             "translation": "Feed RSS"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "feed RSS"
         }
     ],
     "save": [
@@ -1335,6 +1390,11 @@
             "comment": "",
             "pos": "expression",
             "translation": "editor di testo"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "editor di testo"
         }
     ],
     "theme": [
@@ -1391,6 +1451,11 @@
             "comment": "",
             "pos": "noun",
             "translation": "cestino"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "eliminare"
         }
     ],
     "trial": [
@@ -1419,6 +1484,11 @@
             "comment": "",
             "pos": "verb",
             "translation": "aggiornare"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "aggiornamento"
         }
     ],
     "upload": [

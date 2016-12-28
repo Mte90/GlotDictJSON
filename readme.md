@@ -5,7 +5,7 @@ That simple script convert the glossaries on glotpress automatically for GlotDic
 ##Execute
 
 ```
-./download.php
+./index.php
 ```
 
 # Contributors

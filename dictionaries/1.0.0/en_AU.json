@@ -279,6 +279,13 @@
             "translation": "datacentre"
         }
     ],
+    "defense": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "defence"
+        }
+    ],
     "democratize": [
         {
             "comment": "",
@@ -426,6 +433,20 @@
             "translation": "front page"
         }
     ],
+    "fulfill": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "fulfil"
+        }
+    ],
+    "fulfillment": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "fulfilment"
+        }
+    ],
     "gray": [
         {
             "comment": "",
@@ -459,6 +480,13 @@
             "comment": "As in \"Under the hood...\"",
             "pos": "noun",
             "translation": "bonnet"
+        }
+    ],
+    "howdy": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "G'day"
         }
     ],
     "howdy!": [
@@ -639,6 +667,27 @@
             "comment": "",
             "pos": "verb",
             "translation": "modernised"
+        }
+    ],
+    "monetization": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "monetisation"
+        }
+    ],
+    "monetize": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "monetise"
+        }
+    ],
+    "monetizing": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "monetising"
         }
     ],
     "neighbor": [
@@ -1066,6 +1115,20 @@
             "comment": "",
             "pos": "verb",
             "translation": "uncategorised"
+        }
+    ],
+    "unfavorite": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "unfavourite"
+        }
+    ],
+    "unfavorited": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "unfavourited"
         }
     ],
     "uninitialization": [

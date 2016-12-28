@@ -181,6 +181,13 @@
             "translation": "Multitinklalapis"
         }
     ],
+    "option": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "nustatymas"
+        }
+    ],
     "parent theme": [
         {
             "comment": "Motinin\u0117 skamba tikrai blogiau",

@@ -111,6 +111,13 @@
             "translation": "After the Deadline"
         }
     ],
+    "alphanumeric": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "alfa say\u0131sal"
+        }
+    ],
     "appearance": [
         {
             "comment": "Mevcut temalar\u0131n\u0131z\u0131 y\u00f6netebilir, onlar\u0131 \u00f6zelle\u015ftirebilir ve yeni temalar y\u00fckleyebilirsiniz.",
@@ -1082,7 +1089,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "bar\u0131nd\u0131rma sa\u011flay\u0131c\u0131s\u0131"
+            "translation": "yer sa\u011flay\u0131c\u0131s\u0131"
         }
     ],
     "hover": [
@@ -1377,6 +1384,20 @@
             "translation": "Ortam Y\u00fckleyicisi"
         }
     ],
+    "member": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u00fcye"
+        }
+    ],
+    "members": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u00fcyeler"
+        }
+    ],
     "menu": [
         {
             "comment": "",
@@ -1445,6 +1466,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "\u00e7oklu site"
+        }
+    ],
+    "name": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "isim"
         }
     ],
     "next post": [
@@ -1795,6 +1823,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "H\u0131zl\u0131 Yaz\u0131"
+        }
+    ],
+    "rating": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "puan"
         }
     ],
     "reader": [
@@ -2410,14 +2445,14 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "terc\u00fcme etmek"
+            "translation": "\u00e7evirmek"
         }
     ],
     "translation": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "terc\u00fcme"
+            "translation": "\u00e7eviri "
         }
     ],
     "trial period": [
@@ -2544,6 +2579,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "kullan\u0131c\u0131"
+        }
+    ],
+    "users": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kullan\u0131c\u0131lar"
         }
     ],
     "valid": [

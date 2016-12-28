@@ -13,6 +13,13 @@
             "translation": "\u0932\u0947\u0916\u0915"
         }
     ],
+    "avatar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0905\u0935\u0924\u093e\u0930"
+        }
+    ],
     "bug": [
         {
             "comment": "",
@@ -27,11 +34,25 @@
             "translation": "\u092c\u0917 \u0930\u093f\u092a\u094b\u0930\u094d\u091f"
         }
     ],
+    "comment": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": " \u091f\u093f\u092a\u094d\u092a\u0923\u0940"
+        }
+    ],
     "development version": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0935\u093f\u0915\u093e\u0938 \u0938\u0902\u0938\u094d\u0915\u0930\u0923"
+        }
+    ],
+    "document": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0926\u0938\u094d\u0924\u093e\u0935\u0947\u091c\u093c"
         }
     ],
     "documentation": [
@@ -53,6 +74,27 @@
             "translation": "\u0938\u0902\u092a\u093e\u0926\u0915"
         }
     ],
+    "excerpt": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0905\u0902\u0936"
+        }
+    ],
+    "featured": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "\u0935\u093f\u0936\u0947\u0937 \u0938\u094d\u0925\u093e\u0928 \u092a\u094d\u0930\u093e\u092a\u094d\u0924"
+        }
+    ],
+    "format": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u092a\u094d\u0930\u093e\u0930\u0942\u092a (\u092b\u0949\u0930\u094d\u092e\u0947\u091f)"
+        }
+    ],
     "gallery": [
         {
             "comment": "",
@@ -60,11 +102,32 @@
             "translation": "\u0926\u0940\u0930\u094d\u0918\u093e"
         }
     ],
+    "image": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u091a\u093f\u0924\u094d\u0930"
+        }
+    ],
     "install": [
         {
             "comment": "\u0938\u094d\u0925\u093e\u092a\u093f\u0924 \u0915\u0930\u0928\u093e, \u0938\u094d\u0925\u093e\u092a\u093f\u0924 \u0915\u0930\u0947\u0902, \u0938\u094d\u0925\u093e\u092a\u093f\u0924 \u0939\u094b \u0930\u0939\u093e \u0906\u0926\u093f\u0964",
             "pos": "verb",
             "translation": "\u0938\u094d\u0925\u093e\u092a\u093f\u0924"
+        }
+    ],
+    "media": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u092e\u0940\u0921\u093f\u092f\u093e"
+        }
+    ],
+    "object": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0911\u092c\u094d\u091c\u0947\u0915\u094d\u091f (Object)"
         }
     ],
     "password": [
@@ -81,6 +144,41 @@
             "translation": "\u092a\u094d\u0932\u0917\u0907\u0928"
         }
     ],
+    "post": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u092a\u094b\u0938\u094d\u091f "
+        }
+    ],
+    "profile": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0935\u093f\u0935\u0930\u0923"
+        }
+    ],
+    "resource": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0930\u093f\u0938\u094b\u0930\u094d\u0938"
+        }
+    ],
+    "rest": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0930\u0947\u0938\u094d\u091f (REST)"
+        }
+    ],
+    "set": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u0928\u093f\u0930\u094d\u0927\u093e\u0930\u093f\u0924 "
+        }
+    ],
     "support forum": [
         {
             "comment": "will go well for the future when it will be literally called a Help Hub",
@@ -95,11 +193,25 @@
             "translation": "\u091f\u0940\u092e"
         }
     ],
+    "term": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u091f\u0930\u094d\u092e"
+        }
+    ],
     "theme": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u0925\u0940\u092e"
+        }
+    ],
+    "upload": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0905\u092a\u0932\u094b\u0921"
         }
     ],
     "url": [
@@ -109,11 +221,32 @@
             "translation": "\u092f\u0942\u0906\u0930\u090f\u0932"
         }
     ],
+    "user": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e"
+        }
+    ],
     "username": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "\u092f\u0942\u095b\u0930\u0928\u0947\u092e"
+        }
+    ],
+    "version ": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0935\u0930\u094d\u095b\u0928"
+        }
+    ],
+    "video": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0935\u0940\u0921\u093f\u092f\u094b"
         }
     ],
     "wordpress": [

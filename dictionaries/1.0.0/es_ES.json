@@ -95,6 +95,20 @@
             "translation": "Adjunto"
         }
     ],
+    "attributes": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Atributos"
+        }
+    ],
+    "authentication": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Identificaci\u00f3n"
+        }
+    ],
     "author": [
         {
             "comment": "",
@@ -123,6 +137,13 @@
             "translation": "acreditaci\u00f3n"
         }
     ],
+    "banner": [
+        {
+            "comment": "No se traduce",
+            "pos": "noun",
+            "translation": "Banner"
+        }
+    ],
     "bitrate": [
         {
             "comment": "No se traduce",
@@ -142,6 +163,13 @@
             "comment": "(No se traduce)",
             "pos": "noun",
             "translation": "Blog"
+        }
+    ],
+    "body": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Cuerpo"
         }
     ],
     "bookmarklet": [
@@ -165,6 +193,20 @@
             "translation": "BuddyPress"
         }
     ],
+    "capability": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Capacidad"
+        }
+    ],
+    "caption": [
+        {
+            "comment": "Es el texto conocido como pi\u00e9 de foto",
+            "pos": "noun",
+            "translation": "leyenda"
+        }
+    ],
     "category": [
         {
             "comment": "",
@@ -172,7 +214,26 @@
             "translation": "Categor\u00eda"
         }
     ],
+    "changeset": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Grupo de cambios"
+        }
+    ],
+    "checkout": [
+        {
+            "comment": "Cuando se refiere a la p\u00e1gina de pagos es Finalizar compra, sino traducir como pago\/s, por ejemplo \"El cliente procede al pago\"",
+            "pos": "noun",
+            "translation": "finalizar compra \/ pago"
+        }
+    ],
     "click": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Clic"
+        },
         {
             "comment": "Se pone \"clic\" sin K ",
             "pos": "verb",
@@ -219,6 +280,20 @@
             "comment": "Plural \"Cookies\". No se traduce.",
             "pos": "noun",
             "translation": "Cookie"
+        }
+    ],
+    "custom post type": [
+        {
+            "comment": "Decidido por votaci\u00f3n popular aqu\u00ed:",
+            "pos": "noun",
+            "translation": "Tipo de contenido personalizado"
+        }
+    ],
+    "https:\/\/twitter.com\/wp_es\/status\/684352383267270656\"": [
+        {
+            "comment": null,
+            "pos": null,
+            "translation": null
         }
     ],
     "customize": [
@@ -354,6 +429,13 @@
             "translation": "feed"
         }
     ],
+    "file": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Archivo"
+        }
+    ],
     "footer": [
         {
             "comment": "",
@@ -394,6 +476,13 @@
             "comment": "(Hay que definir los contextos en los que una u otra son v\u00e1lidas)",
             "pos": "noun",
             "translation": "Inicio o p\u00e1gina de inicio"
+        }
+    ],
+    "homepage": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "P\u00e1gina de inicio"
         }
     ],
     "hook": [
@@ -438,18 +527,18 @@
             "translation": "No v\u00e1lido\/a"
         }
     ],
-    "issue\/s": [
+    "issue": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "problema\/s conflicto\/s"
+            "translation": "problema o conflicto"
         }
     ],
-    "item\/s": [
+    "item": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Elemento\/s"
+            "translation": "Elemento"
         }
     ],
     "javascript": [
@@ -471,6 +560,13 @@
             "comment": null,
             "pos": null,
             "translation": null
+        }
+    ],
+    "language": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Idioma"
         }
     ],
     "large": [
@@ -499,6 +595,20 @@
             "comment": "No usar librer\u00eda, que solo se refiere a libros",
             "pos": "noun",
             "translation": "Biblioteca"
+        }
+    ],
+    "log in": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "Acceder"
+        }
+    ],
+    "log out": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "Salir"
         }
     ],
     "logged in": [
@@ -585,11 +695,25 @@
             "translation": "Gesti\u00f3n"
         }
     ],
+    "masonry": [
+        {
+            "comment": "Los dise\u00f1os masonry son aquellos que simulan un muro de ladrillos que encajan unos sobre otros.",
+            "pos": "adjective",
+            "translation": "Muro"
+        }
+    ],
     "media": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "Multimedia"
+        }
+    ],
+    "metabox": [
+        {
+            "comment": "No se traduce",
+            "pos": "noun",
+            "translation": "Metabox"
         }
     ],
     "next": [
@@ -627,6 +751,13 @@
             "translation": "nonce"
         }
     ],
+    "object": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Objeto"
+        }
+    ],
     "options": [
         {
             "comment": "No utilizar: Ajustes (Incorrecto)",
@@ -655,6 +786,13 @@
             "translation": "Enlaces permanentes"
         }
     ],
+    "ping": [
+        {
+            "comment": "No se traduce",
+            "pos": "noun",
+            "translation": "Ping"
+        }
+    ],
     "pixel": [
         {
             "comment": "Con tilde",
@@ -678,23 +816,30 @@
     ],
     "post": [
         {
-            "comment": "Usar entrada o publicaci\u00f3n seg\u00fan el contexto",
+            "comment": "Usar entrada, publicaci\u00f3n o contenido seg\u00fan el contexto",
             "pos": "noun",
-            "translation": "Entrada \/ Publicaci\u00f3n"
+            "translation": "Entrada \/ Publicaci\u00f3n \/ Contenido"
         }
     ],
     "post type": [
         {
-            "comment": "Hay varios tipos de publicaci\u00f3n (entradas, p\u00e1ginas, etc)",
+            "comment": "Hay varios tipos de contenido (entradas, p\u00e1ginas, etc)",
             "pos": "noun",
-            "translation": "Tipo de publicaci\u00f3n"
+            "translation": "Tipo de contenido"
+        }
+    ],
+    "decidido por votaci\u00f3n popular aqu\u00ed:": [
+        {
+            "comment": null,
+            "pos": null,
+            "translation": null
         }
     ],
     "posts": [
         {
-            "comment": "",
+            "comment": "Usar entradas, publicaciones o contenidois seg\u00fan el contexto",
             "pos": "noun",
-            "translation": "Entradas"
+            "translation": "Entradas \/ Publicaciones \/ Contenidos"
         }
     ],
     "powered by wordpress": [
@@ -702,6 +847,13 @@
             "comment": "Traducci\u00f3n actual. ",
             "pos": "expression",
             "translation": "Funciona gracias a WordPress"
+        }
+    ],
+    "preview": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Vista previa"
         }
     ],
     "previous": [
@@ -732,6 +884,13 @@
             "translation": "Versi\u00f3n"
         }
     ],
+    "resource": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Recurso"
+        }
+    ],
     "responsive": [
         {
             "comment": "",
@@ -750,7 +909,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Rol"
+            "translation": "perfil"
         }
     ],
     "rss feed": [
@@ -758,6 +917,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "Feed RSS"
+        }
+    ],
+    "safe mode": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Modo a prueba de fallos"
         }
     ],
     "scope": [
@@ -772,6 +938,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "Pantalla"
+        }
+    ],
+    "scroll": [
+        {
+            "comment": "No se traduce",
+            "pos": "noun",
+            "translation": "Scroll"
         }
     ],
     "set": [
@@ -865,6 +1038,13 @@
             "translation": "p\u00e1gina de inicio est\u00e1tica"
         }
     ],
+    "status": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Estado"
+        }
+    ],
     "sticky": [
         {
             "comment": "",
@@ -900,6 +1080,13 @@
             "translation": "con \u00e9xito"
         }
     ],
+    "taxonomy": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Taxonom\u00eda"
+        }
+    ],
     "template": [
         {
             "comment": "No utilizar: Tema (Incorrecto)",
@@ -926,6 +1113,13 @@
             "comment": "",
             "pos": "expression",
             "translation": "No ha sido posible"
+        }
+    ],
+    "unapproved": [
+        {
+            "comment": "Se refiere a un comentario o mensaje que, a pesar de haber sido aprobado previamente, se considera que no deber\u00eda estarlo y se pasa a no aprobado.",
+            "pos": "adjective",
+            "translation": "Desaprobado"
         }
     ],
     "update": [
@@ -980,6 +1174,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "Atenci\u00f3n"
+        }
+    ],
+    "widget": [
+        {
+            "comment": "No se traduce",
+            "pos": "noun",
+            "translation": "Widget"
         }
     ],
     "xml-rpc": [

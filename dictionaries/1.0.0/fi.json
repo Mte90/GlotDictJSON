@@ -2024,6 +2024,13 @@
             "translation": "mukautuva"
         }
     ],
+    "rest api": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "REST-rajapinta"
+        }
+    ],
     "restore": [
         {
             "comment": "Restore default settings => Palauta oletusasetukset; Post restored from the Trash => Artikkeli palautettiin roskakorista",
@@ -2076,6 +2083,13 @@
             "comment": "kaikki paikalliset\/kielialueen omat sivut kutsutaan nimell\u00e4 Rosetta sivustot",
             "pos": "ilmaisu",
             "translation": "paikallinen sivusto"
+        }
+    ],
+    "route": [
+        {
+            "comment": "REST API:n kontekstissa",
+            "pos": "noun",
+            "translation": "reitti"
         }
     ],
     "rtl": [

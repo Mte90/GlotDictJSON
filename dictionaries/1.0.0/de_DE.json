@@ -723,6 +723,13 @@
             "translation": "n\u00e4chster Beitrag"
         }
     ],
+    "nickname": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Spitzname"
+        }
+    ],
     "nonce": [
         {
             "comment": "",
@@ -910,6 +917,13 @@
             "comment": "",
             "pos": "adjective",
             "translation": "erforderlich"
+        }
+    ],
+    "resource": [
+        {
+            "comment": "Technical Term (REST API)",
+            "pos": "noun",
+            "translation": "Ressource"
         }
     ],
     "resource hints": [

@@ -20,13 +20,6 @@
             "translation": "trof\u00e9"
         }
     ],
-    "action hook": [
-        {
-            "comment": "WordPress development term",
-            "pos": "noun",
-            "translation": "\u00e5tg\u00e4rds-hook"
-        }
-    ],
     "activate": [
         {
             "comment": "",
@@ -415,6 +408,13 @@
             "translation": "knapp"
         }
     ],
+    "callback": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u00e5teranrop"
+        }
+    ],
     "cancel": [
         {
             "comment": "\"Cancel [action]\" = \"Avbryt [aktivitet]\", \"cancel upgrade\" = \"Avsluta uppgradering\"",
@@ -455,6 +455,13 @@
             "comment": "Vid justering av text eller inneh\u00e5ll.",
             "pos": "preposition",
             "translation": "centrerat"
+        }
+    ],
+    "changeset": [
+        {
+            "comment": "Endast om det g\u00e4ller anpassningspaket i verktyget Anpassa.",
+            "pos": "noun",
+            "translation": "anpassningspaket"
         }
     ],
     "character code": [
@@ -927,6 +934,13 @@
             "translation": "utdrag"
         }
     ],
+    "exist": [
+        {
+            "comment": "\"The post doesn't exist.\" = \"Inl\u00e4gget finns inte.\"",
+            "pos": "noun",
+            "translation": "finns"
+        }
+    ],
     "existing": [
         {
             "comment": "",
@@ -960,6 +974,13 @@
             "comment": "",
             "pos": "verb",
             "translation": "exportera"
+        }
+    ],
+    "exports": [
+        {
+            "comment": "Plural av \"export\"",
+            "pos": "noun",
+            "translation": "exporter"
         }
     ],
     "extend": [
@@ -1172,7 +1193,7 @@
     ],
     "headers": [
         {
-            "comment": "Om det handlar om den visuella sidstrukturen, ex.vis rubriken \"Arkiv\" p\u00e5 en webbplats arkivsida.",
+            "comment": "Om det handlar om den visuella sidstrukturen, ex.vis rubriken \"Arkiv\" p\u00e5 en webbplats arkivsida. Header kan \u00e4ven referera till \u201dSidhuvud\u201d.",
             "pos": "noun",
             "translation": "Rubriker"
         }
@@ -1182,6 +1203,13 @@
             "comment": "\"G\u00f6md\", \"g\u00f6m\" om det handlar om t ex en bloggs synlighet. \"Dold\", \"d\u00f6lj\" om det handlar om synlighet f\u00f6r s\u00f6kmotorer.",
             "pos": "adjective",
             "translation": "g\u00f6md\/dold"
+        }
+    ],
+    "hide": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "d\u00f6lj"
         }
     ],
     "home page": [
@@ -1196,6 +1224,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "startsida"
+        }
+    ],
+    "hook": [
+        {
+            "comment": "en \u00e5tg\u00e4rds-hook eller en hook.\u00e4r ett utvecklarbegrepp som anv\u00e4nds n\u00e4r teman och till\u00e4gg kopplar in sin funktioalitet i ramverket f\u00f6r WordPress",
+            "pos": "noun",
+            "translation": "\u00e5tg\u00e4rds-hook"
         }
     ],
     "host": [
@@ -1252,6 +1287,20 @@
             "translation": "hej"
         }
     ],
+    "identifier": [
+        {
+            "comment": "Beroende p\u00e5 typ av ID (numerisk eller alfanumerisk)",
+            "pos": "noun",
+            "translation": "\"ID\" eller \"ID-str\u00e4ng\""
+        }
+    ],
+    "ids": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ID:n"
+        }
+    ],
     "import": [
         {
             "comment": "",
@@ -1263,7 +1312,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "importeringar"
+            "translation": "importer"
         }
     ],
     "in the dashboard": [
@@ -1371,7 +1420,7 @@
     ],
     "limit": [
         {
-            "comment": "",
+            "comment": "Ex \"Limit results\" = \"begr\u00e4nsa resultat\"",
             "pos": "verb",
             "translation": "begr\u00e4nsa"
         }
@@ -1586,6 +1635,18 @@
             "translation": "modern design"
         }
     ],
+    "modified": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u00e4ndrades"
+        },
+        {
+            "comment": "Anv\u00e4nd om det handlar om fler \u00e4n ett f\u00e4lt, t.ex. en sida eller en sektion p\u00e5 en sida.",
+            "pos": "verb",
+            "translation": "redigerades"
+        }
+    ],
     "movable type": [
         {
             "comment": "Movable Type is a CMS from Six Apart, and had a significant portion of the blog market in the past. https:\/\/www.movabletype.com\/",
@@ -1733,6 +1794,13 @@
             "translation": "alternativ"
         }
     ],
+    "or not": [
+        {
+            "comment": "\"Should comments be on or not?\" = \"Ska kommentarer vara p\u00e5 eller ej?\"",
+            "pos": "expression",
+            "translation": "eller ej"
+        }
+    ],
     "overlay": [
         {
             "comment": "..overlay ska inte vara s\u00e5 vanligt. F\u00f6rhoppningsvis.",
@@ -1787,6 +1855,13 @@
             "comment": "Ett tema som har minst ett barntema. Ett barntema \u00e4r ett tema som har modifierat ett annat tema (modertemat) till viss del, men beh\u00e5llit mycket av originalet.",
             "pos": "noun",
             "translation": "modertema"
+        }
+    ],
+    "particular": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "viss"
         }
     ],
     "pending": [
@@ -2243,9 +2318,9 @@
     ],
     "record": [
         {
-            "comment": "if domain-related; like e.g. CNAME record",
+            "comment": "i.e. domain-related; like e.g. CNAME record",
             "pos": "noun",
-            "translation": "protokoll"
+            "translation": "post\/objekt"
         },
         {
             "comment": "N\u00e4r det handlar om att spara data, ex: \"No clicks recorded yet\" = \" Inga klick registrerade \u00e4n\"",
@@ -2271,7 +2346,7 @@
         {
             "comment": "A blog, web site, or a search engine linking to the user's blog. More info: http:\/\/en.support.wordpress.com\/stats\/#referrers",
             "pos": "noun",
-            "translation": "h\u00e4nvisning"
+            "translation": "l\u00e4nkande\/h\u00e4nvisande webbplats"
         }
     ],
     "related posts": [
@@ -2314,6 +2389,13 @@
             "comment": "",
             "pos": "verb",
             "translation": "\u00e5terst\u00e4ll"
+        }
+    ],
+    "result set": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "resultatet"
         }
     ],
     "return value": [
@@ -2372,11 +2454,25 @@
             "translation": "tidsinst\u00e4lld"
         }
     ],
+    "scroll": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "rulla"
+        }
+    ],
     "search engine": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "s\u00f6kmotor"
+        }
+    ],
+    "section": [
+        {
+            "comment": "T ex \"Home page section\" = \"Startsides-sektion\"",
+            "pos": "noun",
+            "translation": "sektion"
         }
     ],
     "select": [
@@ -2575,7 +2671,7 @@
     ],
     "sorry": [
         {
-            "comment": "",
+            "comment": "Anv\u00e4nd ENDAST detta i verkligt allvarliga situationer, typ om en hel sida har tagits bort f\u00f6r alltid. I 99% av fallen ska urs\u00e4kter skippas.",
             "pos": "noun",
             "translation": "Ledsen"
         }
@@ -2592,6 +2688,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "skr\u00e4ppost-k\u00f6"
+        }
+    ],
+    "specified": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "tilldelats"
         }
     ],
     "specify": [
@@ -2933,6 +3036,13 @@
             "translation": "kopia"
         }
     ],
+    "transform": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "omvandla"
+        }
+    ],
     "transient": [
         {
             "comment": "",
@@ -3155,6 +3265,13 @@
             "translation": "webbplats"
         }
     ],
+    "whether": [
+        {
+            "comment": "\"Whether comments are off by default\" = \"Om kommentarer \u00e4r inaktiverade som standard\"",
+            "pos": "conjunction",
+            "translation": "om"
+        }
+    ],
     "whitelist": [
         {
             "comment": "\"Whitelist IP Address\" = \"Vitlista IP-adress\"",
@@ -3166,7 +3283,7 @@
         {
             "comment": "A self-contained area of a web page that performs a specific function. For example, you can use a widget to display your Twitter feed in your site\u2019s sidebar. More info: http:\/\/en.support.wordpress.com\/widgets\/",
             "pos": "noun",
-            "translation": "Widget"
+            "translation": "widget"
         }
     ],
     "wordcamp": [
@@ -3195,6 +3312,13 @@
             "comment": "\"Yay! Your theme was activated.\" = \"Snyggt! Ditt tema har aktiverats.\"",
             "pos": "interjection",
             "translation": "snyggt"
+        }
+    ],
+    "you are not allowed": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "du har inte beh\u00f6righet"
         }
     ],
     "your": [

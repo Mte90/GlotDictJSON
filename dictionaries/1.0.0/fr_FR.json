@@ -3,7 +3,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "crochet d'action"
+            "translation": "crochet d\u2019action"
         }
     ],
     "activate": [
@@ -18,6 +18,13 @@
             "comment": "",
             "pos": "adjective",
             "translation": "activ\u00e9"
+        }
+    ],
+    "add-on": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "module"
         }
     ],
     "admin bar": [
@@ -88,6 +95,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "tableau"
+        }
+    ],
+    "ascending": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Croissant"
         }
     ],
     "attachment": [
@@ -172,6 +186,13 @@
             "translation": "bug"
         }
     ],
+    "bulk action": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "action group\u00e9e"
+        }
+    ],
     "category": [
         {
             "comment": "",
@@ -184,6 +205,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "Modifications"
+        }
+    ],
+    "changeset": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Jeu de modifications"
         }
     ],
     "character code": [
@@ -221,6 +249,13 @@
             "translation": "case \u00e0 cocher"
         }
     ],
+    "choose": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "Choisir"
+        }
+    ],
     "click": [
         {
             "comment": "",
@@ -235,11 +270,25 @@
             "translation": "jeu de couleurs"
         }
     ],
+    "colorset": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Jeu de couleurs"
+        }
+    ],
     "comment": [
         {
             "comment": "",
             "pos": "verb",
             "translation": "commenter"
+        }
+    ],
+    "commiter": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Commiteur"
         }
     ],
     "computer": [
@@ -268,6 +317,20 @@
             "comment": "Browser cookie",
             "pos": "noun",
             "translation": "Cookie"
+        }
+    ],
+    "coupon": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Promo"
+        }
+    ],
+    "coupon code": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Code promo"
         }
     ],
     "crop": [
@@ -303,6 +366,13 @@
             "comment": "",
             "pos": "verb",
             "translation": "personnaliser"
+        }
+    ],
+    "customizer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Outil de personnalisation"
         }
     ],
     "dashboard": [
@@ -361,6 +431,13 @@
             "translation": "obsol\u00e8te"
         }
     ],
+    "descending": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "D\u00e9croissant"
+        }
+    ],
     "developer": [
         {
             "comment": "",
@@ -380,6 +457,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "r\u00e9pertoire"
+        }
+    ],
+    "divider": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "S\u00e9parateur"
         }
     ],
     "draft": [
@@ -420,6 +504,20 @@
             "comment": "",
             "pos": "noun",
             "translation": "adresse de messagerie"
+        }
+    ],
+    "endpoint": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Point de terminaison"
+        }
+    ],
+    "endpoints": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Points de terminaison"
         }
     ],
     "enter": [
@@ -517,7 +615,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "chercher"
+            "translation": "trouver"
         }
     ],
     "folder": [
@@ -597,6 +695,13 @@
             "translation": "en-t\u00eate"
         }
     ],
+    "help": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Aide"
+        }
+    ],
     "hide": [
         {
             "comment": "",
@@ -672,6 +777,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "pack de langue"
+        }
+    ],
+    "layout": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Mise en page"
         }
     ],
     "like": [
@@ -812,6 +924,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "article plus ancien"
+        }
+    ],
+    "only": [
+        {
+            "comment": "plut\u00f4t que seulement",
+            "pos": "noun",
+            "translation": "uniquement"
         }
     ],
     "option": [
@@ -1087,6 +1206,13 @@
             "translation": "responsive"
         }
     ],
+    "rest api": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "API REST"
+        }
+    ],
     "return value": [
         {
             "comment": "",
@@ -1134,6 +1260,13 @@
             "comment": "",
             "pos": "verb",
             "translation": "rechercher"
+        }
+    ],
+    "select": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "S\u00e9lectionner"
         }
     ],
     "self-hosted": [
@@ -1316,6 +1449,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "taxinomie"
+        }
+    ],
+    "template": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Mod\u00e8le"
         }
     ],
     "template hierarchy": [

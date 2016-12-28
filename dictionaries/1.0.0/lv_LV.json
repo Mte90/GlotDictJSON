@@ -1,0 +1,1183 @@
+{
+    "above": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "virs"
+        }
+    ],
+    "activation key": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "aktiviz\u0101cijas atsl\u0113ga"
+        }
+    ],
+    "adding": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "pievienojot"
+        }
+    ],
+    "additional": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "papildus"
+        }
+    ],
+    "advice": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "padoms"
+        }
+    ],
+    "after logging": [
+        {
+            "comment": "",
+            "pos": "phrase",
+            "translation": "p\u0113c pieteik\u0161an\u0101s"
+        }
+    ],
+    "again": [
+        {
+            "comment": "",
+            "pos": "adverb",
+            "translation": "v\u0113lreiz"
+        }
+    ],
+    "allow creation": [
+        {
+            "comment": "",
+            "pos": "phrase",
+            "translation": "\u013cautu izveidot"
+        }
+    ],
+    "almost done": [
+        {
+            "comment": "",
+            "pos": "phrase",
+            "translation": "Gandr\u012bz gatavs"
+        }
+    ],
+    "anyone posts": [
+        {
+            "comment": "",
+            "pos": "phrase",
+            "translation": "ikviens ievieto"
+        }
+    ],
+    "appearance": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "izskats"
+        }
+    ],
+    "appears": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "tika atst\u0101ts"
+        }
+    ],
+    "apply": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "piem\u0113rot"
+        }
+    ],
+    "approved": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "apstiprin\u0101ts"
+        }
+    ],
+    "are available": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "ir pieejami"
+        }
+    ],
+    "are indicated": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "ir nor\u0101d\u012bti"
+        }
+    ],
+    "are optional": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "nav oblig\u0101ti"
+        }
+    ],
+    "are running": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "izmantojat"
+        }
+    ],
+    "are set to": [
+        {
+            "comment": "",
+            "pos": "phrase",
+            "translation": "tiks pie\u0161\u0137irta"
+        }
+    ],
+    "are using": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "izmantojat"
+        }
+    ],
+    "array": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "mas\u012bvs"
+        }
+    ],
+    "as": [
+        {
+            "comment": "",
+            "pos": "adverb",
+            "translation": "k\u0101"
+        }
+    ],
+    "aside": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "mala (mal\u0101)"
+        }
+    ],
+    "at a glance": [
+        {
+            "comment": "",
+            "pos": "phrase",
+            "translation": "p\u0101rskats"
+        }
+    ],
+    "attached": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pievienoti"
+        }
+    ],
+    "attachment": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pielikums"
+        }
+    ],
+    "automatic": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "autom\u0101tiska"
+        }
+    ],
+    "automatically": [
+        {
+            "comment": "",
+            "pos": "adverb",
+            "translation": "autom\u0101tiski"
+        }
+    ],
+    "available": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "pieejams"
+        }
+    ],
+    "avatar": [
+        {
+            "comment": "avat\u0101rs",
+            "pos": "noun",
+            "translation": "t\u0113ls"
+        }
+    ],
+    "back-end": [
+        {
+            "comment": "backend (atbalsta platforma)",
+            "pos": "noun",
+            "translation": "aizmugure"
+        }
+    ],
+    "be offline": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "ir bezsaist\u0113"
+        }
+    ],
+    "be possible": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "b\u016bs iesp\u0113jams"
+        }
+    ],
+    "being previewed": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "priek\u0161stat\u012bt\u0101"
+        }
+    ],
+    "below": [
+        {
+            "comment": "",
+            "pos": "adverb",
+            "translation": "zem\u0101k"
+        }
+    ],
+    "blacklist": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "melnais saraksts"
+        }
+    ],
+    "blavatar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "bloga ikona"
+        }
+    ],
+    "blockquote": [
+        {
+            "comment": "cit\u0101ts",
+            "pos": "noun",
+            "translation": "cit\u0101tu bloks"
+        }
+    ],
+    "blog": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "emu\u0101rs"
+        }
+    ],
+    "blogging": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "blogo\u0161anu"
+        }
+    ],
+    "blogroll": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "t\u012bmek\u013ca \u017eurn\u0101ls"
+        }
+    ],
+    "bold": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "treknraksta"
+        }
+    ],
+    "boxes": [
+        {
+            "comment": "kastes",
+            "pos": "noun",
+            "translation": "lodzi\u0146us"
+        }
+    ],
+    "broken": [
+        {
+            "comment": "boj\u0101ta",
+            "pos": "adjective",
+            "translation": "saboj\u0101tas"
+        }
+    ],
+    "bulk": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "lielapjoma"
+        }
+    ],
+    "bulk actions": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "lielapjoma darb\u012bbas"
+        }
+    ],
+    "bulk edit": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "lielapjoma labo\u0161ana"
+        }
+    ],
+    "bulk select": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "lielapjoma atlase"
+        }
+    ],
+    "bulk selection": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "lielapjoma atlase"
+        }
+    ],
+    "bulleted list": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "saraksta ar atz\u012bm\u0113m"
+        }
+    ],
+    "button": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "poga"
+        }
+    ],
+    "buttons": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pogas"
+        }
+    ],
+    "can": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "var"
+        }
+    ],
+    "cancel": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "atcelt"
+        }
+    ],
+    "canceled": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "atcelts"
+        }
+    ],
+    "cannot": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "nevar"
+        }
+    ],
+    "cannot be": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "nevar\u0113s tikt"
+        }
+    ],
+    "cannot be deleted": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "nevar dz\u0113st"
+        }
+    ],
+    "cannot be installed": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "nevar instal\u0113t"
+        }
+    ],
+    "categorie": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kategorija"
+        }
+    ],
+    "categories": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kategorijas"
+        }
+    ],
+    "changelog": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "izmai\u0146u \u017eurn\u0101ls"
+        }
+    ],
+    "changing": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "mainot"
+        }
+    ],
+    "check": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "p\u0101rbaudiet"
+        }
+    ],
+    "checkbox": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "izv\u0113les r\u016bti\u0146a "
+        }
+    ],
+    "child theme": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "apak\u0161t\u0113ma"
+        }
+    ],
+    "choose image": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "izv\u0113l\u0113ties att\u0113lu"
+        }
+    ],
+    "chose": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "izv\u0113l\u0113jies"
+        }
+    ],
+    "click": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "klik\u0161\u0137iniet"
+        }
+    ],
+    "code": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kods"
+        }
+    ],
+    "collapse": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "sak\u013caut"
+        }
+    ],
+    "collapse icon": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "sak\u013cau\u0161anas ikona"
+        }
+    ],
+    "color picker": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kr\u0101su palete"
+        }
+    ],
+    "column": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "sleja"
+        }
+    ],
+    "comment": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "koment\u0101rs"
+        }
+    ],
+    "compatible": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "savietojams"
+        }
+    ],
+    "complete": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "pabeigta"
+        }
+    ],
+    "completed": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "paveikts"
+        }
+    ],
+    "configured": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "konfigur\u0113ts"
+        }
+    ],
+    "confirm deletion": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "apstiprin\u0101t dz\u0113\u0161anu"
+        }
+    ],
+    "confirmation": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "apstiprin\u0101\u0161ana"
+        }
+    ],
+    "conflicts": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "konflikti"
+        }
+    ],
+    "consider": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "apsveriet"
+        }
+    ],
+    "contain": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "satur"
+        }
+    ],
+    "contribution": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ieguld\u012bjums"
+        }
+    ],
+    "copies": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kopijas"
+        }
+    ],
+    "could not": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "nevar\u0113ja"
+        }
+    ],
+    "could not be deleted": [
+        {
+            "comment": "",
+            "pos": "phrase",
+            "translation": "nevar\u0113ja izdz\u0113st"
+        }
+    ],
+    "could use": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "var izmantot"
+        }
+    ],
+    "count": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "skaits"
+        }
+    ],
+    "created": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "izveidots"
+        }
+    ],
+    "currently": [
+        {
+            "comment": "",
+            "pos": "adverb",
+            "translation": "pa\u0161laik"
+        }
+    ],
+    "custom": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "piel\u0101gota"
+        }
+    ],
+    "custom fields": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "piel\u0101goti lauki"
+        }
+    ],
+    "custom menu": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "piel\u0101got\u0101 izv\u0113lne"
+        }
+    ],
+    "customizer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "piel\u0101got\u0101js"
+        }
+    ],
+    "dashboard": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "panelis"
+        }
+    ],
+    "deactivate": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "deaktiviz\u0113t"
+        }
+    ],
+    "decide": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "izlemt"
+        }
+    ],
+    "deleted": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "dz\u0113sts"
+        }
+    ],
+    "deleting": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "dz\u0113\u0161ot"
+        }
+    ],
+    "deleting a category": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "kategorijas dz\u0113\u0161ana"
+        }
+    ],
+    "deprecated": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "novecojusi"
+        }
+    ],
+    "descriptions": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "aprakstus"
+        }
+    ],
+    "detached": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "no\u0146emts"
+        }
+    ],
+    "details": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "deta\u013cas"
+        }
+    ],
+    "directory": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "direktorijs"
+        }
+    ],
+    "disable\/enable": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "atsp\u0113jot vai iesp\u0113jot"
+        }
+    ],
+    "disabled": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "atsp\u0113jots"
+        }
+    ],
+    "disabling": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "atsp\u0113jo\u0161ana"
+        }
+    ],
+    "displays": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "redzams"
+        }
+    ],
+    "distraction-free": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "netrauc\u0113ta"
+        }
+    ],
+    "do not remember": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "neatceraties"
+        }
+    ],
+    "does not delete": [
+        {
+            "comment": " (rakst\u012b\u0161ana)",
+            "pos": "verb",
+            "translation": "neizdz\u0113\u0161"
+        }
+    ],
+    "does not exist": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "neeksist\u0113"
+        }
+    ],
+    "downloading": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "lejupiel\u0101d\u0113"
+        }
+    ],
+    "draft": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "melnraksts"
+        }
+    ],
+    "drag and drop": [
+        {
+            "comment": "p\u0101rvelc",
+            "pos": "verb",
+            "translation": "p\u0101rvilkt "
+        }
+    ],
+    "dropdown": [
+        {
+            "comment": "",
+            "pos": "adverb",
+            "translation": "nolai\u017eamo"
+        }
+    ],
+    "edit": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "redi\u0123\u0113t"
+        }
+    ],
+    "edited": [
+        {
+            "comment": "",
+            "pos": "adverb",
+            "translation": "redi\u0123\u0113t\u0101s"
+        }
+    ],
+    "editing screen": [
+        {
+            "comment": "tekstu",
+            "pos": "noun",
+            "translation": "redi\u0123\u0113\u0161anas ekr\u0101nu"
+        }
+    ],
+    "editor": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "redaktors"
+        }
+    ],
+    "eliminates": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "nepie\u013cauj"
+        }
+    ],
+    "email": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "e- pasts"
+        }
+    ],
+    "embed": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Iegult"
+        }
+    ],
+    "enable": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "iesp\u0113jot"
+        }
+    ],
+    "enabled": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "iesp\u0113jots"
+        }
+    ],
+    "enables\/disables": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "iesp\u0113jo vai atsp\u0113jo"
+        }
+    ],
+    "enabling": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "iesp\u0113jo\u0161ana"
+        }
+    ],
+    "entry": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ieraksts"
+        }
+    ],
+    "error occurred": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "rad\u0101s k\u013c\u016bda"
+        }
+    ],
+    "etc.": [
+        {
+            "comment": "",
+            "pos": "abbrev",
+            "translation": "utt."
+        }
+    ],
+    "excerpt": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "izraksts"
+        }
+    ],
+    "existing one": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "eso\u0161o"
+        }
+    ],
+    "exists": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "eksist\u0113"
+        }
+    ],
+    "expand": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "izv\u0113rst"
+        }
+    ],
+    "expanded": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "izv\u0113rsts"
+        }
+    ],
+    "expired": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "noilgusi"
+        }
+    ],
+    "extend": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "papla\u0161ina"
+        }
+    ],
+    "extended": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "papla\u0161in\u0101tam"
+        }
+    ],
+    "extension": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "papla\u0161in\u0101jums"
+        }
+    ],
+    "failed": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "neizdev\u0101s"
+        }
+    ],
+    "fails": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "neizdodas"
+        }
+    ],
+    "failures": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "k\u013c\u016bmes"
+        }
+    ],
+    "faster": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "\u0101tr\u0101ka"
+        }
+    ],
+    "feature": [
+        {
+            "comment": "l\u012bdzek\u013ci",
+            "pos": "noun",
+            "translation": "l\u012bdzeklis "
+        }
+    ],
+    "featured image": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "raksturojo\u0161ais att\u0113ls"
+        }
+    ],
+    "feed": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pl\u016bsma"
+        }
+    ],
+    "feeds": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pl\u016bsmu"
+        }
+    ],
+    "fields": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "lauki"
+        }
+    ],
+    "file": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "failu"
+        }
+    ],
+    "files": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "failus"
+        }
+    ],
+    "flip": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "apv\u0113rst"
+        }
+    ],
+    "formatting": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "format\u0113jumu"
+        }
+    ],
+    "found": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "atrasts"
+        }
+    ],
+    "freedoms": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "br\u012bv\u012bbas"
+        }
+    ],
+    "friendly developer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "draudz\u012bgs izstr\u0101d\u0101t\u0101js"
+        }
+    ],
+    "front page": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "galven\u0101 lapa"
+        }
+    ],
+    "front-end": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "priek\u0161puse"
+        }
+    ],
+    "fullscreen": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "pilnekr\u0101ns"
+        }
+    ],
+    "media file": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "multivides fails"
+        }
+    ],
+    "menu": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Izv\u0113lne"
+        }
+    ],
+    "options": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Opcijas"
+        }
+    ],
+    "permalink": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "palieko\u0161\u0101 saite"
+        }
+    ],
+    "plugin": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Spraudnis"
+        }
+    ],
+    "tag": [
+        {
+            "comment": "B\u016btu j\u0101diskut\u0113, vai neb\u016btu lab\u0101k lietot \"atsl\u0113gas v\u0101rds\"",
+            "pos": "noun",
+            "translation": "Birka"
+        },
+        {
+            "comment": "Ja ir runa par mar\u0137\u0113juma z\u012bm\u0113m kod\u0101",
+            "pos": "noun",
+            "translation": "atz\u012bme"
+        }
+    ],
+    "tagline": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "apak\u0161virsraksts"
+        }
+    ]
+}

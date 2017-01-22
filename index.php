@@ -70,11 +70,13 @@ function go_download_glotdict($locale, $url) {
         // iterating each line
         foreach ( $lines as $csv ) {
             $values = str_getcsv( $csv );
-            $values[0] = strtolower( $values[0] );
+            $values[0] = trim( strtolower( $values[0] ) );
+            $values[1] = trim( $values[1] );
+            $values[2] = trim( $values[2] );
             // don't override if there is already a translation.
             if( 
-            false === array_key_exists( $values[0], $output ) ||
-            $output[ $values[0] ][0]['pos'] === @$values[2] && $output[ $values[0] ][0]['translation'] === @$values[1] && empty($output[ $values[0] ][0]['comment'])
+                false === array_key_exists( $values[0], $output ) ||
+                $output[ $values[0] ][0]['pos'] === @$values[2] && $output[ $values[0] ][0]['translation'] === @$values[1] && empty($output[ $values[0] ][0]['comment'])
             ) {
                 // construct translation
                 $output[ $values[0] ][0] = array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] );

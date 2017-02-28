@@ -1,0 +1,1646 @@
+{
+    "about": [
+        {
+            "comment": "il termine va contestualizzato a seconda se si tratti di una sezione\/pagina di un tema, oppure altre parti. Nel caso in cui sia una voce del menu nel backend (o una etichetta) che restituisce informazioni sul tema\/plugin (o sul suo autore) si traduce con *Info* o *Informazioni su (plugin\/tema\/autore\/\u2026)",
+            "pos": "noun",
+            "translation": "chi siamo\/sono o Info"
+        }
+    ],
+    "account": [
+        {
+            "comment": "Lasciare invariato. Maschile. In italiano viene persa la s del plurale",
+            "pos": "noun",
+            "translation": "account"
+        }
+    ],
+    "action hook": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "action hook"
+        }
+    ],
+    "activate": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "attivare"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "attivare"
+        }
+    ],
+    "activated": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "attivato"
+        }
+    ],
+    "address": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "indirizzare"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "indirizzo"
+        }
+    ],
+    "administrator": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "amministratore"
+        }
+    ],
+    "ajax": [
+        {
+            "comment": "Lasciare invariato",
+            "pos": "noun",
+            "translation": "AJAX"
+        }
+    ],
+    "all-in-one": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "tutto-in-uno"
+        }
+    ],
+    "appearance": [
+        {
+            "comment": "Per l'utilizzo di maiuscola o minuscola vedere Guida di Stile",
+            "pos": "noun",
+            "translation": "Aspetto"
+        }
+    ],
+    "archive": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "archivio"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "archiviare"
+        }
+    ],
+    "are you sure you want": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "desideri"
+        }
+    ],
+    "argument": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "argomento"
+        }
+    ],
+    "array": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "array"
+        }
+    ],
+    "article": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "articolo"
+        }
+    ],
+    "aside": [
+        {
+            "comment": "Formato di post simile a una nota, senza titolo",
+            "pos": "noun",
+            "translation": "inciso"
+        }
+    ],
+    "attachment": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "allegato"
+        }
+    ],
+    "audio": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "audio"
+        }
+    ],
+    "author": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "autore"
+        }
+    ],
+    "back-end": [
+        {
+            "comment": "Lasciare invariato. Declinare al maschile.",
+            "pos": "noun",
+            "translation": "Back-end"
+        }
+    ],
+    "background": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "sfondo"
+        }
+    ],
+    "bitrate": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "bitrate"
+        }
+    ],
+    "": [
+        {
+            "comment": null,
+            "pos": "",
+            "translation": ""
+        }
+    ],
+    "blog": [
+        {
+            "comment": "Lasciare invariato. Mascile.In italiano viene persa la s del plurale",
+            "pos": "noun",
+            "translation": "blog"
+        }
+    ],
+    "body": [
+        {
+            "comment": "Se si riferisce a <body> tag html, lasciare invariato. Declinare al maschile",
+            "pos": "noun",
+            "translation": "contenuto"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "comment": "Lasciare invariato. In italiano viene persa la s del plurale",
+            "pos": "noun",
+            "translation": "breadcrumb"
+        }
+    ],
+    "browser": [
+        {
+            "comment": "Lasciare invariato. Mascile",
+            "pos": "noun",
+            "translation": "browser"
+        }
+    ],
+    "bug": [
+        {
+            "comment": "Lasciare invariato. Mascile",
+            "pos": "noun",
+            "translation": "bug"
+        }
+    ],
+    "bulk": [
+        {
+            "comment": "Bulk Actions=azioni di gruppo\r",
+            "pos": "noun",
+            "translation": "di massa"
+        }
+    ],
+    "bulk selection= selezione multipla\"": [
+        {
+            "comment": null,
+            "pos": "",
+            "translation": ""
+        }
+    ],
+    "button": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pulsante"
+        }
+    ],
+    "call to action": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "invito all'azione"
+        }
+    ],
+    "callout": [
+        {
+            "comment": "generalmente riferito a un pulsante",
+            "pos": "noun",
+            "translation": "invito all'azione"
+        }
+    ],
+    "cancel": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "annulla"
+        }
+    ],
+    "capability": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "capacit\u00e0"
+        }
+    ],
+    "cart": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "carrello"
+        }
+    ],
+    "category": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "categoria"
+        }
+    ],
+    "changeset": [
+        {
+            "comment": "Lasciare invariato. Si declina al maschile. In italiano viene persa la s del plurale.",
+            "pos": "noun",
+            "translation": "changeset"
+        }
+    ],
+    "checkbox": [
+        {
+            "comment": "Elemento di form. Lasciare invariato. Declinare al maschile",
+            "pos": "noun",
+            "translation": "checkbox"
+        }
+    ],
+    "click": [
+        {
+            "comment": "Senza K finale (clic, NON click)",
+            "pos": "noun",
+            "translation": "clic"
+        },
+        {
+            "comment": "Non utilizzare mai il neologismo \"cliccare\"",
+            "pos": "verb",
+            "translation": "fare clic"
+        }
+    ],
+    "clicking": [
+        {
+            "comment": "Mai mai mai cliccando!",
+            "pos": "verb",
+            "translation": "facendo clic"
+        }
+    ],
+    "comment": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "commento"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "commentare"
+        }
+    ],
+    "constant": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "costante"
+        }
+    ],
+    "cookie": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "Cookie"
+        }
+    ],
+    "custom": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "personalizzato"
+        }
+    ],
+    "customizer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Personalizza"
+        }
+    ],
+    "dashboard": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Bacheca"
+        }
+    ],
+    "default": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "predefinito"
+        }
+    ],
+    "delete": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "elimina"
+        }
+    ],
+    "deleted": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "eliminato"
+        }
+    ],
+    "deprecated": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "deprecato"
+        }
+    ],
+    "directory": [
+        {
+            "comment": "Lasciare invariato. Femminile",
+            "pos": "noun",
+            "translation": "directory"
+        }
+    ],
+    "dismiss": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "ignora"
+        }
+    ],
+    "display": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "visualizzare"
+        }
+    ],
+    "domain": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "dominio"
+        }
+    ],
+    "draft": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "bozza"
+        }
+    ],
+    "drag and drop": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "trascina e rilascia"
+        }
+    ],
+    "editor": [
+        {
+            "comment": "Lasciare invariato - Nel senso di strumento: \u201ceditor di testo\u201d. Maschile",
+            "pos": "noun",
+            "translation": "editor"
+        },
+        {
+            "comment": "Nel senso di ruolo in un sito. Mascile",
+            "pos": "noun",
+            "translation": "editore"
+        }
+    ],
+    "email": [
+        {
+            "comment": "Invariato. Declinare al femminile",
+            "pos": "noun",
+            "translation": "email"
+        }
+    ],
+    "embed": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "incorporare"
+        }
+    ],
+    "embedded": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "incorporato"
+        }
+    ],
+    "emoticon": [
+        {
+            "comment": "Lasciare invariato",
+            "pos": "noun",
+            "translation": "emoticon"
+        }
+    ],
+    "endpoint": [
+        {
+            "comment": "Termine tecnico, lasciare invariato. Declinare al maschile",
+            "pos": "noun",
+            "translation": "endpoint"
+        }
+    ],
+    "enter (tasto)": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Invio"
+        }
+    ],
+    "error": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "errore"
+        }
+    ],
+    "escape": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "escludere"
+        }
+    ],
+    "excerpt": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "riassunto"
+        }
+    ],
+    "fatal error": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "errore irreversibile"
+        }
+    ],
+    "feature": [
+        {
+            "comment": "In alcuni casi anche funzionalit\u00e0",
+            "pos": "noun",
+            "translation": "caratteristica"
+        }
+    ],
+    "featured image": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "immagine in evidenza"
+        }
+    ],
+    "feed": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "feed"
+        }
+    ],
+    "feedback": [
+        {
+            "comment": "Lasciare invariato. Declinare al maschile",
+            "pos": "noun",
+            "translation": "feedback"
+        }
+    ],
+    "file": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "file"
+        }
+    ],
+    "filter": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "filtro"
+        }
+    ],
+    "filter hook": [
+        {
+            "comment": "Lasciare invariato. Desclinare al maschile.",
+            "pos": "expression",
+            "translation": "filter hook"
+        }
+    ],
+    "fix": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "correzione"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "correggere"
+        }
+    ],
+    "folder": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "cartella"
+        }
+    ],
+    "follower": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "follower"
+        }
+    ],
+    "font": [
+        {
+            "comment": "Lasciare invariato. Declinare al maschile",
+            "pos": "noun",
+            "translation": "font"
+        }
+    ],
+    "footer": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "footer"
+        }
+    ],
+    "form": [
+        {
+            "comment": "es. modulo di contatto",
+            "pos": "noun",
+            "translation": "modulo"
+        }
+    ],
+    "forum": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "Forum"
+        }
+    ],
+    "free": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "gratuito"
+        }
+    ],
+    "free software": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "sotware libero"
+        }
+    ],
+    "front-end": [
+        {
+            "comment": "Lasciare invariato. Si declina al maschile",
+            "pos": "noun",
+            "translation": "Front-end"
+        }
+    ],
+    "gallery": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "galleria"
+        }
+    ],
+    "globals": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "variabili globali"
+        }
+    ],
+    "ham": [
+        {
+            "comment": "Lasciare invariato (tecnico). Declinare al maschile",
+            "pos": "noun",
+            "translation": "ham"
+        }
+    ],
+    "header": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "Header"
+        }
+    ],
+    "header (html)": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "header"
+        }
+    ],
+    "header image": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Immagine dell'Header"
+        }
+    ],
+    "highlights": [
+        {
+            "comment": "la traduzione \u00e8 da contestualizzare, inserendo l'opportuno sinonimo che \u00e8 messo \"in evidenza\"",
+            "pos": "noun",
+            "translation": "in evidenza"
+        }
+    ],
+    "hook": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "hook"
+        }
+    ],
+    "host": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "host"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "ospitare"
+        }
+    ],
+    "howdy": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "ciao"
+        }
+    ],
+    "hyperlink": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "collegamento ipertestuale"
+        }
+    ],
+    "icon": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "icona"
+        }
+    ],
+    "id": [
+        {
+            "comment": "Lasciare invariato, sempre tutto maiuscolo. Maschile",
+            "pos": "noun",
+            "translation": "ID"
+        }
+    ],
+    "image": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "immagine"
+        }
+    ],
+    "import": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "importare"
+        }
+    ],
+    "invalid": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "non valido"
+        }
+    ],
+    "ip adress": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "indirizzo IP"
+        }
+    ],
+    "label": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "etichetta"
+        }
+    ],
+    "label (html)": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "label"
+        }
+    ],
+    "layout": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "layout"
+        }
+    ],
+    "license key": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "chiave della licenza"
+        }
+    ],
+    "link": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "link"
+        }
+    ],
+    "live demo": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "demo live"
+        }
+    ],
+    "log in": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "accedere"
+        }
+    ],
+    "log out": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "disconnessione"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "uscire"
+        }
+    ],
+    "logged in": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "connesso"
+        }
+    ],
+    "logged out": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "disconnesso"
+        }
+    ],
+    "login": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "accesso"
+        }
+    ],
+    "media": [
+        {
+            "comment": "Lasciare invariato. Plurale",
+            "pos": "noun",
+            "translation": "media"
+        }
+    ],
+    "media library": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "libreria dei media"
+        }
+    ],
+    "meta": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "meta"
+        }
+    ],
+    "minify": [
+        {
+            "comment": "\u00e8 un neologismo, generalmente usato in ambiente di sviluppo. Per approfondimenti: html.it",
+            "pos": "verb",
+            "translation": "minificare"
+        }
+    ],
+    "moderate": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "moderare"
+        }
+    ],
+    "navigation": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "navigazione"
+        }
+    ],
+    "next post": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "articolo successivo"
+        }
+    ],
+    "nonce": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "nonce"
+        }
+    ],
+    "notifications": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "notifiche"
+        }
+    ],
+    "olders post": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "articoli meno recenti"
+        }
+    ],
+    "option": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "opzione"
+        }
+    ],
+    "page": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pagina"
+        }
+    ],
+    "pagination": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "paginazione"
+        }
+    ],
+    "parameter": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "parametro"
+        }
+    ],
+    "parent": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "genitore"
+        }
+    ],
+    "password": [
+        {
+            "comment": "Lasciare invariato. Femminile",
+            "pos": "noun",
+            "translation": "password"
+        }
+    ],
+    "path": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "percorso"
+        }
+    ],
+    "pending": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "in attesa"
+        }
+    ],
+    "permalink": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "permalink"
+        }
+    ],
+    "permission": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "autorizzazione"
+        }
+    ],
+    "pingback": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "pingback"
+        }
+    ],
+    "please": [
+        {
+            "comment": "Nelle frasi che iniziano con Please come ad esempio \"Please try again later\" nella traduzione in italiano NON ha senso riportare il \"Per favore\" non essendo di uso comune nei messaggi inviati da un computer. Eliminarlo e tradurre la frase senza il \"Per favore\".",
+            "pos": "noun",
+            "translation": "N\/A"
+        }
+    ],
+    "plugin": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "plugin"
+        }
+    ],
+    "post": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "pubblicare"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "articolo"
+        }
+    ],
+    "post thumbnail": [
+        {
+            "comment": "immagine in evidenza",
+            "pos": "expression",
+            "translation": ""
+        }
+    ],
+    "post type": [
+        {
+            "comment": "Se \u00e8 tecnico lasciare invariato. Declinare al maschile. Se non \u00e8 tecnico: tipo di contenuto",
+            "pos": "noun",
+            "translation": "post type"
+        }
+    ],
+    "post types": [
+        {
+            "comment": "Se \u00e8 tecnico lasciare invariato. Declinare al maschile. Al plurale in italiano perde la s. Se non \u00e8 tecnico: tipi di contenuto",
+            "pos": "noun",
+            "translation": "post type \/ tipo di contenuto"
+        }
+    ],
+    "powered by": [
+        {
+            "comment": "Lasciare invariato",
+            "pos": "expression",
+            "translation": "powered by"
+        }
+    ],
+    "preview": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "vedi l'anteprima"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "anteprima"
+        }
+    ],
+    "previous post": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "articolo precedente"
+        }
+    ],
+    "processed": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "elaborato"
+        }
+    ],
+    "profile": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "profilo"
+        }
+    ],
+    "proudly powered by wordpress": [
+        {
+            "comment": "Lasciare invariato",
+            "pos": "expression",
+            "translation": "Proudly powered by WordPress"
+        }
+    ],
+    "purge": [
+        {
+            "comment": "riferito alla cache",
+            "pos": "verb",
+            "translation": "svuota"
+        }
+    ],
+    "query": [
+        {
+            "comment": "Lasciare invariato. Femminile",
+            "pos": "noun",
+            "translation": "query"
+        }
+    ],
+    "radio button": [
+        {
+            "comment": "Elemento di form. Lasciare invariato. Declinare al maschile",
+            "pos": "noun",
+            "translation": "radio button"
+        }
+    ],
+    "refresh": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "aggiornare"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "ricaricare"
+        }
+    ],
+    "release": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "versione"
+        }
+    ],
+    "required": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "obbligatorio"
+        }
+    ],
+    "reset": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "reimpostare"
+        }
+    ],
+    "return": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "restituire"
+        },
+        {
+            "comment": "Quando \u00e8 usato nel senso di key, lasciare invariato.",
+            "pos": "noun",
+            "translation": "return"
+        }
+    ],
+    "role": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ruolo"
+        }
+    ],
+    "rss feed": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "Feed RSS"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "feed RSS"
+        }
+    ],
+    "save": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "salvare"
+        }
+    ],
+    "screen": [
+        {
+            "comment": "Il termine \u00e8 a volte usato per intendere una schermata e non lo schermo di un device. \u00c8 importante quindi notare il contesto in cui si opera la traduzione",
+            "pos": "noun",
+            "translation": "schermo\/schermata"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "schermo"
+        }
+    ],
+    "screenshot": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "screenshot"
+        }
+    ],
+    "self hosted": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "esterno"
+        }
+    ],
+    "server": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "server"
+        }
+    ],
+    "settings": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Impostazioni"
+        }
+    ],
+    "share": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "condivisione"
+        }
+    ],
+    "sharing": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "condividere"
+        }
+    ],
+    "shortcode": [
+        {
+            "comment": "Lasciare invariato. maschile",
+            "pos": "noun",
+            "translation": "shortcode"
+        }
+    ],
+    "shortcut": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "scorciatoia"
+        }
+    ],
+    "sidebar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "barra laterale"
+        }
+    ],
+    "site": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "sito"
+        }
+    ],
+    "sitewide": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "tutto il sito"
+        }
+    ],
+    "slug": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "slug"
+        }
+    ],
+    "sorry": [
+        {
+            "comment": "Nelle frasi che iniziano con Sorry come ad esempio \"Sorry, you don't have pemissionsr\" nella traduzione in italiano NON ha senso riportare il \"Mi spiace\" non essendo di uso comune nei messaggi inviati da un computer. Eliminarlo e tradurre la frase senza il \"Mi spiace\".",
+            "pos": "noun",
+            "translation": "Eliminare"
+        }
+    ],
+    "sorry, you are not allowed to": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "Non hai i permessi per"
+        }
+    ],
+    "spam": [
+        {
+            "comment": "Lasciare invariato. Maschile",
+            "pos": "noun",
+            "translation": "spam"
+        }
+    ],
+    "standalone": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "indipendente"
+        }
+    ],
+    "sticky": [
+        {
+            "comment": "riferito a un articolo",
+            "pos": "noun",
+            "translation": "in evidenza"
+        }
+    ],
+    "stopwords": [
+        {
+            "comment": "Lasciare invariato. Declinare al femminile. (In italiano viene persa la s del plurale)",
+            "pos": "noun",
+            "translation": "stopword"
+        }
+    ],
+    "string": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "stringa"
+        }
+    ],
+    "stylesheet": [
+        {
+            "comment": "\r\r",
+            "pos": "noun",
+            "translation": "foglio di stile"
+        }
+    ],
+    "submit": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "inviare"
+        }
+    ],
+    "subscription": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "abbonamento"
+        }
+    ],
+    "tab": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "scheda"
+        }
+    ],
+    "tag": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "tag"
+        }
+    ],
+    "taxonomy": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "tassonomia"
+        }
+    ],
+    "team": [
+        {
+            "comment": "Lasciare invariato. Declinare al maschile",
+            "pos": "noun",
+            "translation": "team"
+        }
+    ],
+    "template": [
+        {
+            "comment": "Lasciare invariato. Maschille",
+            "pos": "noun",
+            "translation": "template"
+        }
+    ],
+    "template hierarchy": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "gerarchia di template"
+        }
+    ],
+    "templates": [
+        {
+            "comment": "Lasciare invariato al singolare",
+            "pos": "noun",
+            "translation": "template"
+        }
+    ],
+    "term": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "termine"
+        }
+    ],
+    "text editor": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "editor di testo"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "editor di testo"
+        }
+    ],
+    "theme": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "tema"
+        }
+    ],
+    "thumbnail": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "miniatura"
+        }
+    ],
+    "timeline": [
+        {
+            "comment": "Lasciare invariato. Usare al femminile",
+            "pos": "noun",
+            "translation": "timeline"
+        }
+    ],
+    "token": [
+        {
+            "comment": "Lasciare invariato. Declinare al maschile",
+            "pos": "noun",
+            "translation": "token"
+        }
+    ],
+    "toolbar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Barra degli strumenti"
+        }
+    ],
+    "tooltip": [
+        {
+            "comment": "Lasciare invariato, declinare al maschile.\r",
+            "pos": "noun",
+            "translation": "tooltip"
+        }
+    ],
+    "un tooltip \u00e8  piccola finestra che viene visualizzata posizionando il puntatore del mouse in corrispondenza di una scritta o di un\u2019icona": [
+        {
+            "comment": null,
+            "pos": "",
+            "translation": "e che contiene informazioni relative all\u2019oggetto selezionato\""
+        }
+    ],
+    "topic": [
+        {
+            "comment": "Lasciare invariato. Declinare al maschile.",
+            "pos": "noun",
+            "translation": "Topic"
+        }
+    ],
+    "trackback": [
+        {
+            "comment": "Lasciare invariato. Declinare al maschile",
+            "pos": "noun",
+            "translation": "trackback"
+        }
+    ],
+    "trash": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "cestino"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "eliminare"
+        }
+    ],
+    "trial": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "periodo di prova"
+        }
+    ],
+    "two-factor authentication": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "autenticazione a due fattori"
+        }
+    ],
+    "untrash": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ripristinare"
+        }
+    ],
+    "update": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "aggiornare"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "aggiornamento"
+        }
+    ],
+    "upload": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "caricare"
+        }
+    ],
+    "uploader": [
+        {
+            "comment": "Lasciare invariato. maschile",
+            "pos": "noun",
+            "translation": "uploader"
+        }
+    ],
+    "url": [
+        {
+            "comment": "Si usa la maschile",
+            "pos": "noun",
+            "translation": "URL"
+        }
+    ],
+    "user": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "utente"
+        }
+    ],
+    "username": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "nome utente"
+        }
+    ],
+    "valid": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "valido"
+        }
+    ],
+    "video": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "video"
+        }
+    ],
+    "view": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "visualizzare"
+        }
+    ],
+    "wapper": [
+        {
+            "comment": "Lasciare invariato, maschile. Termine tecnico si usa come nell'es. \"La funzionalit\u00e0 \u00e8 un wrapper di quella originale\"",
+            "pos": "noun",
+            "translation": "wapper"
+        }
+    ],
+    "website": [
+        {
+            "comment": "\"web\" dovrebbe sempre essere minuscolo per l'Accademia della Crusca",
+            "pos": "noun",
+            "translation": "sito web"
+        }
+    ],
+    "widget": [
+        {
+            "comment": "A self-contained area of a web page that performs a specific function. For example, you can use a widget to display your Twitter feed in your site\u2019s sidebar. More info: http:\/\/en.support.wordpress.com\/widgets\/",
+            "pos": "noun",
+            "translation": "widget"
+        }
+    ],
+    "widgets": [
+        {
+            "comment": "Lasciare invariato. Declinare al maschile. In italiano viene persa la s del plurale",
+            "pos": "noun",
+            "translation": "widget"
+        }
+    ],
+    "wrap": [
+        {
+            "comment": "Se presente in contesti non tecnici, diversamente lasciare invariato",
+            "pos": "verb",
+            "translation": "avvolgere"
+        }
+    ],
+    "wrapped (is)": [
+        {
+            "comment": " o  fa da wrapper a\r",
+            "pos": "noun",
+            "translation": "\u00e8 un wrapper (di)"
+        }
+    ],
+    "usato in contesti tecnici\"": [
+        {
+            "comment": null,
+            "pos": "",
+            "translation": ""
+        }
+    ],
+    "wrapper": [
+        {
+            "comment": "Se usato in termini tecnici si lascia invariato. Declinare al maschile.\r",
+            "pos": "noun",
+            "translation": "contenitore\/wrapper"
+        }
+    ],
+    "in termini non tecnici contenitore": [
+        {
+            "comment": null,
+            "pos": "",
+            "translation": "involucro.\""
+        }
+    ],
+    "xml-rpc": [
+        {
+            "comment": "More info: http:\/\/codex.wordpress.org\/XML-RPC_Support",
+            "pos": "noun",
+            "translation": "XML-RPC"
+        }
+    ],
+    "you don't have permission": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "non hai i permessi per"
+        }
+    ]
+}

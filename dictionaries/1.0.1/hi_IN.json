@@ -1,0 +1,295 @@
+{
+    "aspect ratio": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0938\u094d\u0935\u0930\u0942\u092a \u0905\u0928\u0941\u092a\u093e\u0924"
+        }
+    ],
+    "author": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0932\u0947\u0916\u0915"
+        }
+    ],
+    "avatar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0905\u0935\u0924\u093e\u0930"
+        }
+    ],
+    "bug": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u0924\u094d\u0930\u0941\u091f\u093f"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0924\u094d\u0930\u0941\u091f\u093f"
+        }
+    ],
+    "bug report": [
+        {
+            "comment": "bug report is a specific name more like a proper noun (\u0935\u094d\u092f\u0915\u094d\u0924\u093f\u0935\u093e\u091a\u0915 \u0938\u0902\u091c\u094d\u091e\u093e) than a common noun (\u091c\u093e\u0924\u093f\u0935\u093e\u091a\u0915 \u0938\u0902\u091c\u094d\u091e\u093e), so even though it translates to \u0924\u094d\u0930\u0941\u091f\u093f \u0935\u093f\u0935\u0930\u0923 or \u0924\u094d\u0930\u0941\u091f\u093f \u0930\u093f\u092a\u094b\u0930\u094d\u091f, we won't translate it.",
+            "pos": "noun",
+            "translation": "\u092c\u0917 \u0930\u093f\u092a\u094b\u0930\u094d\u091f"
+        }
+    ],
+    "comment": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u091f\u093f\u092a\u094d\u092a\u0923\u0940"
+        }
+    ],
+    "development version": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0935\u093f\u0915\u093e\u0938 \u0938\u0902\u0938\u094d\u0915\u0930\u0923"
+        }
+    ],
+    "document": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0926\u0938\u094d\u0924\u093e\u0935\u0947\u091c\u093c"
+        }
+    ],
+    "documentation": [
+        {
+            "comment": "when we talk about documentation as a process",
+            "pos": "verb",
+            "translation": "\u0926\u0938\u094d\u0924\u093e\u0935\u0947\u091c\u093c\u0940\u0915\u0930\u0923"
+        },
+        {
+            "comment": "when we talk about documentation as the body of documents",
+            "pos": "noun",
+            "translation": "\u0926\u0938\u094d\u0924\u093e\u0935\u0947\u091c\u093c"
+        }
+    ],
+    "download": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0921\u093e\u0909\u0928\u0932\u094b\u0921"
+        }
+    ],
+    "edit": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u0938\u092e\u094d\u092a\u093e\u0926\u093f\u0924"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0938\u0902\u092a\u093e\u0926\u0928"
+        }
+    ],
+    "editor": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0938\u0902\u092a\u093e\u0926\u0915"
+        }
+    ],
+    "excerpt": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0905\u0902\u0936"
+        }
+    ],
+    "featured": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "\u0935\u093f\u0936\u0947\u0937 \u0938\u094d\u0925\u093e\u0928 \u092a\u094d\u0930\u093e\u092a\u094d\u0924"
+        }
+    ],
+    "format": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u092a\u094d\u0930\u093e\u0930\u0942\u092a (\u092b\u0949\u0930\u094d\u092e\u0947\u091f)"
+        }
+    ],
+    "gallery": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0926\u0940\u0930\u094d\u0918\u093e"
+        }
+    ],
+    "image": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u091a\u093f\u0924\u094d\u0930"
+        }
+    ],
+    "install": [
+        {
+            "comment": "\u0938\u094d\u0925\u093e\u092a\u093f\u0924 \u0915\u0930\u0928\u093e, \u0938\u094d\u0925\u093e\u092a\u093f\u0924 \u0915\u0930\u0947\u0902, \u0938\u094d\u0925\u093e\u092a\u093f\u0924 \u0939\u094b \u0930\u0939\u093e \u0906\u0926\u093f\u0964",
+            "pos": "verb",
+            "translation": "\u0938\u094d\u0925\u093e\u092a\u093f\u0924"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u0938\u094d\u0925\u093e\u092a\u093f\u0924"
+        }
+    ],
+    "media": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u092e\u0940\u0921\u093f\u092f\u093e"
+        }
+    ],
+    "object": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0911\u092c\u094d\u091c\u0947\u0915\u094d\u091f (Object)"
+        }
+    ],
+    "password": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u092a\u093e\u0938\u0935\u0930\u094d\u0921"
+        }
+    ],
+    "plugin": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u092a\u094d\u0932\u0917\u0907\u0928"
+        }
+    ],
+    "post": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u092a\u094b\u0938\u094d\u091f"
+        }
+    ],
+    "profile": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0935\u093f\u0935\u0930\u0923"
+        }
+    ],
+    "resource": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0930\u093f\u0938\u094b\u0930\u094d\u0938"
+        }
+    ],
+    "rest": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0930\u0947\u0938\u094d\u091f (REST)"
+        }
+    ],
+    "scroll": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u0938\u094d\u0915\u094d\u0930\u0949\u0932"
+        }
+    ],
+    "set": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u0928\u093f\u0930\u094d\u0927\u093e\u0930\u093f\u0924"
+        }
+    ],
+    "support forum": [
+        {
+            "comment": "will go well for the future when it will be literally called a Help Hub",
+            "pos": "noun",
+            "translation": "\u0938\u0939\u093e\u092f\u0924\u093e \u0915\u0947\u0902\u0926\u094d\u0930"
+        }
+    ],
+    "team": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u091f\u0940\u092e"
+        }
+    ],
+    "term": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u091f\u0930\u094d\u092e"
+        }
+    ],
+    "theme": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0925\u0940\u092e"
+        }
+    ],
+    "upload": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0905\u092a\u0932\u094b\u0921"
+        }
+    ],
+    "url": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u092f\u0942\u0906\u0930\u090f\u0932"
+        }
+    ],
+    "user": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e"
+        }
+    ],
+    "username": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u092f\u0942\u095b\u0930\u0928\u0947\u092e"
+        }
+    ],
+    "version": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0935\u0930\u094d\u095b\u0928"
+        }
+    ],
+    "video": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0935\u0940\u0921\u093f\u092f\u094b"
+        }
+    ],
+    "wordpress": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0935\u0930\u094d\u0921\u092a\u094d\u0930\u0947\u0938"
+        }
+    ]
+}

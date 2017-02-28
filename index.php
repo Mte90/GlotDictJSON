@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
 
-define('GLOTDICT_GLOSSARY','1.0.0');
+define('GLOTDICT_GLOSSARY','1.0.1');
 $path = './dictionaries/'. GLOTDICT_GLOSSARY.'/';
 $glossary_file_list = './dictionaries/'. GLOTDICT_GLOSSARY.'.json';
 
@@ -33,7 +33,7 @@ $glossaries['it_IT'] = go_download_glotdict('it_IT', "https://translate.wordpres
 $glossaries['ja'] = go_download_glotdict('ja', "https://translate.wordpress.org/locale/ja/default/glossary");
 $glossaries['lt_LT'] = go_download_glotdict('lt_LT', "https://translate.wordpress.org/locale/lt/default/glossary");
 $glossaries['lv_LV'] = go_download_glotdict('lv_LV', "https://translate.wordpress.org/locale/lv/default/glossary");
-$glossaries['ne_NP'] = go_download_glotdict('ne_NP', "https://translate.wordpress.org/locale/ne/default/glossary");
+// $glossaries['ne_NP'] = go_download_glotdict('ne_NP', "https://translate.wordpress.org/locale/ne/default/glossary");
 $glossaries['nl_BE'] = go_download_glotdict('nl_BE', "https://translate.wordpress.org/locale/nl-be/default/glossary");
 $glossaries['nl_NL'] = go_download_glotdict('nl_NL', "https://translate.wordpress.org/locale/nl/default/glossary");
 $glossaries['pt_BR'] = go_download_glotdict('pt_BR', "https://translate.wordpress.org/locale/pt-br/default/glossary");
@@ -60,21 +60,29 @@ function go_download_glotdict($locale, $url) {
 
     echo "Processing " . $locale . "...\n";
     $file = file_get_contents( $url );
-    
+
     if ( $file !== false ) {
         $lines = explode( "\n", trim( $file ) );
 
         // get rid of first line, because it's information that we don't need
         array_shift( $lines );
-        
+
         // iterating each line
         foreach ( $lines as $csv ) {
             $values = str_getcsv( $csv );
             $values[0] = trim( strtolower( $values[0] ) );
-            $values[1] = trim( $values[1] );
-            $values[2] = trim( $values[2] );
+            if(!isset($values[1])) {
+                $values[1] = '';
+            } else {
+                $values[1] = trim( $values[1] );
+            }
+            if(!isset($values[2])) {
+                $values[2] = '';
+            } else {
+                $values[2] = trim( $values[2] );
+            }
             // don't override if there is already a translation.
-            if( 
+            if(
                 false === array_key_exists( $values[0], $output ) ||
                 $output[ $values[0] ][0]['pos'] === @$values[2] && $output[ $values[0] ][0]['translation'] === @$values[1] && empty($output[ $values[0] ][0]['comment'])
             ) {
@@ -86,18 +94,19 @@ function go_download_glotdict($locale, $url) {
                 }
             }
         }
-        
+
         if(file_exists($path . $locale . ".json")) {
             $old_json = json_decode(trim(file_get_contents($path . $locale . ".json")), true);
-            $time = $glossary_list[$locale]['time'];
-            if(empty($time)) {
+            if(!isset($glossary_list[$locale]['time']) || empty($time)) {
                 $time = @date('d/m/Y');
+            } else {
+                $time = $glossary_list[$locale]['time'];
             }
         } else {
             $old_json = '';
             $time = @date('d/m/Y');
         }
-        
+
         if($old_json !== $output) {
             // write to locale json file
             file_put_contents( $path . $locale . ".json" , json_encode( $output, JSON_PRETTY_PRINT ) );
@@ -109,6 +118,6 @@ function go_download_glotdict($locale, $url) {
     } else {
         echo 'Page ' . $url . ' not responding...<br>';
     }
-    
+
     return array('time'=>$time);
 }

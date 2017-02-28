@@ -1,0 +1,170 @@
+{
+    "apply": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "Anvend"
+        }
+    ],
+    "browse": [
+        {
+            "comment": "N\u00e5r noget skal kikkes igennem eller findes frem.",
+            "pos": "verb",
+            "translation": "Gennemse"
+        }
+    ],
+    "child theme": [
+        {
+            "comment": "Tema, der bygger p\u00e5 funktioner i et hovedtema (parent theme)",
+            "pos": "noun",
+            "translation": "undertema"
+        }
+    ],
+    "create": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "Opret"
+        }
+    ],
+    "customizer": [
+        {
+            "comment": "Funktionen cusomizer til tilpasning af temaops\u00e6tning.",
+            "pos": "noun",
+            "translation": "Tilpasser"
+        }
+    ],
+    "double quote": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "dobbelte anf\u00f8rselstegn"
+        }
+    ],
+    "drop-down": [
+        {
+            "comment": "Synes at v\u00e6re den konventionelle overs\u00e6ttelse.",
+            "pos": "noun",
+            "translation": "rullemenu"
+        }
+    ],
+    "hierarchical": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "hierarkisk"
+        }
+    ],
+    "identifier": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "identifikator"
+        }
+    ],
+    "log in": [
+        {
+            "comment": "Et fors\u00f8g p\u00e5 at undg\u00e5 at bruge log p\u00e5 for konsistens.",
+            "pos": "verb",
+            "translation": "Log ind"
+        }
+    ],
+    "options": [
+        {
+            "comment": "Nogle gange er det indstillinger.",
+            "pos": "noun",
+            "translation": "Muligheder"
+        }
+    ],
+    "parent theme": [
+        {
+            "comment": "Bruges om et overordnet tema med mulighed for undertemaer (child themes)",
+            "pos": "noun",
+            "translation": "hovedtema"
+        }
+    ],
+    "password": [
+        {
+            "comment": "Tidligere er der brugt kodeord.",
+            "pos": "noun",
+            "translation": "Adgangskode"
+        }
+    ],
+    "post type": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Indholdstype"
+        }
+    ],
+    "query": [
+        {
+            "comment": "Tr\u00e6k af data fra databasen, returnere  et svar.",
+            "pos": "noun",
+            "translation": "foresp\u00f8rgsel"
+        }
+    ],
+    "result set": [
+        {
+            "comment": "Det returnerede svar p\u00e5 en foresp\u00f8rgsel.",
+            "pos": "noun",
+            "translation": "svar"
+        }
+    ],
+    "section": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "sektion"
+        }
+    ],
+    "sidebar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Sidebar"
+        }
+    ],
+    "site": [
+        {
+            "comment": "Et fors\u00f8g p\u00e5 at undg\u00e5 at bruge side eller hjemmeside, da begge dele ikke er s\u00e6rligt d\u00e6kkende.",
+            "pos": "noun",
+            "translation": "Websted"
+        }
+    ],
+    "slug": [
+        {
+            "comment": "Den forkortede version af titlen, f.eks. til brug i URL",
+            "pos": "noun",
+            "translation": "korttitel"
+        }
+    ],
+    "successfully": [
+        {
+            "comment": "\"Succesfuldt\" eller \"med succes\" bruges ikke p\u00e5 dansk.",
+            "pos": "adjective",
+            "translation": "uden problemer"
+        }
+    ],
+    "tagline": [
+        {
+            "comment": "Kan ikke overs\u00e6ttes med et ord, da det kan have flere betydninger.",
+            "pos": "noun",
+            "translation": "undertitel\/slogan\/slaglinje"
+        }
+    ],
+    "various contexts": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "forskellige sammenh\u00e6nge"
+        }
+    ],
+    "website": [
+        {
+            "comment": "Et fors\u00f8g p\u00e5 at undg\u00e5 at bruge side eller hjemmeside, da begge dele ikke er s\u00e6rligt d\u00e6kkende.",
+            "pos": "noun",
+            "translation": "Websted"
+        }
+    ]
+}

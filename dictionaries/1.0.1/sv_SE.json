@@ -857,7 +857,7 @@
     ],
     "redigera\"\" = oftast n\u00e4r det handlar om flera element eller en hel sida kollektivt. n\u00e4r det handlar om att radikalt f\u00f6r\u00e4ndra inneh\u00e5llet p\u00e5 en sida genom att g\u00e5 till en annan sida (t ex redigera \"\"bloggar jag f\u00f6ljer\"\") eller redigera ordningen p\u00e5 flera element.\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -1054,7 +1054,7 @@
     ],
     "featured content = framh\u00e4vt inneh\u00e5ll\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -1970,7 +1970,7 @@
     ],
     "till\u00e5telse om det handlar om anv\u00e4ndarens f\u00f6rh\u00e5llande med tj\u00e4nsten": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": "t.ex. \"\"We won't do this before asking your permission\"\" = \"\"Vi kommer inte att g\u00f6ra detta utan din till\u00e5telse\"\" eller \"\"...fr\u00e5ga dig f\u00f6rst\"\".\""
         }
@@ -1984,7 +1984,7 @@
     ],
     "personal blogger": [
         {
-            "comment": "A blogger writing primarily about their personal life (as opposed to business or another specific topic) ",
+            "comment": "A blogger writing primarily about their personal life (as opposed to business or another specific topic)",
             "pos": "noun",
             "translation": "personlig bloggare"
         }
@@ -2038,7 +2038,7 @@
     ],
     "i m\u00e5nga fall g\u00e5r det utm\u00e4rkt att hoppa \u00f6ver ordet please och direkt \u00f6vers\u00e4tta sj\u00e4lva uppmaningen.\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -2338,7 +2338,7 @@
     ],
     "queue": [
         {
-            "comment": "Generally \"queue\" is only used in the context of comments and holding comments in a \"moderation queue\". Should be rewritten to detail that comments are awaiting investigation: \"Keep comments containing %s or more links in the queue\" = \"L\u00e5t kommentarer som inneh\u00e5ller %s eller fler l\u00e4nkar inv\u00e4nta granskning\", \"Turn on moderation\" = \"Sl\u00e5 p\u00e5 granskning\", \"spam queue\" is direct so should be translated with \"k\u00f6\", i.e. \"skr\u00e4ppost-k\u00f6\". ",
+            "comment": "Generally \"queue\" is only used in the context of comments and holding comments in a \"moderation queue\". Should be rewritten to detail that comments are awaiting investigation: \"Keep comments containing %s or more links in the queue\" = \"L\u00e5t kommentarer som inneh\u00e5ller %s eller fler l\u00e4nkar inv\u00e4nta granskning\", \"Turn on moderation\" = \"Sl\u00e5 p\u00e5 granskning\", \"spam queue\" is direct so should be translated with \"k\u00f6\", i.e. \"skr\u00e4ppost-k\u00f6\".",
             "pos": "noun",
             "translation": "inv\u00e4nta [granskning] \/ k\u00f6"
         }
@@ -2550,7 +2550,7 @@
     ],
     "f\u00f6r andra till\u00e4mpningar -> \u201dschemal\u00e4gg\u201d\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -3004,7 +3004,7 @@
     ],
     "men tagg f\u00f6r html-m\u00e4rkning\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -3439,7 +3439,7 @@
     ],
     "plural: widgetar\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }

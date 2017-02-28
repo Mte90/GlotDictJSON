@@ -168,13 +168,6 @@
             "translation": "bitrate"
         }
     ],
-    "": [
-        {
-            "comment": null,
-            "pos": "",
-            "translation": ""
-        }
-    ],
     "blog": [
         {
             "comment": "Lasciare invariato. Mascile.In italiano viene persa la s del plurale",
@@ -212,14 +205,14 @@
     ],
     "bulk": [
         {
-            "comment": "Bulk Actions=azioni di gruppo\r",
+            "comment": "Bulk Actions=azioni di gruppo",
             "pos": "noun",
             "translation": "di massa"
         }
     ],
     "bulk selection= selezione multipla\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -1315,7 +1308,7 @@
     ],
     "stylesheet": [
         {
-            "comment": "\r\r",
+            "comment": "",
             "pos": "noun",
             "translation": "foglio di stile"
         }
@@ -1439,14 +1432,14 @@
     ],
     "tooltip": [
         {
-            "comment": "Lasciare invariato, declinare al maschile.\r",
+            "comment": "Lasciare invariato, declinare al maschile.",
             "pos": "noun",
             "translation": "tooltip"
         }
     ],
     "un tooltip \u00e8  piccola finestra che viene visualizzata posizionando il puntatore del mouse in corrispondenza di una scritta o di un\u2019icona": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": "e che contiene informazioni relative all\u2019oggetto selezionato\""
         }
@@ -1603,28 +1596,28 @@
     ],
     "wrapped (is)": [
         {
-            "comment": " o  fa da wrapper a\r",
+            "comment": "o  fa da wrapper a",
             "pos": "noun",
             "translation": "\u00e8 un wrapper (di)"
         }
     ],
     "usato in contesti tecnici\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "wrapper": [
         {
-            "comment": "Se usato in termini tecnici si lascia invariato. Declinare al maschile.\r",
+            "comment": "Se usato in termini tecnici si lascia invariato. Declinare al maschile.",
             "pos": "noun",
             "translation": "contenitore\/wrapper"
         }
     ],
     "in termini non tecnici contenitore": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": "involucro.\""
         }

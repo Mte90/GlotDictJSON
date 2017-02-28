@@ -232,7 +232,7 @@
     ],
     "content": [
         {
-            "comment": "Binnen WordPress verwijst 'Content' meestal naar de inhoud van een bericht. Daarom wordt dit altijd vertaald naar 'inhoud'. ",
+            "comment": "Binnen WordPress verwijst 'Content' meestal naar de inhoud van een bericht. Daarom wordt dit altijd vertaald naar 'inhoud'.",
             "pos": "noun",
             "translation": "Inhoud"
         }
@@ -288,14 +288,14 @@
     ],
     "displays [location]": [
         {
-            "comment": "Voorbeeld 1: Displays below the content area. > Wordt onder de inhoud getoond.\r",
+            "comment": "Voorbeeld 1: Displays below the content area. > Wordt onder de inhoud getoond.",
             "pos": "expression",
             "translation": "Wordt [op locatie] getoond."
         }
     ],
     "voorbeeld 2: displays to the right of the logo. > wordt rechts van het logo getoond.\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -330,14 +330,14 @@
     ],
     "een desktop text editor wordt tekstbewerker.": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "de rol editor wordt redacteur.\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -589,14 +589,14 @@
     ],
     "note:": [
         {
-            "comment": "In het geval van een waarschuwing gebruiken we de vertaling 'Let op:'. \r",
+            "comment": "In het geval van een waarschuwing gebruiken we de vertaling 'Let op:'.",
             "pos": "expression",
             "translation": "Let op:"
         }
     ],
     "gaat het slechts om neutrale informatie": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": "dan vertalen we 'Note:' met 'Opmerking:'.\""
         }

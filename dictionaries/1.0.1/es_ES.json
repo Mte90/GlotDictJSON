@@ -1,21 +1,21 @@
 {
     "about": [
         {
-            "comment": "Preferimos \"Acerca de\" antes que \"Sobre\", pero depender\u00e1 del contexto. \r",
+            "comment": "Preferimos \"Acerca de\" antes que \"Sobre\", pero depender\u00e1 del contexto.",
             "pos": "adverb",
             "translation": "Acerca de"
         }
     ],
     "acerca del tema baskerville\"\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "sobre el autor\"\"\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -270,14 +270,14 @@
             "translation": "Clic"
         },
         {
-            "comment": "Se pone \"clic\" sin K ",
+            "comment": "Se pone \"clic\" sin K",
             "pos": "verb",
             "translation": "Hacer clic"
         }
     ],
     "(http:\/\/www.fundeu.es\/consulta\/hacer-clic-1753\/)\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -338,7 +338,7 @@
     ],
     "https:\/\/twitter.com\/wp_es\/status\/684352383267270656\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -436,49 +436,42 @@
     ],
     "email": [
         {
-            "comment": "No utiilzar: ",
+            "comment": "No utiilzar:",
             "pos": "noun",
             "translation": "Correo electr\u00f3nico"
         }
     ],
     "email (incorrecto).": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "correo e (incorrecto).": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "e-mail (incorrecto).": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "correo electr\u00f3nico (con e may\u00fascula) (incorrecto)": [
         {
-            "comment": null,
-            "pos": "",
-            "translation": ""
-        }
-    ],
-    "": [
-        {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "email adress = direcci\u00f3n de correo electr\u00f3nico (correcto)\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -632,14 +625,14 @@
     ],
     "hook": [
         {
-            "comment": "Action hook -> gancho de acci\u00f3n\r",
+            "comment": "Action hook -> gancho de acci\u00f3n",
             "pos": "noun",
             "translation": "gancho"
         }
     ],
     "filter hook -> gancho de filtro\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -709,7 +702,7 @@
     ],
     "se refiere al plugin jetpack. puedes encontrar m\u00e1s informaci\u00f3n en jetpack.me\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -786,56 +779,56 @@
     ],
     "login": [
         {
-            "comment": "Usar \"Acceso\" cuando sea un enlace a una p\u00e1gina de acceso.\r",
+            "comment": "Usar \"Acceso\" cuando sea un enlace a una p\u00e1gina de acceso.",
             "pos": "verb",
             "translation": "Acceder"
         }
     ],
     "usar \"\"acceder\"\" cuando sea": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "1) una etiqueta de un bot\u00f3n": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": "cuando se haga la acci\u00f3n de acceder  al pulsarlo."
         }
     ],
     "2) se refiera en un texto a la acci\u00f3n de acceder.": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "no utilizar:": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "iniciar sesi\u00f3n (incorrecto).": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "entrar (incorrecto).": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "identificarse (incorrecto)\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -884,21 +877,21 @@
     ],
     "nickname": [
         {
-            "comment": "No utilizar: ",
+            "comment": "No utilizar:",
             "pos": "noun",
             "translation": "Alias"
         }
     ],
     "apodo (incorrecto)": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "nickname (incorrecto)\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -1029,7 +1022,7 @@
     ],
     "decidido por votaci\u00f3n popular aqu\u00ed:": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
@@ -1043,7 +1036,7 @@
     ],
     "powered by wordpress": [
         {
-            "comment": "Traducci\u00f3n actual. ",
+            "comment": "Traducci\u00f3n actual.",
             "pos": "expression",
             "translation": "Funciona gracias a WordPress"
         }
@@ -1303,14 +1296,14 @@
     ],
     "lo sentimos (incorrecto)": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }
     ],
     "perdona (incorrecto)\"": [
         {
-            "comment": null,
+            "comment": "",
             "pos": "",
             "translation": ""
         }

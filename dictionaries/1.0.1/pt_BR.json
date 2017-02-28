@@ -57,7 +57,7 @@
     ],
     "backup": [
         {
-            "comment": " Masculino",
+            "comment": "Masculino",
             "pos": "noun",
             "translation": "backup"
         },
@@ -453,7 +453,7 @@
     ],
     "entry": [
         {
-            "comment": " ou entrada conforme o contexto",
+            "comment": "ou entrada conforme o contexto",
             "pos": "noun",
             "translation": "post"
         }
@@ -712,7 +712,7 @@
     ],
     "loop": [
         {
-            "comment": " masculino",
+            "comment": "masculino",
             "pos": "noun",
             "translation": "loop"
         },
@@ -806,7 +806,7 @@
     ],
     "offine": [
         {
-            "comment": " sem h\u00edfen",
+            "comment": "sem h\u00edfen",
             "pos": "adjective",
             "translation": "offine"
         }
@@ -1113,7 +1113,7 @@
     ],
     "sidebar": [
         {
-            "comment": " \u00e1rea de widget",
+            "comment": "\u00e1rea de widget",
             "pos": "noun",
             "translation": "barral lateral"
         }

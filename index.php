@@ -71,16 +71,24 @@ function go_download_glotdict($locale, $url) {
         foreach ( $lines as $csv ) {
             $values = str_getcsv( $csv );
             $values[0] = trim( strtolower( $values[0] ) );
-            if(!isset($values[1])) {
-                $values[1] = '';
-            } else {
-                $values[1] = trim( $values[1] );
+            if(empty($values[0])) {
+                continue;
             }
-            if(!isset($values[2])) {
-                $values[2] = '';
-            } else {
-                $values[2] = trim( $values[2] );
+            $values_[1] = '';
+            $values_[2] = '';
+            $values_[3] = '';
+            if(isset($values[1]))  {
+                $values_[1] = trim( $values[1] );
             }
+            if(isset($values[2])) {
+                $values_[2] = trim( $values[2] );
+            }
+            if(isset($values[3])) {
+                $values_[3] = trim( $values[3] );
+            }
+            $values[1] = $values_[1];
+            $values[2] = $values_[2];
+            $values[3] = $values_[3];
             // don't override if there is already a translation.
             if(
                 false === array_key_exists( $values[0], $output ) ||

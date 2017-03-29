@@ -1,0 +1,634 @@
+{
+    "<a href=\"https:\/\/wordpress.org\/support\/\">": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "<a href=\"https:\/\/pl.forums.wordpress.org\/\">"
+        }
+    ],
+    "sorry, you are not allowed to": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "Przepraszamy, nie posiadasz uprawnienia do"
+        }
+    ],
+    "'cancel' to stop, 'ok' to": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "Kliknij \u00e2\u0080\u009eAnuluj\u00e2\u0080\u009d, aby anulowa\u00c4\u0087 t\u00c4\u0099 operacj\u00c4\u0099, lub \u00e2\u0080\u009eOK\u00e2\u0080\u009d, aby j\u00c4\u0085 sfinalizowa\u00c4\u0087."
+        }
+    ],
+    "contributing to wordpress": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pomoc w rozwoju WordPressa"
+        }
+    ],
+    "maintenance release": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "wydanie z poprawkami b\u00c5\u0082\u00c4\u0099d\u00c3\u00b3w"
+        }
+    ],
+    "security release": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "wydanie z poprawkami b\u00c5\u0082\u00c4\u0099d\u00c3\u00b3w w zabezpieczeniach"
+        }
+    ],
+    "persistent cache": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "trwa\u00c5\u0082a pami\u00c4\u0099\u00c4\u0087 podr\u00c4\u0099czna"
+        }
+    ],
+    "pass as argument": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "podawa\u00c4\u0087 jako argument (funkcji)"
+        }
+    ],
+    "for the resource": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "dla zasobu"
+        }
+    ],
+    "documentation on": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "dokumentacja:"
+        }
+    ],
+    "you are about to": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "Zamierzasz"
+        }
+    ],
+    "await moderation": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "oczekiwa\u00c4\u0087 na moderacj\u00c4\u0099"
+        }
+    ],
+    "text direction": [
+        {
+            "comment": "(nie tekstu)",
+            "pos": "noun",
+            "translation": "kierunek pisania"
+        }
+    ],
+    "featured media": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "wyr\u00c3\u00b3\u00c5\u00bcniaj\u00c4\u0085cy plik medialny"
+        }
+    ],
+    "featured image": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "obrazek wyr\u00c3\u00b3\u00c5\u00bcniaj\u00c4\u0085cy"
+        }
+    ],
+    "media library": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "biblioteka medi\u00c3\u00b3w"
+        }
+    ],
+    "parent theme": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "motyw nadrz\u00c4\u0099dny"
+        }
+    ],
+    "the resource": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "zas\u00c3\u00b3b"
+        }
+    ],
+    "post format": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "format wpisu"
+        }
+    ],
+    "child theme": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "motyw potomny"
+        }
+    ],
+    "front page": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "strona g\u00c5\u0082\u00c3\u00b3wna"
+        }
+    ],
+    "compatible": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "zgodny [mo\u00c5\u00bce by\u00c4\u0087 te\u00c5\u00bc \"kompatybilny\"]"
+        }
+    ],
+    "stylesheet": [
+        {
+            "comment": "(nie stylu)",
+            "pos": "noun",
+            "translation": "arkusz styl\u00c3\u00b3w"
+        }
+    ],
+    "deprecated": [
+        {
+            "comment": "is deprecated - jest przestarza\u00c5\u0082\u00c4\u0085 praktyk\u00c4\u0085",
+            "pos": "verb",
+            "translation": "przestarza\u00c5\u0082y"
+        }
+    ],
+    "protected": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "zabezpieczony"
+        }
+    ],
+    "permalink": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "bezpo\u00c5\u009bredni odno\u00c5\u009bnik"
+        }
+    ],
+    "thumbnail": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ikona"
+        }
+    ],
+    "post type": [
+        {
+            "comment": "stare, nieaktualne t\u00c5\u0082umaczenie: typ wpisu",
+            "pos": "noun",
+            "translation": "typ tre\u00c5\u009bci"
+        }
+    ],
+    "changeset": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "zestaw zmian"
+        }
+    ],
+    "dashboard": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kokpit"
+        }
+    ],
+    "customize": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "spersonalizuj"
+        }
+    ],
+    "admin bar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pasek administratora"
+        }
+    ],
+    "could not": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "nie mo\u00c5\u00bcna by\u00c5\u0082o"
+        }
+    ],
+    "involved": [
+        {
+            "comment": "get involved = we\u00c5\u00ba udzia\u00c5\u0082",
+            "pos": "verb",
+            "translation": "bior\u00c4\u0085cy udzia\u00c5\u0082"
+        }
+    ],
+    "importer": [
+        {
+            "comment": "dop.: importera, bier.: importer; mian. lm.: importery",
+            "pos": "noun",
+            "translation": "importer"
+        }
+    ],
+    "activate": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "w\u00c5\u0082\u00c4\u0085cz"
+        },
+        {
+            "comment": "raczej unikajmy s\u00c5\u0082owa \"aktywowa\u00c4\u0087\"; u\u00c5\u00bcywamy go tylko w kontek\u00c5\u009bcie aktywacji konta, w innych przypadkach piszmy \"w\u00c5\u0082\u00c4\u0085cza\u00c4\u0087\"",
+            "pos": "verb",
+            "translation": "w\u00c5\u0082\u00c4\u0085cza\u00c4\u0087"
+        }
+    ],
+    "subclass": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "podklasa"
+        }
+    ],
+    "revision": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "wersja"
+        }
+    ],
+    "feedback": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "uwagi"
+        }
+    ],
+    "database": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "baza danych"
+        }
+    ],
+    "security": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "zabezpieczenia"
+        }
+    ],
+    "anchors": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kotwice"
+        }
+    ],
+    "release": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "wydanie"
+        }
+    ],
+    "reflect": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "mie\u00c4\u0087 wp\u00c5\u0082yw"
+        }
+    ],
+    "caption": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "podpis"
+        }
+    ],
+    "sidebar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "panel boczny"
+        }
+    ],
+    "feature": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "funkcja"
+        }
+    ],
+    "excerpt": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "zajawka"
+        }
+    ],
+    "support": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pomoc techniczna"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "wspiera\u00c4\u0087"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "obs\u00c5\u0082ugiwa\u00c4\u0087"
+        }
+    ],
+    "current": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "obecny, aktualny"
+        },
+        {
+            "comment": "[je\u00c5\u009bli w kontek\u00c5\u009bcie \"w\u00c5\u0082\u00c4\u0085czony\"]",
+            "pos": "noun",
+            "translation": "u\u00c5\u00bcywany"
+        }
+    ],
+    "credits": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "autorzy"
+        }
+    ],
+    "content": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "tre\u00c5\u009b\u00c4\u0087"
+        }
+    ],
+    "preview": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "podgl\u00c4\u0085d"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "podejrzyj"
+        }
+    ],
+    "screen": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ekran"
+        }
+    ],
+    "static": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "statyczny"
+        }
+    ],
+    "sticky": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "przypi\u00c4\u0099ty"
+        }
+    ],
+    "remove": [
+        {
+            "comment": "kiedy ju\u00c5\u00bc naprawd\u00c4\u0099 nie da si\u00c4\u0099 inaczej, mo\u00c5\u00bce by\u00c4\u0087 i \"kasowa\u00c4\u0087\" :)",
+            "pos": "verb",
+            "translation": "usuwa\u00c4\u0087"
+        }
+    ],
+    "locale": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ustawienia regionalne"
+        }
+    ],
+    "rating": [
+        {
+            "comment": "klasyfikacja, je\u00c5\u009bli np. jakich\u00c5\u009b tre\u00c5\u009bci, kt\u00c3\u00b3re mog\u00c4\u0085 by\u00c4\u0087 nieodpowiednie; ocena, je\u00c5\u009bli czego\u00c5\u009b, czemu np. przyznaje si\u00c4\u0099 ile\u00c5\u009b gwiazdek",
+            "pos": "noun",
+            "translation": "ocena"
+        }
+    ],
+    "avatar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "awatar"
+        }
+    ],
+    "delete": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "usuwa\u00c4\u0087"
+        }
+    ],
+    "plugin": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "wtyczka"
+        }
+    ],
+    "layout": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "uk\u00c5\u0082ad"
+        }
+    ],
+    "enable": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "w\u00c5\u0082\u00c4\u0085cz"
+        }
+    ],
+    "log in": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "logowa\u00c4\u0087 si\u00c4\u0099"
+        }
+    ],
+    "anchor": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kotwica"
+        }
+    ],
+    "affect": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "mie\u00c4\u0087 wp\u00c5\u0082yw"
+        }
+    ],
+    "visit": [
+        {
+            "comment": "np. przejd\u00c5\u00ba na witryn\u00c4\u0099 [WordPress cz\u00c4\u0099sto zach\u00c4\u0099ca do \"odwiedzenia\" w\u00c5\u0082asnej witryny po wprowadzeniu na niej jakich\u00c5\u009b zmian, ale odwiedziny sk\u00c5\u0082ada si\u00c4\u0099 raczej komu\u00c5\u009b innemu, dlatego wyj\u00c4\u0085tkowo \"przejd\u00c5\u00ba\", je\u00c5\u009bli chodzi o nasz\u00c4\u0085 witryn\u00c4\u0099]",
+            "pos": "verb",
+            "translation": "przejd\u00c5\u00ba na"
+        }
+    ],
+    "video": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "film"
+        }
+    ],
+    "trash": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kosz"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "przenosi\u00c4\u0087 do kosza"
+        }
+    ],
+    "cache": [
+        {
+            "comment": "(wymowa: kesz)",
+            "pos": "noun",
+            "translation": "pami\u00c4\u0099\u00c4\u0087 podr\u00c4\u0099czna"
+        }
+    ],
+    "theme": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "motyw"
+        }
+    ],
+    "panel": [
+        {
+            "comment": "je\u00c5\u009bli w sensie \"ekran\", to \"ekran\", w przeciwnym razie \"panel\"",
+            "pos": "noun",
+            "translation": "panel"
+        }
+    ],
+    "embed": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "osadza\u00c4\u0087"
+        }
+    ],
+    "image": [
+        {
+            "comment": "NIE obraz!",
+            "pos": "noun",
+            "translation": "obrazek"
+        }
+    ],
+    "blog": [
+        {
+            "comment": "dope\u00c5\u0082niacz: blogu",
+            "pos": "noun",
+            "translation": "blog"
+        }
+    ],
+    "load": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "wczytywa\u00c4\u0087"
+        }
+    ],
+    "core": [
+        {
+            "comment": "[chodzi o kod samego WordPressa, a nie o zesp\u00c3\u00b3\u00c5\u0082 tworz\u00c4\u0085cy; dla przyk\u00c5\u0082adu core developer - programista, kt\u00c3\u00b3ry pisze kod \"core\", czyli po prostu WordPressa]",
+            "pos": "noun",
+            "translation": ""
+        }
+    ],
+    "page": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "strona"
+        }
+    ],
+    "slug": [
+        {
+            "comment": "uproszczona nazwa czego\u00c5\u009b, np. post slug to uproszczona nazwa wpisu u\u00c5\u00bcywana w odno\u00c5\u009bnikach",
+            "pos": "noun",
+            "translation": "uproszczona nazwa"
+        }
+    ],
+    "site": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "witryna"
+        }
+    ],
+    "view": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "zobacz"
+        }
+    ],
+    "link": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "odno\u00c5\u009bnik"
+        }
+    ],
+    "term": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "taksonomia"
+        }
+    ],
+    "url": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "adres URL"
+        }
+    ],
+    "id": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "identyfikator"
+        }
+    ]
+}

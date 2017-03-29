@@ -5,7 +5,7 @@ define('GLOTDICT_GLOSSARY','1.0.1');
 $path = './dictionaries/'. GLOTDICT_GLOSSARY.'/';
 $glossary_file_list = './dictionaries/'. GLOTDICT_GLOSSARY.'.json';
 
-echo "Processing " . GLOTDICT_GLOSSARY . "<br>";
+echo "Processing " . GLOTDICT_GLOSSARY . "<br>\n";
 
 if( !file_exists($path) ) {
     mkdir($path, 0700);
@@ -98,10 +98,10 @@ function go_download_glotdict($locale, $url) {
                 $output[ $values[0] ][0]['pos'] === @$values[2] && $output[ $values[0] ][0]['translation'] === @$values[1] && empty($output[ $values[0] ][0]['comment'])
             ) {
                 // construct translation
-                $output[ $values[0] ][0] = array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] );
+                $output[ $values[0] ][0] = array( "comment" => utf8_encode(@$values[3]), "pos" => utf8_encode(@$values[2]), "translation" => utf8_encode(@$values[1]) );
             } else {
                 if( !empty( $values[2] ) && !empty( $values[1] )) {
-                    array_push($output[ $values[0] ], array( "comment" => @$values[3], "pos" => @$values[2], "translation" => @$values[1] ));
+                    array_push($output[ $values[0] ], array( "comment" => utf8_encode(@$values[3]), "pos" => utf8_encode(@$values[2]), "translation" => utf8_encode(@$values[1]) ));
                 }
             }
         }

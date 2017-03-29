@@ -1,0 +1,1094 @@
+{
+    "template hierarchy": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "template hierarchy"
+        }
+    ],
+    "custom post type": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "custom post type"
+        }
+    ],
+    "conditional tag": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "th\u00e1\u00ba\u00bb \u00c4\u0091i\u00e1\u00bb\u0081u ki\u00e1\u00bb\u0087n"
+        }
+    ],
+    "custom taxonomy": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "custom taxonomy"
+        }
+    ],
+    "media uploader": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Media Uploader"
+        }
+    ],
+    "featured image": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u00e1\u00ba\u00a3nh \u00c4\u0091\u00e1\u00ba\u00a1i di\u00e1\u00bb\u0087n"
+        }
+    ],
+    "featured post": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "b\u00c3\u00a0i vi\u00e1\u00ba\u00bft n\u00e1\u00bb\u0095i b\u00e1\u00ba\u00adt"
+        }
+    ],
+    "media library": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Th\u00c6\u00b0 vi\u00e1\u00bb\u0087n media"
+        }
+    ],
+    "documentation": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "t\u00c3\u00a0i li\u00e1\u00bb\u0087u"
+        }
+    ],
+    "capabilities": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kh\u00e1\u00ba\u00a3 n\u00c4\u0083ng"
+        }
+    ],
+    "custom field": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "custom field"
+        }
+    ],
+    "aspect ratio": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "t\u00e1\u00bb\u0089 l\u00e1\u00bb\u0087"
+        }
+    ],
+    "bookmarklet": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "bookmarlet"
+        }
+    ],
+    "single post": [
+        {
+            "comment": "e.g. single post page",
+            "pos": "noun",
+            "translation": "b\u00c3\u00a0i vi\u00e1\u00ba\u00bft"
+        }
+    ],
+    "self-hosted": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "self-hosted"
+        }
+    ],
+    "bulk action": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "t\u00c3\u00a1c v\u00e1\u00bb\u00a5"
+        }
+    ],
+    "child theme": [
+        {
+            "comment": "https:\/\/codex.wordpress.org\/Child_Themes",
+            "pos": "noun",
+            "translation": "child theme"
+        }
+    ],
+    "deactivate": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "t\u00e1\u00ba\u00aft"
+        }
+    ],
+    "customizer": [
+        {
+            "comment": "Dashboard menu item",
+            "pos": "noun",
+            "translation": "C\u00c3\u00b4ng c\u00e1\u00bb\u00a5 t\u00c3\u00b9y ch\u00e1\u00bb\u0089nh"
+        }
+    ],
+    "permission": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "quy\u00e1\u00bb\u0081n"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "breadcrumb"
+        }
+    ],
+    "pagination": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ph\u00c3\u00a2n trang"
+        }
+    ],
+    "background": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "n\u00e1\u00bb\u0081n"
+        }
+    ],
+    "navigation": [
+        {
+            "comment": "e.g. Primary navigation, secondary navigation",
+            "pos": "noun",
+            "translation": "\u00c4\u0091i\u00e1\u00bb\u0081u h\u00c6\u00b0\u00e1\u00bb\u009bng"
+        }
+    ],
+    "moderation": [
+        {
+            "comment": "e.g. \u00e2\u0080\u009cNo comments awaiting moderation\u00e2\u0080\u009d",
+            "pos": "noun",
+            "translation": "ki\u00e1\u00bb\u0083m duy\u00e1\u00bb\u0087t"
+        }
+    ],
+    "attachment": [
+        {
+            "comment": "e.g. file attachment",
+            "pos": "noun",
+            "translation": "\u00c4\u0091\u00c3\u00adnh k\u00c3\u00a8m"
+        }
+    ],
+    "front page": [
+        {
+            "comment": "https:\/\/codex.wordpress.org\/Creating_a_Static_Front_Page",
+            "pos": "noun",
+            "translation": "Trang ch\u00e1\u00bb\u00a7"
+        }
+    ],
+    "logged out": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "\u00c4\u0091\u00c3\u00a3 \u00c4\u0091\u00c4\u0083ng xu\u00e1\u00ba\u00a5t"
+        }
+    ],
+    "appearance": [
+        {
+            "comment": "UI menu item",
+            "pos": "noun",
+            "translation": "Hi\u00e1\u00bb\u0083n th\u00e1\u00bb\u008b"
+        }
+    ],
+    "permalink": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u009dng d\u00e1\u00ba\u00abn"
+        }
+    ],
+    "directory": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "th\u00c6\u00b0 m\u00e1\u00bb\u00a5c"
+        }
+    ],
+    "developer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "nh\u00c3\u00a0 ph\u00c3\u00a1t tri\u00e1\u00bb\u0083n"
+        }
+    ],
+    "multisite": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "multisite"
+        }
+    ],
+    "dashboard": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "B\u00e1\u00ba\u00a3ng \u00c4\u0091i\u00e1\u00bb\u0081u khi\u00e1\u00bb\u0083n"
+        }
+    ],
+    "customize": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "tu\u00e1\u00bb\u00b3 ch\u00e1\u00bb\u0089nh"
+        }
+    ],
+    "logged in": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "\u00c4\u0091\u00c3\u00a3 \u00c4\u0091\u00c4\u0083ng nh\u00e1\u00ba\u00adp"
+        }
+    ],
+    "shortcode": [
+        {
+            "comment": "A WordPress-specific code that enables users to perform actions like embedding files or creating objects that would otherwise have required a lot of coding.",
+            "pos": "noun",
+            "translation": "shortcode"
+        }
+    ],
+    "wordpress": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "WordPress"
+        }
+    ],
+    "user name": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "t\u00c3\u00aan ng\u00c6\u00b0\u00e1\u00bb\u009di d\u00c3\u00b9ng"
+        }
+    ],
+    "available": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "c\u00c3\u00b3 s\u00e1\u00ba\u00b5n"
+        }
+    ],
+    "trackback": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "trackback"
+        }
+    ],
+    "subscribe": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "theo d\u00c3\u00b5i"
+        }
+    ],
+    "thumbnail": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u00e1\u00ba\u00a3nh thu nh\u00e1\u00bb\u008f"
+        }
+    ],
+    "settings": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "c\u00c3\u00a0i \u00c4\u0091\u00e1\u00ba\u00b7t"
+        }
+    ],
+    "blogroll": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "blogroll"
+        }
+    ],
+    "username": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "t\u00c3\u00aan ng\u00c6\u00b0\u00e1\u00bb\u009di d\u00c3\u00b9ng"
+        }
+    ],
+    "moderate": [
+        {
+            "comment": "e.g. \u00e2\u0080\u009cYou can moderate comments here\u00e2\u0080\u009d",
+            "pos": "verb",
+            "translation": "ki\u00e1\u00bb\u0083m duy\u00e1\u00bb\u0087t"
+        }
+    ],
+    "follower": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ng\u00c6\u00b0\u00e1\u00bb\u009di theo d\u00c3\u00b5i"
+        }
+    ],
+    "autosave": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "t\u00e1\u00bb\u00b1 \u00c4\u0091\u00e1\u00bb\u0099ng l\u00c6\u00b0u"
+        }
+    ],
+    "optional": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "kh\u00c3\u00b4ng b\u00e1\u00ba\u00aft bu\u00e1\u00bb\u0099c"
+        }
+    ],
+    "template": [
+        {
+            "comment": "e.g. theme template",
+            "pos": "noun",
+            "translation": "template"
+        }
+    ],
+    "pingback": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pingback"
+        }
+    ],
+    "download": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "t\u00e1\u00ba\u00a3i v\u00e1\u00bb\u0081"
+        }
+    ],
+    "category": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "chuy\u00c3\u00aan m\u00e1\u00bb\u00a5c"
+        }
+    ],
+    "computer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "m\u00c3\u00a1y t\u00c3\u00adnh"
+        }
+    ],
+    "clicking": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "nh\u00e1\u00ba\u00a5p chu\u00e1\u00bb\u0099t v\u00c3\u00a0o"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Nh\u00e1\u00ba\u00a5p chu\u00e1\u00bb\u0099t v\u00c3\u00a0o"
+        }
+    ],
+    "checkbox": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "checkbox"
+        }
+    ],
+    "database": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "c\u00c6\u00a1 s\u00e1\u00bb\u009f d\u00e1\u00bb\u00af li\u00e1\u00bb\u0087u"
+        }
+    ],
+    "subpanel": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "subpanel"
+        }
+    ],
+    "taxonomy": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "taxonomy"
+        }
+    ],
+    "toolbar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "thanh c\u00c3\u00b4ng c\u00e1\u00bb\u00a5"
+        }
+    ],
+    "refresh": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "l\u00c3\u00a0m m\u00e1\u00bb\u009bi"
+        }
+    ],
+    "preview": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "xem tr\u00c6\u00b0\u00e1\u00bb\u009bc"
+        }
+    ],
+    "publish": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u00c4\u0091\u00c4\u0083ng"
+        }
+    ],
+    "tagline": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "tagline"
+        }
+    ],
+    "profile": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "h\u00e1\u00bb\u0093 s\u00c6\u00a1"
+        }
+    ],
+    "sidebar": [
+        {
+            "comment": "e.g. right sidebar section of a theme",
+            "pos": "noun",
+            "translation": "sidebar"
+        }
+    ],
+    "website": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "trang web"
+        }
+    ],
+    "log out": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u00c4\u0091\u00c4\u0083ng xu\u00e1\u00ba\u00a5t"
+        }
+    ],
+    "xml-rpc": [
+        {
+            "comment": "More info: http:\/\/codex.wordpress.org\/XML-RPC_Support",
+            "pos": "noun",
+            "translation": "XML-RPC"
+        }
+    ],
+    "account": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "t\u00c3\u00a0i kho\u00e1\u00ba\u00a3n"
+        }
+    ],
+    "license": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "gi\u00e1\u00ba\u00a5y ph\u00c3\u00a9p"
+        }
+    ],
+    "favicon": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "favicon"
+        }
+    ],
+    "archive": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "l\u00c6\u00b0u tr\u00e1\u00bb\u00af"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "l\u00c6\u00b0u tr\u00e1\u00bb\u00af"
+        }
+    ],
+    "excerpt": [
+        {
+            "comment": "A shortened description of a blog post\/page.",
+            "pos": "noun",
+            "translation": "t\u00c3\u00b3m t\u00e1\u00ba\u00aft"
+        }
+    ],
+    "feature": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "t\u00c3\u00adnh n\u00c4\u0083ng"
+        }
+    ],
+    "disable": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "v\u00c3\u00b4 hi\u00e1\u00bb\u0087u ho\u00c3\u00a1"
+        }
+    ],
+    "browser": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "tr\u00c3\u00acnh duy\u00e1\u00bb\u0087t"
+        }
+    ],
+    "gallery": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "album \u00e1\u00ba\u00a3nh"
+        }
+    ],
+    "backend": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "backend"
+        }
+    ],
+    "default": [
+        {
+            "comment": "e.g. default setting",
+            "pos": "adjective",
+            "translation": "m\u00e1\u00ba\u00b7c \u00c4\u0091\u00e1\u00bb\u008bnh"
+        }
+    ],
+    "approve": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "ch\u00e1\u00ba\u00a5p thu\u00e1\u00ba\u00adn"
+        }
+    ],
+    "comment": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "b\u00c3\u00acnh lu\u00e1\u00ba\u00adn"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "b\u00c3\u00acnh lu\u00e1\u00ba\u00adn"
+        }
+    ],
+    "button": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "n\u00c3\u00bat"
+        }
+    ],
+    "remove": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "xo\u00c3\u00a1"
+        }
+    ],
+    "cancel": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "hu\u00e1\u00bb\u00b7"
+        }
+    ],
+    "submit": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "g\u00e1\u00bb\u00adi \u00c4\u0091i"
+        }
+    ],
+    "delete": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "xo\u00c3\u00a1"
+        }
+    ],
+    "string": [
+        {
+            "comment": "A series of text (characters\/letters\/words).",
+            "pos": "noun",
+            "translation": "chu\u00e1\u00bb\u0097i"
+        }
+    ],
+    "browse": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "duy\u00e1\u00bb\u0087t"
+        }
+    ],
+    "plugin": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "plugin"
+        }
+    ],
+    "status": [
+        {
+            "comment": "The state of an item such as a post. e.g. draft post status",
+            "pos": "noun",
+            "translation": "tr\u00e1\u00ba\u00a1ng th\u00c3\u00a1i"
+        }
+    ],
+    "binary": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "nh\u00e1\u00bb\u008b ph\u00c3\u00a2n"
+        }
+    ],
+    "backup": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "sao l\u00c6\u00b0u"
+        }
+    ],
+    "server": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "m\u00c3\u00a1y ch\u00e1\u00bb\u00a7"
+        }
+    ],
+    "screen": [
+        {
+            "comment": "e.g. Edit screen",
+            "pos": "noun",
+            "translation": "trang"
+        }
+    ],
+    "cookie": [
+        {
+            "comment": "Browser cookie",
+            "pos": "noun",
+            "translation": "Cookie"
+        }
+    ],
+    "author": [
+        {
+            "comment": "Author of contents such as posts and pages.",
+            "pos": "noun",
+            "translation": "t\u00c3\u00a1c gi\u00e1\u00ba\u00a3"
+        },
+        {
+            "comment": "Author of plugins and themes.",
+            "pos": "noun",
+            "translation": "t\u00c3\u00a1c gi\u00e1\u00ba\u00a3"
+        }
+    ],
+    "layout": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "b\u00e1\u00bb\u0091 c\u00e1\u00bb\u00a5c"
+        }
+    ],
+    "locale": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "locale"
+        }
+    ],
+    "log in": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u00c4\u0091\u00c4\u0083ng nh\u00e1\u00ba\u00adp"
+        }
+    ],
+    "widget": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "widget"
+        }
+    ],
+    "option": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "tu\u00e1\u00bb\u00b3 ch\u00e1\u00bb\u008dn"
+        }
+    ],
+    "header": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u00c4\u0091\u00e1\u00ba\u00a7u trang"
+        }
+    ],
+    "footer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ch\u00c3\u00a2n trang"
+        }
+    ],
+    "upload": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "t\u00e1\u00ba\u00a3i l\u00c3\u00aan"
+        }
+    ],
+    "folder": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "th\u00c6\u00b0 m\u00e1\u00bb\u00a5c"
+        }
+    ],
+    "avatar": [
+        {
+            "comment": "An image or picture that represents a user.",
+            "pos": "noun",
+            "translation": "\u00e1\u00ba\u00a3nh \u00c4\u0091\u00e1\u00ba\u00a1i di\u00e1\u00bb\u0087n"
+        }
+    ],
+    "object": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u00c4\u0091\u00e1\u00bb\u0091i t\u00c6\u00b0\u00e1\u00bb\u00a3ng"
+        }
+    ],
+    "aside": [
+        {
+            "comment": "One of the post formats",
+            "pos": "noun",
+            "translation": "Aside"
+        }
+    ],
+    "video": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "video"
+        }
+    ],
+    "write": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "vi\u00e1\u00ba\u00bft"
+        }
+    ],
+    "theme": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "theme"
+        }
+    ],
+    "apply": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u00c3\u00a1p d\u00e1\u00bb\u00a5ng"
+        }
+    ],
+    "click": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "Nh\u00e1\u00ba\u00a5p chu\u00e1\u00bb\u0099t v\u00c3\u00a0o"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "nh\u00e1\u00ba\u00a5p chu\u00e1\u00bb\u0099t v\u00c3\u00a0o"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "nh\u00e1\u00ba\u00a5p chu\u00e1\u00bb\u0099t"
+        }
+    ],
+    "topic": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ch\u00e1\u00bb\u00a7 \u00c4\u0091\u00e1\u00bb\u0081"
+        }
+    ],
+    "image": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u00e1\u00ba\u00a2nh"
+        }
+    ],
+    "hover": [
+        {
+            "comment": "e.g. \u00e2\u0080\u009cOn link hover\u00e2\u0080\u009d",
+            "pos": "verb",
+            "translation": "hover"
+        }
+    ],
+    "email": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "email"
+        }
+    ],
+    "debug": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "debug"
+        }
+    ],
+    "login": [
+        {
+            "comment": "e.g. the login screen",
+            "pos": "noun",
+            "translation": "\u00c4\u0091\u00c4\u0083ng nh\u00e1\u00ba\u00adp"
+        }
+    ],
+    "reset": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u00c4\u0091\u00e1\u00ba\u00b7t l\u00e1\u00ba\u00a1i"
+        }
+    ],
+    "reply": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "tr\u00e1\u00ba\u00a3 l\u00e1\u00bb\u009di"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "tr\u00e1\u00ba\u00a3 l\u00e1\u00bb\u009di"
+        }
+    ],
+    "admin": [
+        {
+            "comment": "Administrator of a site",
+            "pos": "noun",
+            "translation": "admin"
+        }
+    ],
+    "nonce": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "nonce"
+        }
+    ],
+    "query": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "truy v\u00e1\u00ba\u00a5n"
+        }
+    ],
+    "draft": [
+        {
+            "comment": "Post status",
+            "pos": "noun",
+            "translation": "b\u00e1\u00ba\u00a3n nh\u00c3\u00a1p"
+        }
+    ],
+    "home": [
+        {
+            "comment": "Menu item",
+            "pos": "noun",
+            "translation": "Trang ch\u00e1\u00bb\u00a7"
+        }
+    ],
+    "font": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "font"
+        }
+    ],
+    "crop": [
+        {
+            "comment": "e.g. \u00e2\u0080\u009cCrop an avatar image\u00e2\u0080\u009d",
+            "pos": "verb",
+            "translation": "c\u00e1\u00ba\u00aft"
+        }
+    ],
+    "user": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ng\u00c6\u00b0\u00e1\u00bb\u009di d\u00c3\u00b9ng"
+        }
+    ],
+    "meta": [
+        {
+            "comment": "Metadata. e.g. Post meta",
+            "pos": "noun",
+            "translation": "meta"
+        }
+    ],
+    "menu": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "menu"
+        }
+    ],
+    "logo": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "logo"
+        }
+    ],
+    "undo": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "ho\u00c3\u00a0n t\u00c3\u00a1c"
+        }
+    ],
+    "term": [
+        {
+            "comment": "e.g. taxonomy term",
+            "pos": "noun",
+            "translation": "term"
+        }
+    ],
+    "page": [
+        {
+            "comment": "WordPress static page; always capitalized.",
+            "pos": "noun",
+            "translation": "Trang"
+        }
+    ],
+    "site": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "trang web"
+        }
+    ],
+    "ping": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ping"
+        }
+    ],
+    "edit": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "s\u00e1\u00bb\u00ada"
+        }
+    ],
+    "blog": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "blog"
+        }
+    ],
+    "save": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "l\u00c6\u00b0u"
+        }
+    ],
+    "item": [
+        {
+            "comment": "e.g. menu item",
+            "pos": "noun",
+            "translation": "item"
+        }
+    ],
+    "slug": [
+        {
+            "comment": "e.g. category slug, post slug",
+            "pos": "noun",
+            "translation": "slug"
+        }
+    ],
+    "view": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "xem"
+        }
+    ],
+    "faq": [
+        {
+            "comment": "Frequently Asked Questions",
+            "pos": "noun",
+            "translation": "FAQ"
+        }
+    ],
+    "url": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "URL"
+        }
+    ],
+    "tag": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "th\u00e1\u00ba\u00bb"
+        }
+    ],
+    "tab": [
+        {
+            "comment": "A type of UI element.",
+            "pos": "noun",
+            "translation": "tab"
+        }
+    ],
+    "you": [
+        {
+            "comment": "(Include this term if your language needs formal\/informal distinction or any other special instruction)",
+            "pos": "noun",
+            "translation": "b\u00e1\u00ba\u00a1n"
+        }
+    ],
+    "id": [
+        {
+            "comment": "e.g. Post ID",
+            "pos": "noun",
+            "translation": "ID"
+        }
+    ]
+}

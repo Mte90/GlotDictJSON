@@ -1,4 +1,32 @@
 {
+    "voorbeeld 2: displays to the right of the logo. > wordt rechts van het logo getoond.\"": [
+        {
+            "comment": "",
+            "pos": "",
+            "translation": ""
+        }
+    ],
+    "een desktop text editor wordt tekstbewerker.": [
+        {
+            "comment": "",
+            "pos": "",
+            "translation": ""
+        }
+    ],
+    "gaat het slechts om neutrale informatie": [
+        {
+            "comment": "",
+            "pos": "",
+            "translation": "dan vertalen we 'Note:' met 'Opmerking:'.\""
+        }
+    ],
+    "de rol editor wordt redacteur.\"": [
+        {
+            "comment": "",
+            "pos": "",
+            "translation": ""
+        }
+    ],
     "hoofdletter gebruik en titels": [
         {
             "comment": "Bij titels gebruiken we alleen bij het eerste woord een hoofdletter.",
@@ -6,109 +34,165 @@
             "translation": ""
         }
     ],
-    "add": [
+    "you are not allowed to": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "je hebt geen toestemming om"
+        }
+    ],
+    "content-disposition": [
+        {
+            "comment": "REST API specifieke vertaling.",
+            "pos": "noun",
+            "translation": "Content-Disposition"
+        }
+    ],
+    "displays [location]": [
+        {
+            "comment": "Voorbeeld 1: Displays below the content area. > Wordt onder de inhoud getoond.",
+            "pos": "expression",
+            "translation": "Wordt [op locatie] getoond."
+        }
+    ],
+    "multiline textarea": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "toevoegen"
+            "translation": "Tekstveld met meerdere regels"
         }
     ],
-    "add new": [
-        {
-            "comment": "Het is gebruikelijk om 'add new [noun]' te vertalen naar 'Nieuwe [noun] toevoegen'.",
-            "pos": "noun",
-            "translation": "toevoegen"
-        }
-    ],
-    "add to": [
-        {
-            "comment": "In het Nederlands gebruiken we volledige werkwoordsvormen.",
-            "pos": "noun",
-            "translation": "toevoegen"
-        }
-    ],
-    "adjective": [
+    "screen options": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "bijvoeglijk naamwoord"
+            "translation": "Scherminstellingen"
         }
     ],
-    "admin bar": [
+    "featured media": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "uitgelichte media"
+        }
+    ],
+    "featured image": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "uitgelichte afbeelding"
+        }
+    ],
+    "email addresss": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "toolbar"
+            "translation": "e-mailadres"
         }
     ],
-    "adverb": [
+    "visual editor": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "bijwoord"
+            "translation": "visuele editor"
         }
     ],
-    "all": [
+    "drag and drop": [
         {
             "comment": "",
-            "pos": "noun",
-            "translation": "alle"
-        }
-    ],
-    "allow": [
-        {
-            "comment": "Bij vertaling van 'Allow x op deze pagina', is 'X toestaan op deze pagina' de beste vertaling.",
-            "pos": "noun",
-            "translation": "Toestaan"
-        }
-    ],
-    "appearance": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "weergave"
-        }
-    ],
-    "approval": [
-        {
-            "comment": "of 'goedkeuring', afhankelijk van de context.",
-            "pos": "noun",
-            "translation": "toestemming"
-        }
-    ],
-    "approve": [
-        {
-            "comment": "of 'goedkeuren', afhankelijk van de context.",
             "pos": "verb",
-            "translation": "toestaan"
+            "translation": "drag en drop"
         }
     ],
-    "approved": [
+    "interjection": [
         {
-            "comment": "of 'goedgekeurd', afhankelijk van de context.",
+            "comment": "",
+            "pos": "noun",
+            "translation": "tussenvoegsel"
+        }
+    ],
+    "header image": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kopafbeelding"
+        }
+    ],
+    "license key": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Licentiesleutel"
+        }
+    ],
+    "breadcrumbs": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kruimelpad"
+        }
+    ],
+    "credit card": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "creditcard"
+        }
+    ],
+    "post format": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "berichtformat"
+        }
+    ],
+    "conjunction": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "conjunctie"
+        }
+    ],
+    "preposition": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "voorzetsel"
+        }
+    ],
+    "testimonial": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "aanbeveling"
+        }
+    ],
+    "tag\/tagged": [
+        {
+            "comment": "",
             "pos": "verb",
-            "translation": "toegestaan"
+            "translation": "tag\/getagd"
         }
     ],
-    "archive": [
+    "media file": [
+        {
+            "comment": "In de Nederlandse taal is dit \u00c3\u00a9\u00c3\u00a9n woord. We schrijven dit niet los.",
+            "pos": "noun",
+            "translation": "Mediabestand"
+        }
+    ],
+    "customizer": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "archief"
+            "translation": "customizer"
         }
     ],
-    "archives": [
+    "unapproved": [
         {
             "comment": "",
-            "pos": "noun",
-            "translation": "archief"
-        }
-    ],
-    "area": [
-        {
-            "comment": "Afhankelijk van constructie. Soms is het 'gebied' zoals in: tekstgebied.",
-            "pos": "noun",
-            "translation": "ruimte\/gebied"
+            "pos": "verb",
+            "translation": "geweigerd"
         }
     ],
     "attachment": [
@@ -118,6 +202,104 @@
             "translation": "bijlage"
         }
     ],
+    "appearance": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "weergave"
+        }
+    ],
+    "expression": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "uitdrukking"
+        }
+    ],
+    "reactivate": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "opnieuw activeren"
+        }
+    ],
+    "checkboxes": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "selectievakjes"
+        }
+    ],
+    "result set": [
+        {
+            "comment": "REST API specifieke vertaling.",
+            "pos": "expression",
+            "translation": "resultaten"
+        }
+    ],
+    "screenshot": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "schermafbeelding"
+        }
+    ],
+    "post type": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "berichttype"
+        }
+    ],
+    "thumbnail": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "thumbnail"
+        }
+    ],
+    "admin bar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "toolbar"
+        }
+    ],
+    "adjective": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "bijvoeglijk naamwoord"
+        }
+    ],
+    "home page": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "homepagina"
+        }
+    ],
+    "galleries": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "galerijen"
+        }
+    ],
+    "filter by": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "Filteren"
+        }
+    ],
+    "unapprove": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "weigeren"
+        }
+    ],
     "available": [
         {
             "comment": "Wanneer er nieuwe plugins, thema's zijn, is de context: \"Er is een nieuwe versie van x beschikbaar\".",
@@ -125,53 +307,18 @@
             "translation": "beschikbaar"
         }
     ],
-    "\u00e8": [
+    "dropdown": [
         {
-            "comment": "",
-            "pos": "interjection",
-            "translation": "&#232;"
+            "comment": "en dropdown-menu.",
+            "pos": "noun",
+            "translation": "dropdown"
         }
     ],
-    "\u00e9": [
-        {
-            "comment": "",
-            "pos": "interjection",
-            "translation": "&#233;"
-        }
-    ],
-    "\u00eb": [
-        {
-            "comment": "",
-            "pos": "interjection",
-            "translation": "&#235;"
-        }
-    ],
-    "\u00ef": [
+    "archives": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "&#239;"
-        }
-    ],
-    "box": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "box"
-        }
-    ],
-    "boxen": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "boxen"
-        }
-    ],
-    "breadcrumbs": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "kruimelpad"
+            "translation": "archief"
         }
     ],
     "browsing": [
@@ -188,81 +335,32 @@
             "translation": "callback"
         }
     ],
-    "cancel": [
+    "response": [
         {
-            "comment": "",
-            "pos": "verb",
-            "translation": "annuleren"
-        }
-    ],
-    "checkboxes": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "selectievakjes"
-        }
-    ],
-    "child": [
-        {
-            "comment": "Met uitzondering van 'child theme', dat blijft 'child thema'.",
-            "pos": "adjective",
-            "translation": "sub"
-        }
-    ],
-    "close": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "sluiten"
-        }
-    ],
-    "comment": [
-        {
-            "comment": "",
+            "comment": "REST API specifieke vertaling.",
             "pos": "noun",
             "translation": "reactie"
         }
     ],
-    "conjunction": [
+    "resource": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "conjunctie"
+            "translation": "gegevensbron"
         }
     ],
-    "content": [
-        {
-            "comment": "Binnen WordPress verwijst 'Content' meestal naar de inhoud van een bericht. Daarom wordt dit altijd vertaald naar 'inhoud'.",
-            "pos": "noun",
-            "translation": "Inhoud"
-        }
-    ],
-    "content-disposition": [
-        {
-            "comment": "REST API specifieke vertaling.",
-            "pos": "noun",
-            "translation": "Content-Disposition"
-        }
-    ],
-    "credit card": [
+    "password": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "creditcard"
+            "translation": "Wachtwoord"
         }
     ],
-    "crop": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "bijsnijden"
-        }
-    ],
-    "customizer": [
+    "template": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "customizer"
+            "translation": "template"
         }
     ],
     "database": [
@@ -272,109 +370,123 @@
             "translation": "database"
         }
     ],
-    "delete": [
+    "importer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "importeerfunctie"
+        }
+    ],
+    "topic(s)": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "onderwerp(en)"
+        }
+    ],
+    "location": [
+        {
+            "comment": "Met een c, niet met een k.",
+            "pos": "noun",
+            "translation": "locatie"
+        }
+    ],
+    "approval": [
+        {
+            "comment": "of 'goedkeuring', afhankelijk van de context.",
+            "pos": "noun",
+            "translation": "toestemming"
+        }
+    ],
+    "approved": [
+        {
+            "comment": "of 'goedgekeurd', afhankelijk van de context.",
+            "pos": "verb",
+            "translation": "toegestaan"
+        }
+    ],
+    "archive": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "archief"
+        }
+    ],
+    "hoveren": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "verwijderen"
+            "translation": "hoveren"
         }
     ],
-    "dismiss": [
+    "content": [
         {
-            "comment": "",
+            "comment": "Binnen WordPress verwijst 'Content' meestal naar de inhoud van een bericht. Daarom wordt dit altijd vertaald naar 'inhoud'.",
             "pos": "noun",
-            "translation": "Negeren"
+            "translation": "Inhoud"
         }
     ],
-    "displays [location]": [
-        {
-            "comment": "Voorbeeld 1: Displays below the content area. > Wordt onder de inhoud getoond.",
-            "pos": "expression",
-            "translation": "Wordt [op locatie] getoond."
-        }
-    ],
-    "voorbeeld 2: displays to the right of the logo. > wordt rechts van het logo getoond.\"": [
-        {
-            "comment": "",
-            "pos": "",
-            "translation": ""
-        }
-    ],
-    "drag and drop": [
+    "sending": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "drag en drop"
+            "translation": "verzenden"
         }
     ],
-    "dropdown": [
-        {
-            "comment": "en dropdown-menu.",
-            "pos": "noun",
-            "translation": "dropdown"
-        }
-    ],
-    "edit": [
+    "comment": [
         {
             "comment": "",
+            "pos": "noun",
+            "translation": "reactie"
+        }
+    ],
+    "pronoun": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "voornaamwoord"
+        }
+    ],
+    "keyword": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "trefwoord"
+        }
+    ],
+    "invalid": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "Ongeldig"
+        }
+    ],
+    "toolbar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "werkbalk"
+        }
+    ],
+    "add new": [
+        {
+            "comment": "Het is gebruikelijk om 'add new [noun]' te vertalen naar 'Nieuwe [noun] toevoegen'.",
+            "pos": "noun",
+            "translation": "toevoegen"
+        }
+    ],
+    "request": [
+        {
+            "comment": "REST API specifieke vertaling.",
+            "pos": "noun",
+            "translation": "aanvraag"
+        }
+    ],
+    "approve": [
+        {
+            "comment": "of 'goedkeuren', afhankelijk van de context.",
             "pos": "verb",
-            "translation": "Bewerken"
-        }
-    ],
-    "editor": [
-        {
-            "comment": "De text editor blijft de editor.",
-            "pos": "noun",
-            "translation": "editor, redacteur"
-        }
-    ],
-    "een desktop text editor wordt tekstbewerker.": [
-        {
-            "comment": "",
-            "pos": "",
-            "translation": ""
-        }
-    ],
-    "de rol editor wordt redacteur.\"": [
-        {
-            "comment": "",
-            "pos": "",
-            "translation": ""
-        }
-    ],
-    "email": [
-        {
-            "comment": "In de Nederlandse taal is het gebruikelijk om een koppelstreep na de 'e' te plaatsen.",
-            "pos": "noun",
-            "translation": "e-mail"
-        }
-    ],
-    "email addresss": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "e-mailadres"
-        }
-    ],
-    "embed": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "insluiten"
-        }
-    ],
-    "error": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "fout"
-        }
-    ],
-    "etc.": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "enz."
+            "translation": "toestaan"
         }
     ],
     "excerpt": [
@@ -384,46 +496,130 @@
             "translation": "samenvatting"
         }
     ],
-    "expression": [
+    "gallery": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "uitdrukking"
+            "translation": "galerij"
         }
     ],
-    "featured image": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "uitgelichte afbeelding"
-        }
-    ],
-    "featured media": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "uitgelichte media"
-        }
-    ],
-    "filter by": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "Filteren"
-        }
-    ],
-    "flip": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "spiegelen"
-        }
-    ],
-    "font": [
+    "dismiss": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "lettertype"
+            "translation": "Negeren"
+        }
+    ],
+    "sidebar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "sidebar"
+        }
+    ],
+    "object": [
+        {
+            "comment": "In de context van het variabele-type of JSON-object.",
+            "pos": "noun",
+            "translation": "object"
+        }
+    ],
+    "remove": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Verwijderen"
+        }
+    ],
+    "cancel": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "annuleren"
+        }
+    ],
+    "rating": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "waardering"
+        }
+    ],
+    "review": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "beoordeling"
+        }
+    ],
+    "rotate": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "roteren"
+        }
+    ],
+    "editor": [
+        {
+            "comment": "De text editor blijft de editor.",
+            "pos": "noun",
+            "translation": "editor, redacteur"
+        }
+    ],
+    "plugin": [
+        {
+            "comment": "En geen plug-in.",
+            "pos": "noun",
+            "translation": "plugin"
+        }
+    ],
+    "search": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "zoeken"
+        }
+    ],
+    "parent": [
+        {
+            "comment": "",
+            "pos": "adverb",
+            "translation": "hoofd"
+        }
+    ],
+    "sticky": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "sticky"
+        }
+    ],
+    "select": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "selecteren"
+        }
+    ],
+    "notice": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "bericht"
+        }
+    ],
+    "images": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "afbeeldingen"
+        }
+    ],
+    "add to": [
+        {
+            "comment": "In het Nederlands gebruiken we volledige werkwoordsvormen.",
+            "pos": "noun",
+            "translation": "toevoegen"
         }
     ],
     "footer": [
@@ -447,20 +643,6 @@
             "translation": "forums"
         }
     ],
-    "galleries": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "galerijen"
-        }
-    ],
-    "gallery": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "galerij"
-        }
-    ],
     "header": [
         {
             "comment": "",
@@ -468,396 +650,11 @@
             "translation": "header"
         }
     ],
-    "header image": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "kopafbeelding"
-        }
-    ],
-    "home page": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "homepagina"
-        }
-    ],
-    "hoveren": [
+    "delete": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "hoveren"
-        }
-    ],
-    "image": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "afbeelding"
-        }
-    ],
-    "images": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "afbeeldingen"
-        }
-    ],
-    "importer": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "importeerfunctie"
-        }
-    ],
-    "interjection": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "tussenvoegsel"
-        }
-    ],
-    "invalid": [
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "Ongeldig"
-        }
-    ],
-    "keyword": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "trefwoord"
-        }
-    ],
-    "license key": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "Licentiesleutel"
-        }
-    ],
-    "limit": [
-        {
-            "comment": "REST API specifieke vertaling.",
-            "pos": "verb",
-            "translation": "beperken"
-        }
-    ],
-    "links": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "links"
-        }
-    ],
-    "location": [
-        {
-            "comment": "Met een c, niet met een k.",
-            "pos": "noun",
-            "translation": "locatie"
-        }
-    ],
-    "media file": [
-        {
-            "comment": "In de Nederlandse taal is dit \u00e9\u00e9n woord. We schrijven dit niet los.",
-            "pos": "noun",
-            "translation": "Mediabestand"
-        }
-    ],
-    "menu": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "menu"
-        }
-    ],
-    "menus": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "menu&#39;s"
-        }
-    ],
-    "multiline textarea": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "Tekstveld met meerdere regels"
-        }
-    ],
-    "note:": [
-        {
-            "comment": "In het geval van een waarschuwing gebruiken we de vertaling 'Let op:'.",
-            "pos": "expression",
-            "translation": "Let op:"
-        }
-    ],
-    "gaat het slechts om neutrale informatie": [
-        {
-            "comment": "",
-            "pos": "",
-            "translation": "dan vertalen we 'Note:' met 'Opmerking:'.\""
-        }
-    ],
-    "notice": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "bericht"
-        }
-    ],
-    "noun": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "zelfstandig naamwoord"
-        }
-    ],
-    "object": [
-        {
-            "comment": "In de context van het variabele-type of JSON-object.",
-            "pos": "noun",
-            "translation": "object"
-        }
-    ],
-    "page": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "pagina"
-        }
-    ],
-    "pages": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "pagina&#39;s"
-        }
-    ],
-    "parent": [
-        {
-            "comment": "",
-            "pos": "adverb",
-            "translation": "hoofd"
-        }
-    ],
-    "password": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "Wachtwoord"
-        }
-    ],
-    "plugin": [
-        {
-            "comment": "En geen plug-in.",
-            "pos": "noun",
-            "translation": "plugin"
-        }
-    ],
-    "post": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "bericht"
-        }
-    ],
-    "post format": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "berichtformat"
-        }
-    ],
-    "post type": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "berichttype"
-        }
-    ],
-    "posts": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "berichten"
-        }
-    ],
-    "preposition": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "voorzetsel"
-        }
-    ],
-    "pronoun": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "voornaamwoord"
-        }
-    ],
-    "rating": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "waardering"
-        }
-    ],
-    "reactivate": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "opnieuw activeren"
-        }
-    ],
-    "remove": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "Verwijderen"
-        }
-    ],
-    "request": [
-        {
-            "comment": "REST API specifieke vertaling.",
-            "pos": "noun",
-            "translation": "aanvraag"
-        }
-    ],
-    "resource": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "gegevensbron"
-        }
-    ],
-    "response": [
-        {
-            "comment": "REST API specifieke vertaling.",
-            "pos": "noun",
-            "translation": "reactie"
-        }
-    ],
-    "result set": [
-        {
-            "comment": "REST API specifieke vertaling.",
-            "pos": "expression",
-            "translation": "resultaten"
-        }
-    ],
-    "review": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "beoordeling"
-        }
-    ],
-    "rotate": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "roteren"
-        }
-    ],
-    "run": [
-        {
-            "comment": "Soms draaien, zoals: op internet meedraaien en soms gebruikt zoals in: je gebruikt versie 4.6",
-            "pos": "verb",
-            "translation": "uitvoeren"
-        }
-    ],
-    "screen options": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "Scherminstellingen"
-        }
-    ],
-    "screenshot": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "schermafbeelding"
-        }
-    ],
-    "search": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "zoeken"
-        }
-    ],
-    "select": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "selecteren"
-        }
-    ],
-    "sending": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "verzenden"
-        }
-    ],
-    "sent": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "verzonden"
-        }
-    ],
-    "sidebar": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "sidebar"
-        }
-    ],
-    "site": [
-        {
-            "comment": "Geen website of blog;",
-            "pos": "noun",
-            "translation": "site"
-        }
-    ],
-    "sticky": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "sticky"
-        }
-    ],
-    "tag\/tagged": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "tag\/getagd"
-        }
-    ],
-    "template": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "template"
-        }
-    ],
-    "testimonial": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "aanbeveling"
-        }
-    ],
-    "theme": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "thema"
+            "translation": "verwijderen"
         }
     ],
     "themes": [
@@ -867,39 +664,123 @@
             "translation": "thema&#39;s"
         }
     ],
-    "thumbnail": [
+    "adverb": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "thumbnail"
+            "translation": "bijwoord"
         }
     ],
-    "toolbar": [
+    "error": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "werkbalk"
+            "translation": "fout"
         }
     ],
-    "topic(s)": [
+    "links": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "onderwerp(en)"
+            "translation": "links"
         }
     ],
-    "unapprove": [
+    "allow": [
+        {
+            "comment": "Bij vertaling van 'Allow x op deze pagina', is 'X toestaan op deze pagina' de beste vertaling.",
+            "pos": "noun",
+            "translation": "Toestaan"
+        }
+    ],
+    "note:": [
+        {
+            "comment": "In het geval van een waarschuwing gebruiken we de vertaling 'Let op:'.",
+            "pos": "expression",
+            "translation": "Let op:"
+        }
+    ],
+    "pages": [
         {
             "comment": "",
+            "pos": "noun",
+            "translation": "pagina&#39;s"
+        }
+    ],
+    "menus": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "menu&#39;s"
+        }
+    ],
+    "theme": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "thema"
+        }
+    ],
+    "email": [
+        {
+            "comment": "In de Nederlandse taal is het gebruikelijk om een koppelstreep na de 'e' te plaatsen.",
+            "pos": "noun",
+            "translation": "e-mail"
+        }
+    ],
+    "image": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "afbeelding"
+        }
+    ],
+    "child": [
+        {
+            "comment": "Met uitzondering van 'child theme', dat blijft 'child thema'.",
+            "pos": "adjective",
+            "translation": "sub"
+        }
+    ],
+    "boxen": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "boxen"
+        }
+    ],
+    "limit": [
+        {
+            "comment": "REST API specifieke vertaling.",
             "pos": "verb",
-            "translation": "weigeren"
+            "translation": "beperken"
         }
     ],
-    "unapproved": [
+    "close": [
         {
             "comment": "",
-            "pos": "verb",
-            "translation": "geweigerd"
+            "pos": "noun",
+            "translation": "sluiten"
+        }
+    ],
+    "posts": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "berichten"
+        }
+    ],
+    "embed": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "insluiten"
+        }
+    ],
+    "site": [
+        {
+            "comment": "Geen website of blog;",
+            "pos": "noun",
+            "translation": "site"
         }
     ],
     "verb": [
@@ -916,11 +797,109 @@
             "translation": "bekijken"
         }
     ],
-    "visual editor": [
+    "page": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "visuele editor"
+            "translation": "pagina"
+        }
+    ],
+    "sent": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "verzonden"
+        }
+    ],
+    "menu": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "menu"
+        }
+    ],
+    "etc.": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "enz."
+        }
+    ],
+    "area": [
+        {
+            "comment": "Afhankelijk van constructie. Soms is het 'gebied' zoals in: tekstgebied.",
+            "pos": "noun",
+            "translation": "ruimte\/gebied"
+        }
+    ],
+    "flip": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "spiegelen"
+        }
+    ],
+    "font": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "lettertype"
+        }
+    ],
+    "your": [
+        {
+            "comment": "En geen jouw of uw. Voor de Nederlandse vertaling gebruiken we informeel taalgebruik.",
+            "pos": "noun",
+            "translation": "je"
+        }
+    ],
+    "noun": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "zelfstandig naamwoord"
+        }
+    ],
+    "crop": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "bijsnijden"
+        }
+    ],
+    "edit": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "Bewerken"
+        }
+    ],
+    "post": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "bericht"
+        }
+    ],
+    "box": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "box"
+        }
+    ],
+    "run": [
+        {
+            "comment": "Soms draaien, zoals: op internet meedraaien en soms gebruikt zoals in: je gebruikt versie 4.6",
+            "pos": "verb",
+            "translation": "uitvoeren"
+        }
+    ],
+    "add": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "toevoegen"
         }
     ],
     "you": [
@@ -930,18 +909,39 @@
             "translation": "je"
         }
     ],
-    "you are not allowed to": [
+    "all": [
         {
             "comment": "",
-            "pos": "expression",
-            "translation": "je hebt geen toestemming om"
+            "pos": "noun",
+            "translation": "alle"
         }
     ],
-    "your": [
+    "\u00e8": [
         {
-            "comment": "En geen jouw of uw. Voor de Nederlandse vertaling gebruiken we informeel taalgebruik.",
+            "comment": "",
+            "pos": "interjection",
+            "translation": "&#232;"
+        }
+    ],
+    "\u00ef": [
+        {
+            "comment": "",
             "pos": "noun",
-            "translation": "je"
+            "translation": "&#239;"
+        }
+    ],
+    "\u00eb": [
+        {
+            "comment": "",
+            "pos": "interjection",
+            "translation": "&#235;"
+        }
+    ],
+    "\u00e9": [
+        {
+            "comment": "",
+            "pos": "interjection",
+            "translation": "&#233;"
         }
     ]
 }

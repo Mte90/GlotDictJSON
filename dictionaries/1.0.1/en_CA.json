@@ -1,58 +1,9 @@
 {
-    "behavior": [
+    "https:\/\/wordpress.org\/": [
         {
-            "comment": "",
-            "pos": "noun",
-            "translation": "behaviour"
-        }
-    ],
-    "canceled": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "cancelled"
-        }
-    ],
-    "canceling": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "cancelling"
-        }
-    ],
-    "catalog": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "catalogue"
-        }
-    ],
-    "center": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "centre"
-        }
-    ],
-    "centered": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "centred"
-        }
-    ],
-    "centering": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "centring"
-        }
-    ],
-    "centimeter": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "centimetre"
+            "comment": "Localization of the WP URL",
+            "pos": "expression",
+            "translation": "https:\/\/en-ca.wordpress.org\/"
         }
     ],
     "centimeters": [
@@ -62,32 +13,25 @@
             "translation": "centimetres"
         }
     ],
-    "check": [
+    "millimeters": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "cheque"
+            "translation": "millimetres"
         }
     ],
-    "color": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "colour"
-        }
-    ],
-    "colorful": [
+    "centimeter": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "colourful"
+            "translation": "centimetre"
         }
     ],
-    "colors": [
+    "millimeter": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "colours"
+            "translation": "millimetre"
         }
     ],
     "datacenter": [
@@ -97,39 +41,37 @@
             "translation": "data centre"
         }
     ],
-    "dialog": [
+    "favorites": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "dialogue"
+            "translation": "favourites"
         }
     ],
-    "dialogs": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "dialogues"
-        }
-    ],
-    "endeavor": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "endeavour"
-        }
-    ],
-    "favor": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "favour"
-        }
-    ],
-    "favorite": [
+    "canceling": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "favourite"
+            "translation": "cancelling"
+        }
+    ],
+    "traveling": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "travelling"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "travelling"
+        }
+    ],
+    "centering": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "centring"
         }
     ],
     "favorited": [
@@ -139,25 +81,114 @@
             "translation": "favourited"
         }
     ],
-    "favorites": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "favourites"
-        }
-    ],
-    "gray": [
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "grey"
-        }
-    ],
-    "honor": [
+    "endeavor": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "honour"
+            "translation": "endeavour"
+        }
+    ],
+    "neighbor": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "neighbour"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "neighbour"
+        }
+    ],
+    "canceled": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "cancelled"
+        }
+    ],
+    "favorite": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "favourite"
+        }
+    ],
+    "behavior": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "behaviour"
+        }
+    ],
+    "zip code": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Postal Code"
+        }
+    ],
+    "colorful": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "colourful"
+        }
+    ],
+    "centered": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "centred"
+        }
+    ],
+    "indepth": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "in-depth"
+        }
+    ],
+    "useable": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "usable"
+        }
+    ],
+    "catalog": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "catalogue"
+        }
+    ],
+    "prefill": [
+        {
+            "comment": "",
+            "pos": "conjunction",
+            "translation": "pre-fill"
+        }
+    ],
+    "license": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "licence"
+        }
+    ],
+    "dialogs": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "dialogues"
+        }
+    ],
+    "labeled": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "labelled"
         }
     ],
     "honored": [
@@ -174,32 +205,39 @@
             "translation": "Hi!"
         }
     ],
-    "huh?": [
-        {
-            "comment": "For the cheating messages.",
-            "pos": "expression",
-            "translation": "eh?"
-        }
-    ],
-    "indepth": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "in-depth"
-        }
-    ],
-    "labeled": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "labelled"
-        }
-    ],
-    "license": [
+    "center": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "licence"
+            "translation": "centre"
+        }
+    ],
+    "colors": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "colours"
+        }
+    ],
+    "dialog": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "dialogue"
+        }
+    ],
+    "color": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "colour"
+        }
+    ],
+    "favor": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "favour"
         }
     ],
     "meter": [
@@ -209,37 +247,18 @@
             "translation": "metre"
         }
     ],
-    "millimeter": [
+    "check": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "millimetre"
+            "translation": "cheque"
         }
     ],
-    "millimeters": [
+    "honor": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "millimetres"
-        }
-    ],
-    "neighbor": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "neighbour"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "neighbour"
-        }
-    ],
-    "prefill": [
-        {
-            "comment": "",
-            "pos": "conjunction",
-            "translation": "pre-fill"
+            "translation": "honour"
         }
     ],
     "state": [
@@ -249,25 +268,6 @@
             "translation": "Province"
         }
     ],
-    "traveling": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "travelling"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "travelling"
-        }
-    ],
-    "useable": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "usable"
-        }
-    ],
     "vapor": [
         {
             "comment": "",
@@ -275,11 +275,18 @@
             "translation": "vapour"
         }
     ],
-    "zip code": [
+    "huh?": [
+        {
+            "comment": "For the cheating messages.",
+            "pos": "expression",
+            "translation": "eh?"
+        }
+    ],
+    "gray": [
         {
             "comment": "",
-            "pos": "noun",
-            "translation": "Postal Code"
+            "pos": "adjective",
+            "translation": "grey"
         }
     ]
 }

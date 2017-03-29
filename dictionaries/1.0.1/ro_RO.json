@@ -1,0 +1,1467 @@
+{
+    "keychain connections": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "conexiuni \u00eenl?n?uite"
+        },
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "conexiuni \u00c3\u00aenl\u00c4\u0083n\u00c8\u009buite"
+        },
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "conexiuni \u00c3\u00aenl\u00c4\u0083n\u00c8\u009buite"
+        }
+    ],
+    "push notifications": [
+        {
+            "comment": "notific?ri \"\u00eempinse\" imediat",
+            "pos": "expression",
+            "translation": "notific?ri imediate"
+        },
+        {
+            "comment": "notific\u00c4\u0083ri \"\u00c3\u00aempinse\" imediat",
+            "pos": "expression",
+            "translation": "notific\u00c4\u0083ri imediate"
+        },
+        {
+            "comment": "notific\u00c4\u0083ri \"\u00c3\u00aempinse\" imediat",
+            "pos": "expression",
+            "translation": "notific\u00c4\u0083ri imediate"
+        }
+    ],
+    "initial release": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "Lansare ini?ial?"
+        },
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "Lansare ini\u00c8\u009bial\u00c4\u0083"
+        },
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "Lansare ini\u00c8\u009bial\u00c4\u0083"
+        }
+    ],
+    "obfuscated code": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "cod obscurizat"
+        }
+    ],
+    "miscellaneous": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "diverse"
+        }
+    ],
+    "look and feel": [
+        {
+            "comment": "... sau: aspect ?i senza?ie?",
+            "pos": "expression",
+            "translation": "aspect ?i afect"
+        },
+        {
+            "comment": "... sau: aspect \u00c8\u0099i senza\u00c8\u009bie?",
+            "pos": "expression",
+            "translation": "aspect \u00c8\u0099i afect"
+        },
+        {
+            "comment": "... sau: aspect \u00c8\u0099i senza\u00c8\u009bie?",
+            "pos": "expression",
+            "translation": "aspect \u00c8\u0099i afect"
+        }
+    ],
+    "shopping cart": [
+        {
+            "comment": "WooComerce \u00c8\u0099i alte module de comer\u00c8\u009b electronic",
+            "pos": "expression",
+            "translation": "c\u00c4\u0083rucior de cump\u00c4\u0083r\u00c4\u0083turi"
+        }
+    ],
+    "strikethrough": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "barare"
+        }
+    ],
+    "send to trash": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "arunca la gunoi"
+        }
+    ],
+    "language pack": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "pachet lingvistic"
+        }
+    ],
+    "stiky header": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "antet fixat"
+        }
+    ],
+    "mobile-first": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "\u00c3\u00aent\u00c3\u00a2i-mobil"
+        },
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "\u00c3\u00aent\u00c3\u00a2i-mobil"
+        }
+    ],
+    "placeholder": [
+        {
+            "comment": "\"front-end placeholders\" -> substitue?i de con?inut (\u00eenlocuitori)",
+            "pos": "noun",
+            "translation": "substituent"
+        },
+        {
+            "comment": "\"front-end placeholders\" -> substitue\u00c8\u009bi de con\u00c8\u009binut (\u00c3\u00aenlocuitori)",
+            "pos": "noun",
+            "translation": "substituent"
+        },
+        {
+            "comment": "\"front-end placeholders\" -> substitue\u00c8\u009bi de con\u00c8\u009binut (\u00c3\u00aenlocuitori)",
+            "pos": "noun",
+            "translation": "substituent"
+        }
+    ],
+    "superscript": [
+        {
+            "comment": "(la putere)",
+            "pos": "adjective",
+            "translation": "indice-sus"
+        },
+        {
+            "comment": "(la putere)",
+            "pos": "adjective",
+            "translation": "indice-sus"
+        }
+    ],
+    "lean & mean": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "simplu ?i semnificativ"
+        },
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "simplu \u00c8\u0099i semnificativ"
+        },
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "simplu \u00c8\u0099i semnificativ"
+        }
+    ],
+    "impressions": [
+        {
+            "comment": "ctxt.: Google Analytics",
+            "pos": "noun",
+            "translation": "impresion?ri"
+        },
+        {
+            "comment": "ctxt.: Google Analytics",
+            "pos": "noun",
+            "translation": "impresion\u00c4\u0083ri"
+        },
+        {
+            "comment": "ctxt.: Google Analytics",
+            "pos": "noun",
+            "translation": "impresion\u00c4\u0083ri"
+        }
+    ],
+    "sorry, but": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "regret, dar"
+        }
+    ],
+    "logged out": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "deautentificat"
+        }
+    ],
+    "stylesheet": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "foaie de stiluri"
+        }
+    ],
+    "repository": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "depozitar"
+        }
+    ],
+    "on the fly": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "din mers"
+        }
+    ],
+    "responsive": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "responsiv"
+        }
+    ],
+    "membership": [
+        {
+            "comment": "membru \u00c3\u00aen, participant...",
+            "pos": "adjective",
+            "translation": "apartenen\u00c8\u009b\u00c4\u0083"
+        },
+        {
+            "comment": "membru \u00c3\u00aen, participant...",
+            "pos": "adjective",
+            "translation": "apartenen\u00c8\u009b\u00c4\u0083"
+        }
+    ],
+    "proofread": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "corectur?"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "corectur\u00c4\u0083"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "corectur\u00c4\u0083"
+        }
+    ],
+    "publicize": [
+        {
+            "comment": "... publicizare - exist?, pate fi adoptat?",
+            "pos": "verb",
+            "translation": "(a face) publicitate"
+        },
+        {
+            "comment": "... publicizare - exist\u00c4\u0083, pate fi adoptat?",
+            "pos": "verb",
+            "translation": "(a face) publicitate"
+        },
+        {
+            "comment": "... publicizare - exist\u00c4\u0083, pate fi adoptat?",
+            "pos": "verb",
+            "translation": "(a face) publicitate"
+        }
+    ],
+    "pie chart": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "diagram? (sectorial) circular?"
+        },
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "diagram\u00c4\u0083 (sectorial) circular\u00c4\u0083"
+        },
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "diagram\u00c4\u0083 (sectorial) circular\u00c4\u0083"
+        }
+    ],
+    "shortcode": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "scurtcod"
+        }
+    ],
+    "namespace": [
+        {
+            "comment": "numele spa?iului de ?iruri pentru o tem?\/modul utilizat \u00een interna?ionalizare\/localizare",
+            "pos": "expression",
+            "translation": "nume-spa?iu"
+        },
+        {
+            "comment": "numele spa\u00c8\u009biului de \u00c8\u0099iruri pentru o tem\u00c4\u0083\/modul utilizat \u00c3\u00aen interna\u00c8\u009bionalizare\/localizare",
+            "pos": "expression",
+            "translation": "nume-spa\u00c8\u009biu"
+        },
+        {
+            "comment": "numele spa\u00c8\u009biului de \u00c8\u0099iruri pentru o tem\u00c4\u0083\/modul utilizat \u00c3\u00aen interna\u00c8\u009bionalizare\/localizare",
+            "pos": "expression",
+            "translation": "nume-spa\u00c8\u009biu"
+        }
+    ],
+    "shortlink": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "leg?tur? scurt?"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "leg\u00c4\u0083tur\u00c4\u0083 scurt\u00c4\u0083"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "leg\u00c4\u0083tur\u00c4\u0083 scurt\u00c4\u0083"
+        }
+    ],
+    "home page": [
+        {
+            "comment": "homepage la fel; poate fi si pagina de pornire",
+            "pos": "expression",
+            "translation": "prima pagin?"
+        },
+        {
+            "comment": "homepage la fel; poate fi si pagina de pornire",
+            "pos": "expression",
+            "translation": "prima pagin\u00c4\u0083"
+        },
+        {
+            "comment": "homepage la fel; poate fi si pagina de pornire",
+            "pos": "expression",
+            "translation": "prima pagin\u00c4\u0083"
+        }
+    ],
+    "logged in": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "autentificat"
+        }
+    ],
+    "subscript": [
+        {
+            "comment": "(indice)",
+            "pos": "adjective",
+            "translation": "indice-jos"
+        },
+        {
+            "comment": "(indice)",
+            "pos": "adjective",
+            "translation": "indice-jos"
+        }
+    ],
+    "hovercard": [
+        {
+            "comment": "ctxt.: Jetpack",
+            "pos": "noun",
+            "translation": "pluticard"
+        },
+        {
+            "comment": "ctxt.: Jetpack",
+            "pos": "noun",
+            "translation": "pluticard"
+        }
+    ],
+    "importer": [
+        {
+            "comment": "module importatoare\/exportatoare (de con?inut)",
+            "pos": "noun",
+            "translation": "importator"
+        },
+        {
+            "comment": "module importatoare\/exportatoare (de con\u00c8\u009binut)",
+            "pos": "noun",
+            "translation": "importator"
+        },
+        {
+            "comment": "module importatoare\/exportatoare (de con\u00c8\u009binut)",
+            "pos": "noun",
+            "translation": "importator"
+        }
+    ],
+    "reviewer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "recenzent"
+        }
+    ],
+    "parallax": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "paralax?"
+        },
+        {
+            "comment": "defilare\/mi\u00c8\u0099care pe axe paralele (\u00c8\u0099i cu viteze diferite) a elementelor vizuale dintrun diapozitiv",
+            "pos": "noun",
+            "translation": "paralax\u00c4\u0083"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "paralax\u00c4\u0083"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "paralax\u00c4\u0083"
+        }
+    ],
+    "revamped": [
+        {
+            "comment": "... sau re\u00eennoit?",
+            "pos": "adjective",
+            "translation": "modernizat"
+        },
+        {
+            "comment": "... sau re\u00c3\u00aennoit?",
+            "pos": "adjective",
+            "translation": "modernizat"
+        },
+        {
+            "comment": "... sau re\u00c3\u00aennoit?",
+            "pos": "adjective",
+            "translation": "modernizat"
+        }
+    ],
+    "override": [
+        {
+            "comment": "adj.: contramandat (a contramada\/opri o func?iune automat?)",
+            "pos": "verb",
+            "translation": "contramanda"
+        },
+        {
+            "comment": "adj.: contramandat (a contramada\/opri o func\u00c8\u009biune automat\u00c4\u0083)",
+            "pos": "verb",
+            "translation": "contramanda"
+        },
+        {
+            "comment": "adj.: contramandat (a contramada\/opri o func\u00c8\u009biune automat\u00c4\u0083)",
+            "pos": "verb",
+            "translation": "contramanda"
+        }
+    ],
+    "homepage": [
+        {
+            "comment": "homepage la fel; poate fi si pagina de pornire",
+            "pos": "expression",
+            "translation": "prima pagin\u00c4\u0083"
+        }
+    ],
+    "metadata": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "metadate"
+        }
+    ],
+    "sanitize": [
+        {
+            "comment": "\"to sanitize the code\" -> \"a sanitiza codul\" (sin.: a dezinfecta); cod sanitizat - cod imunizat",
+            "pos": "verb",
+            "translation": "sanitiza"
+        },
+        {
+            "comment": "\"to sanitize the code\" -> \"a sanitiza codul\" (sin.: a dezinfecta); cod sanitizat - cod imunizat",
+            "pos": "verb",
+            "translation": "sanitiza"
+        }
+    ],
+    "shortcut": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "scurt?tur?"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "scurt\u00c4\u0083tur\u00c4\u0083"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "scurt\u00c4\u0083tur\u00c4\u0083"
+        }
+    ],
+    "showcase": [
+        {
+            "comment": "sau 'vitrin\u00c4\u0083' (de expunere\/prezentare)",
+            "pos": "noun",
+            "translation": "exemplific\u00c4\u0083ri"
+        }
+    ],
+    "referrer": [
+        {
+            "comment": "pl.: referen?i",
+            "pos": "noun",
+            "translation": "referent"
+        },
+        {
+            "comment": "pl.: referen\u00c8\u009bi",
+            "pos": "noun",
+            "translation": "referent"
+        },
+        {
+            "comment": "pl.: referen\u00c8\u009bi",
+            "pos": "noun",
+            "translation": "referent"
+        }
+    ],
+    "insights": [
+        {
+            "comment": "ctxt.: Google Analytics",
+            "pos": "noun",
+            "translation": "perspective"
+        },
+        {
+            "comment": "ctxt.: Google Analytics",
+            "pos": "noun",
+            "translation": "perspective"
+        }
+    ],
+    "privacy": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "confiden?ialitate"
+        },
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "confiden\u00c8\u009bialitate"
+        },
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "confiden\u00c8\u009bialitate"
+        }
+    ],
+    "submenu": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "sub-meniu"
+        }
+    ],
+    "referal": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "referire"
+        }
+    ],
+    "refresh": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "a re\u00c3\u00aemprosp\u00c4\u0083ta"
+        }
+    ],
+    "sitemap": [
+        {
+            "comment": "pl. h?r?i situri",
+            "pos": "expression",
+            "translation": "hart? sit"
+        },
+        {
+            "comment": "pl. h\u00c4\u0083r\u00c8\u009bi situri",
+            "pos": "expression",
+            "translation": "hart\u00c4\u0083 sit"
+        },
+        {
+            "comment": "pl. h\u00c4\u0083r\u00c8\u009bi situri",
+            "pos": "expression",
+            "translation": "hart\u00c4\u0083 sit"
+        }
+    ],
+    "padding": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "distan?are"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "distan\u00c8\u009bare"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "distan\u00c8\u009bare"
+        }
+    ],
+    "library": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "bibliotec?"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "bibliotec\u00c4\u0083"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "bibliotec\u00c4\u0083"
+        }
+    ],
+    "staging": [
+        {
+            "comment": "punere \u00een scen?, \u00eenscenare e prea departe...",
+            "pos": "noun",
+            "translation": "instan?iere"
+        },
+        {
+            "comment": "punere \u00c3\u00aen scen\u00c4\u0083, \u00c3\u00aenscenare e prea departe...",
+            "pos": "noun",
+            "translation": "instan\u00c8\u009biere"
+        },
+        {
+            "comment": "punere \u00c3\u00aen scen\u00c4\u0083, \u00c3\u00aenscenare e prea departe...",
+            "pos": "noun",
+            "translation": "instan\u00c8\u009biere"
+        }
+    ],
+    "snippet": [
+        {
+            "comment": "(de cod) vezi code snippet",
+            "pos": "noun",
+            "translation": "fragment"
+        }
+    ],
+    "related": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "similar"
+        }
+    ],
+    "styler": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "stilist"
+        },
+        {
+            "comment": "... sau a stileur?!",
+            "pos": "noun",
+            "translation": "stilizator"
+        },
+        {
+            "comment": "... sau a stileur?!",
+            "pos": "noun",
+            "translation": "stilizator"
+        }
+    ],
+    "scroll": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "derula"
+        }
+    ],
+    "review": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "recenzie"
+        }
+    ],
+    "string": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "?ir"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u00c8\u0099ir"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u00c8\u0099ir"
+        }
+    ],
+    "submit": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "trimite"
+        }
+    ],
+    "smooth": [
+        {
+            "comment": "\"smooth scroll\" -> derulare lin?",
+            "pos": "adjective",
+            "translation": "lin"
+        },
+        {
+            "comment": "\"smooth scroll\" -> derulare lin\u00c4\u0083",
+            "pos": "adjective",
+            "translation": "lin"
+        },
+        {
+            "comment": "\"smooth scroll\" -> derulare lin\u00c4\u0083",
+            "pos": "adjective",
+            "translation": "lin"
+        }
+    ],
+    "slides": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "diapozitive"
+        }
+    ],
+    "render": [
+        {
+            "comment": "a transpune \u00c3\u00aentr-un rastru o imagine (vectorial\u00c4\u0083 sau nu), a randa, randare (similar cu: a desena, desenare)",
+            "pos": "verb",
+            "translation": "randa"
+        }
+    ],
+    "slider": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "carusel"
+        }
+    ],
+    "screen": [
+        {
+            "comment": "\"administrative screen\" -> ecran de administrare",
+            "pos": "noun",
+            "translation": "ecran"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ecran"
+        },
+        {
+            "comment": "\"administrative screen\" -> ecran de administrare",
+            "pos": "noun",
+            "translation": "ecran"
+        }
+    ],
+    "plugin": [
+        {
+            "comment": "vezi ?i \"module\" -> extensie",
+            "pos": "noun",
+            "translation": "modul"
+        },
+        {
+            "comment": "vezi \u00c8\u0099i \"module\" -> extensie",
+            "pos": "noun",
+            "translation": "modul"
+        },
+        {
+            "comment": "vezi \u00c8\u0099i \"module\" -> extensie",
+            "pos": "noun",
+            "translation": "modul"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "modul"
+        }
+    ],
+    "remove": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u00eenl?tura"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u00c3\u00aenl\u00c4\u0083tura"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u00c3\u00aenl\u00c4\u0083tur\u00c4\u0083"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "\u00c3\u00aenl\u00c4\u0083tura"
+        }
+    ],
+    "nested": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "imbricat"
+        },
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "imbricate"
+        }
+    ],
+    "markup": [
+        {
+            "comment": "poate cu vremea... marcap | tagat ... :) limbaj markup, schem? (de) markup...",
+            "pos": "adjective",
+            "translation": "markup"
+        },
+        {
+            "comment": "poate cu vremea... marcap | tagat ... :) limbaj markup, schem\u00c4\u0083 (de) markup...",
+            "pos": "adjective",
+            "translation": "markup"
+        },
+        {
+            "comment": "poate cu vremea... marcap | tagat ... :) limbaj markup, schem\u00c4\u0083 (de) markup...",
+            "pos": "adjective",
+            "translation": "markup"
+        }
+    ],
+    "layout": [
+        {
+            "comment": "aranjare \u00een pagin?",
+            "pos": "noun",
+            "translation": "aranjament"
+        },
+        {
+            "comment": "aranjare \u00c3\u00aen pagin\u00c4\u0083",
+            "pos": "noun",
+            "translation": "aranjament"
+        },
+        {
+            "comment": "aranjare \u00c3\u00aen pagin\u00c4\u0083",
+            "pos": "noun",
+            "translation": "aranjament"
+        }
+    ],
+    "raster": [
+        {
+            "comment": "(matrice de puncte) adj.: rasterizat - imagine rasterizat\u00c4\u0083 - procesul: de rasterizare \/ de randare",
+            "pos": "noun",
+            "translation": "rastru"
+        }
+    ],
+    "minify": [
+        {
+            "comment": "a minifica, minificare, minificat",
+            "pos": "verb",
+            "translation": "minifica"
+        },
+        {
+            "comment": "a minifica, minificare, minificat",
+            "pos": "verb",
+            "translation": "minifica"
+        }
+    ],
+    "inline": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "\u00c3\u00aen-linie"
+        },
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "\u00c3\u00aen-linie"
+        }
+    ],
+    "module": [
+        {
+            "comment": "ex.: Jetpack; \"complex plugins have several modules\" -> modulele complexe au mai multe extensii",
+            "pos": "noun",
+            "translation": "extensie"
+        },
+        {
+            "comment": "ex.: Jetpack; \"complex plugins have several modules\" -> modulele complexe au mai multe extensii",
+            "pos": "noun",
+            "translation": "extensie"
+        }
+    ],
+    "indent": [
+        {
+            "comment": "verb: a indenta",
+            "pos": "adjective",
+            "translation": "indentare"
+        },
+        {
+            "comment": "verb: a indenta",
+            "pos": "adjective",
+            "translation": "indentare"
+        },
+        {
+            "comment": "verb: a indenta",
+            "pos": "noun",
+            "translation": "indentare"
+        }
+    ],
+    "locale": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "local?"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "local\u00c4\u0083"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "local\u00c4\u0083"
+        }
+    ],
+    "parser": [
+        {
+            "comment": "verb: a interpreta",
+            "pos": "noun",
+            "translation": "interpretor"
+        },
+        {
+            "comment": "verb: a interpreta",
+            "pos": "noun",
+            "translation": "interpretor"
+        }
+    ],
+    "player": [
+        {
+            "comment": "pl. playere",
+            "pos": "noun",
+            "translation": "player"
+        },
+        {
+            "comment": "pl. playere",
+            "pos": "noun",
+            "translation": "player"
+        }
+    ],
+    "please": [
+        {
+            "comment": "form? de adresare",
+            "pos": "expression",
+            "translation": "te rog"
+        },
+        {
+            "comment": "form\u00c4\u0083 de adresare",
+            "pos": "expression",
+            "translation": "te rog"
+        },
+        {
+            "comment": "form\u00c4\u0083 de adresare",
+            "pos": "expression",
+            "translation": "te rog"
+        }
+    ],
+    "picker": [
+        {
+            "comment": "... sau pipet??!",
+            "pos": "noun",
+            "translation": "selector"
+        },
+        {
+            "comment": "... sau pipet\u00c4\u0083?!",
+            "pos": "noun",
+            "translation": "selector"
+        },
+        {
+            "comment": "... sau pipet\u00c4\u0083?!",
+            "pos": "noun",
+            "translation": "selector"
+        }
+    ],
+    "login": [
+        {
+            "comment": "autentificare",
+            "pos": "verb",
+            "translation": "autentifica"
+        },
+        {
+            "comment": "autentificare",
+            "pos": "verb",
+            "translation": "autentifica"
+        }
+    ],
+    "sorry": [
+        {
+            "comment": "\"Sorry, but...\" -> \"Regret, dar...\"",
+            "pos": "noun",
+            "translation": "regret"
+        },
+        {
+            "comment": "\"Sorry, but...\" -> \"Regret, dar...\"",
+            "pos": "noun",
+            "translation": "regret"
+        }
+    ],
+    "swich": [
+        {
+            "comment": "sub.: comutator",
+            "pos": "verb",
+            "translation": "comuta"
+        },
+        {
+            "comment": "sub.: comutator",
+            "pos": "verb",
+            "translation": "comuta"
+        }
+    ],
+    "media": [
+        {
+            "comment": "media, element media",
+            "pos": "noun",
+            "translation": "media"
+        },
+        {
+            "comment": "media, element media",
+            "pos": "noun",
+            "translation": "media"
+        }
+    ],
+    "merge": [
+        {
+            "comment": "sau combin?",
+            "pos": "verb",
+            "translation": "\u00eembin?"
+        },
+        {
+            "comment": "sau combin\u00c4\u0083",
+            "pos": "verb",
+            "translation": "\u00c3\u00aembin\u00c4\u0083"
+        },
+        {
+            "comment": "sau combin\u00c4\u0083",
+            "pos": "verb",
+            "translation": "\u00c3\u00aembin\u00c4\u0083"
+        }
+    ],
+    "plays": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "rul?ri"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "rul\u00c4\u0083ri"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "rul\u00c4\u0083ri"
+        }
+    ],
+    "nonce": [
+        {
+            "comment": "criptografie: n(um?r) unic - num?r\/?ir folosit o singur? dat?",
+            "pos": "noun",
+            "translation": "nunic\/nunice"
+        },
+        {
+            "comment": "criptografie: n(um\u00c4\u0083r) unic - num\u00c4\u0083r\/\u00c8\u0099ir folosit o singur\u00c4\u0083 dat\u00c4\u0083",
+            "pos": "noun",
+            "translation": "nunic\/nunice"
+        },
+        {
+            "comment": "criptografie: n(um\u00c4\u0083r) unic - num\u00c4\u0083r\/\u00c8\u0099ir folosit o singur\u00c4\u0083 dat\u00c4\u0083",
+            "pos": "noun",
+            "translation": "nunic\/nunice"
+        }
+    ],
+    "hover": [
+        {
+            "comment": "pluti?! \"hoover the link\" -> treci peste leg?tur?",
+            "pos": "verb",
+            "translation": "trece peste"
+        },
+        {
+            "comment": "pluti?! \"hoover the link\" -> treci peste leg\u00c4\u0083tur\u00c4\u0083",
+            "pos": "verb",
+            "translation": "trece peste"
+        },
+        {
+            "comment": "pluti?! \"hoover the link\" -> treci peste leg\u00c4\u0083tur\u00c4\u0083",
+            "pos": "verb",
+            "translation": "trece peste"
+        },
+        {
+            "comment": "hoover the link -> treci peste leg\u00c4\u0083tur\u00c4\u0083",
+            "pos": "expression",
+            "translation": "trece peste"
+        }
+    ],
+    "mouse": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "maus"
+        }
+    ],
+    "patch": [
+        {
+            "comment": "(de cod) - petec (de cod) sun? ciudat :)",
+            "pos": "noun",
+            "translation": "corectur?"
+        },
+        {
+            "comment": "(de cod) - petec (de cod) sun\u00c4\u0083 ciudat :)",
+            "pos": "noun",
+            "translation": "corectur\u00c4\u0083"
+        },
+        {
+            "comment": "(de cod) - petec (de cod) sun\u00c4\u0083 ciudat :)",
+            "pos": "noun",
+            "translation": "corectur\u00c4\u0083"
+        }
+    ],
+    "stiky": [
+        {
+            "comment": "stiky post -> \"articol reprezentativ\" (\"lipicios\" nu are sens, \"?inut la \u00eenceput\" sau \"scos \u00een fa??\" - cam mult)",
+            "pos": "adjective",
+            "translation": "reprezentativ"
+        },
+        {
+            "comment": "stiky post -> \"articol reprezentativ\" (\"lipicios\" nu are sens, \"\u00c8\u009binut la \u00c3\u00aenceput\" sau \"scos \u00c3\u00aen fa\u00c8\u009b\u00c4\u0083\" - cam mult)",
+            "pos": "adjective",
+            "translation": "reprezentativ"
+        },
+        {
+            "comment": "stiky post -> \"articol reprezentativ\" (\"lipicios\" nu are sens, \"\u00c8\u009binut la \u00c3\u00aenceput\" sau \"scos \u00c3\u00aen fa\u00c8\u009b\u00c4\u0083\" - cam mult)",
+            "pos": "adjective",
+            "translation": "reprezentativ"
+        }
+    ],
+    "inbox": [
+        {
+            "comment": "outbox -> ie?iri",
+            "pos": "noun",
+            "translation": "intr?ri"
+        },
+        {
+            "comment": "outbox -> ie\u00c8\u0099iri",
+            "pos": "noun",
+            "translation": "intr\u00c4\u0083ri"
+        },
+        {
+            "comment": "outbox -> ie\u00c8\u0099iri",
+            "pos": "noun",
+            "translation": "intr\u00c4\u0083ri"
+        }
+    ],
+    "share": [
+        {
+            "comment": "... sau a \u00eemp?rt??i?!",
+            "pos": "verb",
+            "translation": "partaja"
+        },
+        {
+            "comment": "... sau a \u00c3\u00aemp\u00c4\u0083rt\u00c4\u0083\u00c8\u0099i?!",
+            "pos": "verb",
+            "translation": "partaja"
+        },
+        {
+            "comment": "... sau a \u00c3\u00aemp\u00c4\u0083rt\u00c4\u0083\u00c8\u0099i?!",
+            "pos": "verb",
+            "translation": "partaja"
+        }
+    ],
+    "setup": [
+        {
+            "comment": "set?ri ini?iale, instalare",
+            "pos": "noun",
+            "translation": "ini?ializare"
+        },
+        {
+            "comment": "set\u00c4\u0083ri ini\u00c8\u009biale, instalare",
+            "pos": "noun",
+            "translation": "ini\u00c8\u009bializare"
+        },
+        {
+            "comment": "set\u00c4\u0083ri ini\u00c8\u009biale, instalare",
+            "pos": "noun",
+            "translation": "ini\u00c8\u009bializare"
+        }
+    ],
+    "icon": [
+        {
+            "comment": "icon, iconuri",
+            "pos": "noun",
+            "translation": "icon"
+        },
+        {
+            "comment": "icon, iconuri",
+            "pos": "noun",
+            "translation": "icon"
+        }
+    ],
+    "like": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "apreciere"
+        }
+    ],
+    "hook": [
+        {
+            "comment": "... sau c\u00e2rlig; \"hook function\" -> func?ie ag??at?",
+            "pos": "noun",
+            "translation": "ag???toare"
+        },
+        {
+            "comment": "... sau c\u00c3\u00a2rlig; \"hook function\" -> func\u00c8\u009bie ag\u00c4\u0083\u00c8\u009bat\u00c4\u0083",
+            "pos": "noun",
+            "translation": "ag\u00c4\u0083\u00c8\u009b\u00c4\u0083toare"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "c\u00c3\u00a2rlig"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "c\u00c3\u00a2rlig"
+        },
+        {
+            "comment": "... sau c\u00c3\u00a2rlig; \"hook function\" -> func\u00c8\u009bie ag\u00c4\u0083\u00c8\u009bat\u00c4\u0083",
+            "pos": "noun",
+            "translation": "ag\u00c4\u0083\u00c8\u009b\u00c4\u0083toare"
+        }
+    ],
+    "skin": [
+        {
+            "comment": "c\u00c3\u00aend e vorba de un ansamblu de elemente de aspect (suprafa\u00c8\u009b\u00c4\u0083 - uneori e vorba doar de aspectul unui font)",
+            "pos": "noun",
+            "translation": "aspect"
+        }
+    ],
+    "link": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "leg?tur?"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "leg\u00c4\u0083tur\u00c4\u0083"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "leg\u00c4\u0083tur\u00c4\u0083"
+        }
+    ],
+    "slug": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "descriptor"
+        }
+    ],
+    "site": [
+        {
+            "comment": "situl, sitului, situri",
+            "pos": "noun",
+            "translation": "sit"
+        },
+        {
+            "comment": "situl, sitului, situri",
+            "pos": "noun",
+            "translation": "sit"
+        }
+    ],
+    "show": [
+        {
+            "comment": "arat?",
+            "pos": "verb",
+            "translation": "ar?ta"
+        },
+        {
+            "comment": "arat\u00c4\u0083",
+            "pos": "verb",
+            "translation": "ar\u00c4\u0083ta"
+        },
+        {
+            "comment": "ant.: \"hide\" -> ascunde",
+            "pos": "verb",
+            "translation": "arata"
+        },
+        {
+            "comment": "arat\u00c4\u0083",
+            "pos": "verb",
+            "translation": "ar\u00c4\u0083ta"
+        },
+        {
+            "comment": "ant.: \"hide\" -> ascunde",
+            "pos": "verb",
+            "translation": "arata"
+        }
+    ],
+    "play": [
+        {
+            "comment": "\"to play a video\" -> \"a rula un video\"",
+            "pos": "verb",
+            "translation": "rula"
+        },
+        {
+            "comment": "\"to play a video\" -> \"a rula un video\"",
+            "pos": "verb",
+            "translation": "rula"
+        }
+    ],
+    "post": [
+        {
+            "comment": "... uneori a trimite",
+            "pos": "verb",
+            "translation": "publica"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "articol"
+        },
+        {
+            "comment": "... uneori a trimite",
+            "pos": "verb",
+            "translation": "publica"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "articol"
+        }
+    ],
+    "ltr": [
+        {
+            "comment": "nu se traduce! (tip scriere: left-to-right, rtl - right-to-left)",
+            "pos": "expression",
+            "translation": "ltr"
+        },
+        {
+            "comment": "nu se traduce! (tip scriere: left-to-right, rtl - right-to-left)",
+            "pos": "expression",
+            "translation": "ltr"
+        },
+        {
+            "comment": "nu se traduce!",
+            "pos": "expression",
+            "translation": "ltr"
+        }
+    ],
+    "off": [
+        {
+            "comment": "se traduce doar atunci c\u00e2nd nu reprezint? o valoare de variabil?",
+            "pos": "adjective",
+            "translation": "oprit"
+        },
+        {
+            "comment": "se traduce doar atunci c\u00c3\u00a2nd nu reprezint\u00c4\u0083 o valoare de variabil\u00c4\u0083",
+            "pos": "adjective",
+            "translation": "oprit"
+        },
+        {
+            "comment": "se traduce doar atunci c\u00c3\u00a2nd nu reprezint\u00c4\u0083 o valoare de variabil\u00c4\u0083",
+            "pos": "adjective",
+            "translation": "oprit"
+        }
+    ],
+    "rtl": [
+        {
+            "comment": "vezi \"ltr\"",
+            "pos": "expression",
+            "translation": "rtl"
+        },
+        {
+            "comment": "nu se traduce!",
+            "pos": "expression",
+            "translation": "rtl"
+        },
+        {
+            "comment": "vezi \"ltr\"",
+            "pos": "expression",
+            "translation": "rtl"
+        }
+    ],
+    "tab": [
+        {
+            "comment": "\"tab control\" -> control cu file (multi-fil?)",
+            "pos": "noun",
+            "translation": "fil?"
+        },
+        {
+            "comment": "\"tab control\" -> control cu file (multi-fil\u00c4\u0083)",
+            "pos": "noun",
+            "translation": "fil\u00c4\u0083"
+        },
+        {
+            "comment": "\"tab control\" -> control cu file (multi-fil\u00c4\u0083)",
+            "pos": "noun",
+            "translation": "fil\u00c4\u0083"
+        }
+    ],
+    "tag": [
+        {
+            "comment": "excep?ie: pentru \u00abHTML tag\u00bb se va folosi \u00abtag HTML\u00bb",
+            "pos": "noun",
+            "translation": "etichet?"
+        },
+        {
+            "comment": "excep\u00c8\u009bie: pentru \u00c2\u00abHTML tag\u00c2\u00bb se va folosi \u00c2\u00abtag HTML\u00c2\u00bb",
+            "pos": "noun",
+            "translation": "etichet\u00c4\u0083"
+        },
+        {
+            "comment": "excep\u00c8\u009bie: pentru \u00c2\u00abHTML tag\u00c2\u00bb se va folosi \u00c2\u00abtag HTML\u00c2\u00bb",
+            "pos": "noun",
+            "translation": "etichet\u00c4\u0083"
+        }
+    ],
+    "on": [
+        {
+            "comment": "se traduce doar atunci c\u00e2nd nu reprezint? o valoare de variabil?",
+            "pos": "adjective",
+            "translation": "pornit"
+        },
+        {
+            "comment": "se traduce doar atunci c\u00c3\u00a2nd nu reprezint\u00c4\u0083 o valoare de variabil\u00c4\u0083",
+            "pos": "adjective",
+            "translation": "pornit"
+        },
+        {
+            "comment": "se traduce doar atunci c\u00c3\u00a2nd nu reprezint\u00c4\u0083 o valoare de variabil\u00c4\u0083",
+            "pos": "adjective",
+            "translation": "pornit"
+        }
+    ]
+}

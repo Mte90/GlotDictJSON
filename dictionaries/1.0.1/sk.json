@@ -1,0 +1,247 @@
+{
+    "leave a comment": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "pridajte koment\u00c3\u00a1r"
+        }
+    ],
+    "administrator": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "administr\u00c3\u00a1tor"
+        }
+    ],
+    "network admin": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "administr\u00c3\u00a1cia siete"
+        }
+    ],
+    "bookmarklet": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "bookmarklet"
+        }
+    ],
+    "press this": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "Press This"
+        }
+    ],
+    "pagination": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "str\u00c3\u00a1nkovanie"
+        }
+    ],
+    "buddypress": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "BuddyPress"
+        }
+    ],
+    "wordpress": [
+        {
+            "comment": "Nesklo\u00c5\u0088ova\u00c5\u00a5! Pozor na ve\u00c4\u00bek\u00c3\u00a9 W a P.",
+            "pos": "noun",
+            "translation": "WordPress"
+        }
+    ],
+    "permalink": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "trval\u00c3\u00bd odkaz"
+        }
+    ],
+    "post type": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "typ obsahu"
+        }
+    ],
+    "dashboard": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "n\u00c3\u00a1stenka"
+        }
+    ],
+    "username": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pou\u00c5\u00be\u00c3\u00advate\u00c4\u00besk\u00c3\u00a9 meno"
+        }
+    ],
+    "category": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kateg\u00c3\u00b3ria"
+        }
+    ],
+    "website": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "webov\u00c3\u00a1 str\u00c3\u00a1nka"
+        }
+    ],
+    "toolbar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "panel n\u00c3\u00a1strojov"
+        }
+    ],
+    "comment": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "koment\u00c3\u00a1r"
+        }
+    ],
+    "network": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "sie\u00c5\u00a5"
+        }
+    ],
+    "widget": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "widget"
+        }
+    ],
+    "custom": [
+        {
+            "comment": "vlastn\u00c3\u00a9 polia, vlastn\u00c3\u00bd typ obsahu a pod.",
+            "pos": "adjective",
+            "translation": "vlastn\u00c3\u00a9"
+        }
+    ],
+    "plugin": [
+        {
+            "comment": "sklo\u00c5\u0088uje sa",
+            "pos": "noun",
+            "translation": "plugin"
+        }
+    ],
+    "button": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "tla\u00c4\u008didlo"
+        }
+    ],
+    "latest": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "najnov\u00c5\u00a1ie"
+        }
+    ],
+    "folder": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "prie\u00c4\u008dinok"
+        }
+    ],
+    "theme": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "t\u00c3\u00a9ma"
+        }
+    ],
+    "email": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "e-mail"
+        }
+    ],
+    "draft": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "koncept"
+        }
+    ],
+    "page": [
+        {
+            "comment": "Vo v\u00c3\u00bdzname str\u00c3\u00a1nka na webovej str\u00c3\u00a1nke",
+            "pos": "noun",
+            "translation": "str\u00c3\u00a1nka"
+        }
+    ],
+    "menu": [
+        {
+            "comment": "aj v mno\u00c5\u00benom \u00c4\u008d\u00c3\u00adsle, napr. \"3 menu\"",
+            "pos": "noun",
+            "translation": "menu"
+        }
+    ],
+    "site": [
+        {
+            "comment": "nepou\u00c5\u00be\u00c3\u00adva\u00c5\u00a5 skr\u00c3\u00a1ten\u00c3\u00bd v\u00c3\u00bdraz v tvare \"str\u00c3\u00a1nka\"",
+            "pos": "noun",
+            "translation": "webov\u00c3\u00a1 str\u00c3\u00a1nka"
+        }
+    ],
+    "slug": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "slug"
+        }
+    ],
+    "spam": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "spam"
+        }
+    ],
+    "term": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "v\u00c3\u00bdraz"
+        }
+    ],
+    "user": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pou\u00c5\u00be\u00c3\u00advate\u00c4\u00be"
+        }
+    ],
+    "post": [
+        {
+            "comment": "pozor: \"post type\" m\u00c3\u00a1 in\u00c3\u00bd preklad",
+            "pos": "noun",
+            "translation": "\u00c4\u008dl\u00c3\u00a1nok"
+        }
+    ],
+    "tag": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "zna\u00c4\u008dka"
+        }
+    ]
+}

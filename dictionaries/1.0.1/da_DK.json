@@ -3,14 +3,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "forskellige sammenh\u00c3\u00a6nge"
+            "translation": "forskellige sammenh\u00e6nge"
         }
     ],
     "double quote": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "dobbelte anf\u00c3\u00b8rselstegn"
+            "translation": "dobbelte anf\u00f8rselstegn"
         }
     ],
     "hierarchical": [
@@ -22,7 +22,7 @@
     ],
     "successfully": [
         {
-            "comment": "\"Succesfuldt\" eller \"med succes\" bruges ikke p\u00c3\u00a5 dansk.",
+            "comment": "\"Succesfuldt\" eller \"med succes\" bruges ikke p\u00e5 dansk.",
             "pos": "adjective",
             "translation": "uden problemer"
         }
@@ -36,21 +36,21 @@
     ],
     "child theme": [
         {
-            "comment": "Tema, der bygger p\u00c3\u00a5 funktioner i et hovedtema (parent theme)",
+            "comment": "Tema, der bygger p\u00e5 funktioner i et hovedtema (parent theme)",
             "pos": "noun",
             "translation": "undertema"
         }
     ],
     "result set": [
         {
-            "comment": "Det returnerede svar p\u00c3\u00a5 en foresp\u00c3\u00b8rgsel.",
+            "comment": "Det returnerede svar p\u00e5 en foresp\u00f8rgsel.",
             "pos": "noun",
             "translation": "svar"
         }
     ],
     "customizer": [
         {
-            "comment": "Funktionen cusomizer til tilpasning af temaops\u00c3\u00a6tning.",
+            "comment": "Funktionen cusomizer til tilpasning af temaops\u00e6tning.",
             "pos": "noun",
             "translation": "Tilpasser"
         }
@@ -64,7 +64,7 @@
     ],
     "drop-down": [
         {
-            "comment": "Synes at v\u00c3\u00a6re den konventionelle overs\u00c3\u00a6ttelse.",
+            "comment": "Synes at v\u00e6re den konventionelle overs\u00e6ttelse.",
             "pos": "noun",
             "translation": "rullemenu"
         }
@@ -85,7 +85,7 @@
     ],
     "tagline": [
         {
-            "comment": "Kan ikke overs\u00c3\u00a6ttes med et ord, da det kan have flere betydninger.",
+            "comment": "Kan ikke overs\u00e6ttes med et ord, da det kan have flere betydninger.",
             "pos": "noun",
             "translation": "undertitel\/slogan\/slaglinje"
         }
@@ -106,7 +106,7 @@
     ],
     "website": [
         {
-            "comment": "Et fors\u00c3\u00b8g p\u00c3\u00a5 at undg\u00c3\u00a5 at bruge side eller hjemmeside, da begge dele ikke er s\u00c3\u00a6rligt d\u00c3\u00a6kkende.",
+            "comment": "Et fors\u00f8g p\u00e5 at undg\u00e5 at bruge side eller hjemmeside, da begge dele ikke er s\u00e6rligt d\u00e6kkende.",
             "pos": "noun",
             "translation": "Websted"
         }
@@ -120,14 +120,14 @@
     ],
     "browse": [
         {
-            "comment": "N\u00c3\u00a5r noget skal kikkes igennem eller findes frem.",
+            "comment": "N\u00e5r noget skal kikkes igennem eller findes frem.",
             "pos": "verb",
             "translation": "Gennemse"
         }
     ],
     "log in": [
         {
-            "comment": "Et fors\u00c3\u00b8g p\u00c3\u00a5 at undg\u00c3\u00a5 at bruge log p\u00c3\u00a5 for konsistens.",
+            "comment": "Et fors\u00f8g p\u00e5 at undg\u00e5 at bruge log p\u00e5 for konsistens.",
             "pos": "verb",
             "translation": "Log ind"
         }
@@ -141,9 +141,9 @@
     ],
     "query": [
         {
-            "comment": "Tr\u00c3\u00a6k af data fra databasen, returnere  et svar.",
+            "comment": "Tr\u00e6k af data fra databasen, returnere  et svar.",
             "pos": "noun",
-            "translation": "foresp\u00c3\u00b8rgsel"
+            "translation": "foresp\u00f8rgsel"
         }
     ],
     "apply": [
@@ -155,7 +155,7 @@
     ],
     "site": [
         {
-            "comment": "Et fors\u00c3\u00b8g p\u00c3\u00a5 at undg\u00c3\u00a5 at bruge side eller hjemmeside, da begge dele ikke er s\u00c3\u00a6rligt d\u00c3\u00a6kkende.",
+            "comment": "Et fors\u00f8g p\u00e5 at undg\u00e5 at bruge side eller hjemmeside, da begge dele ikke er s\u00e6rligt d\u00e6kkende.",
             "pos": "noun",
             "translation": "Websted"
         }

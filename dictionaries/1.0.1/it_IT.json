@@ -3,7 +3,7 @@
         {
             "comment": "",
             "pos": "",
-            "translation": "e che contiene informazioni relative all\u00e2\u0080\u0099oggetto selezionato\""
+            "translation": "e che contiene informazioni relative all\u2019oggetto selezionato\""
         }
     ],
     "bulk selection= selezione multipla\"": [
@@ -164,7 +164,7 @@
         {
             "comment": "o  fa da wrapper a",
             "pos": "noun",
-            "translation": "\u00c3\u00a8 un wrapper (di)"
+            "translation": "\u00e8 un wrapper (di)"
         }
     ],
     "header image": [
@@ -237,7 +237,7 @@
     ],
     "post types": [
         {
-            "comment": "Se \u00c3\u00a8 tecnico lasciare invariato. Declinare al maschile. Al plurale in italiano perde la s. Se non \u00c3\u00a8 tecnico: tipi di contenuto",
+            "comment": "Se \u00e8 tecnico lasciare invariato. Declinare al maschile. Al plurale in italiano perde la s. Se non \u00e8 tecnico: tipi di contenuto",
             "pos": "noun",
             "translation": "post type \/ tipo di contenuto"
         }
@@ -251,7 +251,7 @@
     ],
     "highlights": [
         {
-            "comment": "la traduzione \u00c3\u00a8 da contestualizzare, inserendo l'opportuno sinonimo che \u00c3\u00a8 messo \"in evidenza\"",
+            "comment": "la traduzione \u00e8 da contestualizzare, inserendo l'opportuno sinonimo che \u00e8 messo \"in evidenza\"",
             "pos": "noun",
             "translation": "in evidenza"
         }
@@ -330,7 +330,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "capacit\u00c3\u00a0"
+            "translation": "capacit\u00e0"
         }
     ],
     "breadcrumb": [
@@ -377,7 +377,7 @@
     ],
     "post type": [
         {
-            "comment": "Se \u00c3\u00a8 tecnico lasciare invariato. Declinare al maschile. Se non \u00c3\u00a8 tecnico: tipo di contenuto",
+            "comment": "Se \u00e8 tecnico lasciare invariato. Declinare al maschile. Se non \u00e8 tecnico: tipo di contenuto",
             "pos": "noun",
             "translation": "post type"
         }
@@ -426,7 +426,7 @@
     ],
     "shortcode": [
         {
-            "comment": "Lasciare invariato. maschile",
+            "comment": "Lasciare invariato. Maschile",
             "pos": "noun",
             "translation": "shortcode"
         }
@@ -590,14 +590,14 @@
     ],
     "template": [
         {
-            "comment": "Lasciare invariato. Maschille",
+            "comment": "Lasciare invariato. Maschile",
             "pos": "noun",
             "translation": "template"
         }
     ],
     "uploader": [
         {
-            "comment": "Lasciare invariato. maschile",
+            "comment": "Lasciare invariato. Maschile",
             "pos": "noun",
             "translation": "uploader"
         }
@@ -700,7 +700,7 @@
     ],
     "browser": [
         {
-            "comment": "Lasciare invariato. Mascile",
+            "comment": "Lasciare invariato. Maschile",
             "pos": "noun",
             "translation": "browser"
         }
@@ -754,7 +754,7 @@
     ],
     "feature": [
         {
-            "comment": "In alcuni casi anche funzionalit\u00c3\u00a0",
+            "comment": "In alcuni casi anche funzionalit\u00e0",
             "pos": "noun",
             "translation": "caratteristica"
         }
@@ -935,7 +935,7 @@
     ],
     "screen": [
         {
-            "comment": "Il termine \u00c3\u00a8 a volte usato per intendere una schermata e non lo schermo di un device. \u00c3\u0088 importante quindi notare il contesto in cui si opera la traduzione",
+            "comment": "Il termine \u00e8 a volte usato per intendere una schermata e non lo schermo di un device. \u00c8 importante quindi notare il contesto in cui si opera la traduzione",
             "pos": "noun",
             "translation": "schermo\/schermata"
         },
@@ -961,12 +961,12 @@
     ],
     "editor": [
         {
-            "comment": "Lasciare invariato - Nel senso di strumento: \u00e2\u0080\u009ceditor di testo\u00e2\u0080\u009d. Maschile",
+            "comment": "Lasciare invariato - Nel senso di strumento: \u201ceditor di testo\u201d. Maschile",
             "pos": "noun",
             "translation": "editor"
         },
         {
-            "comment": "Nel senso di ruolo in un sito. Mascile",
+            "comment": "Nel senso di ruolo in un sito. Maschile",
             "pos": "noun",
             "translation": "editore"
         }
@@ -985,7 +985,7 @@
             "translation": "restituire"
         },
         {
-            "comment": "Quando \u00c3\u00a8 usato nel senso di key, lasciare invariato.",
+            "comment": "Quando \u00e8 usato nel senso di key, lasciare invariato.",
             "pos": "noun",
             "translation": "return"
         }
@@ -1027,7 +1027,7 @@
     ],
     "widget": [
         {
-            "comment": "A self-contained area of a web page that performs a specific function. For example, you can use a widget to display your Twitter feed in your site\u00e2\u0080\u0099s sidebar. More info: http:\/\/en.support.wordpress.com\/widgets\/",
+            "comment": "A self-contained area of a web page that performs a specific function. For example, you can use a widget to display your Twitter feed in your site\u2019s sidebar. More info: http:\/\/en.support.wordpress.com\/widgets\/",
             "pos": "noun",
             "translation": "widget"
         }
@@ -1053,7 +1053,7 @@
     ],
     "wapper": [
         {
-            "comment": "Lasciare invariato, maschile. Termine tecnico si usa come nell'es. \"La funzionalit\u00c3\u00a0 \u00c3\u00a8 un wrapper di quella originale\"",
+            "comment": "Lasciare invariato, maschile. Termine tecnico si usa come nell'es. \"La funzionalit\u00e0 \u00e8 un wrapper di quella originale\"",
             "pos": "noun",
             "translation": "wapper"
         }
@@ -1130,7 +1130,7 @@
     ],
     "minify": [
         {
-            "comment": "\u00c3\u00a8 un neologismo, generalmente usato in ambiente di sviluppo. Per approfondimenti: html.it",
+            "comment": "\u00e8 un neologismo, generalmente usato in ambiente di sviluppo. Per approfondimenti: html.it",
             "pos": "verb",
             "translation": "minificare"
         }
@@ -1371,7 +1371,7 @@
     ],
     "about": [
         {
-            "comment": "il termine va contestualizzato a seconda se si tratti di una sezione\/pagina di un tema, oppure altre parti. Nel caso in cui sia una voce del menu nel backend (o una etichetta) che restituisce informazioni sul tema\/plugin (o sul suo autore) si traduce con *Info* o *Informazioni su (plugin\/tema\/autore\/\u00e2\u0080\u00a6)",
+            "comment": "il termine va contestualizzato a seconda se si tratti di una sezione\/pagina di un tema, oppure altre parti. Nel caso in cui sia una voce del menu nel backend (o una etichetta) che restituisce informazioni sul tema\/plugin (o sul suo autore) si traduce con *Info* o *Informazioni su (plugin\/tema\/autore\/\u2026)",
             "pos": "noun",
             "translation": "chi siamo\/sono o Info"
         }
@@ -1439,7 +1439,7 @@
     ],
     "blog": [
         {
-            "comment": "Lasciare invariato. Mascile.In italiano viene persa la s del plurale",
+            "comment": "Lasciare invariato. Maschile. In italiano viene persa la s del plurale",
             "pos": "noun",
             "translation": "blog"
         }
@@ -1591,7 +1591,7 @@
     ],
     "bug": [
         {
-            "comment": "Lasciare invariato. Mascile",
+            "comment": "Lasciare invariato. Maschile",
             "pos": "noun",
             "translation": "bug"
         }

@@ -22,7 +22,7 @@
     ],
     "after the deadline": [
         {
-            "comment": "Nun cambia, Ye'l nome d'una aplicaci\u00c3\u00b3n.",
+            "comment": "Nun cambia, Ye'l nome d'una aplicaci\u00f3n.",
             "pos": "noun",
             "translation": "After the Deadline"
         }
@@ -31,7 +31,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Identid\u00c3\u00a1 del sitiu"
+            "translation": "Identid\u00e1 del sitiu"
         }
     ],
     "bookmarklet": [
@@ -52,19 +52,19 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Xesti\u00c3\u00b3n"
+            "translation": "Xesti\u00f3n"
         }
     ],
     "quickpress": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Publicaci\u00c3\u00b3n r\u00c3\u00a1pida"
+            "translation": "Publicaci\u00f3n r\u00e1pida"
         }
     ],
     "javascript": [
         {
-            "comment": "Nun cambia. Ye'l nome d'una tecnolox\u00c3\u00ada.",
+            "comment": "Nun cambia. Ye'l nome d'una tecnolox\u00eda.",
             "pos": "noun",
             "translation": "Javascript"
         }
@@ -80,14 +80,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "P\u00c3\u00a1xina d'entamu"
+            "translation": "P\u00e1xina d'entamu"
         }
     ],
     "deprecated": [
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "Anticu\u00c3\u00a1u"
+            "translation": "Anticu\u00e1u"
         }
     ],
     "customizer": [
@@ -99,7 +99,7 @@
     ],
     "buddypress": [
         {
-            "comment": "Nun cambia. Ye'l nome d'una aplicaci\u00c3\u00b3n.",
+            "comment": "Nun cambia. Ye'l nome d'una aplicaci\u00f3n.",
             "pos": "noun",
             "translation": "BuddyPress"
         }
@@ -113,7 +113,7 @@
     ],
     "address\/ed": [
         {
-            "comment": "Tien dos significaos, facer dir nuna direici\u00c3\u00b3n y en wordpress tomar las aiciones posibles pa que dalgu o dalguien funcione.",
+            "comment": "Tien dos significaos, facer dir nuna direici\u00f3n y en wordpress tomar las aiciones posibles pa que dalgu o dalguien funcione.",
             "pos": "verb",
             "translation": "Empobinar"
         }
@@ -143,21 +143,21 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Tipu d'art\u00c3\u00adculu"
+            "translation": "Tipu d'art\u00edculu"
         }
     ],
     "activated": [
         {
             "comment": "",
             "pos": "adjetive",
-            "translation": "Activ\u00c3\u00a1u"
+            "translation": "Activ\u00e1u"
         }
     ],
     "logged in": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "Conect\u00c3\u00a1u"
+            "translation": "Conect\u00e1u"
         }
     ],
     "shortcode": [
@@ -227,35 +227,35 @@
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "Xub\u00c3\u00adu"
+            "translation": "Xub\u00edu"
         }
     ],
     "autosave": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Autoguard\u00c3\u00a1u"
+            "translation": "Autoguard\u00e1u"
         }
     ],
     "built-in": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "Incorpor\u00c3\u00a1u"
+            "translation": "Incorpor\u00e1u"
         }
     ],
     "category": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Categor\u00c3\u00ada"
+            "translation": "Categor\u00eda"
         }
     ],
     "template": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Plant\u00c3\u00ada"
+            "translation": "Plant\u00eda"
         }
     ],
     "comment": [
@@ -295,7 +295,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Llibrer\u00c3\u00ada"
+            "translation": "Llibrer\u00eda"
         }
     ],
     "account": [
@@ -316,7 +316,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Direici\u00c3\u00b3n"
+            "translation": "Direici\u00f3n"
         }
     ],
     "release": [
@@ -330,49 +330,49 @@
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "Nun val, Nun ye v\u00c3\u00a1lidu"
+            "translation": "Nun val, Nun ye v\u00e1lidu"
         }
     ],
     "removed": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "Desanici\u00c3\u00a1u"
+            "translation": "Desanici\u00e1u"
         }
     ],
     "updated": [
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "Anov\u00c3\u00a1u"
+            "translation": "Anov\u00e1u"
         }
     ],
     "enabled": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "Activ\u00c3\u00a1u"
+            "translation": "Activ\u00e1u"
         }
     ],
     "gallery": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Galer\u00c3\u00ada"
+            "translation": "Galer\u00eda"
         }
     ],
     "embeded": [
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "Inxert\u00c3\u00a1u"
+            "translation": "Inxert\u00e1u"
         }
     ],
     "content": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Conten\u00c3\u00adu"
+            "translation": "Conten\u00edu"
         }
     ],
     "bitrate": [
@@ -405,7 +405,7 @@
     ],
     "sticky": [
         {
-            "comment": "Nel casu de \"Sticky Post\" sedr\u00c3\u00ada Art\u00c3\u00adculu fixu.",
+            "comment": "Nel casu de \"Sticky Post\" sedr\u00eda Art\u00edculu fixu.",
             "pos": "adjective",
             "translation": "Fixu"
         }
@@ -480,7 +480,7 @@
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "Hered\u00c3\u00a1u"
+            "translation": "Hered\u00e1u"
         }
     ],
     "pixels": [
@@ -536,14 +536,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Pie de p\u00c3\u00a1xina"
+            "translation": "Pie de p\u00e1xina"
         }
     ],
     "sorry": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Si\u00c3\u00a9ntolo"
+            "translation": "Si\u00e9ntolo"
         }
     ],
     "embed": [
@@ -557,7 +557,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Corr\u00c3\u00a9u electr\u00c3\u00b3nicu"
+            "translation": "Corr\u00e9u electr\u00f3nicu"
         }
     ],
     "tools": [
@@ -576,7 +576,7 @@
     ],
     "theme": [
         {
-            "comment": "Tocante a WordPress, un theme nun tien el signific\u00c3\u00a1u asturianu de \"asuntu\". N'esti casu ye meyor falar d'Estilu que ye m\u00c3\u00a1s afayadizu, y\u00c3\u00a1 que se refier a la parte visual y forma de facer les coses del sitiu,",
+            "comment": "Tocante a WordPress, un theme nun tien el signific\u00e1u asturianu de \"asuntu\". N'esti casu ye meyor falar d'Estilu que ye m\u00e1s afayadizu, y\u00e1 que se refier a la parte visual y forma de facer les coses del sitiu,",
             "pos": "noun",
             "translation": "Estilu"
         }
@@ -618,7 +618,7 @@
     ],
     "about": [
         {
-            "comment": "La preferencia ye \"tocante a\" cuando se refier a los creadores d'una aplicaci\u00c3\u00b3n o al so funcianomaientu. Pero depende del casu a veces podr\u00c3\u00a1se poner \"en rellaci\u00c3\u00b3n a esi tema\" o \"sobre l'autor \"",
+            "comment": "La preferencia ye \"tocante a\" cuando se refier a los creadores d'una aplicaci\u00f3n o al so funcianomaientu. Pero depende del casu a veces podr\u00e1se poner \"en rellaci\u00f3n a esi tema\" o \"sobre l'autor \"",
             "pos": "adverb",
             "translation": "Tocante a"
         }
@@ -634,14 +634,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Art\u00c3\u00adculos"
+            "translation": "Art\u00edculos"
         }
     ],
     "scope": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Estensi\u00c3\u00b3n"
+            "translation": "Estensi\u00f3n"
         }
     ],
     "howdy": [
@@ -669,7 +669,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "Aniciar sesi\u00c3\u00b3n"
+            "translation": "Aniciar sesi\u00f3n"
         }
     ],
     "query": [
@@ -690,12 +690,12 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Art\u00c3\u00adculu"
+            "translation": "Art\u00edculu"
         }
     ],
     "ajax": [
         {
-            "comment": "Nun cambia. Ye'l nome d'una tecnolox\u00c3\u00ada.",
+            "comment": "Nun cambia. Ye'l nome d'una tecnolox\u00eda.",
             "pos": "noun",
             "translation": "Ajax"
         }
@@ -704,7 +704,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "P\u00c3\u00a1xina"
+            "translation": "P\u00e1xina"
         }
     ],
     "next": [
@@ -772,7 +772,7 @@
     ],
     "add": [
         {
-            "comment": "Ta perus\u00c3\u00a1u n'otres aplicaciones, as\u00c3\u00ad ye prefer\u00c3\u00adu usalu tami\u00c3\u00a9n. Nun usar \"a\u00c3\u00b1edir\" pa qu'haya concordancia.",
+            "comment": "Ta perus\u00e1u n'otres aplicaciones, as\u00ed ye prefer\u00edu usalu tami\u00e9n. Nun usar \"a\u00f1edir\" pa qu'haya concordancia.",
             "pos": "verb",
             "translation": "Amestar"
         }

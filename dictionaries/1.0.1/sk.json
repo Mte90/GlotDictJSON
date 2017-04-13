@@ -3,21 +3,21 @@
         {
             "comment": "",
             "pos": "expression",
-            "translation": "pridajte koment\u00c3\u00a1r"
+            "translation": "pridajte koment\u00e1r"
         }
     ],
     "administrator": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "administr\u00c3\u00a1tor"
+            "translation": "administr\u00e1tor"
         }
     ],
     "network admin": [
         {
             "comment": "",
             "pos": "expression",
-            "translation": "administr\u00c3\u00a1cia siete"
+            "translation": "administr\u00e1cia siete"
         }
     ],
     "bookmarklet": [
@@ -38,7 +38,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "str\u00c3\u00a1nkovanie"
+            "translation": "str\u00e1nkovanie"
         }
     ],
     "buddypress": [
@@ -50,7 +50,7 @@
     ],
     "wordpress": [
         {
-            "comment": "Nesklo\u00c5\u0088ova\u00c5\u00a5! Pozor na ve\u00c4\u00bek\u00c3\u00a9 W a P.",
+            "comment": "Nesklo\u0148ova\u0165! Pozor na ve\u013ek\u00e9 W a P.",
             "pos": "noun",
             "translation": "WordPress"
         }
@@ -59,7 +59,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "trval\u00c3\u00bd odkaz"
+            "translation": "trval\u00fd odkaz"
         }
     ],
     "post type": [
@@ -73,49 +73,49 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "n\u00c3\u00a1stenka"
+            "translation": "n\u00e1stenka"
         }
     ],
     "username": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "pou\u00c5\u00be\u00c3\u00advate\u00c4\u00besk\u00c3\u00a9 meno"
+            "translation": "pou\u017e\u00edvate\u013esk\u00e9 meno"
         }
     ],
     "category": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "kateg\u00c3\u00b3ria"
+            "translation": "kateg\u00f3ria"
         }
     ],
     "website": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "webov\u00c3\u00a1 str\u00c3\u00a1nka"
+            "translation": "webov\u00e1 str\u00e1nka"
         }
     ],
     "toolbar": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "panel n\u00c3\u00a1strojov"
+            "translation": "panel n\u00e1strojov"
         }
     ],
     "comment": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "koment\u00c3\u00a1r"
+            "translation": "koment\u00e1r"
         }
     ],
     "network": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "sie\u00c5\u00a5"
+            "translation": "sie\u0165"
         }
     ],
     "widget": [
@@ -127,14 +127,14 @@
     ],
     "custom": [
         {
-            "comment": "vlastn\u00c3\u00a9 polia, vlastn\u00c3\u00bd typ obsahu a pod.",
+            "comment": "vlastn\u00e9 polia, vlastn\u00fd typ obsahu a pod.",
             "pos": "adjective",
-            "translation": "vlastn\u00c3\u00a9"
+            "translation": "vlastn\u00e9"
         }
     ],
     "plugin": [
         {
-            "comment": "sklo\u00c5\u0088uje sa",
+            "comment": "sklo\u0148uje sa",
             "pos": "noun",
             "translation": "plugin"
         }
@@ -143,28 +143,28 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "tla\u00c4\u008didlo"
+            "translation": "tla\u010didlo"
         }
     ],
     "latest": [
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "najnov\u00c5\u00a1ie"
+            "translation": "najnov\u0161ie"
         }
     ],
     "folder": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "prie\u00c4\u008dinok"
+            "translation": "prie\u010dinok"
         }
     ],
     "theme": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "t\u00c3\u00a9ma"
+            "translation": "t\u00e9ma"
         }
     ],
     "email": [
@@ -183,23 +183,23 @@
     ],
     "page": [
         {
-            "comment": "Vo v\u00c3\u00bdzname str\u00c3\u00a1nka na webovej str\u00c3\u00a1nke",
+            "comment": "Vo v\u00fdzname str\u00e1nka na webovej str\u00e1nke",
             "pos": "noun",
-            "translation": "str\u00c3\u00a1nka"
+            "translation": "str\u00e1nka"
         }
     ],
     "menu": [
         {
-            "comment": "aj v mno\u00c5\u00benom \u00c4\u008d\u00c3\u00adsle, napr. \"3 menu\"",
+            "comment": "aj v mno\u017enom \u010d\u00edsle, napr. \"3 menu\"",
             "pos": "noun",
             "translation": "menu"
         }
     ],
     "site": [
         {
-            "comment": "nepou\u00c5\u00be\u00c3\u00adva\u00c5\u00a5 skr\u00c3\u00a1ten\u00c3\u00bd v\u00c3\u00bdraz v tvare \"str\u00c3\u00a1nka\"",
+            "comment": "nepou\u017e\u00edva\u0165 skr\u00e1ten\u00fd v\u00fdraz v tvare \"str\u00e1nka\"",
             "pos": "noun",
-            "translation": "webov\u00c3\u00a1 str\u00c3\u00a1nka"
+            "translation": "webov\u00e1 str\u00e1nka"
         }
     ],
     "slug": [
@@ -220,28 +220,28 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "v\u00c3\u00bdraz"
+            "translation": "v\u00fdraz"
         }
     ],
     "user": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "pou\u00c5\u00be\u00c3\u00advate\u00c4\u00be"
+            "translation": "pou\u017e\u00edvate\u013e"
         }
     ],
     "post": [
         {
-            "comment": "pozor: \"post type\" m\u00c3\u00a1 in\u00c3\u00bd preklad",
+            "comment": "pozor: \"post type\" m\u00e1 in\u00fd preklad",
             "pos": "noun",
-            "translation": "\u00c4\u008dl\u00c3\u00a1nok"
+            "translation": "\u010dl\u00e1nok"
         }
     ],
     "tag": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "zna\u00c4\u008dka"
+            "translation": "zna\u010dka"
         }
     ]
 }

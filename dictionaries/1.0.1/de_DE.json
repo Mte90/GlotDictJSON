@@ -290,7 +290,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "R\u00c3\u00bcckgabewert"
+            "translation": "R\u00fcckgabewert"
         }
     ],
     "self-hosted": [
@@ -339,7 +339,7 @@
         {
             "comment": "Widget",
             "pos": "noun",
-            "translation": "Individuelles Men\u00c3\u00bc"
+            "translation": "Individuelles Men\u00fc"
         }
     ],
     "post status": [
@@ -528,7 +528,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "\u00c3\u00a4lterer Beitrag"
+            "translation": "\u00e4lterer Beitrag"
         }
     ],
     "pagination": [
@@ -554,7 +554,7 @@
     ],
     "permalink": [
         {
-            "comment": "Kurzform f\u00c3\u00bcr \"Permanent\" und \"Hyperlink\".",
+            "comment": "Kurzform f\u00fcr \"Permanent\" und \"Hyperlink\".",
             "pos": "noun",
             "translation": "Permalink"
         }
@@ -577,7 +577,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "n\u00c3\u00a4chster Beitrag"
+            "translation": "n\u00e4chster Beitrag"
         }
     ],
     "polldaddy": [
@@ -624,7 +624,7 @@
     ],
     "front end": [
         {
-            "comment": "Die Bindestriche am Ende kommen daher, weil damit zusammengesetzte W\u00c3\u00b6rter gemeint sind. \u00e2\u0080\u009efront end output\u00e2\u0080\u009c w\u00c3\u00a4re dann also zum Beispiel \u00e2\u0080\u009eFrontend-Ausgabe\u00e2\u0080\u009c.",
+            "comment": "Die Bindestriche am Ende kommen daher, weil damit zusammengesetzte W\u00f6rter gemeint sind. \u201efront end output\u201c w\u00e4re dann also zum Beispiel \u201eFrontend-Ausgabe\u201c.",
             "pos": "adjective",
             "translation": "Frontend-"
         },
@@ -888,7 +888,7 @@
     ],
     "english": [
         {
-            "comment": "As abbreviation please use \u00e2\u0080\u009eengl.\u00e2\u0080\u009c.",
+            "comment": "As abbreviation please use \u201eengl.\u201c.",
             "pos": "adjective",
             "translation": "englisch"
         }
@@ -923,7 +923,7 @@
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "ung\u00c3\u00bcltig"
+            "translation": "ung\u00fcltig"
         }
     ],
     "log out": [
@@ -1052,7 +1052,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Bin\u00c3\u00a4r-"
+            "translation": "Bin\u00e4r-"
         }
     ],
     "author": [
@@ -1211,7 +1211,7 @@
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "g\u00c3\u00bcltig"
+            "translation": "g\u00fcltig"
         }
     ],
     "likes": [
@@ -1342,7 +1342,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Schlagw\u00c3\u00b6rter"
+            "translation": "Schlagw\u00f6rter"
         }
     ],
     "tabs": [
@@ -1382,7 +1382,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "Beitrag ver\u00c3\u00b6ffentlichen"
+            "translation": "Beitrag ver\u00f6ffentlichen"
         }
     ],
     "url": [

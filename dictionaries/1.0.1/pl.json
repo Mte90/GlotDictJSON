@@ -17,7 +17,7 @@
         {
             "comment": "",
             "pos": "expression",
-            "translation": "Kliknij \u00e2\u0080\u009eAnuluj\u00e2\u0080\u009d, aby anulowa\u00c4\u0087 t\u00c4\u0099 operacj\u00c4\u0099, lub \u00e2\u0080\u009eOK\u00e2\u0080\u009d, aby j\u00c4\u0085 sfinalizowa\u00c4\u0087."
+            "translation": "Kliknij \u201eAnuluj\u201d, aby anulowa\u0107 t\u0119 operacj\u0119, lub \u201eOK\u201d, aby j\u0105 sfinalizowa\u0107."
         }
     ],
     "contributing to wordpress": [
@@ -31,28 +31,28 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "wydanie z poprawkami b\u00c5\u0082\u00c4\u0099d\u00c3\u00b3w"
+            "translation": "wydanie z poprawkami b\u0142\u0119d\u00f3w"
         }
     ],
     "security release": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "wydanie z poprawkami b\u00c5\u0082\u00c4\u0099d\u00c3\u00b3w w zabezpieczeniach"
+            "translation": "wydanie z poprawkami b\u0142\u0119d\u00f3w w zabezpieczeniach"
         }
     ],
     "persistent cache": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "trwa\u00c5\u0082a pami\u00c4\u0099\u00c4\u0087 podr\u00c4\u0099czna"
+            "translation": "trwa\u0142a pami\u0119\u0107 podr\u0119czna"
         }
     ],
     "pass as argument": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "podawa\u00c4\u0087 jako argument (funkcji)"
+            "translation": "podawa\u0107 jako argument (funkcji)"
         }
     ],
     "for the resource": [
@@ -80,7 +80,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "oczekiwa\u00c4\u0087 na moderacj\u00c4\u0099"
+            "translation": "oczekiwa\u0107 na moderacj\u0119"
         }
     ],
     "text direction": [
@@ -94,35 +94,35 @@
         {
             "comment": "",
             "pos": "expression",
-            "translation": "wyr\u00c3\u00b3\u00c5\u00bcniaj\u00c4\u0085cy plik medialny"
+            "translation": "wyr\u00f3\u017cniaj\u0105cy plik medialny"
         }
     ],
     "featured image": [
         {
             "comment": "",
             "pos": "expression",
-            "translation": "obrazek wyr\u00c3\u00b3\u00c5\u00bcniaj\u00c4\u0085cy"
+            "translation": "obrazek wyr\u00f3\u017cniaj\u0105cy"
         }
     ],
     "media library": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "biblioteka medi\u00c3\u00b3w"
+            "translation": "biblioteka medi\u00f3w"
         }
     ],
     "parent theme": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "motyw nadrz\u00c4\u0099dny"
+            "translation": "motyw nadrz\u0119dny"
         }
     ],
     "the resource": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "zas\u00c3\u00b3b"
+            "translation": "zas\u00f3b"
         }
     ],
     "post format": [
@@ -143,28 +143,28 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "strona g\u00c5\u0082\u00c3\u00b3wna"
+            "translation": "strona g\u0142\u00f3wna"
         }
     ],
     "compatible": [
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "zgodny [mo\u00c5\u00bce by\u00c4\u0087 te\u00c5\u00bc \"kompatybilny\"]"
+            "translation": "zgodny [mo\u017ce by\u0107 te\u017c \"kompatybilny\"]"
         }
     ],
     "stylesheet": [
         {
             "comment": "(nie stylu)",
             "pos": "noun",
-            "translation": "arkusz styl\u00c3\u00b3w"
+            "translation": "arkusz styl\u00f3w"
         }
     ],
     "deprecated": [
         {
-            "comment": "is deprecated - jest przestarza\u00c5\u0082\u00c4\u0085 praktyk\u00c4\u0085",
+            "comment": "is deprecated - jest przestarza\u0142\u0105 praktyk\u0105",
             "pos": "verb",
-            "translation": "przestarza\u00c5\u0082y"
+            "translation": "przestarza\u0142y"
         }
     ],
     "protected": [
@@ -178,7 +178,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "bezpo\u00c5\u009bredni odno\u00c5\u009bnik"
+            "translation": "bezpo\u015bredni odno\u015bnik"
         }
     ],
     "thumbnail": [
@@ -190,9 +190,9 @@
     ],
     "post type": [
         {
-            "comment": "stare, nieaktualne t\u00c5\u0082umaczenie: typ wpisu",
+            "comment": "stare, nieaktualne t\u0142umaczenie: typ wpisu",
             "pos": "noun",
-            "translation": "typ tre\u00c5\u009bci"
+            "translation": "typ tre\u015bci"
         }
     ],
     "changeset": [
@@ -227,14 +227,14 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "nie mo\u00c5\u00bcna by\u00c5\u0082o"
+            "translation": "nie mo\u017cna by\u0142o"
         }
     ],
     "involved": [
         {
-            "comment": "get involved = we\u00c5\u00ba udzia\u00c5\u0082",
+            "comment": "get involved = we\u017a udzia\u0142",
             "pos": "verb",
-            "translation": "bior\u00c4\u0085cy udzia\u00c5\u0082"
+            "translation": "bior\u0105cy udzia\u0142"
         }
     ],
     "importer": [
@@ -248,12 +248,12 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "w\u00c5\u0082\u00c4\u0085cz"
+            "translation": "w\u0142\u0105cz"
         },
         {
-            "comment": "raczej unikajmy s\u00c5\u0082owa \"aktywowa\u00c4\u0087\"; u\u00c5\u00bcywamy go tylko w kontek\u00c5\u009bcie aktywacji konta, w innych przypadkach piszmy \"w\u00c5\u0082\u00c4\u0085cza\u00c4\u0087\"",
+            "comment": "raczej unikajmy s\u0142owa \"aktywowa\u0107\"; u\u017cywamy go tylko w kontek\u015bcie aktywacji konta, w innych przypadkach piszmy \"w\u0142\u0105cza\u0107\"",
             "pos": "verb",
-            "translation": "w\u00c5\u0082\u00c4\u0085cza\u00c4\u0087"
+            "translation": "w\u0142\u0105cza\u0107"
         }
     ],
     "subclass": [
@@ -309,7 +309,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "mie\u00c4\u0087 wp\u00c5\u0082yw"
+            "translation": "mie\u0107 wp\u0142yw"
         }
     ],
     "caption": [
@@ -349,12 +349,12 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "wspiera\u00c4\u0087"
+            "translation": "wspiera\u0107"
         },
         {
             "comment": "",
             "pos": "verb",
-            "translation": "obs\u00c5\u0082ugiwa\u00c4\u0087"
+            "translation": "obs\u0142ugiwa\u0107"
         }
     ],
     "current": [
@@ -364,9 +364,9 @@
             "translation": "obecny, aktualny"
         },
         {
-            "comment": "[je\u00c5\u009bli w kontek\u00c5\u009bcie \"w\u00c5\u0082\u00c4\u0085czony\"]",
+            "comment": "[je\u015bli w kontek\u015bcie \"w\u0142\u0105czony\"]",
             "pos": "noun",
-            "translation": "u\u00c5\u00bcywany"
+            "translation": "u\u017cywany"
         }
     ],
     "credits": [
@@ -380,14 +380,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "tre\u00c5\u009b\u00c4\u0087"
+            "translation": "tre\u015b\u0107"
         }
     ],
     "preview": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "podgl\u00c4\u0085d"
+            "translation": "podgl\u0105d"
         },
         {
             "comment": "",
@@ -413,14 +413,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "przypi\u00c4\u0099ty"
+            "translation": "przypi\u0119ty"
         }
     ],
     "remove": [
         {
-            "comment": "kiedy ju\u00c5\u00bc naprawd\u00c4\u0099 nie da si\u00c4\u0099 inaczej, mo\u00c5\u00bce by\u00c4\u0087 i \"kasowa\u00c4\u0087\" :)",
+            "comment": "kiedy ju\u017c naprawd\u0119 nie da si\u0119 inaczej, mo\u017ce by\u0107 i \"kasowa\u0107\" :)",
             "pos": "verb",
-            "translation": "usuwa\u00c4\u0087"
+            "translation": "usuwa\u0107"
         }
     ],
     "locale": [
@@ -432,7 +432,7 @@
     ],
     "rating": [
         {
-            "comment": "klasyfikacja, je\u00c5\u009bli np. jakich\u00c5\u009b tre\u00c5\u009bci, kt\u00c3\u00b3re mog\u00c4\u0085 by\u00c4\u0087 nieodpowiednie; ocena, je\u00c5\u009bli czego\u00c5\u009b, czemu np. przyznaje si\u00c4\u0099 ile\u00c5\u009b gwiazdek",
+            "comment": "klasyfikacja, je\u015bli np. jakich\u015b tre\u015bci, kt\u00f3re mog\u0105 by\u0107 nieodpowiednie; ocena, je\u015bli czego\u015b, czemu np. przyznaje si\u0119 ile\u015b gwiazdek",
             "pos": "noun",
             "translation": "ocena"
         }
@@ -448,7 +448,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "usuwa\u00c4\u0087"
+            "translation": "usuwa\u0107"
         }
     ],
     "plugin": [
@@ -462,21 +462,21 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "uk\u00c5\u0082ad"
+            "translation": "uk\u0142ad"
         }
     ],
     "enable": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "w\u00c5\u0082\u00c4\u0085cz"
+            "translation": "w\u0142\u0105cz"
         }
     ],
     "log in": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "logowa\u00c4\u0087 si\u00c4\u0099"
+            "translation": "logowa\u0107 si\u0119"
         }
     ],
     "anchor": [
@@ -490,14 +490,14 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "mie\u00c4\u0087 wp\u00c5\u0082yw"
+            "translation": "mie\u0107 wp\u0142yw"
         }
     ],
     "visit": [
         {
-            "comment": "np. przejd\u00c5\u00ba na witryn\u00c4\u0099 [WordPress cz\u00c4\u0099sto zach\u00c4\u0099ca do \"odwiedzenia\" w\u00c5\u0082asnej witryny po wprowadzeniu na niej jakich\u00c5\u009b zmian, ale odwiedziny sk\u00c5\u0082ada si\u00c4\u0099 raczej komu\u00c5\u009b innemu, dlatego wyj\u00c4\u0085tkowo \"przejd\u00c5\u00ba\", je\u00c5\u009bli chodzi o nasz\u00c4\u0085 witryn\u00c4\u0099]",
+            "comment": "np. przejd\u017a na witryn\u0119 [WordPress cz\u0119sto zach\u0119ca do \"odwiedzenia\" w\u0142asnej witryny po wprowadzeniu na niej jakich\u015b zmian, ale odwiedziny sk\u0142ada si\u0119 raczej komu\u015b innemu, dlatego wyj\u0105tkowo \"przejd\u017a\", je\u015bli chodzi o nasz\u0105 witryn\u0119]",
             "pos": "verb",
-            "translation": "przejd\u00c5\u00ba na"
+            "translation": "przejd\u017a na"
         }
     ],
     "video": [
@@ -516,14 +516,14 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "przenosi\u00c4\u0087 do kosza"
+            "translation": "przenosi\u0107 do kosza"
         }
     ],
     "cache": [
         {
             "comment": "(wymowa: kesz)",
             "pos": "noun",
-            "translation": "pami\u00c4\u0099\u00c4\u0087 podr\u00c4\u0099czna"
+            "translation": "pami\u0119\u0107 podr\u0119czna"
         }
     ],
     "theme": [
@@ -535,7 +535,7 @@
     ],
     "panel": [
         {
-            "comment": "je\u00c5\u009bli w sensie \"ekran\", to \"ekran\", w przeciwnym razie \"panel\"",
+            "comment": "je\u015bli w sensie \"ekran\", to \"ekran\", w przeciwnym razie \"panel\"",
             "pos": "noun",
             "translation": "panel"
         }
@@ -544,7 +544,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "osadza\u00c4\u0087"
+            "translation": "osadza\u0107"
         }
     ],
     "image": [
@@ -556,7 +556,7 @@
     ],
     "blog": [
         {
-            "comment": "dope\u00c5\u0082niacz: blogu",
+            "comment": "dope\u0142niacz: blogu",
             "pos": "noun",
             "translation": "blog"
         }
@@ -565,12 +565,12 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "wczytywa\u00c4\u0087"
+            "translation": "wczytywa\u0107"
         }
     ],
     "core": [
         {
-            "comment": "[chodzi o kod samego WordPressa, a nie o zesp\u00c3\u00b3\u00c5\u0082 tworz\u00c4\u0085cy; dla przyk\u00c5\u0082adu core developer - programista, kt\u00c3\u00b3ry pisze kod \"core\", czyli po prostu WordPressa]",
+            "comment": "[chodzi o kod samego WordPressa, a nie o zesp\u00f3\u0142 tworz\u0105cy; dla przyk\u0142adu core developer - programista, kt\u00f3ry pisze kod \"core\", czyli po prostu WordPressa]",
             "pos": "noun",
             "translation": ""
         }
@@ -584,7 +584,7 @@
     ],
     "slug": [
         {
-            "comment": "uproszczona nazwa czego\u00c5\u009b, np. post slug to uproszczona nazwa wpisu u\u00c5\u00bcywana w odno\u00c5\u009bnikach",
+            "comment": "uproszczona nazwa czego\u015b, np. post slug to uproszczona nazwa wpisu u\u017cywana w odno\u015bnikach",
             "pos": "noun",
             "translation": "uproszczona nazwa"
         }
@@ -607,7 +607,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "odno\u00c5\u009bnik"
+            "translation": "odno\u015bnik"
         }
     ],
     "term": [

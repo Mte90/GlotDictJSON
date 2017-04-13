@@ -73,7 +73,7 @@
         {
             "comment": "",
             "pos": "",
-            "translation": "cuando se haga la acci\u00c3\u00b3n de acceder  al pulsarlo."
+            "translation": "cuando se haga la acci\u00f3n de acceder  al pulsarlo."
         }
     ],
     "identificarse (incorrecto)\"": [
@@ -127,7 +127,7 @@
     ],
     "powered by wordpress": [
         {
-            "comment": "Traducci\u00c3\u00b3n actual.",
+            "comment": "Traducci\u00f3n actual.",
             "pos": "expression",
             "translation": "Funciona gracias a WordPress"
         }
@@ -178,7 +178,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "p\u00c3\u00a1gina de inicio est\u00c3\u00a1tica"
+            "translation": "p\u00e1gina de inicio est\u00e1tica"
         }
     ],
     "sobre el autor\"\"\"": [
@@ -190,7 +190,7 @@
     ],
     "custom post type": [
         {
-            "comment": "Decidido por votaci\u00c3\u00b3n popular aqu\u00c3\u00ad:",
+            "comment": "Decidido por votaci\u00f3n popular aqu\u00ed:",
             "pos": "noun",
             "translation": "Tipo de contenido personalizado"
         }
@@ -206,7 +206,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Identificaci\u00c3\u00b3n"
+            "translation": "Identificaci\u00f3n"
         }
     ],
     "excluding tax": [
@@ -218,7 +218,7 @@
     ],
     "site identity": [
         {
-            "comment": "Secci\u00c3\u00b3n del Personalizador",
+            "comment": "Secci\u00f3n del Personalizador",
             "pos": "noun",
             "translation": "Identidad del sitio"
         }
@@ -227,7 +227,7 @@
         {
             "comment": "",
             "pos": "adverb",
-            "translation": "con \u00c3\u00a9xito"
+            "translation": "con \u00e9xito"
         }
     ],
     "no utilizar:": [
@@ -255,7 +255,7 @@
         {
             "comment": "Mejor que \"testimonio\"",
             "pos": "noun",
-            "translation": "Recomendaci\u00c3\u00b3n"
+            "translation": "Recomendaci\u00f3n"
         }
     ],
     "contributor": [
@@ -283,7 +283,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Publicaci\u00c3\u00b3n r\u00c3\u00a1pida"
+            "translation": "Publicaci\u00f3n r\u00e1pida"
         }
     ],
     "responsive": [
@@ -325,14 +325,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "P\u00c3\u00a1gina de inicio"
+            "translation": "P\u00e1gina de inicio"
         }
     ],
     "management": [
         {
-            "comment": "No utilzar: Administraci\u00c3\u00b3n (Incorrecto)",
+            "comment": "No utilzar: Administraci\u00f3n (Incorrecto)",
             "pos": "noun",
-            "translation": "Gesti\u00c3\u00b3n"
+            "translation": "Gesti\u00f3n"
         }
     ],
     "address\/ed": [
@@ -365,7 +365,7 @@
     ],
     "unapproved": [
         {
-            "comment": "Se refiere a un comentario o mensaje que, a pesar de haber sido aprobado previamente, se considera que no deber\u00c3\u00ada estarlo y se pasa a no aprobado.",
+            "comment": "Se refiere a un comentario o mensaje que, a pesar de haber sido aprobado previamente, se considera que no deber\u00eda estarlo y se pasa a no aprobado.",
             "pos": "adjective",
             "translation": "Desaprobado"
         }
@@ -442,7 +442,7 @@
     ],
     "post type": [
         {
-            "comment": "Hay varios tipos de contenido (entradas, p\u00c3\u00a1ginas, etc)",
+            "comment": "Hay varios tipos de contenido (entradas, p\u00e1ginas, etc)",
             "pos": "noun",
             "translation": "Tipo de contenido"
         }
@@ -484,7 +484,7 @@
     ],
     "checkout": [
         {
-            "comment": "Cuando se refiere a la p\u00c3\u00a1gina de pagos es Finalizar compra, sino traducir como pago\/s, por ejemplo \"El cliente procede al pago\"",
+            "comment": "Cuando se refiere a la p\u00e1gina de pagos es Finalizar compra, sino traducir como pago\/s, por ejemplo \"El cliente procede al pago\"",
             "pos": "noun",
             "translation": "finalizar compra \/ pago"
         }
@@ -498,7 +498,7 @@
     ],
     "lightbox": [
         {
-            "comment": "El efecto emergente al  hacer clic en im\u00c3\u00a1genes con fondo opaco",
+            "comment": "El efecto emergente al  hacer clic en im\u00e1genes con fondo opaco",
             "pos": "noun",
             "translation": "mesa de luz"
         }
@@ -507,7 +507,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "P\u00c3\u00a1gina de inicio"
+            "translation": "P\u00e1gina de inicio"
         }
     ],
     "username": [
@@ -521,7 +521,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Categor\u00c3\u00ada"
+            "translation": "Categor\u00eda"
         }
     ],
     "shortcut": [
@@ -619,12 +619,12 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Taxonom\u00c3\u00ada"
+            "translation": "Taxonom\u00eda"
         }
     ],
     "endpoint": [
         {
-            "comment": "En WooCommerce de refiere a slugs de la URL para diferentes situaciones en el proceso de compra. En el resto de situaciones a variables de programaci\u00c3\u00b3n.",
+            "comment": "En WooCommerce de refiere a slugs de la URL para diferentes situaciones en el proceso de compra. En el resto de situaciones a variables de programaci\u00f3n.",
             "pos": "noun",
             "translation": "variable"
         }
@@ -640,7 +640,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "env\u00c3\u00ado"
+            "translation": "env\u00edo"
         }
     ],
     "rss feed": [
@@ -659,7 +659,7 @@
     ],
     "masonry": [
         {
-            "comment": "Los dise\u00c3\u00b1os masonry son aquellos que simulan un muro de ladrillos que encajan unos sobre otros.",
+            "comment": "Los dise\u00f1os masonry son aquellos que simulan un muro de ladrillos que encajan unos sobre otros.",
             "pos": "adjective",
             "translation": "Muro"
         }
@@ -710,7 +710,7 @@
         {
             "comment": "No confudir con Released --> Lanzamiento",
             "pos": "noun",
-            "translation": "Versi\u00c3\u00b3n"
+            "translation": "Versi\u00f3n"
         }
     ],
     "warning": [
@@ -729,7 +729,7 @@
     ],
     "library": [
         {
-            "comment": "No usar librer\u00c3\u00ada, que solo se refiere a libros",
+            "comment": "No usar librer\u00eda, que solo se refiere a libros",
             "pos": "noun",
             "translation": "Biblioteca"
         }
@@ -752,14 +752,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "administraci\u00c3\u00b3n \/ escritorio"
+            "translation": "administraci\u00f3n \/ escritorio"
         }
     ],
     "billing": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "facturaci\u00c3\u00b3n"
+            "translation": "facturaci\u00f3n"
         }
     ],
     "bitrate": [
@@ -778,7 +778,7 @@
     ],
     "caption": [
         {
-            "comment": "Es el texto conocido como pi\u00c3\u00a9 de foto",
+            "comment": "Es el texto conocido como pi\u00e9 de foto",
             "pos": "noun",
             "translation": "leyenda"
         }
@@ -841,7 +841,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Galer\u00c3\u00ada"
+            "translation": "Galer\u00eda"
         }
     ],
     "default": [
@@ -867,16 +867,16 @@
     ],
     "invalid": [
         {
-            "comment": "No utilizar: Inv\u00c3\u00a1lido (Incorrecto).",
+            "comment": "No utilizar: Inv\u00e1lido (Incorrecto).",
             "pos": "noun",
-            "translation": "No v\u00c3\u00a1lido\/a"
+            "translation": "No v\u00e1lido\/a"
         }
     ],
     "hotkeys": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "teclas r\u00c3\u00a1pidas"
+            "translation": "teclas r\u00e1pidas"
         }
     ],
     "screen": [
@@ -911,7 +911,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Dise\u00c3\u00b1o"
+            "translation": "Dise\u00f1o"
         }
     ],
     "unable": [
@@ -930,16 +930,16 @@
     ],
     "rating": [
         {
-            "comment": "Usar 'valoraci\u00c3\u00b3n' en el directorio de plugins y temas. Usar 'puntuaci\u00c3\u00b3n' en el resto de situaciones",
+            "comment": "Usar 'valoraci\u00f3n' en el directorio de plugins y temas. Usar 'puntuaci\u00f3n' en el resto de situaciones",
             "pos": "noun",
-            "translation": "valoraci\u00c3\u00b3n \/ puntuaci\u00c3\u00b3n"
+            "translation": "valoraci\u00f3n \/ puntuaci\u00f3n"
         }
     ],
     "e-mail": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "correo electr\u00c3\u00b3nico"
+            "translation": "correo electr\u00f3nico"
         }
     ],
     "inline": [
@@ -958,9 +958,9 @@
     ],
     "review": [
         {
-            "comment": "Depende del contexto se usa rese\u00c3\u00b1a (foros) o valoraci\u00c3\u00b3n (directorio de plugins y temas)",
+            "comment": "Depende del contexto se usa rese\u00f1a (foros) o valoraci\u00f3n (directorio de plugins y temas)",
             "pos": "noun",
-            "translation": "rese\u00c3\u00b1a \/ valoraci\u00c3\u00b3n"
+            "translation": "rese\u00f1a \/ valoraci\u00f3n"
         }
     ],
     "cookie": [
@@ -974,7 +974,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Actualizaci\u00c3\u00b3n"
+            "translation": "Actualizaci\u00f3n"
         },
         {
             "comment": "",
@@ -1057,7 +1057,7 @@
     ],
     "branch": [
         {
-            "comment": "Usar 'sucursal' en relaci\u00c3\u00b3n a comercio electr\u00c3\u00b3nico. Usar 'rama' para las versiones mayores de WordPress",
+            "comment": "Usar 'sucursal' en relaci\u00f3n a comercio electr\u00f3nico. Usar 'rama' para las versiones mayores de WordPress",
             "pos": "noun",
             "translation": "sucursal \/ rama"
         }
@@ -1080,14 +1080,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Pie de p\u00c3\u00a1gina"
+            "translation": "Pie de p\u00e1gina"
         }
     ],
     "pixels": [
         {
             "comment": "Con tilde",
             "pos": "noun",
-            "translation": "p\u00c3\u00adxeles"
+            "translation": "p\u00edxeles"
         }
     ],
     "slider": [
@@ -1151,7 +1151,7 @@
     ],
     "tools": [
         {
-            "comment": "Nombre de men\u00c3\u00ba principal de WordPress",
+            "comment": "Nombre de men\u00fa principal de WordPress",
             "pos": "noun",
             "translation": "Herramientas"
         }
@@ -1167,7 +1167,7 @@
         {
             "comment": "Plural \"badges\" - Se traduce como \"acreditaciones\"",
             "pos": "noun",
-            "translation": "acreditaci\u00c3\u00b3n"
+            "translation": "acreditaci\u00f3n"
         }
     ],
     "topic": [
@@ -1179,28 +1179,28 @@
     ],
     "about": [
         {
-            "comment": "Preferimos \"Acerca de\" antes que \"Sobre\", pero depender\u00c3\u00a1 del contexto.",
+            "comment": "Preferimos \"Acerca de\" antes que \"Sobre\", pero depender\u00e1 del contexto.",
             "pos": "adverb",
             "translation": "Acerca de"
         }
     ],
     "scope": [
         {
-            "comment": "Se refiere a la extensi\u00c3\u00b3n de la cabecera en una tabla. Valores: col, row, colgroup, rowgroup",
+            "comment": "Se refiere a la extensi\u00f3n de la cabecera en una tabla. Valores: col, row, colgroup, rowgroup",
             "pos": "noun",
-            "translation": "extensi\u00c3\u00b3n"
+            "translation": "extensi\u00f3n"
         }
     ],
     "debug": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "depuraci\u00c3\u00b3n"
+            "translation": "depuraci\u00f3n"
         }
     ],
     "gross": [
         {
-            "comment": "T\u00c3\u00a9rmino contable, referido a ingresos o ventas brutas",
+            "comment": "T\u00e9rmino contable, referido a ingresos o ventas brutas",
             "pos": "noun",
             "translation": "bruto"
         }
@@ -1254,7 +1254,7 @@
         {
             "comment": "Con tilde",
             "pos": "noun",
-            "translation": "p\u00c3\u00adxel"
+            "translation": "p\u00edxel"
         }
     ],
     "array": [
@@ -1273,7 +1273,7 @@
     ],
     "posts": [
         {
-            "comment": "Usar entradas, publicaciones o contenidos seg\u00c3\u00ban el contexto",
+            "comment": "Usar entradas, publicaciones o contenidos seg\u00fan el contexto",
             "pos": "noun",
             "translation": "Entradas \/ Publicaciones \/ Contenidos"
         }
@@ -1296,7 +1296,7 @@
         {
             "comment": "No utiilzar:",
             "pos": "noun",
-            "translation": "Correo electr\u00c3\u00b3nico"
+            "translation": "Correo electr\u00f3nico"
         }
     ],
     "large": [
@@ -1329,7 +1329,7 @@
     ],
     "login": [
         {
-            "comment": "Usar \"Acceso\" cuando sea un enlace a una p\u00c3\u00a1gina de acceso.",
+            "comment": "Usar \"Acceso\" cuando sea un enlace a una p\u00e1gina de acceso.",
             "pos": "verb",
             "translation": "Acceder"
         }
@@ -1350,9 +1350,9 @@
     ],
     "home": [
         {
-            "comment": "(Hay que definir los contextos en los que una u otra son v\u00c3\u00a1lidas)",
+            "comment": "(Hay que definir los contextos en los que una u otra son v\u00e1lidas)",
             "pos": "noun",
-            "translation": "Inicio o p\u00c3\u00a1gina de inicio"
+            "translation": "Inicio o p\u00e1gina de inicio"
         }
     ],
     "blog": [
@@ -1364,7 +1364,7 @@
     ],
     "rate": [
         {
-            "comment": "Usar 'tasa' cuando va unido a otro nombre, por ejemplo \"taxes rate\" - \"tasa de impuestos\". Usar 'tarifa' cuando va unido a env\u00c3\u00ado. Ej. shipping rate = tarifa de env\u00c3\u00ado",
+            "comment": "Usar 'tasa' cuando va unido a otro nombre, por ejemplo \"taxes rate\" - \"tasa de impuestos\". Usar 'tarifa' cuando va unido a env\u00edo. Ej. shipping rate = tarifa de env\u00edo",
             "pos": "noun",
             "translation": "tasa \/ tarifa"
         }
@@ -1373,24 +1373,19 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Cuadr\u00c3\u00adcula"
+            "translation": "Cuadr\u00edcula"
         }
     ],
     "page": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "P\u00c3\u00a1gina"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "P\u00c3\u00a1gina"
+            "translation": "P\u00e1gina"
         }
     ],
     "hook": [
         {
-            "comment": "Action hook -> gancho de acci\u00c3\u00b3n",
+            "comment": "Action hook -> gancho de acci\u00f3n",
             "pos": "noun",
             "translation": "gancho"
         }
@@ -1418,9 +1413,9 @@
     ],
     "post": [
         {
-            "comment": "Usar entrada, publicaci\u00c3\u00b3n o contenido seg\u00c3\u00ban el contexto",
+            "comment": "Usar entrada, publicaci\u00f3n o contenido seg\u00fan el contexto",
             "pos": "noun",
-            "translation": "Entrada \/ Publicaci\u00c3\u00b3n \/ Contenido"
+            "translation": "Entrada \/ Publicaci\u00f3n \/ Contenido"
         }
     ],
     "quiz": [
@@ -1460,14 +1455,14 @@
     ],
     "item": [
         {
-            "comment": "Solo usar 'art\u00c3\u00adculo' en tiendas online",
+            "comment": "Solo usar 'art\u00edculo' en tiendas online",
             "pos": "noun",
-            "translation": "Elemento \/ Art\u00c3\u00adculo"
+            "translation": "Elemento \/ Art\u00edculo"
         }
     ],
     "site": [
         {
-            "comment": "No traducir como \"p\u00c3\u00a1gina web\" o \"sitio web\", solo como \"sitio\"",
+            "comment": "No traducir como \"p\u00e1gina web\" o \"sitio web\", solo como \"sitio\"",
             "pos": "noun",
             "translation": "sitio"
         }
@@ -1495,7 +1490,7 @@
     ],
     "pos": [
         {
-            "comment": "Por Terminal Punto de Venta, Point Of Sale en ingl\u00c3\u00a9s",
+            "comment": "Por Terminal Punto de Venta, Point Of Sale en ingl\u00e9s",
             "pos": "noun",
             "translation": "TPV"
         }
@@ -1516,7 +1511,7 @@
     ],
     "cod": [
         {
-            "comment": "Abreviatura de Charge On Delivery (ingl\u00c3\u00a9s) o Pago a la entrega",
+            "comment": "Abreviatura de Charge On Delivery (ingl\u00e9s) o Pago a la entrega",
             "pos": "noun",
             "translation": "contra reembolso"
         }

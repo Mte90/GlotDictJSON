@@ -120,6 +120,11 @@
         {
             "comment": "",
             "pos": "expression",
+            "translation": "\u00eent\u00e2i-mobil"
+        },
+        {
+            "comment": "",
+            "pos": "expression",
             "translation": "\u00c3\u00aent\u00c3\u00a2i-mobil"
         },
         {
@@ -884,6 +889,11 @@
         }
     ],
     "inline": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "\u00een-linie"
+        },
         {
             "comment": "",
             "pos": "expression",

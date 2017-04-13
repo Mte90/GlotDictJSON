@@ -3,14 +3,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "okomiti kliza\u00c4\u008d"
+            "translation": "okomiti kliza\u010d"
         }
     ],
     "push notifications": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "proslije\u00c4\u0091ene obavijesti"
+            "translation": "proslije\u0111ene obavijesti"
         }
     ],
     "background pattern": [
@@ -29,23 +29,23 @@
     ],
     "keyboard shortcut": [
         {
-            "comment": "Za lak\u00c5\u00a1e i br\u00c5\u00bee obavljanje odre\u00c4\u0091enih radnji koriste\u00c4\u0087i kombinacije tipki poput CTRL+C za kopiranje",
+            "comment": "Za lak\u0161e i br\u017ee obavljanje odre\u0111enih radnji koriste\u0107i kombinacije tipki poput CTRL+C za kopiranje",
             "pos": "noun",
-            "translation": "tipkovni pre\u00c4\u008dac"
+            "translation": "tipkovni pre\u010dac"
         }
     ],
     "table of contents": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "tablica sadr\u00c5\u00beaja"
+            "translation": "tablica sadr\u017eaja"
         }
     ],
     "tile horizontally": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "poplo\u00c4\u008di vodoravno"
+            "translation": "poplo\u010di vodoravno"
         }
     ],
     "boilerplate text": [
@@ -55,11 +55,18 @@
             "translation": "standardni tekst"
         }
     ],
+    "rich text editor": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "ure\u0111iva\u010d oboga\u0107enog teksta"
+        }
+    ],
     "column delimiter": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "grani\u00c4\u008dnik stupaca"
+            "translation": "grani\u010dnik stupaca"
         }
     ],
     "plugin developer": [
@@ -67,27 +74,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "autor dodatka"
-        }
-    ],
-    "rich text editor": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "ure\u00c4\u0091iva\u00c4\u008d oboga\u00c4\u0087enog teksta"
-        }
-    ],
-    "tile vertically": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "poplo\u00c4\u008d uspravno"
-        }
-    ],
-    "theme developer": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "autor teme"
         }
     ],
     "alignment guide": [
@@ -108,49 +94,21 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "beskona\u00c4\u008dno pomicanje"
+            "translation": "beskona\u010dno pomicanje"
         }
     ],
-    "password reset": [
+    "tile vertically": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "vra\u00c4\u0087anje izvorne lozinke"
+            "translation": "poplo\u010d uspravno"
         }
     ],
-    "search refiner": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "su\u00c5\u00beavanje pretra\u00c5\u00beivanja"
-        }
-    ],
-    "root directory": [
+    "theme developer": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "osnovni direktorij"
-        }
-    ],
-    "content header": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "sadr\u00c5\u00beaj zaglavlja"
-        }
-    ],
-    "baseline guide": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "vodilica osnovnog retka"
-        }
-    ],
-    "staging server": [
-        {
-            "comment": "Pripremni poslu\u00c5\u00beitelj slu\u00c5\u00bei za testiranje i daljnji razvoj neke web-stranice. Pristup stranicama na ovom poslu\u00c5\u00beitelj naj\u00c4\u008de\u00c5\u00a1\u00c4\u0087e je ograni\u00c4\u008den samo za programere i klijente, nikako \u00c5\u00a1iru publiku.",
-            "pos": "noun",
-            "translation": "pripremni poslu\u00c5\u00beitelj"
+            "translation": "autor teme"
         }
     ],
     "child category": [
@@ -160,32 +118,60 @@
             "translation": "potkategorija"
         }
     ],
+    "search refiner": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "su\u017eavanje pretra\u017eivanja"
+        }
+    ],
+    "root directory": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "osnovni direktorij"
+        }
+    ],
     "authentication": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "provjera autenti\u00c4\u008dnosti, ovjera, provjera, autentifikacija, utvr\u00c4\u0091ivanje istinitosti, provjera identiteta"
+            "translation": "provjera autenti\u010dnosti, ovjera, provjera, autentifikacija, utvr\u0111ivanje istinitosti, provjera identiteta"
+        }
+    ],
+    "baseline guide": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "vodilica osnovnog retka"
+        }
+    ],
+    "password reset": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "vra\u0107anje izvorne lozinke"
+        }
+    ],
+    "staging server": [
+        {
+            "comment": "Pripremni poslu\u017eitelj slu\u017ei za testiranje i daljnji razvoj neke web-stranice. Pristup stranicama na ovom poslu\u017eitelj naj\u010de\u0161\u0107e je ograni\u010den samo za programere i klijente, nikako \u0161iru publiku.",
+            "pos": "noun",
+            "translation": "pripremni poslu\u017eitelj"
         }
     ],
     "drop-down menu": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "padaju\u00c4\u0087i izbornik"
+            "translation": "padaju\u0107i izbornik"
         }
     ],
-    "shortcut menu": [
+    "content header": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "izborni\u00c4\u008dki pre\u00c4\u008dac"
-        }
-    ],
-    "bulleted list": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "popis s grafi\u00c4\u008dkim oznakama"
+            "translation": "sadr\u017eaj zaglavlja"
         }
     ],
     "concatenation": [
@@ -195,9 +181,23 @@
             "translation": "povezivanje"
         }
     ],
+    "shortcut menu": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "izborni\u010dki pre\u010dac"
+        }
+    ],
+    "bulleted list": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "popis s grafi\u010dkim oznakama"
+        }
+    ],
     "document root": [
         {
-            "comment": "Osnovni direktorija za web-stranicu gdje su smje\u00c5\u00a1tene sve datoteke i mape web-strancie",
+            "comment": "Osnovni direktorija za web-stranicu gdje su smje\u0161tene sve datoteke i mape web-strancie",
             "pos": "noun",
             "translation": "osnovni direktorij"
         }
@@ -206,21 +206,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "dodatni podaci, prilago\u00c4\u0091ena polja"
+            "translation": "dodatni podaci, prilago\u0111ena polja"
         }
     ],
     "customization": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "prilago\u00c4\u0091avanje"
-        }
-    ],
-    "character set": [
-        {
-            "comment": "Slova\/znakovi su predstavljeni u memoriji pomo\u00c4\u0087u brojeva. To pridru\u00c5\u00beivanje se naziva kodiranje karaktera ili kodna stranica, npr. utf8.",
-            "pos": "noun",
-            "translation": "kodna tablica\/stranica"
+            "translation": "prilago\u0111avanje"
         }
     ],
     "drag-and-drop": [
@@ -234,7 +227,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "adresa e-po\u00c5\u00a1te"
+            "translation": "adresa e-po\u0161te"
         }
     ],
     "forward slash": [
@@ -251,11 +244,32 @@
             "translation": "objekt u istoj razini, objekt u istom retku"
         }
     ],
+    "character set": [
+        {
+            "comment": "Slova\/znakovi su predstavljeni u memoriji pomo\u0107u brojeva. To pridru\u017eivanje se naziva kodiranje karaktera ili kodna stranica, npr. utf8.",
+            "pos": "noun",
+            "translation": "kodna tablica\/stranica"
+        }
+    ],
     "dependencies": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "ovisnosti"
+        }
+    ],
+    "shortcut key": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "tipkovni pre\u010dac"
+        }
+    ],
+    "subdirectory": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "poddirektorij"
         }
     ],
     "restauration": [
@@ -269,14 +283,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "shema boja"
+            "translation": "shema boja, paleta boja"
         }
     ],
     "lazy loading": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "u\u00c4\u008ditavanje s odgodom"
+            "translation": "u\u010ditavanje s odgodom"
         }
     ],
     "clickthrough": [
@@ -286,46 +300,11 @@
             "translation": "slijedni klik, klikovno"
         }
     ],
-    "subdirectory": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "poddirektorij"
-        }
-    ],
-    "shortcut key": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "tipkovni pre\u00c4\u008dac"
-        }
-    ],
     "inline image": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "slika u retku"
-        }
-    ],
-    "subscription": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "pretplata"
-        }
-    ],
-    "verbose mode": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "op\u00c5\u00a1irni na\u00c4\u008din rada"
-        }
-    ],
-    "bulk actions": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "grupne radnje"
         }
     ],
     "aspect ratio": [
@@ -342,18 +321,25 @@
             "translation": "automatsko ispunjavanje"
         }
     ],
-    "pop-up menu": [
+    "verbose mode": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "sko\u00c4\u008dni izbornik"
+            "translation": "op\u0161irni na\u010din rada"
         }
     ],
-    "placeholder": [
+    "subscription": [
         {
-            "comment": "Primjer teksta ili neke druge vrijednosti koja se koristi kao indikator da korisnik treba unijeti svoj tekst ili druge vrijednosti.",
+            "comment": "",
             "pos": "noun",
-            "translation": "rezervirano mjesto, zamjenski tekst"
+            "translation": "pretplata"
+        }
+    ],
+    "bulk actions": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "grupne radnje"
         }
     ],
     "credentials": [
@@ -363,18 +349,18 @@
             "translation": "vjerodajnice"
         }
     ],
-    "testimonial": [
-        {
-            "comment": "Odnosi se na Client Testimonial, kao marketin\u00c5\u00a1ki i vjerodostojni social proof va\u00c5\u00a1e kvalitete od strane klijenata. \u00c5\u00a0to su rekli korisnici.",
-            "pos": "noun",
-            "translation": "preporuka"
-        }
-    ],
     "contributor": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "suradnik, sudionik"
+        }
+    ],
+    "hard-coding": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "fiksno kodiranje"
         }
     ],
     "full screen": [
@@ -384,11 +370,53 @@
             "translation": "cijeli zaslon"
         }
     ],
+    "page layout": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "izgled stranice, raspored stranice"
+        }
+    ],
+    "placeholder": [
+        {
+            "comment": "Primjer teksta ili neke druge vrijednosti koja se koristi kao indikator da korisnik treba unijeti svoj tekst ili druge vrijednosti.",
+            "pos": "noun",
+            "translation": "rezervirano mjesto, zamjenski tekst"
+        }
+    ],
+    "pop-up menu": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "sko\u010dni izbornik"
+        }
+    ],
     "positioning": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "smje\u00c5\u00a1tanje, pozicioniranje"
+            "translation": "smje\u0161tanje, pozicioniranje"
+        }
+    ],
+    "web browser": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "web-preglednik"
+        }
+    ],
+    "bookmarklet": [
+        {
+            "comment": "Mala aplikacija pohranjena kao bookmark\/zabilje\u0161ka\/favorit\/oznaka koja kroz poveznicu omogu\u0107uje interakciju sa trenutno otvorenom web stranicom",
+            "pos": "noun",
+            "translation": "bookmarklet, ozna\u010deni aplet"
+        }
+    ],
+    "testimonial": [
+        {
+            "comment": "Odnosi se na Client Testimonial, kao marketin\u0161ki i vjerodostojni social proof va\u0161e kvalitete od strane klijenata. \u0160to su rekli korisnici.",
+            "pos": "noun",
+            "translation": "preporuka"
         }
     ],
     "unsubscribe": [
@@ -405,200 +433,11 @@
             "translation": "samostalna objava"
         }
     ],
-    "bookmarklet": [
-        {
-            "comment": "Mala aplikacija pohranjena kao bookmark\/zabilje\u00c5\u00a1ka\/favorit\/oznaka koja kroz poveznicu omogu\u00c4\u0087uje interakciju sa trenutno otvorenom web stranicom",
-            "pos": "noun",
-            "translation": "bookmarklet, ozna\u00c4\u008deni aplet"
-        }
-    ],
     "child theme": [
         {
-            "comment": "Podtema je tema koja dijeli funkcionalnost i stil druge teme, a koja se zove mati\u00c4\u008dna tema (parent theme)",
+            "comment": "Podtema je tema koja dijeli funkcionalnost i stil druge teme, a koja se zove mati\u010dna tema (parent theme)",
             "pos": "noun",
             "translation": "podtema"
-        }
-    ],
-    "hard-coding": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "fiksno kodiranje"
-        }
-    ],
-    "page layout": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "izgled stranice, raspored stranice"
-        }
-    ],
-    "web browser": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "web-preglednik"
-        }
-    ],
-    "underscore": [
-        {
-            "comment": "Donja crta ( _ )",
-            "pos": "noun",
-            "translation": "donja crta"
-        }
-    ],
-    "deprecated": [
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "zastarjelo, umanjeno"
-        }
-    ],
-    "descending": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "silazno"
-        }
-    ],
-    "permission": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "dopu\u00c5\u00a1tenje, dozvola,odobrenje, pravo"
-        }
-    ],
-    "class name": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "naziv klase"
-        }
-    ],
-    "screenshot": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "snimka zaslona"
-        }
-    ],
-    "disclaimer": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "izjava o odricanju odgovornosti"
-        }
-    ],
-    "scroll box": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "okvir kliza\u00c4\u008da"
-        }
-    ],
-    "validation": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "provjera valjanosti"
-        }
-    ],
-    "responsive": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "prilagodljivo"
-        }
-    ],
-    "scroll bar": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "kliza\u00c4\u008d, klizna traka"
-        }
-    ],
-    "attachment": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "privitak"
-        }
-    ],
-    "newsletter": [
-        {
-            "comment": "Objavljivanje skromnijega opsega obavijesti namijenjeno nekom u\u00c5\u00beem krugu. Periodi\u00c4\u008dna publikacija koju objavljuju web stranice sa slu\u00c5\u00bebenim podacima, sadr\u00c5\u00beajem i obavijestima",
-            "pos": "noun",
-            "translation": "bilten, obavijesti, e-novosti, newsletter"
-        }
-    ],
-    "child menu": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "podizbornik"
-        }
-    ],
-    "subscriber": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "pretplatnik"
-        }
-    ],
-    "collection": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "kolekcija"
-        }
-    ],
-    "line break": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "prijelom retka"
-        }
-    ],
-    "grid lines": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "crte re\u00c5\u00a1etke"
-        }
-    ],
-    "stylesheet": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "stilski predlo\u00c5\u00beak"
-        }
-    ],
-    "front page": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "po\u00c4\u008detna stranica"
-        }
-    ],
-    "media file": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "medijski zapis"
-        }
-    ],
-    "change log": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "zapis o promjenama, zapisnik promjena, dnevnik promjena"
-        }
-    ],
-    "moderation": [
-        {
-            "comment": "Provjera razli\u00c4\u008ditih vrsti sadr\u00c5\u00beaja i podataka koji zbog nekog razloga nisu automatski odobreni",
-            "pos": "verb",
-            "translation": "moderiranje, odobrenje"
         }
     ],
     "navigation": [
@@ -608,25 +447,179 @@
             "translation": "navigacija"
         }
     ],
+    "subscriber": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "pretplatnik"
+        }
+    ],
+    "responsive": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "prilagodljivo"
+        }
+    ],
+    "collection": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kolekcija"
+        }
+    ],
+    "validation": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "provjera valjanosti"
+        }
+    ],
+    "line break": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "prijelom retka"
+        }
+    ],
+    "newsletter": [
+        {
+            "comment": "Objavljivanje skromnijega opsega obavijesti namijenjeno nekom u\u017eem krugu. Periodi\u010dna publikacija koju objavljuju web stranice sa slu\u017ebenim podacima, sadr\u017eajem i obavijestima",
+            "pos": "noun",
+            "translation": "bilten, obavijesti, e-novosti, newsletter"
+        }
+    ],
+    "grid lines": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "crte re\u0161etke"
+        }
+    ],
+    "child menu": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "podizbornik"
+        }
+    ],
+    "disclaimer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "izjava o odricanju odgovornosti"
+        }
+    ],
+    "front page": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "po\u010detna stranica"
+        }
+    ],
+    "descending": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "silazno"
+        }
+    ],
+    "deprecated": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "zastarjelo, umanjeno"
+        }
+    ],
+    "underscore": [
+        {
+            "comment": "Donja crta ( _ )",
+            "pos": "noun",
+            "translation": "donja crta"
+        }
+    ],
+    "screenshot": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "snimka zaslona"
+        }
+    ],
+    "scroll bar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kliza\u010d, klizna traka"
+        }
+    ],
+    "moderation": [
+        {
+            "comment": "Provjera razli\u010ditih vrsti sadr\u017eaja i podataka koji zbog nekog razloga nisu automatski odobreni",
+            "pos": "verb",
+            "translation": "moderiranje, odobrenje"
+        }
+    ],
+    "class name": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "naziv klase"
+        }
+    ],
+    "attachment": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "privitak"
+        }
+    ],
+    "permission": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "dopu\u0161tenje, dozvola,odobrenje, pravo"
+        }
+    ],
+    "stylesheet": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "stilski predlo\u017eak"
+        }
+    ],
     "toggle key": [
         {
-            "comment": "Mjenjanje iz jednog u drugi polo\u00c5\u00beaj, iz jedne u drugu funkciju",
+            "comment": "Mjenjanje iz jednog u drugi polo\u017eaj, iz jedne u drugu funkciju",
             "pos": "noun",
             "translation": "tipka za prebacivanje"
+        }
+    ],
+    "media file": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "medijski zapis"
         }
     ],
     "customizer": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "prilago\u00c4\u0091iva\u00c4\u008d"
+            "translation": "prilago\u0111iva\u010d"
         }
     ],
-    "attribute": [
+    "change log": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "atribut"
+            "translation": "zapis o promjenama, zapisnik promjena, dnevnik promjena"
+        }
+    ],
+    "scroll box": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "okvir kliza\u010da"
         }
     ],
     "post type": [
@@ -636,39 +629,11 @@
             "translation": "vrsta objave"
         }
     ],
-    "event log": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "zapisnik doga\u00c4\u0091aja"
-        }
-    ],
     "error log": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "zapisnik o gre\u00c5\u00a1kama"
-        }
-    ],
-    "read-only": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "samo za \u00c4\u008ditanje"
-        }
-    ],
-    "highlight": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "istaknuto, izdvojeno"
-        }
-    ],
-    "ascending": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "uzlazno"
+            "translation": "zapisnik o gre\u0161kama"
         }
     ],
     "permalink": [
@@ -678,60 +643,39 @@
             "translation": "stalna veza"
         }
     ],
-    "check box": [
+    "read-only": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "potvrdni okvir"
+            "translation": "samo za \u010ditanje"
         }
     ],
-    "shortlink": [
+    "event log": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "kratka poveznica"
+            "translation": "zapisnik doga\u0111aja"
         }
     ],
-    "directory": [
-        {
-            "comment": "Popis datoteka koje se nalaze u memoriji ra\u00c4\u008dunala (ili na nekom drugom podatkovnom mediju, disketi, disku, CD-u itd.) s osnovnim podacima o datoteci i uputama za pristup k njoj; imenik, kazalo",
-            "pos": "noun",
-            "translation": "direktorij"
-        }
-    ],
-    "thumbnail": [
+    "clipboard": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "sli\u00c4\u008dica, minijatura"
+            "translation": "me\u0111uspremnik"
         }
     ],
-    "customize": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "prilagodi"
-        }
-    ],
-    "shortcode": [
-        {
-            "comment": "Npr. [gallery], slu\u00c5\u00bei za jednostavno i brzo postavljanje galerije slika u objavu ili stranicu",
-            "pos": "noun",
-            "translation": "kratki kod"
-        }
-    ],
-    "canonical": [
+    "attribute": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "kanonski, kanoni\u00c4\u008dni"
+            "translation": "atribut"
         }
     ],
-    "trackback": [
+    "subdomain": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "povratna veza"
+            "translation": "poddomena"
         }
     ],
     "container": [
@@ -741,11 +685,81 @@
             "translation": "kontejner"
         }
     ],
+    "thumbnail": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "sli\u010dica, minijatura"
+        }
+    ],
+    "shortlink": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kratka poveznica"
+        }
+    ],
+    "highlight": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "istaknuto, izdvojeno"
+        }
+    ],
+    "canonical": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kanonski, kanoni\u010dni"
+        }
+    ],
+    "ascending": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "uzlazno"
+        }
+    ],
+    "shortcode": [
+        {
+            "comment": "Npr. [gallery], slu\u017ei za jednostavno i brzo postavljanje galerije slika u objavu ili stranicu",
+            "pos": "noun",
+            "translation": "kratki kod"
+        }
+    ],
+    "customize": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "prilagodi"
+        }
+    ],
+    "character": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "znak"
+        }
+    ],
+    "trackback": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "povratna veza"
+        }
+    ],
     "developer": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "programer, razvijatelj"
+        }
+    ],
+    "directory": [
+        {
+            "comment": "Popis datoteka koje se nalaze u memoriji ra\u010dunala (ili na nekom drugom podatkovnom mediju, disketi, disku, CD-u itd.) s osnovnim podacima o datoteci i uputama za pristup k njoj; imenik, kazalo",
+            "pos": "noun",
+            "translation": "direktorij"
         }
     ],
     "scheduler": [
@@ -762,67 +776,25 @@
             "translation": "tempirano, planirano, zakazano"
         }
     ],
-    "subdomain": [
+    "check box": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "poddomena"
-        }
-    ],
-    "clipboard": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "me\u00c4\u0091uspremnik"
-        }
-    ],
-    "character": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "znak"
-        }
-    ],
-    "standard": [
-        {
-            "comment": "Odnosi se na standard post format. Post je preveden kao \"objava\", a ako tema podr\u00c5\u00beava Post Formats, onda je standardni\/normalni post preveden kao \"\u00c4\u008dlanak\"",
-            "pos": "noun",
-            "translation": "\u00c4\u008dlanak"
-        }
-    ],
-    "web root": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "osnovni web direktorij"
-        }
-    ],
-    "supplied": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "navedeno, isporu\u00c4\u008deno"
+            "translation": "potvrdni okvir"
         }
     ],
     "maximize": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "maksimiziraj, pove\u00c4\u0087aj"
-        }
-    ],
-    "taxonomy": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "taksonomija"
+            "translation": "maksimiziraj, pove\u0107aj"
         }
     ],
     "wildcard": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "vi\u00c5\u00a1ezna\u00c4\u008dnik, zamjenski znak"
+            "translation": "vi\u0161ezna\u010dnik, zamjenski znak"
         }
     ],
     "minimize": [
@@ -832,11 +804,18 @@
             "translation": "minimiziraj, smanji"
         }
     ],
-    "required": [
+    "web root": [
         {
-            "comment": "Upotrijebiti zavisno od konteksta poruke",
+            "comment": "",
             "pos": "noun",
-            "translation": "obavezno, potrebno"
+            "translation": "osnovni web direktorij"
+        }
+    ],
+    "taxonomy": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "taksonomija"
         }
     ],
     "optional": [
@@ -846,32 +825,11 @@
             "translation": "opcionalno, neobavezno"
         }
     ],
-    "template": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "predlo\u00c5\u00beak"
-        }
-    ],
-    "shortcut": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "kratica, pre\u00c4\u008dac"
-        }
-    ],
-    "resource": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "izvor, sredstvo, resurs"
-        }
-    ],
     "override": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "zamijeniti, premostiti, nadja\u00c4\u008dati, nadvladati"
+            "translation": "zamijeniti, premostiti, nadja\u010dati, nadvladati"
         }
     ],
     "password": [
@@ -881,13 +839,6 @@
             "translation": "lozinka"
         }
     ],
-    "settings": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "postavke"
-        }
-    ],
     "pingback": [
         {
             "comment": "",
@@ -895,11 +846,32 @@
             "translation": "povratni ping"
         }
     ],
-    "unfollow": [
+    "prebuilt": [
+        {
+            "comment": "Postoje\u0107a funkcija, element, softver",
+            "pos": "noun",
+            "translation": "postoje\u0107e"
+        }
+    ],
+    "standard": [
+        {
+            "comment": "Odnosi se na standard post format. Post je preveden kao \"objava\", a ako tema podr\u017eava Post Formats, onda je standardni\/normalni post preveden kao \"\u010dlanak\"",
+            "pos": "noun",
+            "translation": "\u010dlanak"
+        }
+    ],
+    "resource": [
         {
             "comment": "",
-            "pos": "verb",
-            "translation": "prekini pra\u00c4\u0087enje"
+            "pos": "noun",
+            "translation": "izvor, sredstvo, resurs"
+        }
+    ],
+    "username": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "korisni\u010dko ime"
         }
     ],
     "revision": [
@@ -909,25 +881,53 @@
             "translation": "revizija"
         }
     ],
-    "username": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "korisni\u00c4\u008dko ime"
-        }
-    ],
-    "prebuilt": [
-        {
-            "comment": "Postoje\u00c4\u0087a funkcija, element, softver",
-            "pos": "noun",
-            "translation": "postoje\u00c4\u0087e"
-        }
-    ],
     "rollback": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "povratak, poni\u00c5\u00a1tenje, vra\u00c4\u0087anje u prethodno stanje"
+            "translation": "povratak, poni\u0161tenje, vra\u0107anje u prethodno stanje"
+        }
+    ],
+    "unfollow": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "prekini pra\u0107enje"
+        }
+    ],
+    "settings": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "postavke"
+        }
+    ],
+    "shortcut": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "kratica, pre\u010dac"
+        }
+    ],
+    "supplied": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "navedeno, isporu\u010deno"
+        }
+    ],
+    "template": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "predlo\u017eak"
+        }
+    ],
+    "required": [
+        {
+            "comment": "Upotrijebiti zavisno od konteksta poruke",
+            "pos": "noun",
+            "translation": "obavezno, potrebno"
         }
     ],
     "log file": [
@@ -937,60 +937,18 @@
             "translation": "datoteka zapisnika"
         }
     ],
-    "filetype": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "vrsta datoteke"
-        }
-    ],
-    "backtick": [
-        {
-            "comment": "Backtick znak ( ` ) , koji je nako\u00c5\u00a1en ulijevo, razlikuje se od znaka apostrofa ( ' ) koji je prikazan kao uspravan znak. Na Win OS za backtick pritisnite AltGR+ tipka br. 7, za apostrof pritisnite tipku sa upitnikom, iza tipke sa br. nula",
-            "pos": "noun",
-            "translation": "otvoreni jednostruki navodnik"
-        }
-    ],
-    "feedback": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "povratne informacije"
-        }
-    ],
-    "debugger": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "program za ispravljanje gre\u00c5\u00a1aka"
-        }
-    ],
-    "features": [
-        {
-            "comment": "Upotrijebiti zavisno od konteksta poruke",
-            "pos": "noun",
-            "translation": "mogu\u00c4\u0087nosti, zna\u00c4\u008dajke"
-        }
-    ],
     "featured": [
         {
-            "comment": "Naj\u00c4\u008de\u00c5\u00a1\u00c4\u0087e se odnosi na sliku u objavi",
+            "comment": "Naj\u010de\u0161\u0107e se odnosi na sliku u objavi",
             "pos": "noun",
             "translation": "istaknuto, izdvojeno"
-        }
-    ],
-    "carousel": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "vrtuljak"
         }
     ],
     "fallback": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "rezervno, pri\u00c4\u008duvno"
+            "translation": "rezervno, pri\u010duvno"
         }
     ],
     "gradient": [
@@ -1000,11 +958,25 @@
             "translation": "prijelaz"
         }
     ],
-    "database": [
+    "download": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "preuzmi, preuzimanje"
+        }
+    ],
+    "filetype": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "baza podataka"
+            "translation": "vrsta datoteke"
+        }
+    ],
+    "features": [
+        {
+            "comment": "Upotrijebiti zavisno od konteksta poruke",
+            "pos": "noun",
+            "translation": "mogu\u0107nosti, zna\u010dajke"
         }
     ],
     "baseline": [
@@ -1014,27 +986,6 @@
             "translation": "osnovica retka"
         }
     ],
-    "checkbox": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "potvrdni okvir, odabirni okvir, okvir za izbor"
-        }
-    ],
-    "bad word": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "nekorektna rije\u00c4\u008d"
-        }
-    ],
-    "autosave": [
-        {
-            "comment": "Automatsko snimanje\/spremanje sadr\u00c5\u00beaja va\u00c5\u00a1e objave, u odre\u00c4\u0091enim intervalima i u odre\u00c4\u0091enom broju revizija",
-            "pos": "verb",
-            "translation": "automatsko spremanje"
-        }
-    ],
     "callback": [
         {
             "comment": "",
@@ -1042,135 +993,74 @@
             "translation": "povratni poziv"
         }
     ],
+    "bad word": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "nekorektna rije\u010d"
+        }
+    ],
+    "backtick": [
+        {
+            "comment": "Backtick znak ( ` ) , koji je nako\u0161en ulijevo, razlikuje se od znaka apostrofa ( ' ) koji je prikazan kao uspravan znak. Na Win OS za backtick pritisnite AltGR+ tipka br. 7, za apostrof pritisnite tipku sa upitnikom, iza tipke sa br. nula",
+            "pos": "noun",
+            "translation": "otvoreni jednostruki navodnik"
+        }
+    ],
+    "autosave": [
+        {
+            "comment": "Automatsko snimanje\/spremanje sadr\u017eaja va\u0161e objave, u odre\u0111enim intervalima i u odre\u0111enom broju revizija",
+            "pos": "verb",
+            "translation": "automatsko spremanje"
+        }
+    ],
+    "debugger": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "program za ispravljanje gre\u0161aka"
+        }
+    ],
+    "carousel": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "vrtuljak"
+        }
+    ],
     "homepage": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "po\u00c4\u008detna stranica, naslovna stranica"
-        }
-    ],
-    "download": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "preuzmi, preuzimanje"
+            "translation": "po\u010detna stranica, naslovna stranica"
         }
     ],
     "collapse": [
         {
-            "comment": "Smanjivanje koli\u00c4\u008dine prikazanih informacija skrivaju\u00c4\u0087i podstavke, sekcije, dio teksta ili drugog sadr\u00c5\u00beaja.",
+            "comment": "Smanjivanje koli\u010dine prikazanih informacija skrivaju\u0107i podstavke, sekcije, dio teksta ili drugog sadr\u017eaja.",
             "pos": "verb",
-            "translation": "sa\u00c5\u00beeti, smanji, skupi"
+            "translation": "sa\u017eeti, smanji, skupi"
         }
     ],
-    "feature": [
-        {
-            "comment": "Upotrijebiti zavisno od konteksta poruke",
-            "pos": "noun",
-            "translation": "mogu\u00c4\u0087nost, zna\u00c4\u008dajka"
-        }
-    ],
-    "related": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "povezano, srodno"
-        }
-    ],
-    "padding": [
+    "feedback": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "razmak, podstava, podloga, udaljenost od ruba"
+            "translation": "povratne informacije"
         }
     ],
-    "disable": [
+    "checkbox": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "onemogu\u00c4\u0087i"
+            "translation": "potvrdni okvir, odabirni okvir, okvir za izbor"
         }
     ],
-    "tagline": [
+    "database": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "slogan"
-        }
-    ],
-    "browser": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "preglednik"
-        }
-    ],
-    "pending": [
-        {
-            "comment": "Upotrijebiti zavisno od konteksta poruke",
-            "pos": "verb",
-            "translation": "u toku, u tijeku, na \u00c4\u008dekanju, privremeno, u o\u00c4\u008dekivanju, nerije\u00c5\u00a1en"
-        }
-    ],
-    "display": [
-        {
-            "comment": "Dio kompjuterske tehnologije i opreme, slu\u00c5\u00bei za prikaz podataka",
-            "pos": "noun",
-            "translation": "zaslon"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "prika\u00c5\u00bei"
-        }
-    ],
-    "timeout": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "istek vremena, vremensko ograni\u00c4\u008denje"
-        }
-    ],
-    "builder": [
-        {
-            "comment": "Na primjer sastavlja\u00c4\u008d stranice (page builder)",
-            "pos": "noun",
-            "translation": "sastavlja\u00c4\u008d"
-        }
-    ],
-    "spacing": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "razmak, prored"
-        }
-    ],
-    "tooltip": [
-        {
-            "comment": "Okvir u grafi\u00c4\u008dkom su\u00c4\u008delju koji se pojavi kada se strelica mi\u00c5\u00a1a dr\u00c5\u00bei iznad nekog elementa",
-            "pos": "noun",
-            "translation": "info-obla\u00c4\u008di\u00c4\u0087, opis elementa"
-        }
-    ],
-    "fade in": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "postepeno pojavljivanje"
-        }
-    ],
-    "preview": [
-        {
-            "comment": "Omogu\u00c4\u0087uje pregled sadr\u00c5\u00beaja na stranici prije objavljivanja",
-            "pos": "verb",
-            "translation": "pretpregled, pregled"
-        }
-    ],
-    "discard": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "odbaciti, poni\u00c5\u00a1titi"
+            "translation": "baza podataka"
         }
     ],
     "toolbar": [
@@ -1180,67 +1070,67 @@
             "translation": "alatna traka"
         }
     ],
-    "outline": [
+    "tooltip": [
         {
-            "comment": "",
+            "comment": "Okvir u grafi\u010dkom su\u010delju koji se pojavi kada se strelica mi\u0161a dr\u017ei iznad nekog elementa",
             "pos": "noun",
-            "translation": "struktura"
+            "translation": "info-obla\u010di\u0107, opis elementa"
         }
     ],
-    "dismiss": [
+    "pending": [
+        {
+            "comment": "Upotrijebiti zavisno od konteksta poruke",
+            "pos": "verb",
+            "translation": "u toku, u tijeku, na \u010dekanju, privremeno, u o\u010dekivanju, nerije\u0161en"
+        }
+    ],
+    "preview": [
+        {
+            "comment": "Omogu\u0107uje pregled sadr\u017eaja na stranici prije objavljivanja",
+            "pos": "verb",
+            "translation": "pretpregled, pregled"
+        }
+    ],
+    "fade in": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "odbaciti, isklju\u00c4\u008diti"
+            "translation": "postepeno pojavljivanje"
         }
     ],
     "extract": [
         {
-            "comment": "Odnosi se na proces izdvajanja\/izvla\u00c4\u008denja datoteka iz kompresiranog zapisa kao \u00c5\u00a1to je *.zip",
+            "comment": "Odnosi se na proces izdvajanja\/izvla\u010denja datoteka iz kompresiranog zapisa kao \u0161to je *.zip",
             "pos": "verb",
             "translation": "izdvojiti"
+        }
+    ],
+    "browser": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "preglednik"
         }
     ],
     "excerpt": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "izvadak, sa\u00c5\u00beetak"
+            "translation": "izvadak, sa\u017eetak"
         }
     ],
-    "exclude": [
+    "feature": [
         {
-            "comment": "",
-            "pos": "verb",
-            "translation": "izuzeti, odstraniti, isklju\u00c4\u008diti"
-        }
-    ],
-    "restore": [
-        {
-            "comment": "Povrati, npr povrati sigurnosnu kopiju",
-            "pos": "verb",
-            "translation": "vrati, oporaviti"
-        }
-    ],
-    "options": [
-        {
-            "comment": "",
+            "comment": "Upotrijebiti zavisno od konteksta poruke",
             "pos": "noun",
-            "translation": "opcije"
+            "translation": "mogu\u0107nost, zna\u010dajka"
         }
     ],
-    "margina": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "margina"
-        }
-    ],
-    "include": [
+    "timeout": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "uvrsti, obuhvati, uklju\u00c4\u008di"
+            "translation": "istek vremena, vremensko ograni\u010denje"
         }
     ],
     "hosting": [
@@ -1250,11 +1140,135 @@
             "translation": "hosting"
         }
     ],
+    "builder": [
+        {
+            "comment": "Na primjer sastavlja\u010d stranice (page builder)",
+            "pos": "noun",
+            "translation": "sastavlja\u010d"
+        }
+    ],
+    "related": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "povezano, srodno"
+        }
+    ],
+    "restore": [
+        {
+            "comment": "Povrati, npr povrati sigurnosnu kopiju",
+            "pos": "verb",
+            "translation": "vrati, oporaviti"
+        }
+    ],
+    "tagline": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "slogan"
+        }
+    ],
+    "display": [
+        {
+            "comment": "Dio kompjuterske tehnologije i opreme, slu\u017ei za prikaz podataka",
+            "pos": "noun",
+            "translation": "zaslon"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "prika\u017ei"
+        }
+    ],
+    "caption": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "natpis, opis, tekst opisa"
+        }
+    ],
+    "discard": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "odbaciti, poni\u0161titi"
+        }
+    ],
+    "disable": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "onemogu\u0107i"
+        }
+    ],
+    "default": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "zadano, izvorno"
+        }
+    ],
+    "session": [
+        {
+            "comment": "Razdoblje odre\u0111ene aktivnosti",
+            "pos": "verb",
+            "translation": "razdoblje aktivnosti, period"
+        }
+    ],
+    "sidebar": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "bo\u010dna traka"
+        }
+    ],
     "collate": [
         {
-            "comment": "Slu\u00c5\u00bei za pravilno srotiranje znakova u bazi podataka",
+            "comment": "Slu\u017ei za pravilno srotiranje znakova u bazi podataka",
             "pos": "verb",
             "translation": "sortiranje, razvrstavanje"
+        }
+    ],
+    "snippet": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "isje\u010dak"
+        }
+    ],
+    "dismiss": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "odbaciti, isklju\u010diti"
+        }
+    ],
+    "exclude": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "izuzeti, odstraniti, isklju\u010diti"
+        }
+    ],
+    "padding": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "razmak, podstava, podloga, udaljenost od ruba"
+        }
+    ],
+    "upgrade": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "nadogradi"
+        }
+    ],
+    "include": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "uvrsti, obuhvati, uklju\u010di"
         }
     ],
     "integer": [
@@ -1271,18 +1285,11 @@
             "translation": "nije valjano"
         }
     ],
-    "snippet": [
+    "loading": [
         {
             "comment": "",
-            "pos": "noun",
-            "translation": "isje\u00c4\u008dak"
-        }
-    ],
-    "sidebar": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "bo\u00c4\u008dna traka"
+            "pos": "verb",
+            "translation": "u\u010ditavanje"
         }
     ],
     "logging": [
@@ -1292,93 +1299,53 @@
             "translation": "zapisivanje"
         }
     ],
-    "loading": [
+    "margina": [
         {
             "comment": "",
-            "pos": "verb",
-            "translation": "u\u00c4\u008ditavanje"
-        }
-    ],
-    "upgrade": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "nadogradi"
-        }
-    ],
-    "session": [
-        {
-            "comment": "Razdoblje odre\u00c4\u0091ene aktivnosti",
-            "pos": "verb",
-            "translation": "razdoblje aktivnosti, period"
+            "pos": "noun",
+            "translation": "margina"
         }
     ],
     "general": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "op\u00c4\u0087e, op\u00c4\u0087enito"
+            "translation": "op\u0107e, op\u0107enito"
         }
     ],
-    "caption": [
+    "spacing": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "natpis, opis, tekst opisa"
+            "translation": "razmak, prored"
         }
     ],
-    "default": [
+    "outline": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "zadano, izvorno"
+            "translation": "struktura"
         }
     ],
-    "revert": [
+    "options": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "opcije"
+        }
+    ],
+    "browse": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "vrati prethodno, vratiti se na posljednju spremljenu ina\u00c4\u008dicu"
-        }
-    ],
-    "button": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "dugme"
-        }
-    ],
-    "scroll": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "pomicanje"
-        },
-        {
-            "comment": "Dugme kliza\u00c4\u008da preglednika kojim okomito ili vodoravno mo\u00c5\u00beete pomicati sadr\u00c5\u00beaj na zaslonu",
-            "pos": "noun",
-            "translation": "kliznik"
+            "translation": "pregledaj, pregledavati"
         }
     ],
     "search": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "pretra\u00c5\u00bei"
-        }
-    ],
-    "select": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "odaberi"
-        }
-    ],
-    "server": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "poslu\u00c5\u00beitelj"
+            "translation": "pretra\u017ei"
         }
     ],
     "rotate": [
@@ -1388,123 +1355,6 @@
             "translation": "okreni, zakreni"
         }
     ],
-    "string": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "string, niz znakova"
-        }
-    ],
-    "slider": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "vrtuljak, kliza\u00c4\u008d"
-        }
-    ],
-    "schema": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "shema, paleta (boja), nacrt"
-        }
-    ],
-    "cancel": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "odustani, otka\u00c5\u00bei"
-        }
-    ],
-    "column": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "stupac, rubrika, stup"
-        }
-    ],
-    "hyphen": [
-        {
-            "comment": "Spojnica ( - ) razgodak je kojim se ra\u00c5\u00a1\u00c4\u008dlanjuju ili povezuju rije\u00c4\u008di, a pi\u00c5\u00a1e se bez bjelina s obiju strana, za razliku od crtice. Npr moja-domena.com",
-            "pos": "noun",
-            "translation": "spojnica"
-        }
-    ],
-    "screen": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "zaslon"
-        }
-    ],
-    "cookie": [
-        {
-            "comment": "Browser cookie",
-            "pos": "noun",
-            "translation": "kola\u00c4\u008di\u00c4\u0087"
-        }
-    ],
-    "editor": [
-        {
-            "comment": "Editing tool, odnosno alat za ure\u00c4\u0091ivanje teksta\/koda kao \u00c5\u00a1to su visual editor, theme editor, plugin editor",
-            "pos": "noun",
-            "translation": "ure\u00c4\u0091iva\u00c4\u008d"
-        },
-        {
-            "comment": "Korisni\u00c4\u008dka uloga",
-            "pos": "noun",
-            "translation": "urednik"
-        }
-    ],
-    "custom": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "prilago\u00c4\u0091eno, korisni\u00c4\u008dki definirano"
-        }
-    ],
-    "submit": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "po\u00c5\u00a1alji"
-        }
-    ],
-    "delete": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "obrisati"
-        }
-    ],
-    "source": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "izvor, ishodi\u00c5\u00a1te"
-        }
-    ],
-    "bundle": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "komplet, paket"
-        }
-    ],
-    "logout": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "odjava"
-        }
-    ],
-    "notice": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "obavijest"
-        }
-    ],
     "border": [
         {
             "comment": "",
@@ -1512,53 +1362,11 @@
             "translation": "obrub"
         }
     ],
-    "folder": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "mapa"
-        }
-    ],
-    "update": [
+    "cancel": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "a\u00c5\u00beuriraj"
-        }
-    ],
-    "footer": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "podno\u00c5\u00beje"
-        }
-    ],
-    "upload": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "prenesi, prijenos, u\u00c4\u008ditaj"
-        }
-    ],
-    "action": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "radnja, akcija"
-        }
-    ],
-    "offset": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "odmak, pomak, ka\u00c5\u00a1njenje, offset"
-        }
-    ],
-    "locale": [
-        {
-            "comment": "Skup pravila i podataka specifi\u00c4\u008dnih za jezik i geografsko podru\u00c4\u008dje",
-            "pos": "noun",
-            "translation": "jezik"
+            "translation": "odustani, otka\u017ei"
         }
     ],
     "backup": [
@@ -1575,6 +1383,53 @@
             "translation": "uvezna margina, odstojanje"
         }
     ],
+    "schema": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "shema, paleta (boja), nacrt"
+        }
+    ],
+    "screen": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "zaslon"
+        }
+    ],
+    "delete": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "obrisati"
+        }
+    ],
+    "scroll": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "pomicanje"
+        },
+        {
+            "comment": "Dugme kliza\u010da preglednika kojim okomito ili vodoravno mo\u017eete pomicati sadr\u017eaj na zaslonu",
+            "pos": "noun",
+            "translation": "kliznik"
+        }
+    ],
+    "layout": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "izgled, raspored, razmje\u0161taj, prijelom, postava, tlocrt, format"
+        }
+    ],
+    "select": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "odaberi"
+        }
+    ],
     "header": [
         {
             "comment": "",
@@ -1582,11 +1437,46 @@
             "translation": "zaglavlje"
         }
     ],
-    "layout": [
+    "offset": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "izgled, raspored, razmje\u00c5\u00a1taj, prijelom, postava, tlocrt, format"
+            "translation": "odmak, pomak, ka\u0161njenje, offset"
+        }
+    ],
+    "server": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "poslu\u017eitelj"
+        }
+    ],
+    "submit": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "po\u0161alji"
+        }
+    ],
+    "custom": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "prilago\u0111eno, korisni\u010dki definirano"
+        }
+    ],
+    "course": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "te\u010daj"
+        }
+    ],
+    "cookie": [
+        {
+            "comment": "Browser cookie",
+            "pos": "noun",
+            "translation": "kola\u010di\u0107"
         }
     ],
     "height": [
@@ -1596,46 +1486,60 @@
             "translation": "visina"
         }
     ],
-    "object": [
+    "column": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "objekt"
+            "translation": "stupac, rubrika, stup"
         }
     ],
-    "browse": [
+    "string": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "string, niz znakova"
+        }
+    ],
+    "slider": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "pregledaj, pregledavati"
+            "translation": "vrtuljak, kliza\u010d"
         }
     ],
-    "engine": [
+    "hyphen": [
+        {
+            "comment": "Spojnica ( - ) razgodak je kojim se ra\u0161\u010dlanjuju ili povezuju rije\u010di, a pi\u0161e se bez bjelina s obiju strana, za razliku od crtice. Npr moja-domena.com",
+            "pos": "noun",
+            "translation": "spojnica"
+        }
+    ],
+    "action": [
         {
             "comment": "",
+            "pos": "verb",
+            "translation": "radnja, akcija"
+        }
+    ],
+    "locale": [
+        {
+            "comment": "Skup pravila i podataka specifi\u010dnih za jezik i geografsko podru\u010dje",
             "pos": "noun",
-            "translation": "mehanizam, modul"
+            "translation": "jezik"
+        }
+    ],
+    "upload": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "prenesi, prijenos, u\u010ditaj"
         }
     ],
     "enable": [
         {
             "comment": "Upotrijebiti zavisno od konteksta poruke",
             "pos": "verb",
-            "translation": "omogu\u00c4\u0087i, aktiviraj, uklju\u00c4\u008di"
-        }
-    ],
-    "failed": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "neuspjelo"
-        }
-    ],
-    "bullet": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "grafi\u00c4\u008dka oznaka, markacija, oznaka"
+            "translation": "omogu\u0107i, aktiviraj, uklju\u010di"
         }
     ],
     "plugin": [
@@ -1649,21 +1553,42 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "sko\u00c4\u008dni (prozor, izbornik...)"
+            "translation": "sko\u010dni (prozor, izbornik...)"
+        }
+    ],
+    "source": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "izvor, ishodi\u0161te"
+        }
+    ],
+    "update": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "a\u017euriraj"
         }
     ],
     "buffer": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "me\u00c4\u0091uspremnik"
+            "translation": "me\u0111uspremnik"
         }
     ],
     "toggle": [
         {
-            "comment": "Mjenjanje iz jednog u drugi polo\u00c5\u00beaj, iz jedne u drugu funkciju",
+            "comment": "Mjenjanje iz jednog u drugi polo\u017eaj, iz jedne u drugu funkciju",
             "pos": "verb",
             "translation": "prebaci"
+        }
+    ],
+    "folder": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "mapa"
         }
     ],
     "preset": [
@@ -1673,11 +1598,39 @@
             "translation": "unaprijed postavljeno, zadana postava"
         }
     ],
+    "footer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "podno\u017eje"
+        }
+    ],
+    "engine": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "mehanizam, modul"
+        }
+    ],
     "parent": [
         {
-            "comment": "Kategorija, tema, stranica ili forum koji su postavljeni kao mati\u00c4\u008dni (glavni) ostalim kategorijama, temama, stranicama ili forumima",
+            "comment": "Kategorija, tema, stranica ili forum koji su postavljeni kao mati\u010dni (glavni) ostalim kategorijama, temama, stranicama ili forumima",
             "pos": "noun",
-            "translation": "mati\u00c4\u008dno"
+            "translation": "mati\u010dno"
+        }
+    ],
+    "notice": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "obavijest"
+        }
+    ],
+    "logout": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "odjava"
         }
     ],
     "recent": [
@@ -1687,81 +1640,65 @@
             "translation": "nedavno"
         }
     ],
+    "bundle": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "komplet, paket"
+        }
+    ],
+    "revert": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "vrati prethodno, vratiti se na posljednju spremljenu ina\u010dicu"
+        }
+    ],
+    "object": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "objekt"
+        }
+    ],
+    "button": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "dugme"
+        }
+    ],
+    "editor": [
+        {
+            "comment": "Editing tool, odnosno alat za ure\u0111ivanje teksta\/koda kao \u0161to su visual editor, theme editor, plugin editor",
+            "pos": "noun",
+            "translation": "ure\u0111iva\u010d"
+        },
+        {
+            "comment": "Korisni\u010dka uloga",
+            "pos": "noun",
+            "translation": "urednik"
+        }
+    ],
+    "bullet": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "grafi\u010dka oznaka, markacija, oznaka"
+        }
+    ],
+    "failed": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "neuspjelo"
+        }
+    ],
     "thread": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "nit, razgovor"
-        }
-    ],
-    "apply": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "primjeni"
-        }
-    ],
-    "width": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "\u00c5\u00a1irina"
-        }
-    ],
-    "aside": [
-        {
-            "comment": "(Post format) Kratka crtica o ne\u00c4\u008demu, kratka informacija ili pri\u00c4\u008da, odlomak teksta",
-            "pos": "noun",
-            "translation": "crtica"
-        }
-    ],
-    "state": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "stanje"
-        }
-    ],
-    "tweak": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "uga\u00c4\u0091anje"
-        }
-    ],
-    "clear": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "o\u00c4\u008distiti, ukloniti"
-        }
-    ],
-    "cache": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "predmemorija, privremena pohrana, privremena memorija"
-        }
-    ],
-    "child": [
-        {
-            "comment": "Child se odnosi na podre\u00c4\u0091enu stavku nekog mati\u00c4\u008dnog (parent) elementa.",
-            "pos": "noun",
-            "translation": "podre\u00c4\u0091eno"
-        }
-    ],
-    "build": [
-        {
-            "comment": "A named set of deliverables (software components) produced, usually by compiling, from a discrete set of source versions.",
-            "pos": "noun",
-            "translation": "me\u00c4\u0091uverzija"
-        }
-    ],
-    "unzip": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "raspakiraj zip"
         }
     ],
     "theme": [
@@ -1771,6 +1708,27 @@
             "translation": "tema"
         }
     ],
+    "child": [
+        {
+            "comment": "Child se odnosi na podre\u0111enu stavku nekog mati\u010dnog (parent) elementa.",
+            "pos": "noun",
+            "translation": "podre\u0111eno"
+        }
+    ],
+    "clear": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "o\u010distiti, ukloniti"
+        }
+    ],
+    "aside": [
+        {
+            "comment": "(Post format) Kratka crtica o ne\u010demu, kratka informacija ili pri\u010da, odlomak teksta",
+            "pos": "noun",
+            "translation": "crtica"
+        }
+    ],
     "topic": [
         {
             "comment": "Npr. forum topic - forumska tema",
@@ -1778,11 +1736,53 @@
             "translation": "tema"
         }
     ],
-    "hover": [
+    "build": [
+        {
+            "comment": "A named set of deliverables (software components) produced, usually by compiling, from a discrete set of source versions.",
+            "pos": "noun",
+            "translation": "me\u0111uverzija"
+        }
+    ],
+    "state": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "dr\u00c5\u00beati iznad, zadr\u00c5\u00beavanje pokaziva\u00c4\u008da"
+            "translation": "stanje"
+        }
+    ],
+    "apply": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "primjeni"
+        }
+    ],
+    "unzip": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "raspakiraj zip"
+        }
+    ],
+    "tweak": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "uga\u0111anje"
+        }
+    ],
+    "cache": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "predmemorija, privremena pohrana, privremena memorija"
+        }
+    ],
+    "width": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "\u0161irina"
         }
     ],
     "abort": [
@@ -1799,32 +1799,32 @@
             "translation": "skica"
         }
     ],
-    "reset": [
+    "embed": [
         {
-            "comment": "Vratiti na izvorno stanje",
+            "comment": "Postavljanje ili ugradnja vanjskog media sadr\u017eaja, naj\u010de\u0161\u0107e koriste\u0107i oEmbed format koji se obi\u010dno sastoji od jedne linije koda\/poveznice",
             "pos": "verb",
-            "translation": "ponovo postavi, vratiti izvorno"
+            "translation": "ugraditi (kod)"
         }
     ],
     "email": [
         {
-            "comment": "Elektroni\u00c4\u008dka po\u00c5\u00a1ta",
+            "comment": "Elektroni\u010dka po\u0161ta",
             "pos": "noun",
-            "translation": "e-po\u00c5\u00a1ta, elektronska po\u00c5\u00a1ta, poruke e-po\u00c5\u00a1te"
+            "translation": "e-po\u0161ta, elektronska po\u0161ta, poruke e-po\u0161te"
         }
     ],
     "queue": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "red \u00c4\u008dekanja"
+            "translation": "red \u010dekanja"
         }
     ],
-    "query": [
+    "login": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "upit, izvr\u00c5\u00a1iti upit"
+            "translation": "prijava"
         }
     ],
     "patch": [
@@ -1834,11 +1834,11 @@
             "translation": "zakrpa, zakrpati"
         }
     ],
-    "login": [
+    "query": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "prijava"
+            "translation": "upit, izvr\u0161iti upit"
         }
     ],
     "entry": [
@@ -1852,21 +1852,21 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "gre\u00c5\u00a1ka"
+            "translation": "gre\u0161ka"
         }
     ],
-    "embed": [
+    "hover": [
         {
-            "comment": "Postavljanje ili ugradnja vanjskog media sadr\u00c5\u00beaja, naj\u00c4\u008de\u00c5\u00a1\u00c4\u0087e koriste\u00c4\u0087i oEmbed format koji se obi\u00c4\u008dno sastoji od jedne linije koda\/poveznice",
+            "comment": "",
             "pos": "verb",
-            "translation": "ugraditi (kod)"
+            "translation": "dr\u017eati iznad, zadr\u017eavanje pokaziva\u010da"
         }
     ],
     "debug": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "ispravljanje gre\u00c5\u00a1aka"
+            "translation": "ispravljanje gre\u0161aka"
         }
     ],
     "setup": [
@@ -1887,7 +1887,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "pretra\u00c5\u00beivanje radi indeksiranja"
+            "translation": "pretra\u017eivanje radi indeksiranja"
         }
     ],
     "slash": [
@@ -1901,7 +1901,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "slajd, kliza\u00c4\u008d, dijapozitiv"
+            "translation": "slajd, kliza\u010d, dijapozitiv"
         }
     ],
     "pivot": [
@@ -1911,11 +1911,25 @@
             "translation": "zaokretati"
         }
     ],
+    "reset": [
+        {
+            "comment": "Vratiti na izvorno stanje",
+            "pos": "verb",
+            "translation": "ponovo postavi, vratiti izvorno"
+        }
+    ],
+    "undo": [
+        {
+            "comment": "Vrati na prethodno stanje",
+            "pos": "verb",
+            "translation": "poni\u0161ti, vrati"
+        }
+    ],
     "next": [
         {
-            "comment": "Npr. sljede\u00c4\u0087a stranica, sljede\u00c4\u0087a objava - slijediti poveznicu, slijediti upute",
+            "comment": "Npr. sljede\u0107a stranica, sljede\u0107a objava - slijediti poveznicu, slijediti upute",
             "pos": "noun",
-            "translation": "sljede\u00c4\u0087e, slijede\u00c4\u0087i"
+            "translation": "sljede\u0107e, slijede\u0107i"
         }
     ],
     "flip": [
@@ -1929,28 +1943,21 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "zabilje\u00c5\u00a1ka, napomena, bilje\u00c5\u00a1ka, obavijest"
+            "translation": "zabilje\u0161ka, napomena, bilje\u0161ka, obavijest"
         }
     ],
-    "undo": [
-        {
-            "comment": "Vrati na prethodno stanje",
-            "pos": "verb",
-            "translation": "poni\u00c5\u00a1ti, vrati"
-        }
-    ],
-    "spam": [
+    "sort": [
         {
             "comment": "",
-            "pos": "noun",
-            "translation": "spam, ne\u00c5\u00beeljena e-po\u00c5\u00a1ta"
+            "pos": "verb",
+            "translation": "poredati, razvrstati, sortirati"
         }
     ],
     "mute": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "isklju\u00c4\u008di zvuk"
+            "translation": "isklju\u010di zvuk"
         }
     ],
     "menu": [
@@ -1958,13 +1965,6 @@
             "comment": "",
             "pos": "noun",
             "translation": "izbornik"
-        }
-    ],
-    "grid": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "re\u00c5\u00a1etka"
         }
     ],
     "user": [
@@ -1986,6 +1986,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "poveznica"
+        }
+    ],
+    "grid": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "re\u0161etka"
         }
     ],
     "view": [
@@ -2025,7 +2032,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "upi\u00c5\u00a1i"
+            "translation": "upi\u0161i"
         }
     ],
     "save": [
@@ -2037,9 +2044,9 @@
     ],
     "feed": [
         {
-            "comment": "Distribucijski mehanizam za \u00c4\u008desto a\u00c5\u00beuriran sadr\u00c5\u00beaj kojeg skuplja RSS \u00c4\u008ditaa, a dostavljen je ili je objavljen u standardnom XML formatu.",
+            "comment": "Distribucijski mehanizam za \u010desto a\u017euriran sadr\u017eaj kojeg skuplja RSS \u010ditaa, a dostavljen je ili je objavljen u standardnom XML formatu.",
             "pos": "noun",
-            "translation": "sa\u00c5\u00beetak sadr\u00c5\u00beaja, kanal sa\u00c5\u00beetka sadr\u00c5\u00beaja, kanal"
+            "translation": "sa\u017eetak sadr\u017eaja, kanal sa\u017eetka sadr\u017eaja, kanal"
         }
     ],
     "term": [
@@ -2067,7 +2074,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "obre\u00c5\u00bei, izre\u00c5\u00bei"
+            "translation": "obre\u017ei, izre\u017ei"
         }
     ],
     "path": [
@@ -2081,7 +2088,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "povuci, vu\u00c4\u0087i, povu\u00c4\u0087i, dovu\u00c4\u0087i"
+            "translation": "povuci, vu\u0107i, povu\u0107i, dovu\u0107i"
         }
     ],
     "role": [
@@ -2095,14 +2102,14 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "vrati, vra\u00c4\u0087anje, povrat"
+            "translation": "vrati, vra\u0107anje, povrat"
         }
     ],
-    "sort": [
+    "spam": [
         {
             "comment": "",
-            "pos": "verb",
-            "translation": "poredati, razvrstati, sortirati"
+            "pos": "noun",
+            "translation": "spam, ne\u017eeljena e-po\u0161ta"
         }
     ],
     "post": [
@@ -2116,21 +2123,14 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "postepeno i\u00c5\u00a1\u00c4\u008dezavanje"
+            "translation": "postepeno i\u0161\u010dezavanje"
         }
     ],
     "bug": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "gre\u00c5\u00a1ka, kvar, nedostatak"
-        }
-    ],
-    "tag": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "oznaka"
+            "translation": "gre\u0161ka, kvar, nedostatak"
         }
     ],
     "log": [
@@ -2138,6 +2138,13 @@
             "comment": "",
             "pos": "noun",
             "translation": "zapisnik"
+        }
+    ],
+    "tag": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "oznaka"
         }
     ],
     "row": [

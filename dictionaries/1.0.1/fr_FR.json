@@ -3,14 +3,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "r\u00c3\u00a9f\u00c3\u00a9rence d\u00e2\u0080\u0099entit\u00c3\u00a9 de caract\u00c3\u00a8re"
+            "translation": "r\u00e9f\u00e9rence d\u2019entit\u00e9 de caract\u00e8re"
         }
     ],
     "two factor authentication": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "authentification \u00c3\u00a0 deux facteurs"
+            "translation": "authentification \u00e0 deux facteurs"
         }
     ],
     "wordpress.com enterprise": [
@@ -52,21 +52,21 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Image d\u00e2\u0080\u0099en-t\u00c3\u00aate personnalis\u00c3\u00a9e"
+            "translation": "Image d\u2019en-t\u00eate personnalis\u00e9e"
         }
     ],
     "remove permanently": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "Supprimer d\u00c3\u00a9finitivement"
+            "translation": "Supprimer d\u00e9finitivement"
         }
     ],
     "template hierarchy": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "hi\u00c3\u00a9rarchie des fichiers mod\u00c3\u00a8les"
+            "translation": "hi\u00e9rarchie des fichiers mod\u00e8les"
         }
     ],
     "happiness engineer": [
@@ -87,35 +87,35 @@
         {
             "comment": "\"media file\" is now prefered for this string",
             "pos": "noun",
-            "translation": "fichier m\u00c3\u00a9dia joint"
+            "translation": "fichier m\u00e9dia joint"
         }
     ],
     "hosting provider": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "h\u00c3\u00a9bergeur"
+            "translation": "h\u00e9bergeur"
         }
     ],
     "custom post type": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Type de contenu personnalis\u00c3\u00a9"
+            "translation": "Type de contenu personnalis\u00e9"
         }
     ],
     "freshly pressed": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Fra\u00c3\u00aechement press\u00c3\u00a9"
+            "translation": "Fra\u00eechement press\u00e9"
         }
     ],
     "troubleshooting": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "d\u00c3\u00a9pannage"
+            "translation": "d\u00e9pannage"
         }
     ],
     "conditional tag": [
@@ -136,7 +136,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Outil de mise en ligne des m\u00c3\u00a9dias"
+            "translation": "Outil de mise en ligne des m\u00e9dias"
         }
     ],
     "featured image": [
@@ -150,21 +150,21 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "code de caract\u00c3\u00a8res"
+            "translation": "code de caract\u00e8res"
         }
     ],
     "post thumbnail": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "miniature d\u00e2\u0080\u0099article"
+            "translation": "miniature d\u2019article"
         }
     ],
     "character set": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "jeu de caract\u00c3\u00a8res"
+            "translation": "jeu de caract\u00e8res"
         }
     ],
     "language pack": [
@@ -178,7 +178,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "th\u00c3\u00a8me par d\u00c3\u00a9faut"
+            "translation": "th\u00e8me par d\u00e9faut"
         }
     ],
     "administrator": [
@@ -199,14 +199,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "article pr\u00c3\u00a9c\u00c3\u00a9dent"
+            "translation": "article pr\u00e9c\u00e9dent"
         }
     ],
     "extra storage": [
         {
             "comment": "Upgrade that adds more storage space to the user's blog. More info: http:\/\/en.support.wordpress.com\/space-upgrade\/",
             "pos": "noun",
-            "translation": "Stockage suppl\u00c3\u00a9mentaire"
+            "translation": "Stockage suppl\u00e9mentaire"
         }
     ],
     "wordpress.com": [
@@ -220,7 +220,7 @@
         {
             "comment": "WordPress.com paid upgrade product name",
             "pos": "noun",
-            "translation": "th\u00c3\u00a8me premium"
+            "translation": "th\u00e8me premium"
         }
     ],
     "featured post": [
@@ -255,7 +255,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "r\u00c3\u00a9seau social"
+            "translation": "r\u00e9seau social"
         }
     ],
     "color scheme": [
@@ -272,7 +272,7 @@
     ],
     "successfully": [
         {
-            "comment": "P.ex. La maj a bien \u00c3\u00a9t\u00c3\u00a9 effectu\u00c3\u00a9e.",
+            "comment": "P.ex. La maj a bien \u00e9t\u00e9 effectu\u00e9e.",
             "pos": "noun",
             "translation": "bien"
         }
@@ -302,12 +302,12 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "s\u00c3\u00a9lecteur de date"
+            "translation": "s\u00e9lecteur de date"
         }
     ],
     "permissions": [
         {
-            "comment": "Droits d\u00e2\u0080\u0099acc\u00c3\u00a8s, droits en \u00c3\u00a9criture \/ de modification \/ de suppression",
+            "comment": "Droits d\u2019acc\u00e8s, droits en \u00e9criture \/ de modification \/ de suppression",
             "pos": "noun",
             "translation": "droits"
         }
@@ -323,21 +323,21 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "\u00c3\u00a9tat d\u00e2\u0080\u0099article"
+            "translation": "\u00e9tat d\u2019article"
         }
     ],
     "post format": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "format d\u00e2\u0080\u0099article"
+            "translation": "format d\u2019article"
         }
     ],
     "action hook": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "crochet d\u00e2\u0080\u0099action"
+            "translation": "crochet d\u2019action"
         }
     ],
     "coupon code": [
@@ -358,28 +358,28 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "panneau d\u00e2\u0080\u0099administration"
+            "translation": "panneau d\u2019administration"
         }
     ],
     "back-office": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "interface d\u00e2\u0080\u0099administration"
+            "translation": "interface d\u2019administration"
         }
     ],
     "text editor": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "\u00c3\u00a9diteur de texte"
+            "translation": "\u00e9diteur de texte"
         }
     ],
     "bulk action": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "action group\u00c3\u00a9e"
+            "translation": "action group\u00e9e"
         }
     ],
     "bookmarklet": [
@@ -393,14 +393,14 @@
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "auto-h\u00c3\u00a9berg\u00c3\u00a9"
+            "translation": "auto-h\u00e9berg\u00e9"
         }
     ],
     "repository": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "D\u00c3\u00a9p\u00c3\u00b4t"
+            "translation": "D\u00e9p\u00f4t"
         }
     ],
     "responsive": [
@@ -426,16 +426,16 @@
     ],
     "not sticky": [
         {
-            "comment": "Pour le format d\u00e2\u0080\u0099article \"Sticky - \u00c3\u0089pingl\u00c3\u00a9\"",
+            "comment": "Pour le format d\u2019article \"Sticky - \u00c9pingl\u00e9\"",
             "pos": "adjective",
-            "translation": "non \u00c3\u00a9pingl\u00c3\u00a9"
+            "translation": "non \u00e9pingl\u00e9"
         }
     ],
     "background": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "arri\u00c3\u00a8re-plan"
+            "translation": "arri\u00e8re-plan"
         }
     ],
     "older post": [
@@ -456,7 +456,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "d\u00c3\u00a9sactiver"
+            "translation": "d\u00e9sactiver"
         }
     ],
     "permission": [
@@ -470,14 +470,14 @@
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "d\u00c3\u00a9connect\u00c3\u00a9"
+            "translation": "d\u00e9connect\u00e9"
         }
     ],
     "ip address": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "adresse\u00c2\u00a0IP"
+            "translation": "adresse\u00a0IP"
         }
     ],
     "navigation": [
@@ -526,14 +526,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "D\u00c3\u00a9croissant"
+            "translation": "D\u00e9croissant"
         }
     ],
     "deprecated": [
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "obsol\u00c3\u00a8te"
+            "translation": "obsol\u00e8te"
         }
     ],
     "date field": [
@@ -568,14 +568,14 @@
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "connect\u00c3\u00a9"
+            "translation": "connect\u00e9"
         }
     ],
     "scheduled": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Planifi\u00c3\u00a9"
+            "translation": "Planifi\u00e9"
         }
     ],
     "shortcode": [
@@ -603,7 +603,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "param\u00c3\u00a8tre"
+            "translation": "param\u00e8tre"
         }
     ],
     "transient": [
@@ -617,7 +617,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "r\u00c3\u00a9trolien"
+            "translation": "r\u00e9trolien"
         }
     ],
     "polldaddy": [
@@ -666,7 +666,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "r\u00c3\u00a9pertoire"
+            "translation": "r\u00e9pertoire"
         }
     ],
     "changeset": [
@@ -699,21 +699,21 @@
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "activ\u00c3\u00a9"
+            "translation": "activ\u00e9"
         }
     ],
     "admin bar": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "barre d\u00e2\u0080\u0099administration"
+            "translation": "barre d\u2019administration"
         }
     ],
     "developer": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "d\u00c3\u00a9veloppeur"
+            "translation": "d\u00e9veloppeur"
         }
     ],
     "dashboard": [
@@ -776,21 +776,21 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "case \u00c3\u00a0 cocher"
+            "translation": "case \u00e0 cocher"
         }
     ],
     "settings": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "R\u00c3\u00a9glages"
+            "translation": "R\u00e9glages"
         }
     ],
     "required": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "obligatoire, n\u00c3\u00a9cessaire"
+            "translation": "obligatoire, n\u00e9cessaire"
         }
     ],
     "optional": [
@@ -881,14 +881,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "Mod\u00c3\u00a8le"
+            "translation": "Mod\u00e8le"
         }
     ],
     "category": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "cat\u00c3\u00a9gorie"
+            "translation": "cat\u00e9gorie"
         }
     ],
     "wordcamp": [
@@ -909,14 +909,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "nom d\u00e2\u0080\u0099utilisateur"
+            "translation": "nom d\u2019utilisateur"
         }
     ],
     "follower": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "abonn\u00c3\u00a9"
+            "translation": "abonn\u00e9"
         }
     ],
     "xml-rpc": [
@@ -937,7 +937,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "par d\u00c3\u00a9faut"
+            "translation": "par d\u00e9faut"
         }
     ],
     "archive": [
@@ -977,7 +977,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "S\u00c3\u00a9parateur"
+            "translation": "S\u00e9parateur"
         }
     ],
     "changes": [
@@ -1005,7 +1005,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "barre d\u00e2\u0080\u0099outils"
+            "translation": "barre d\u2019outils"
         }
     ],
     "comment": [
@@ -1031,7 +1031,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "colonne lat\u00c3\u00a9rale"
+            "translation": "colonne lat\u00e9rale"
         }
     ],
     "snippet": [
@@ -1059,7 +1059,7 @@
         {
             "comment": "Passer en version Pro",
             "pos": "verb",
-            "translation": "mettre \u00c3\u00a0 niveau"
+            "translation": "mettre \u00e0 niveau"
         }
     ],
     "youtube": [
@@ -1073,12 +1073,12 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "se d\u00c3\u00a9connecter"
+            "translation": "se d\u00e9connecter"
         },
         {
             "comment": "",
             "pos": "expression",
-            "translation": "d\u00c3\u00a9connexion"
+            "translation": "d\u00e9connexion"
         }
     ],
     "excerpt": [
@@ -1106,21 +1106,21 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "fonctionnalit\u00c3\u00a9"
+            "translation": "fonctionnalit\u00e9"
         }
     ],
     "survey": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "\u00c3\u00a9tude"
+            "translation": "\u00e9tude"
         }
     ],
     "select": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "S\u00c3\u00a9lectionner"
+            "translation": "S\u00e9lectionner"
         }
     ],
     "server": [
@@ -1148,14 +1148,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "\u00c3\u00a9tat"
+            "translation": "\u00e9tat"
         }
     ],
     "sticky": [
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "\u00c3\u00a9pingl\u00c3\u00a9"
+            "translation": "\u00e9pingl\u00e9"
         }
     ],
     "filter": [
@@ -1169,19 +1169,19 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "d\u00c3\u00a9connexion"
+            "translation": "d\u00e9connexion"
         }
     ],
     "editor": [
         {
-            "comment": "Outil d\u00e2\u0080\u0099\u00c3\u00a9dition (p.ex. \u00c3\u00a9diteur visuel, \u00c3\u00a9diteur de th\u00c3\u00a8me, \u00c3\u00a9diteur d\u00e2\u0080\u0099extension)",
+            "comment": "Outil d\u2019\u00e9dition (p.ex. \u00e9diteur visuel, \u00e9diteur de th\u00e8me, \u00e9diteur d\u2019extension)",
             "pos": "noun",
-            "translation": "\u00c3\u00a9diteur"
+            "translation": "\u00e9diteur"
         },
         {
             "comment": "User role group.",
             "pos": "noun",
-            "translation": "\u00c3\u00a9diteur"
+            "translation": "\u00e9diteur"
         }
     ],
     "folder": [
@@ -1195,12 +1195,12 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "d\u00c3\u00a9filement"
+            "translation": "d\u00e9filement"
         },
         {
             "comment": "",
             "pos": "verb",
-            "translation": "d\u00c3\u00a9filer\/faire d\u00c3\u00a9filer"
+            "translation": "d\u00e9filer\/faire d\u00e9filer"
         }
     ],
     "log in": [
@@ -1236,7 +1236,7 @@
             "translation": "auteur"
         },
         {
-            "comment": "Auteur d\u00e2\u0080\u0099extensions et de th\u00c3\u00a8mes.",
+            "comment": "Auteur d\u2019extensions et de th\u00e8mes.",
             "pos": "noun",
             "translation": "auteur"
         }
@@ -1280,7 +1280,7 @@
         {
             "comment": "Nom masculin",
             "pos": "noun",
-            "translation": "en-t\u00c3\u00aate"
+            "translation": "en-t\u00eate"
         }
     ],
     "search": [
@@ -1294,7 +1294,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "cha\u00c3\u00aene"
+            "translation": "cha\u00eene"
         }
     ],
     "option": [
@@ -1336,12 +1336,12 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "s\u00c3\u00a9lecteur"
+            "translation": "s\u00e9lecteur"
         }
     ],
     "remove": [
         {
-            "comment": "Exception : Supprimer pour les utilisateurs, extensions et th\u00c3\u00a8mes.",
+            "comment": "Exception : Supprimer pour les utilisateurs, extensions et th\u00e8mes.",
             "pos": "verb",
             "translation": "Retirer"
         }
@@ -1362,7 +1362,7 @@
     ],
     "github": [
         {
-            "comment": "C\u00e2\u0080\u0099est une marque",
+            "comment": "C\u2019est une marque",
             "pos": "noun",
             "translation": "GitHub"
         }
@@ -1371,14 +1371,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "libell\u00c3\u00a9"
+            "translation": "libell\u00e9"
         }
     ],
     "likes": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "J\u00e2\u0080\u0099aime"
+            "translation": "J\u2019aime"
         }
     ],
     "slide": [
@@ -1406,19 +1406,19 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "d\u00c3\u00a9bogage"
+            "translation": "d\u00e9bogage"
         },
         {
             "comment": "",
             "pos": "verb",
-            "translation": "d\u00c3\u00a9boguer"
+            "translation": "d\u00e9boguer"
         }
     ],
     "query": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "requ\u00c3\u00aate"
+            "translation": "requ\u00eate"
         }
     ],
     "valid": [
@@ -1432,7 +1432,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "th\u00c3\u00a8me"
+            "translation": "th\u00e8me"
         }
     ],
     "scale": [
@@ -1446,7 +1446,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "vid\u00c3\u00a9o"
+            "translation": "vid\u00e9o"
         }
     ],
     "array": [
@@ -1474,7 +1474,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "h\u00c3\u00b4tes"
+            "translation": "h\u00f4tes"
         }
     ],
     "draft": [
@@ -1516,7 +1516,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "\u00c3\u00a9pingler"
+            "translation": "\u00e9pingler"
         }
     ],
     "enter": [
@@ -1530,7 +1530,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "\u00c3\u00a9v\u00c3\u00a8nement"
+            "translation": "\u00e9v\u00e8nement"
         }
     ],
     "nonce": [
@@ -1563,7 +1563,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "point d\u00e2\u0080\u0099accroche"
+            "translation": "point d\u2019accroche"
         }
     ],
     "form": [
@@ -1582,7 +1582,7 @@
     ],
     "only": [
         {
-            "comment": "plut\u00c3\u00b4t que seulement",
+            "comment": "plut\u00f4t que seulement",
             "pos": "noun",
             "translation": "uniquement"
         }
@@ -1596,9 +1596,9 @@
     ],
     "icon": [
         {
-            "comment": "Nom f\u00c3\u00a9minin",
+            "comment": "Nom f\u00e9minin",
             "pos": "noun",
-            "translation": "Ic\u00c3\u00b4ne"
+            "translation": "Ic\u00f4ne"
         }
     ],
     "poll": [
@@ -1619,7 +1619,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "ind\u00c3\u00a9sirable"
+            "translation": "ind\u00e9sirable"
         }
     ],
     "post": [
@@ -1645,7 +1645,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "r\u00c3\u00b4le"
+            "translation": "r\u00f4le"
         }
     ],
     "slug": [
@@ -1694,14 +1694,14 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "m\u00c3\u00a9ta, m\u00c3\u00a9tadonn\u00c3\u00a9es"
+            "translation": "m\u00e9ta, m\u00e9tadonn\u00e9es"
         }
     ],
     "like": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "J\u00e2\u0080\u0099aime"
+            "translation": "J\u2019aime"
         }
     ],
     "ping": [
@@ -1715,7 +1715,7 @@
         {
             "comment": "",
             "pos": "verb",
-            "translation": "\u00c3\u00a9valuer"
+            "translation": "\u00e9valuer"
         },
         {
             "comment": "",
@@ -1725,7 +1725,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "\u00c3\u00a9valuation"
+            "translation": "\u00e9valuation"
         }
     ],
     "blog": [
@@ -1788,12 +1788,12 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "\u00c3\u00a9tiquette"
+            "translation": "\u00e9tiquette"
         }
     ],
     "no": [
         {
-            "comment": "P.ex. No %s found = Aucun %s trouv\u00c3\u00a9",
+            "comment": "P.ex. No %s found = Aucun %s trouv\u00e9",
             "pos": "noun",
             "translation": "Aucun"
         }

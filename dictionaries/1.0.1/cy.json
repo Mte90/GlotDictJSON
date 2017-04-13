@@ -262,7 +262,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "gwerth sy\u00e2\u0080\u0099n cael ei ddychwelyd"
+            "translation": "gwerth sy\u2019n cael ei ddychwelyd"
         }
     ],
     "contributors": [
@@ -367,7 +367,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "cofnod h\u00c5\u00b7n"
+            "translation": "cofnod h\u0177n"
         }
     ],
     "not sticky": [
@@ -493,7 +493,7 @@
         {
             "comment": "",
             "pos": "noun",
-            "translation": "caniat\u00c3\u00a2d"
+            "translation": "caniat\u00e2d"
         }
     ],
     "deactivate": [
@@ -561,7 +561,7 @@
     ],
     "shortcode": [
         {
-            "comment": "Cod penodol i WordPress sy\u00e2\u0080\u0099n galluogi defnyddwyr i gyflawni gweithredoedd fel mewnblannu ffeiliau neu greu gwrthrychau fyddai fel arall yn golygu llwyth o godio.",
+            "comment": "Cod penodol i WordPress sy\u2019n galluogi defnyddwyr i gyflawni gweithredoedd fel mewnblannu ffeiliau neu greu gwrthrychau fyddai fel arall yn golygu llwyth o godio.",
             "pos": "noun",
             "translation": "cod byr"
         }
@@ -1029,7 +1029,7 @@
             "translation": "golygydd"
         },
         {
-            "comment": "Gr\u00c5\u00b5p rol defnyddiwr.",
+            "comment": "Gr\u0175p rol defnyddiwr.",
             "pos": "noun",
             "translation": "golygydd"
         }
@@ -1097,7 +1097,7 @@
             "translation": "awdur"
         },
         {
-            "comment": "Awdur ategion a them\u00c3\u00a2u.",
+            "comment": "Awdur ategion a them\u00e2u.",
             "pos": "noun",
             "translation": "awdur"
         }

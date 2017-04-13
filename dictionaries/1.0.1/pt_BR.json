@@ -1,16 +1,79 @@
 {
+    "democratic republic of the congo": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Rep\u00fablica Democr\u00e1tica do Congo"
+        }
+    ],
+    "saint vincent and the grenadines": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "S\u00e3o Vicente e Granadinas"
+        }
+    ],
+    "federated states of micronesia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Estados Federados da Micron\u00e9sia"
+        }
+    ],
+    "ivory coast; c\u00f4te d\u2019ivoire": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Costa do Marfim"
+        }
+    ],
+    "central african republic": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Rep\u00fablica Centro-africana"
+        }
+    ],
+    "s\u00e3o tom\u00e9 and pr\u00edncipe": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "S\u00e3o Tom\u00e9 e Pr\u00edncipe"
+        }
+    ],
     "distraction-free writing": [
         {
             "comment": "",
             "pos": "expression",
-            "translation": "escrita sem distra\u00c3\u00a7\u00c3\u00b5es"
+            "translation": "escrita sem distra\u00e7\u00f5es"
+        }
+    ],
+    "bosnia and herzegovina": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "B\u00f3snia e Herzegovina"
         }
     ],
     "you are not allowed to": [
         {
             "comment": "",
             "pos": "expression",
-            "translation": "sem permiss\u00c3\u00a3o para"
+            "translation": "sem permiss\u00e3o para"
+        }
+    ],
+    "republic of the congo": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Rep\u00fablica do Congo"
+        }
+    ],
+    "saint kitts and nevis": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "S\u00e3o Crist\u00f3v\u00e3o e Neves"
         }
     ],
     "are you sure you want": [
@@ -20,25 +83,32 @@
             "translation": "tem certeza de que deseja"
         }
     ],
-    "keep in mind that": [
+    "united arab emirates": [
         {
-            "comment": "",
-            "pos": "expression",
-            "translation": "lembre-se de que"
-        }
-    ],
-    "password strength": [
-        {
-            "comment": "",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "n\u00c3\u00advel de seguran\u00c3\u00a7a da senha"
+            "translation": "Emirados \u00c1rabes Unidos"
         }
     ],
-    "don\u2019t be stupid": [
+    "trinidad and tobago": [
         {
-            "comment": "n\u00c3\u00a3o seja bobo",
-            "pos": "expression",
-            "translation": "n\u00c3\u00a3o marque bobeira"
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Trinidad e Tobago"
+        }
+    ],
+    "antigua and barbuda": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Ant\u00edgua e Barbuda"
+        }
+    ],
+    "dominican republic": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Dominicana, Rep\u00fablica"
         }
     ],
     "you can just\/only": [
@@ -48,18 +118,67 @@
             "translation": "basta"
         }
     ],
-    "media attachment": [
+    "equatorial guinea": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Guin\u00e9 Equatorial"
+        }
+    ],
+    "password strength": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "m\u00c3\u00addia"
+            "translation": "n\u00edvel de seguran\u00e7a da senha"
+        }
+    ],
+    "don\u2019t be stupid": [
+        {
+            "comment": "n\u00e3o seja bobo",
+            "pos": "expression",
+            "translation": "n\u00e3o marque bobeira"
+        }
+    ],
+    "keep in mind that": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "lembre-se de que"
+        }
+    ],
+    "distraction free": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "escrita sem distra\u00e7\u00f5es"
+        }
+    ],
+    "papua new guinea": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Papua Nova Guin\u00e9"
         }
     ],
     "you are about to": [
         {
             "comment": "",
             "pos": "expression",
-            "translation": "voc\u00c3\u00aa est\u00c3\u00a1 prestes a"
+            "translation": "voc\u00ea est\u00e1 prestes a"
+        }
+    ],
+    "media attachment": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "m\u00eddia"
+        }
+    ],
+    "state-of-the-art": [
+        {
+            "comment": "de vanguarda",
+            "pos": "expression",
+            "translation": "avan\u00e7ado"
         }
     ],
     "theme customizer": [
@@ -76,32 +195,18 @@
             "translation": "painel geral"
         }
     ],
-    "distraction free": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "escrita sem distra\u00c3\u00a7\u00c3\u00b5es"
-        }
-    ],
-    "state-of-the-art": [
-        {
-            "comment": "de vanguarda",
-            "pos": "expression",
-            "translation": "avan\u00c3\u00a7ado"
-        }
-    ],
     "parent category": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "categoria m\u00c3\u00a3e"
+            "translation": "categoria m\u00e3e"
         }
     ],
-    "set a password": [
+    "solomon islands": [
         {
-            "comment": "",
-            "pos": "expression",
-            "translation": "definir uma senha"
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Salom\u00e3o, Ilhas"
         }
     ],
     "stretch to fit": [
@@ -111,60 +216,39 @@
             "translation": "aumentar para ajustar ao tamanho"
         }
     ],
+    "burma; myanmar": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Myanmar"
+        }
+    ],
+    "set a password": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "definir uma senha"
+        }
+    ],
+    "czech republic": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Rep\u00fablica Tcheca"
+        }
+    ],
+    "united kingdom": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Reino Unido"
+        }
+    ],
     "search engine": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "mecanismo de busca"
-        }
-    ],
-    "so you cannot": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "portanto, voc\u00c3\u00aa n\u00c3\u00a3o pode"
-        }
-    ],
-    "customization": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "personaliza\u00c3\u00a7\u00c3\u00a3o"
-        }
-    ],
-    "subscriptions": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "assinaturas"
-        }
-    ],
-    "you must have": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "deve ter"
-        }
-    ],
-    "cheating, uh?": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "Trapaceando, \u00c3\u00a9?"
-        }
-    ],
-    "you cannot to": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "sem permiss\u00c3\u00a3o para"
-        }
-    ],
-    "at the bottom": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "na parte inferior"
         }
     ],
     "captioning id": [
@@ -174,11 +258,81 @@
             "translation": "ID de legenda"
         }
     ],
-    "parent theme": [
+    "cheating, uh?": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "Trapaceando, \u00e9?"
+        }
+    ],
+    "subscriptions": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "tema pai"
+            "translation": "assinaturas"
+        }
+    ],
+    "at the bottom": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "na parte inferior"
+        }
+    ],
+    "united states": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Estados Unidos"
+        }
+    ],
+    "so you cannot": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "portanto, voc\u00ea n\u00e3o pode"
+        }
+    ],
+    "liechtenstein": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Liechtenstein"
+        }
+    ],
+    "you cannot to": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "sem permiss\u00e3o para"
+        }
+    ],
+    "guinea-bissau": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Guin\u00e9-Bissau"
+        }
+    ],
+    "you must have": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "deve ter"
+        }
+    ],
+    "customization": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "personaliza\u00e7\u00e3o"
+        }
+    ],
+    "south africa": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "\u00c1frica do Sul"
         }
     ],
     "connect to x": [
@@ -188,18 +342,25 @@
             "translation": "conectar a x"
         }
     ],
-    "with success": [
+    "parent theme": [
         {
             "comment": "",
-            "pos": "expression",
-            "translation": "com sucesso"
+            "pos": "noun",
+            "translation": "tema pai"
         }
     ],
-    "live preview": [
+    "vatican city": [
         {
-            "comment": "",
-            "pos": "expression",
-            "translation": "ver ao vivo"
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Cidade do Vaticano"
+        }
+    ],
+    "saudi arabia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Ar\u00e1bia Saudita"
         }
     ],
     "color picker": [
@@ -209,18 +370,39 @@
             "translation": "seletor de cor"
         }
     ],
-    "child theme": [
+    "sierra leone": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Serra Leoa"
+        }
+    ],
+    "turkmenistan": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Turcomenist\u00e3o"
+        }
+    ],
+    "burkina faso": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Burkina Faso"
+        }
+    ],
+    "live preview": [
         {
             "comment": "",
             "pos": "expression",
-            "translation": "tema filho"
+            "translation": "ver ao vivo"
         }
     ],
-    "rich editor": [
+    "with success": [
         {
             "comment": "",
-            "pos": "noun",
-            "translation": "Editor visual"
+            "pos": "expression",
+            "translation": "com sucesso"
         }
     ],
     "invoke urls": [
@@ -230,25 +412,102 @@
             "translation": "chamar URLs"
         }
     ],
+    "new zealand": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Nova Zel\u00e2ndia"
+        }
+    ],
+    "the bahamas": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Bahamas"
+        }
+    ],
+    "afghanistan": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Afeganist\u00e3o"
+        }
+    ],
+    "saint lucia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Santa L\u00facia"
+        }
+    ],
+    "gambia, the": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "G\u00e2mbia"
+        }
+    ],
+    "rich editor": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "Editor visual"
+        }
+    ],
+    "philippines": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Filipinas"
+        }
+    ],
+    "el salvador": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "El Salvador"
+        }
+    ],
+    "south sudan": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Sud\u00e3o do Sul"
+        }
+    ],
+    "north korea": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Coreia do Norte"
+        }
+    ],
     "cannot view": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "n\u00c3\u00a3o \u00c3\u00a9 poss\u00c3\u00advel ver"
+            "translation": "n\u00e3o \u00e9 poss\u00edvel ver"
         }
     ],
-    "at the top": [
+    "switzerland": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Su\u00ed\u00e7a"
+        }
+    ],
+    "child theme": [
         {
             "comment": "",
             "pos": "expression",
-            "translation": "na parte superior"
+            "translation": "tema filho"
         }
     ],
-    "respond to": [
+    "south korea": [
         {
-            "comment": "",
-            "pos": "verb",
-            "translation": "responder a"
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Coreia do Sul"
         }
     ],
     "attachment": [
@@ -265,11 +524,53 @@
             "translation": "admin-mestre"
         }
     ],
-    "no x found": [
+    "kyrgyzstan": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Quirguist\u00e3o"
+        }
+    ],
+    "kazakhstan": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Cazaquist\u00e3o"
+        }
+    ],
+    "san marino": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "S\u00e3o Marino"
+        }
+    ],
+    "east timor": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Timor Leste"
+        }
+    ],
+    "azerbaijan": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Azerbaij\u00e3o"
+        }
+    ],
+    "respond to": [
         {
             "comment": "",
-            "pos": "expression",
-            "translation": "nenhum x encontrado"
+            "pos": "verb",
+            "translation": "responder a"
+        }
+    ],
+    "uzbekistan": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Usbequist\u00e3o"
         }
     ],
     "first name": [
@@ -279,67 +580,18 @@
             "translation": "nome"
         }
     ],
-    "hidden gui": [
+    "no x found": [
         {
             "comment": "",
             "pos": "expression",
-            "translation": "GUI oculta"
+            "translation": "nenhum x encontrado"
         }
     ],
-    "logged out": [
-        {
-            "comment": "idem",
-            "pos": "expression",
-            "translation": "desconectado"
-        }
-    ],
-    "fullscreen": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "tela cheia"
-        }
-    ],
-    "gatekeeper": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "guardi\u00c3\u00a3o"
-        }
-    ],
-    "matching x": [
+    "at the top": [
         {
             "comment": "",
             "pos": "expression",
-            "translation": "correspondente a x"
-        }
-    ],
-    "deactivate": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "desativar"
-        }
-    ],
-    "subscribed": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "assinou"
-        }
-    ],
-    "couldn\u2019t": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "n\u00c3\u00a3o foi poss\u00c3\u00advel"
-        }
-    ],
-    "customizer": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "personalizador"
+            "translation": "na parte superior"
         }
     ],
     "search for": [
@@ -349,11 +601,88 @@
             "translation": "procurar por"
         }
     ],
+    "throttling": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "controle de fluxo"
+        }
+    ],
+    "deactivate": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "desativar"
+        }
+    ],
+    "costa rica": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Costa Rica"
+        }
+    ],
+    "luxembourg": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Luxemburgo"
+        }
+    ],
+    "madagascar": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Madagascar"
+        }
+    ],
+    "tajikistan": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Tadjiquist\u00e3o"
+        }
+    ],
+    "hidden gui": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "GUI oculta"
+        }
+    ],
     "by default": [
         {
             "comment": "",
             "pos": "expression",
-            "translation": "por padr\u00c3\u00a3o"
+            "translation": "por padr\u00e3o"
+        }
+    ],
+    "matching x": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "correspondente a x"
+        }
+    ],
+    "subscribed": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "assinou"
+        }
+    ],
+    "cape verde": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Cabo Verde"
+        }
+    ],
+    "bangladesh": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Bangladesh"
         }
     ],
     "secret key": [
@@ -363,67 +692,95 @@
             "translation": "chave secreta"
         }
     ],
-    "throttling": [
+    "gatekeeper": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "controle de fluxo"
+            "translation": "guardi\u00e3o"
         }
     ],
     "costumizer": [
         {
-            "comment": "Nome da ferramenta, usar inicial mai\u00c3\u00bascula.",
+            "comment": "Nome da ferramenta, usar inicial mai\u00fascula.",
             "pos": "noun",
             "translation": "Personalizar"
         }
     ],
-    "trackback": [
-        {
-            "comment": "masculino",
-            "pos": "noun",
-            "translation": "trackback"
-        }
-    ],
-    "could not": [
+    "fullscreen": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "N\u00c3\u00a3o foi poss\u00c3\u00advel"
+            "translation": "tela cheia"
+        }
+    ],
+    "mozambique": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Mo\u00e7ambique"
+        }
+    ],
+    "customizer": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "personalizador"
+        }
+    ],
+    "montenegro": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Montenegro"
+        }
+    ],
+    "mauritania": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Maurit\u00e2nia"
+        }
+    ],
+    "seychelles": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Seicheles; Seychelles"
+        }
+    ],
+    "logged out": [
+        {
+            "comment": "Por\u00e9m log in - fazer login e log out - fazer logout.",
+            "pos": "expression",
+            "translation": "desconectado"
+        }
+    ],
+    "couldn\u2019t": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "n\u00e3o foi poss\u00edvel"
+        }
+    ],
+    "nicaragua": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Nicar\u00e1gua"
         }
     ],
     "freshness": [
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "tempo desde a publica\u00c3\u00a7\u00c3\u00a3o"
+            "translation": "tempo desde a publica\u00e7\u00e3o"
         }
     ],
-    "scheduled": [
+    "lithuania": [
         {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "agendado"
-        }
-    ],
-    "permalink": [
-        {
-            "comment": "",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "link permanente"
-        }
-    ],
-    "subscribe": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "assinar"
-        }
-    ],
-    "follow-up": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "acompanhar"
+            "translation": "Litu\u00e2nia"
         }
     ],
     "last name": [
@@ -433,18 +790,53 @@
             "translation": "sobrenome"
         }
     ],
-    "check out": [
+    "mauritius": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Maur\u00edcio"
+        }
+    ],
+    "palestine": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Palestina"
+        }
+    ],
+    "macedonia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Maced\u00f4nia"
+        }
+    ],
+    "follow-up": [
         {
             "comment": "",
             "pos": "expression",
-            "translation": "consultar"
+            "translation": "acompanhar"
         }
     ],
-    "thank you": [
+    "guatemala": [
         {
-            "comment": "n\u00c3\u00a3o traduzir (n\u00c3\u00a3o agradecer o usu\u00c3\u00a1rio)",
-            "pos": "expression",
-            "translation": ""
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Guatemala"
+        }
+    ],
+    "indonesia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Indon\u00e9sia"
+        }
+    ],
+    "permalink": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "link permanente"
         }
     ],
     "customize": [
@@ -454,11 +846,221 @@
             "translation": "personalizar"
         }
     ],
+    "argentina": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Argentina"
+        }
+    ],
+    "wordpress": [
+        {
+            "comment": "Sempre com o \"P\" mai\u00fasculo!",
+            "pos": "noun",
+            "translation": "WordPress"
+        }
+    ],
+    "wednesday": [
+        {
+            "comment": "dia de semana",
+            "pos": "noun",
+            "translation": "quarta-feira"
+        }
+    ],
+    "venezuela": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Venezuela"
+        }
+    ],
+    "australia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Austr\u00e1lia"
+        }
+    ],
+    "trackback": [
+        {
+            "comment": "masculino",
+            "pos": "noun",
+            "translation": "trackback"
+        }
+    ],
+    "thank you": [
+        {
+            "comment": "n\u00e3o traduzir (n\u00e3o agradecer o usu\u00e1rio)",
+            "pos": "expression",
+            "translation": ""
+        }
+    ],
+    "swaziland": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Suazil\u00e2ndia"
+        }
+    ],
+    "subscribe": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "assinar"
+        }
+    ],
+    "check out": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "consultar"
+        }
+    ],
+    "singapore": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Cingapura"
+        }
+    ],
+    "could not": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "N\u00e3o foi poss\u00edvel"
+        }
+    ],
+    "sri lanka": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Sri Lanka"
+        }
+    ],
+    "september": [
+        {
+            "comment": "m\u00eas",
+            "pos": "noun",
+            "translation": "setembro"
+        }
+    ],
+    "scheduled": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "agendado"
+        }
+    ],
+    "username": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "nome de usu\u00e1rio"
+        }
+    ],
+    "thursday": [
+        {
+            "comment": "dia de semana",
+            "pos": "noun",
+            "translation": "quinta-feira"
+        }
+    ],
+    "timezone": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "fuso hor\u00e1rio"
+        }
+    ],
+    "reply to": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "responder a"
+        }
+    ],
+    "undelete": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "restaurar"
+        }
+    ],
+    "unfollow": [
+        {
+            "comment": "Igual ao Facebook",
+            "pos": "verb",
+            "translation": "deixar de seguir"
+        }
+    ],
+    "november": [
+        {
+            "comment": "m\u00eas",
+            "pos": "noun",
+            "translation": "novembro"
+        }
+    ],
     "language": [
         {
             "comment": "",
             "pos": "noun",
             "translation": "idioma"
+        }
+    ],
+    "thailand": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Tail\u00e2ndia"
+        }
+    ],
+    "kiribati": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Quirib\u00e1ti"
+        }
+    ],
+    "pakistan": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Paquist\u00e3o"
+        }
+    ],
+    "prefetch": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "pr\u00e9-carregar"
+        }
+    ],
+    "portugal": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Portugal"
+        }
+    ],
+    "paraguay": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Paraguai"
+        }
+    ],
+    "rest api": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "API REST"
+        }
+    ],
+    "tanzania": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Tanz\u00e2nia"
         }
     ],
     "template": [
@@ -468,25 +1070,25 @@
             "translation": "modelo"
         }
     ],
-    "nickname": [
+    "slovenia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Eslov\u00eania"
+        }
+    ],
+    "mongolia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Mong\u00f3lia"
+        }
+    ],
+    "settings": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "apelido"
-        }
-    ],
-    "timezone": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "fuso hor\u00c3\u00a1rio"
-        }
-    ],
-    "metadata": [
-        {
-            "comment": "traduzir no plural.",
-            "pos": "noun",
-            "translation": "metadados"
+            "translation": "configura\u00e7\u00f5es"
         }
     ],
     "moderate": [
@@ -494,6 +1096,13 @@
             "comment": "",
             "pos": "verb",
             "translation": "moderar"
+        }
+    ],
+    "metadata": [
+        {
+            "comment": "traduzir no plural.",
+            "pos": "noun",
+            "translation": "metadados"
         }
     ],
     "schedule": [
@@ -508,11 +1117,11 @@
             "translation": "agendar"
         }
     ],
-    "settings": [
+    "slovakia": [
         {
-            "comment": "",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "configura\u00c3\u00a7\u00c3\u00b5es"
+            "translation": "Eslov\u00e1quia"
         }
     ],
     "pingback": [
@@ -522,39 +1131,39 @@
             "translation": "pingback"
         }
     ],
-    "prefetch": [
+    "scotland": [
         {
-            "comment": "",
-            "pos": "verb",
-            "translation": "pr\u00c3\u00a9-carregar"
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Esc\u00f3cia"
         }
     ],
-    "reply to": [
+    "saturday": [
         {
-            "comment": "",
-            "pos": "verb",
-            "translation": "responder a"
+            "comment": "dia de semana",
+            "pos": "noun",
+            "translation": "s\u00e1bado"
         }
     ],
-    "rest api": [
+    "nickname": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "API REST"
+            "translation": "apelido"
         }
     ],
-    "unfollow": [
+    "suriname": [
         {
-            "comment": "Igual ao Facebook",
-            "pos": "verb",
-            "translation": "deixar de seguir"
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Suriname"
         }
     ],
-    "undelete": [
+    "maldives": [
         {
-            "comment": "",
-            "pos": "verb",
-            "translation": "restaurar"
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Maldivas"
         }
     ],
     "rss feed": [
@@ -564,11 +1173,11 @@
             "translation": "feed RSS"
         }
     ],
-    "username": [
+    "malaysia": [
         {
-            "comment": "",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "nome de usu\u00c3\u00a1rio"
+            "translation": "Mal\u00e1sia"
         }
     ],
     "activate": [
@@ -578,11 +1187,95 @@
             "translation": "ativar"
         }
     ],
+    "zimbabwe": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Zimb\u00e1bue"
+        }
+    ],
+    "dominica": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Dominica"
+        }
+    ],
+    "december": [
+        {
+            "comment": "m\u00eas",
+            "pos": "noun",
+            "translation": "dezembro"
+        }
+    ],
+    "complete": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "conclu\u00eddo"
+        }
+    ],
+    "ethiopia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Eti\u00f3pia"
+        }
+    ],
+    "blogroll": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "lista de links"
+        }
+    ],
+    "february": [
+        {
+            "comment": "m\u00eas",
+            "pos": "noun",
+            "translation": "fevereiro"
+        }
+    ],
     "escaping": [
         {
-            "comment": "Termo de programa\u00c3\u00a7\u00c3\u00a3o, n\u00c3\u00a3o traduzir.",
+            "comment": "Termo de programa\u00e7\u00e3o, n\u00e3o traduzir.",
             "pos": "noun",
             "translation": "escaping"
+        }
+    ],
+    "homepage": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "p\u00e1gina inicial"
+        }
+    ],
+    "honduras": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Honduras"
+        }
+    ],
+    "barbados": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Barbados"
+        }
+    ],
+    "cameroon": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Camar\u00f5es"
+        }
+    ],
+    "colombia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Col\u00f4mbia"
         }
     ],
     "database": [
@@ -592,18 +1285,18 @@
             "translation": "banco de dados"
         }
     ],
-    "complete": [
+    "cambodia": [
         {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "conclu\u00c3\u00addo"
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Camboja"
         }
     ],
-    "blogroll": [
+    "botswana": [
         {
-            "comment": "",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "lista de links"
+            "translation": "Botsuana"
         }
     ],
     "download": [
@@ -618,58 +1311,156 @@
             "translation": "fazer download"
         }
     ],
-    "homepage": [
+    "bulgaria": [
         {
-            "comment": "",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "p\u00c3\u00a1gina inicial"
+            "translation": "Bulg\u00e1ria"
         }
     ],
-    "shuffle": [
+    "djibouti": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Djibuti"
+        }
+    ],
+    "october": [
+        {
+            "comment": "m\u00eas",
+            "pos": "noun",
+            "translation": "outubro"
+        }
+    ],
+    "germany": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Alemanha"
+        }
+    ],
+    "georgia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Ge\u00f3rgia"
+        }
+    ],
+    "romania": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Rom\u00eania"
+        }
+    ],
+    "nigeria": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Nig\u00e9ria"
+        }
+    ],
+    "namibia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Nam\u00edbia"
+        }
+    ],
+    "can\u2019t": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "n\u00e3o \u00e9 poss\u00edvel"
+        }
+    ],
+    "moldova": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Mold\u00e1via"
+        }
+    ],
+    "finland": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Finl\u00e2ndia"
+        }
+    ],
+    "burundi": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Burundi"
+        }
+    ],
+    "morocco": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Marrocos"
+        }
+    ],
+    "somalia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Som\u00e1lia"
+        }
+    ],
+    "croatia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Cro\u00e1cia"
+        }
+    ],
+    "comoros": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Comores"
+        }
+    ],
+    "denmark": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Dinamarca"
+        }
+    ],
+    "display": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "embaralhar"
-        }
-    ],
-    "release": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "release"
-        }
-    ],
-    "deleted": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "exclu\u00c3\u00addo"
-        }
-    ],
-    "browser": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "navegador"
-        }
-    ],
-    "website": [
-        {
-            "comment": "masculino",
-            "pos": "noun",
-            "translation": "site"
-        }
-    ],
-    "preview": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "visualizar"
+            "translation": "exibir"
         },
         {
             "comment": "",
             "pos": "noun",
-            "translation": "visualiza\u00c3\u00a7\u00c3\u00a3o"
+            "translation": "exibi\u00e7\u00e3o"
+        }
+    ],
+    "request": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "solicitar"
+        }
+    ],
+    "ecuador": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Equador"
+        }
+    ],
+    "dismiss": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "dispensar"
         }
     ],
     "refresh": [
@@ -686,18 +1477,23 @@
             "translation": "desativar"
         }
     ],
-    "bitrate": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "taxa de bits"
-        }
-    ],
-    "request": [
+    "preview": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "solicitar"
+            "translation": "visualizar"
+        },
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "visualiza\u00e7\u00e3o"
+        }
+    ],
+    "deleted": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "exclu\u00eddo"
         }
     ],
     "feature": [
@@ -707,37 +1503,79 @@
             "translation": "recurso"
         }
     ],
-    "warning": [
+    "default": [
         {
-            "comment": "",
-            "pos": "interjection",
-            "translation": "aten\u00c3\u00a7\u00c3\u00a3o"
+            "comment": "invari\u00e1vel -sem plural",
+            "pos": "adjective",
+            "translation": "padr\u00e3o"
+        },
+        {
+            "comment": "usar Padr\u00f5es quando o plural for necess\u00e1rio",
+            "pos": "noun",
+            "translation": "padr\u00e3o"
         }
     ],
-    "display": [
+    "senegal": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Senegal"
+        }
+    ],
+    "england": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Inglaterra"
+        }
+    ],
+    "shuffle": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "exibir"
-        },
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "exibi\u00c3\u00a7\u00c3\u00a3o"
+            "translation": "embaralhar"
         }
     ],
     "sidebar": [
         {
-            "comment": "\u00c3\u00a1rea de widget",
+            "comment": "\u00e1rea de widget",
             "pos": "noun",
             "translation": "barral lateral"
         }
     ],
-    "dismiss": [
+    "eritrea": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Eritreia"
+        }
+    ],
+    "estonia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Est\u00f4nia"
+        }
+    ],
+    "bolivia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Bol\u00edvia"
+        }
+    ],
+    "browser": [
         {
             "comment": "",
-            "pos": "verb",
-            "translation": "dispensar"
+            "pos": "noun",
+            "translation": "navegador"
+        }
+    ],
+    "bitrate": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "taxa de bits"
         }
     ],
     "hotkeys": [
@@ -747,16 +1585,11 @@
             "translation": "teclas de acesso"
         }
     ],
-    "default": [
+    "bahrain": [
         {
-            "comment": "usar Padr\u00c3\u00b5es quando o plural for necess\u00c3\u00a1rio",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "padr\u00c3\u00a3o"
-        },
-        {
-            "comment": "invari\u00c3\u00a1vel -sem plural",
-            "pos": "adjective",
-            "translation": "padr\u00c3\u00a3o"
+            "translation": "Bahrein"
         }
     ],
     "link to": [
@@ -764,41 +1597,6 @@
             "comment": "",
             "pos": "verb",
             "translation": "apontar para"
-        }
-    ],
-    "can\u2019t": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "n\u00c3\u00a3o \u00c3\u00a9 poss\u00c3\u00advel"
-        }
-    ],
-    "hot tag": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "tag popular"
-        }
-    ],
-    "log out": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "fazer logout"
-        }
-    ],
-    "malware": [
-        {
-            "comment": "masculino",
-            "pos": "noun",
-            "translation": "malware"
-        }
-    ],
-    "help on": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "ajuda sobre"
         }
     ],
     "mapping": [
@@ -813,84 +1611,242 @@
             "translation": "mapeando"
         }
     ],
+    "liberia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Lib\u00e9ria"
+        }
+    ],
+    "lesotho": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Lesoto"
+        }
+    ],
+    "lebanon": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "L\u00edbano"
+        }
+    ],
+    "vanuatu": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Vanuatu"
+        }
+    ],
+    "austria": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "\u00c1ustria"
+        }
+    ],
+    "hot tag": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "tag popular"
+        }
+    ],
+    "vietnam": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Vietn\u00e3"
+        }
+    ],
+    "hungary": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Hungria"
+        }
+    ],
+    "uruguay": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Uruguai"
+        }
+    ],
+    "warning": [
+        {
+            "comment": "",
+            "pos": "interjection",
+            "translation": "aten\u00e7\u00e3o"
+        }
+    ],
+    "iceland": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Isl\u00e2ndia"
+        }
+    ],
+    "website": [
+        {
+            "comment": "masculino",
+            "pos": "noun",
+            "translation": "site"
+        }
+    ],
+    "armenia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Arm\u00eania"
+        }
+    ],
+    "andorra": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Andorra"
+        }
+    ],
+    "january": [
+        {
+            "comment": "m\u00eas",
+            "pos": "noun",
+            "translation": "janeiro"
+        }
+    ],
+    "jamaica": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Jamaica"
+        }
+    ],
+    "algeria": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Arg\u00e9lia"
+        }
+    ],
+    "albania": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Alb\u00e2nia"
+        }
+    ],
+    "ireland": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Irlanda"
+        }
+    ],
+    "help on": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "ajuda sobre"
+        }
+    ],
+    "holland": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Holanda"
+        }
+    ],
+    "ukraine": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Ucr\u00e2nia"
+        }
+    ],
+    "grenada": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Granada"
+        }
+    ],
+    "log out": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "fazer logout"
+        }
+    ],
+    "tunisia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Tun\u00edsia"
+        }
+    ],
     "address": [
         {
-            "comment": "Ex. \u00e2\u0080\u009cversion x addresses\u00e2\u0080\u00a6\u00e2\u0080\u009d \u00e2\u0080\u0093 \u00e2\u0080\u009ca vers\u00c3\u00a3o x corrige\u00e2\u0080\u00a6\u00e2\u0080\u009d",
+            "comment": "Ex. \u201cversion x addresses\u2026\u201d \u2013 \u201ca vers\u00e3o x corrige\u2026\u201d",
             "pos": "verb",
             "translation": "corrige"
         }
     ],
-    "mobile": [
+    "malware": [
+        {
+            "comment": "masculino",
+            "pos": "noun",
+            "translation": "malware"
+        }
+    ],
+    "tuesday": [
+        {
+            "comment": "dia de semana",
+            "pos": "noun",
+            "translation": "ter\u00e7a-feira"
+        }
+    ],
+    "belarus": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Bielorr\u00fassia"
+        }
+    ],
+    "belgium": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "B\u00e9lgica"
+        }
+    ],
+    "status": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "dispositivo m\u00c3\u00b3vel"
+            "translation": "status"
         }
     ],
-    "logged": [
-        {
-            "comment": "Por\u00c3\u00a9m log in - fazer login e log out - fazer logout.",
-            "pos": "noun",
-            "translation": "conectado"
-        }
-    ],
-    "browse": [
-        {
-            "comment": "omitir nos casos onde a tradu\u00c3\u00a7\u00c3\u00a3o exprime uma obviedade. Ex.: \u00e2\u0080\u009cYou are currently browsing the archives for\u00e2\u0080\u00a6\u00e2\u0080\u009d traduzir como: \u00e2\u0080\u009cVoc\u00c3\u00aa est\u00c3\u00a1 no arquivo do\u00e2\u0080\u00a6\u00e2\u0080\u009d",
-            "pos": "verb",
-            "translation": "procurar"
-        }
-    ],
-    "log in": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "fazer login"
-        }
-    ],
-    "backup": [
-        {
-            "comment": "Masculino",
-            "pos": "noun",
-            "translation": "backup"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "fazer backup"
-        }
-    ],
-    "target": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "destino"
-        }
-    ],
-    "header": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "cabe\u00c3\u00a7alho"
-        }
-    ],
-    "latest": [
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "mais recentes"
-        }
-    ],
-    "upload": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "upload"
-        },
+    "delete": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "fazer upload"
+            "translation": "excluir"
+        }
+    ],
+    "widget": [
+        {
+            "comment": "masculino",
+            "pos": "noun",
+            "translation": "widget"
+        }
+    ],
+    "design": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "design"
         }
     ],
     "device": [
@@ -898,6 +1854,20 @@
             "comment": "",
             "pos": "noun",
             "translation": "dispositivo"
+        }
+    ],
+    "browse": [
+        {
+            "comment": "omitir nos casos onde a tradu\u00e7\u00e3o exprime uma obviedade. Ex.: \u201cYou are currently browsing the archives for\u2026\u201d traduzir como: \u201cVoc\u00ea est\u00e1 no arquivo do\u2026\u201d",
+            "pos": "verb",
+            "translation": "procurar"
+        }
+    ],
+    "angola": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Angola"
         }
     ],
     "search": [
@@ -912,39 +1882,79 @@
             "translation": "pesquisar"
         }
     ],
-    "design": [
+    "brazil": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Brasil"
+        }
+    ],
+    "bosnia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "B\u00f3snia"
+        }
+    ],
+    "zambia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Z\u00e2mbia"
+        }
+    ],
+    "bhutan": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "But\u00e3o"
+        }
+    ],
+    "rwanda": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Ruanda"
+        }
+    ],
+    "target": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "design"
+            "translation": "destino"
         }
     ],
-    "delete": [
+    "belize": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Belize"
+        }
+    ],
+    "brunei": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Brunei"
+        }
+    ],
+    "canada": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Canad\u00e1"
+        }
+    ],
+    "upload": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "upload"
+        },
         {
             "comment": "",
             "pos": "verb",
-            "translation": "excluir"
-        }
-    ],
-    "closed": [
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "encerrado"
-        }
-    ],
-    "custom": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "personalizado"
-        }
-    ],
-    "rating": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "classifica\u00c3\u00a7\u00c3\u00a3o"
+            "translation": "fazer upload"
         }
     ],
     "sticky": [
@@ -954,11 +1964,11 @@
             "translation": "fixo"
         }
     ],
-    "newest": [
+    "closed": [
         {
             "comment": "",
             "pos": "adjective",
-            "translation": "mais recente"
+            "translation": "encerrado"
         }
     ],
     "submit": [
@@ -968,81 +1978,79 @@
             "translation": "enviar"
         }
     ],
-    "offine": [
-        {
-            "comment": "sem h\u00c3\u00adfen",
-            "pos": "adjective",
-            "translation": "offine"
-        }
-    ],
-    "on\/off": [
-        {
-            "comment": "",
-            "pos": "adjective",
-            "translation": "ativado\/desativado"
-        }
-    ],
-    "online": [
-        {
-            "comment": "sem h\u00c3\u00ad\u00c2\u00adfen",
-            "pos": "adjective",
-            "translation": "online"
-        }
-    ],
-    "widget": [
-        {
-            "comment": "masculino",
-            "pos": "noun",
-            "translation": "widget"
-        }
-    ],
-    "status": [
+    "banner": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "status"
+            "translation": "banner"
         }
     ],
-    "ensure": [
+    "backup": [
         {
-            "comment": "",
+            "comment": "Masculino",
             "pos": "noun",
-            "translation": "Garantir"
-        }
-    ],
-    "enable": [
+            "translation": "backup"
+        },
         {
             "comment": "",
             "pos": "verb",
-            "translation": "ativar"
+            "translation": "fazer backup"
         }
     ],
-    "manage": [
+    "sunday": [
+        {
+            "comment": "dia de semana",
+            "pos": "noun",
+            "translation": "domingo"
+        }
+    ],
+    "turkey": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Turquia"
+        }
+    ],
+    "august": [
+        {
+            "comment": "m\u00eas",
+            "pos": "noun",
+            "translation": "agosto"
+        }
+    ],
+    "sweden": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Su\u00e9cia"
+        }
+    ],
+    "custom": [
         {
             "comment": "",
-            "pos": "verb",
-            "translation": "gerenciar"
+            "pos": "noun",
+            "translation": "personalizado"
         }
     ],
-    "pixels": [
+    "serbia": [
         {
-            "comment": "",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "p\u00c3\u00adxeis"
+            "translation": "S\u00e9rvia"
         }
     ],
-    "please": [
+    "uganda": [
         {
-            "comment": "n\u00c3\u00a3o traduzir (n\u00c3\u00a3o pedir por favor ao usu\u00c3\u00a1rio)",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": ""
+            "translation": "Uganda"
         }
     ],
-    "plugin": [
+    "cyprus": [
         {
-            "comment": "sem h\u00c3\u00ad\u00c2\u00adfen",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "plugin"
+            "translation": "Chipre"
         }
     ],
     "source": [
@@ -1052,81 +2060,326 @@
             "translation": "origem"
         }
     ],
-    "banner": [
+    "russia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "R\u00fassia"
+        }
+    ],
+    "logged": [
+        {
+            "comment": "Por\u00e9m log in - fazer login e log out - fazer logout.",
+            "pos": "noun",
+            "translation": "conectado"
+        }
+    ],
+    "malawi": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Malawi"
+        }
+    ],
+    "log in": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "fazer login"
+        }
+    ],
+    "ensure": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "banner"
+            "translation": "Garantir"
         }
     ],
-    "start": [
+    "mobile": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "dispositivo m\u00f3vel"
+        }
+    ],
+    "friday": [
+        {
+            "comment": "dia de semana",
+            "pos": "noun",
+            "translation": "sexta-feira"
+        }
+    ],
+    "monaco": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "M\u00f4naco"
+        }
+    ],
+    "monday": [
+        {
+            "comment": "dia de semana",
+            "pos": "noun",
+            "translation": "segunda-feira"
+        }
+    ],
+    "france": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Fran\u00e7a"
+        }
+    ],
+    "panama": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Panam\u00e1"
+        }
+    ],
+    "online": [
+        {
+            "comment": "sem h\u00ed\u00adfen",
+            "pos": "adjective",
+            "translation": "online"
+        }
+    ],
+    "mexico": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "M\u00e9xico"
+        }
+    ],
+    "on\/off": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "ativado\/desativado"
+        }
+    ],
+    "latvia": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Let\u00f4nia"
+        }
+    ],
+    "offine": [
+        {
+            "comment": "sem h\u00edfen",
+            "pos": "adjective",
+            "translation": "offine"
+        }
+    ],
+    "norway": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Noruega"
+        }
+    ],
+    "latest": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "mais recentes"
+        }
+    ],
+    "guyana": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Guiana"
+        }
+    ],
+    "newest": [
+        {
+            "comment": "",
+            "pos": "adjective",
+            "translation": "mais recente"
+        }
+    ],
+    "kuwait": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Kuaite"
+        }
+    ],
+    "enable": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "iniciar"
+            "translation": "ativar"
         }
     ],
-    "check": [
+    "jordan": [
         {
-            "comment": "ou conferir (conforme contexto)",
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Jord\u00e2nia"
+        }
+    ],
+    "pixels": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "p\u00edxeis"
+        }
+    ],
+    "rating": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "classifica\u00e7\u00e3o"
+        }
+    ],
+    "israel": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Israel"
+        }
+    ],
+    "please": [
+        {
+            "comment": "n\u00e3o traduzir (n\u00e3o pedir por favor ao usu\u00e1rio)",
+            "pos": "noun",
+            "translation": ""
+        }
+    ],
+    "plugin": [
+        {
+            "comment": "sem h\u00ed\u00adfen",
+            "pos": "noun",
+            "translation": "plugin"
+        }
+    ],
+    "poland": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Pol\u00f4nia"
+        }
+    ],
+    "guinea": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Guin\u00e9"
+        }
+    ],
+    "greece": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Gr\u00e9cia"
+        }
+    ],
+    "header": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "cabe\u00e7alho"
+        }
+    ],
+    "manage": [
+        {
+            "comment": "",
             "pos": "verb",
-            "translation": "marcar"
+            "translation": "gerenciar"
+        }
+    ],
+    "haiti": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Haiti"
+        }
+    ],
+    "sudan": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Sud\u00e3o"
+        }
+    ],
+    "malta": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Malta"
+        }
+    ],
+    "nepal": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Nepal"
+        }
+    ],
+    "benin": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Benim"
+        }
+    ],
+    "nauru": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Nauru"
+        }
+    ],
+    "libya": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "L\u00edbia"
         }
     ],
     "trash": [
         {
-            "comment": "Lixo (objeto exclu\u00c3\u00addo).Lixeira (local onde os objetos s\u00c3\u00a3o exclu\u00c3\u00addos)",
+            "comment": "Lixo (objeto exclu\u00eddo).Lixeira (local onde os objetos s\u00e3o exclu\u00eddos)",
             "pos": "noun",
             "translation": "lixeira"
         }
     ],
-    "query": [
+    "gabon": [
         {
-            "comment": "",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "consulta"
+            "translation": "Gab\u00e3o"
         }
     ],
-    "debug": [
+    "tonga": [
         {
-            "comment": "Derivados devem seguir a mesma tradu\u00c3\u00a7\u00c3\u00a3o, ex: debugging (n) - depura\u00c3\u00a7\u00c3\u00a3o",
-            "pos": "verb",
-            "translation": "depurar"
-        }
-    ],
-    "entry": [
-        {
-            "comment": "ou entrada conforme o contexto",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "post"
+            "translation": "Tonga"
         }
     ],
-    "array": [
+    "syria": [
         {
-            "comment": "Termo de programa\u00c3\u00a7\u00c3\u00a3o, n\u00c3\u00a3o traduzir",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "array"
+            "translation": "S\u00edria"
         }
     ],
-    "aside": [
+    "march": [
         {
-            "comment": "Post format - formato de post",
+            "comment": "m\u00eas",
             "pos": "noun",
-            "translation": "nota"
+            "translation": "mar\u00e7o"
         }
     ],
-    "frame": [
+    "ghana": [
         {
-            "comment": "",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "frame"
-        }
-    ],
-    "write": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "gravar"
+            "translation": "Gana"
         }
     ],
     "batch": [
@@ -1148,11 +2401,18 @@
             "translation": "coletar"
         }
     ],
-    "saved": [
+    "niger": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "N\u00edger"
+        }
+    ],
+    "frame": [
         {
             "comment": "",
-            "pos": "verb",
-            "translation": "salvo"
+            "pos": "noun",
+            "translation": "frame"
         }
     ],
     "feeds": [
@@ -1162,27 +2422,6 @@
             "translation": "feeds"
         }
     ],
-    "enter": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "digite"
-        }
-    ],
-    "embed": [
-        {
-            "comment": "",
-            "pos": "expression",
-            "translation": "m\u00c3\u00addia incorporada"
-        }
-    ],
-    "pixel": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "p\u00c3\u00adxel"
-        }
-    ],
     "email": [
         {
             "comment": "Com hifen, academia brasileira de letras reconhece apenas desta forma.",
@@ -1190,18 +2429,95 @@
             "translation": "e-mail"
         }
     ],
-    "clean": [
+    "april": [
         {
-            "comment": "Ex: a clean theme, um tema simples.",
-            "pos": "adjective",
-            "translation": "simples"
+            "comment": "m\u00eas",
+            "pos": "noun",
+            "translation": "abril"
         }
     ],
-    "draft": [
+    "pixel": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "rascunho"
+            "translation": "p\u00edxel"
+        }
+    ],
+    "debug": [
+        {
+            "comment": "Derivados devem seguir a mesma tradu\u00e7\u00e3o, ex: debugging (n) - depura\u00e7\u00e3o",
+            "pos": "verb",
+            "translation": "depurar"
+        }
+    ],
+    "embed": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "m\u00eddia incorporada"
+        }
+    ],
+    "japan": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Jap\u00e3o"
+        }
+    ],
+    "india": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "\u00cdndia"
+        }
+    ],
+    "saved": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "salvo"
+        }
+    ],
+    "check": [
+        {
+            "comment": "ou conferir (conforme contexto)",
+            "pos": "verb",
+            "translation": "marcar"
+        }
+    ],
+    "italy": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "It\u00e1lia"
+        }
+    ],
+    "qatar": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Catar"
+        }
+    ],
+    "query": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "consulta"
+        }
+    ],
+    "samoa": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Samoa"
+        }
+    ],
+    "egypt": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Egito"
         }
     ],
     "reset": [
@@ -1211,6 +2527,76 @@
             "translation": "redefinir"
         }
     ],
+    "draft": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "rascunho"
+        }
+    ],
+    "yemen": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "I\u00eamen"
+        }
+    ],
+    "spain": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Espanha"
+        }
+    ],
+    "write": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "gravar"
+        }
+    ],
+    "enter": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "digite"
+        }
+    ],
+    "start": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "iniciar"
+        }
+    ],
+    "chile": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Chile"
+        }
+    ],
+    "wales": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Pa\u00eds de Gales"
+        }
+    ],
+    "china": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "China"
+        }
+    ],
+    "clean": [
+        {
+            "comment": "Ex: a clean theme, um tema simples.",
+            "pos": "adjective",
+            "translation": "simples"
+        }
+    ],
     "clear": [
         {
             "comment": "",
@@ -1218,72 +2604,32 @@
             "translation": "liberar"
         }
     ],
-    "tile": [
+    "kenya": [
         {
-            "comment": "",
-            "pos": "verb",
-            "translation": "repetir"
-        }
-    ],
-    "chat": [
-        {
-            "comment": "",
+            "comment": "pa\u00eds",
             "pos": "noun",
-            "translation": "bate-papo"
+            "translation": "Qu\u00eania"
         }
     ],
-    "then": [
+    "aside": [
         {
-            "comment": "",
-            "pos": "interjection",
-            "translation": "ent\u00c3\u00a3o"
-        }
-    ],
-    "view": [
-        {
-            "comment": "",
+            "comment": "Post format - formato de post",
             "pos": "noun",
-            "translation": "visualiza\u00c3\u00a7\u00c3\u00a3o"
-        },
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "ver"
+            "translation": "nota"
         }
     ],
-    "save": [
+    "array": [
         {
-            "comment": "",
-            "pos": "verb",
-            "translation": "salvar"
-        }
-    ],
-    "team": [
-        {
-            "comment": "Ex: WordPress team - Equipe do WordPress",
+            "comment": "Termo de programa\u00e7\u00e3o, n\u00e3o traduzir",
             "pos": "noun",
-            "translation": "equipe"
+            "translation": "array"
         }
     ],
-    "role": [
+    "entry": [
         {
-            "comment": "",
+            "comment": "ou entrada conforme o contexto",
             "pos": "noun",
-            "translation": "fun\u00c3\u00a7\u00c3\u00a3o"
-        }
-    ],
-    "hold": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "reter"
-        }
-    ],
-    "held": [
-        {
-            "comment": "",
-            "pos": "verb",
-            "translation": "retido"
+            "translation": "post"
         }
     ],
     "loop": [
@@ -1298,25 +2644,100 @@
             "translation": "fazer loop"
         }
     ],
-    "font": [
+    "june": [
+        {
+            "comment": "m\u00eas",
+            "pos": "noun",
+            "translation": "junho"
+        }
+    ],
+    "logo": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "fonte"
+            "translation": "logo"
         }
     ],
-    "flip": [
+    "hold": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "virar"
+            "translation": "reter"
         }
     ],
-    "oops": [
+    "laos": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Laos"
+        }
+    ],
+    "july": [
+        {
+            "comment": "m\u00eas",
+            "pos": "noun",
+            "translation": "julho"
+        }
+    ],
+    "view": [
         {
             "comment": "",
-            "pos": "expression",
-            "translation": "Opa"
+            "pos": "noun",
+            "translation": "visualiza\u00e7\u00e3o"
+        },
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "ver"
+        }
+    ],
+    "held": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "retido"
+        }
+    ],
+    "iraq": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Iraque"
+        }
+    ],
+    "mali": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "M\u00e1li"
+        }
+    ],
+    "togo": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Togo"
+        }
+    ],
+    "done": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "conclu\u00eddo"
+        }
+    ],
+    "save": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "salvar"
+        }
+    ],
+    "scan": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "examinar"
         }
     ],
     "post": [
@@ -1331,25 +2752,25 @@
             "translation": "publicar"
         }
     ],
-    "done": [
+    "peru": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Peru"
+        }
+    ],
+    "cuba": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Cuba"
+        }
+    ],
+    "crop": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "conclu\u00c3\u00addo"
-        }
-    ],
-    "logo": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "logo"
-        }
-    ],
-    "scan": [
-        {
-            "comment": "",
-            "pos": "noun",
-            "translation": "examinar"
+            "translation": "recortar"
         }
     ],
     "show": [
@@ -1359,11 +2780,32 @@
             "translation": "mostrar"
         }
     ],
+    "core": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "arquivos b\u00e1sicos"
+        }
+    ],
+    "oops": [
+        {
+            "comment": "",
+            "pos": "expression",
+            "translation": "Opa"
+        }
+    ],
     "slug": [
         {
             "comment": "masculino",
             "pos": "noun",
             "translation": "slug"
+        }
+    ],
+    "oman": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Om\u00e3"
         }
     ],
     "soon": [
@@ -1375,37 +2817,86 @@
     ],
     "spam": [
         {
-            "comment": "em min\u00c3\u00basculas",
+            "comment": "em min\u00fasculas",
             "pos": "noun",
             "translation": "spam"
         }
     ],
-    "crop": [
+    "chat": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "bate-papo"
+        }
+    ],
+    "chad": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Chade"
+        }
+    ],
+    "fiji": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Fiji"
+        }
+    ],
+    "flip": [
         {
             "comment": "",
             "pos": "verb",
-            "translation": "recortar"
+            "translation": "virar"
         }
     ],
-    "core": [
+    "font": [
         {
             "comment": "",
             "pos": "noun",
-            "translation": "arquivos b\u00c3\u00a1sicos"
+            "translation": "fonte"
         }
     ],
-    "tag": [
+    "role": [
         {
-            "comment": "feminino",
+            "comment": "",
             "pos": "noun",
-            "translation": "tag"
+            "translation": "fun\u00e7\u00e3o"
         }
     ],
-    "url": [
+    "team": [
         {
-            "comment": "masculino",
+            "comment": "Ex: WordPress team - Equipe do WordPress",
             "pos": "noun",
-            "translation": "URL"
+            "translation": "equipe"
+        }
+    ],
+    "then": [
+        {
+            "comment": "",
+            "pos": "interjection",
+            "translation": "ent\u00e3o"
+        }
+    ],
+    "tile": [
+        {
+            "comment": "",
+            "pos": "verb",
+            "translation": "repetir"
+        }
+    ],
+    "iran": [
+        {
+            "comment": "pa\u00eds",
+            "pos": "noun",
+            "translation": "Ir\u00e3"
+        }
+    ],
+    "tab": [
+        {
+            "comment": "",
+            "pos": "noun",
+            "translation": "aba"
         }
     ],
     "log": [
@@ -1415,11 +2906,25 @@
             "translation": "resumo"
         }
     ],
-    "tab": [
+    "url": [
         {
-            "comment": "",
+            "comment": "masculino",
             "pos": "noun",
-            "translation": "aba"
+            "translation": "URL"
+        }
+    ],
+    "tag": [
+        {
+            "comment": "feminino",
+            "pos": "noun",
+            "translation": "tag"
+        }
+    ],
+    "may": [
+        {
+            "comment": "m\u00eas",
+            "pos": "noun",
+            "translation": "maio"
         }
     ],
     "id": [

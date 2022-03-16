@@ -62,6 +62,7 @@ $glossaries['uk']    = go_download_glotdict('uk',    "https://translate.wordpres
 $glossaries['vi']    = go_download_glotdict('vi',    "https://translate.wordpress.org/locale/vi/default/glossary");
 
 file_put_contents( $glossary_file_list , str_replace('\/','/',json_encode( $glossaries, JSON_PRETTY_PRINT )) );
+$time = @date('d/m/Y');
 
 function go_download_glotdict($locale, $url, $do_encode=false) {
     global $path, $glossary_list;

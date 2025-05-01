@@ -53,6 +53,7 @@ $glossaries['pt']    = go_download_glotdict('pt',    "https://translate.wordpres
 $glossaries['pt_BR'] = go_download_glotdict('pt_BR', "https://translate.wordpress.org/locale/pt-br/default/glossary");
 $glossaries['pl_PL'] = go_download_glotdict('pl_PL', "https://translate.wordpress.org/locale/pl/default/glossary");
 $glossaries['ro_RO'] = go_download_glotdict('ro_RO', "https://translate.wordpress.org/locale/ro/default/glossary", true);
+$glossaries['ru_RU'] = go_download_glotdict('ru_RU', "https://translate.wordpress.org/locale/ru/default/glossary", true);
 $glossaries['sk']    = go_download_glotdict('sk',    "https://translate.wordpress.org/locale/sk/default/glossary");
 $glossaries['sr']    = go_download_glotdict('sr',    "https://translate.wordpress.org/locale/sr/default/glossary");
 $glossaries['sv_SE'] = go_download_glotdict('sv_SE', "https://translate.wordpress.org/locale/sv/default/glossary");
